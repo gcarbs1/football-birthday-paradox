@@ -1,0 +1,2269 @@
+game_id,brasileirao_season,round,date,home_team,away_team,shared_birthday_dates,birthday_pairs,largest_birthday_group,has_shared_birthday
+3392037,2020,1,2020-08-09,CR Flamengo,Clube Atlético Mineiro,0,0,0,False
+3392040,2020,1,2020-08-09,Santos FC,Red Bull Bragantino,1,1,2,True
+3392043,2020,1,2020-08-09,Sport Club do Recife,Ceará Sporting Club,2,2,2,True
+3392044,2020,1,2020-08-09,Coritiba Foot Ball Club,Sport Club Internacional,0,0,0,False
+3392042,2020,1,2020-08-10,Grêmio Foot-Ball Porto Alegrense,Fluminense Football Club,1,1,2,True
+3392045,2020,1,2020-08-10,Fortaleza Esporte Clube,Club Athletico Paranaense,2,4,3,True
+3392038,2020,1,2020-10-01,Botafogo de Futebol e Regatas,Esporte Clube Bahia,0,0,0,False
+3417542,2020,1,2020-10-01,Sport Club Corinthians Paulista,Atlético Clube Goianiense,1,1,2,True
+3392046,2020,1,2020-12-03,Goiás EC,São Paulo Futebol Clube,0,0,0,False
+3417541,2020,1,2021-01-27,Sociedade Esportiva Palmeiras,Clube de Regatas Vasco da Gama,1,1,2,True
+3411140,2020,2,2020-08-12,Clube Atlético Mineiro,Sport Club Corinthians Paulista,1,1,2,True
+3411141,2020,2,2020-08-12,Club Athletico Paranaense,Goiás EC,2,2,2,True
+3411142,2020,2,2020-08-12,Red Bull Bragantino,Botafogo de Futebol e Regatas,0,0,0,False
+3411144,2020,2,2020-08-12,Atlético Clube Goianiense,CR Flamengo,0,0,0,False
+3411143,2020,2,2020-08-13,Esporte Clube Bahia,Coritiba Foot Ball Club,1,1,2,True
+3411145,2020,2,2020-08-13,Fluminense Football Club,Sociedade Esportiva Palmeiras,1,1,2,True
+3411146,2020,2,2020-08-13,Ceará Sporting Club,Grêmio Foot-Ball Porto Alegrense,0,0,0,False
+3411147,2020,2,2020-08-14,São Paulo Futebol Clube,Fortaleza Esporte Clube,1,1,2,True
+3411148,2020,2,2020-08-14,Sport Club Internacional,Santos FC,1,1,2,True
+3411149,2020,2,2020-08-14,Clube de Regatas Vasco da Gama,Sport Club do Recife,0,0,0,False
+3416078,2020,3,2020-08-16,Grêmio Foot-Ball Porto Alegrense,Sport Club Corinthians Paulista,0,0,0,False
+3416079,2020,3,2020-08-16,Coritiba Foot Ball Club,CR Flamengo,1,1,2,True
+3416080,2020,3,2020-08-16,Sociedade Esportiva Palmeiras,Goiás EC,0,0,0,False
+3416081,2020,3,2020-08-16,Clube Atlético Mineiro,Ceará Sporting Club,1,1,2,True
+3416082,2020,3,2020-08-16,Clube de Regatas Vasco da Gama,São Paulo Futebol Clube,1,1,2,True
+3416083,2020,3,2020-08-16,Esporte Clube Bahia,Red Bull Bragantino,0,0,0,False
+3416084,2020,3,2020-08-16,Fluminense Football Club,Sport Club Internacional,2,2,2,True
+3416085,2020,3,2020-08-17,Atlético Clube Goianiense,Sport Club do Recife,0,0,0,False
+3416086,2020,3,2020-08-17,Fortaleza Esporte Clube,Botafogo de Futebol e Regatas,0,0,0,False
+3416087,2020,3,2020-08-17,Santos FC,Club Athletico Paranaense,1,1,2,True
+3416217,2020,4,2020-08-20,CR Flamengo,Grêmio Foot-Ball Porto Alegrense,0,0,0,False
+3416218,2020,4,2020-08-20,Red Bull Bragantino,Fluminense Football Club,1,1,2,True
+3416219,2020,4,2020-08-20,Club Athletico Paranaense,Sociedade Esportiva Palmeiras,0,0,0,False
+3416220,2020,4,2020-08-20,Sport Club Internacional,Atlético Clube Goianiense,0,0,0,False
+3416221,2020,4,2020-08-20,Goiás EC,Fortaleza Esporte Clube,0,0,0,False
+3416222,2020,4,2020-08-20,Botafogo de Futebol e Regatas,Clube Atlético Mineiro,1,1,2,True
+3416223,2020,4,2020-08-20,Sport Club Corinthians Paulista,Coritiba Foot Ball Club,0,0,0,False
+3416224,2020,4,2020-08-21,Sport Club do Recife,Santos FC,0,0,0,False
+3416225,2020,4,2020-08-21,São Paulo Futebol Clube,Esporte Clube Bahia,0,0,0,False
+3416226,2020,4,2020-08-21,Ceará Sporting Club,Clube de Regatas Vasco da Gama,1,3,3,True
+3416099,2020,5,2020-08-22,Club Athletico Paranaense,Fluminense Football Club,2,2,2,True
+3416101,2020,5,2020-08-23,Sport Club Internacional,Clube Atlético Mineiro,2,2,2,True
+3416102,2020,5,2020-08-23,Goiás EC,Atlético Clube Goianiense,1,1,2,True
+3416103,2020,5,2020-08-23,CR Flamengo,Botafogo de Futebol e Regatas,0,0,0,False
+3416104,2020,5,2020-08-23,Clube de Regatas Vasco da Gama,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+3416105,2020,5,2020-08-23,Sociedade Esportiva Palmeiras,Santos FC,0,0,0,False
+3416106,2020,5,2020-08-23,Red Bull Bragantino,Coritiba Foot Ball Club,0,0,0,False
+3416107,2020,5,2020-08-24,Ceará Sporting Club,Esporte Clube Bahia,0,0,0,False
+3416108,2020,5,2020-08-24,Sport Club do Recife,São Paulo Futebol Clube,0,0,0,False
+3416100,2020,5,2020-08-27,Sport Club Corinthians Paulista,Fortaleza Esporte Clube,1,1,2,True
+3416109,2020,6,2020-08-29,Botafogo de Futebol e Regatas,Sport Club Internacional,1,1,2,True
+3416110,2020,6,2020-08-30,Fluminense Football Club,Clube de Regatas Vasco da Gama,1,1,2,True
+3416111,2020,6,2020-08-30,Esporte Clube Bahia,Sociedade Esportiva Palmeiras,0,0,0,False
+3416112,2020,6,2020-08-30,Atlético Clube Goianiense,Ceará Sporting Club,0,0,0,False
+3416113,2020,6,2020-08-30,São Paulo Futebol Clube,Sport Club Corinthians Paulista,1,1,2,True
+3416114,2020,6,2020-08-30,Santos FC,CR Flamengo,0,0,0,False
+3416115,2020,6,2020-08-30,Coritiba Foot Ball Club,Sport Club do Recife,0,0,0,False
+3416116,2020,6,2020-08-30,Fortaleza Esporte Clube,Red Bull Bragantino,2,2,2,True
+3417543,2020,6,2020-11-18,Clube Atlético Mineiro,Club Athletico Paranaense,0,0,0,False
+3417544,2020,6,2020-11-30,Grêmio Foot-Ball Porto Alegrense,Goiás EC,0,0,0,False
+3416119,2020,7,2020-09-03,Ceará Sporting Club,Fortaleza Esporte Clube,2,2,2,True
+3416120,2020,7,2020-09-03,Goiás EC,Sport Club Corinthians Paulista,0,0,0,False
+3416121,2020,7,2020-09-03,Fluminense Football Club,Atlético Clube Goianiense,0,0,0,False
+3416122,2020,7,2020-09-03,Botafogo de Futebol e Regatas,Coritiba Foot Ball Club,0,0,0,False
+3416123,2020,7,2020-09-03,Club Athletico Paranaense,Red Bull Bragantino,2,2,2,True
+3416124,2020,7,2020-09-03,Sociedade Esportiva Palmeiras,Sport Club Internacional,1,1,2,True
+3416125,2020,7,2020-09-03,Santos FC,Clube de Regatas Vasco da Gama,1,1,2,True
+3416127,2020,7,2020-09-03,Esporte Clube Bahia,CR Flamengo,0,0,0,False
+3416126,2020,7,2020-09-04,Grêmio Foot-Ball Porto Alegrense,Sport Club do Recife,0,0,0,False
+3416128,2020,7,2020-09-04,Clube Atlético Mineiro,São Paulo Futebol Clube,2,4,3,True
+3416135,2020,8,2020-09-05,CR Flamengo,Fortaleza Esporte Clube,1,1,2,True
+3416129,2020,8,2020-09-06,Clube de Regatas Vasco da Gama,Club Athletico Paranaense,0,0,0,False
+3416130,2020,8,2020-09-06,Sport Club Corinthians Paulista,Botafogo de Futebol e Regatas,1,1,2,True
+3416131,2020,8,2020-09-06,Ceará Sporting Club,Santos FC,0,0,0,False
+3416132,2020,8,2020-09-06,Red Bull Bragantino,Sociedade Esportiva Palmeiras,0,0,0,False
+3416133,2020,8,2020-09-06,São Paulo Futebol Clube,Fluminense Football Club,2,2,2,True
+3416134,2020,8,2020-09-06,Sport Club Internacional,Esporte Clube Bahia,1,1,2,True
+3416136,2020,8,2020-09-07,Atlético Clube Goianiense,Grêmio Foot-Ball Porto Alegrense,0,0,0,False
+3416137,2020,8,2020-09-07,Sport Club do Recife,Goiás EC,0,0,0,False
+3416138,2020,8,2020-09-07,Coritiba Foot Ball Club,Clube Atlético Mineiro,1,1,2,True
+3416163,2020,9,2020-09-09,Goiás EC,Coritiba Foot Ball Club,1,1,2,True
+3416166,2020,9,2020-09-09,Club Athletico Paranaense,Botafogo de Futebol e Regatas,1,1,2,True
+3416171,2020,9,2020-09-09,Fortaleza Esporte Clube,Sport Club do Recife,1,1,2,True
+3416164,2020,9,2020-09-10,São Paulo Futebol Clube,Red Bull Bragantino,0,0,0,False
+3416167,2020,9,2020-09-10,Fluminense Football Club,CR Flamengo,0,0,0,False
+3416168,2020,9,2020-09-10,Santos FC,Clube Atlético Mineiro,1,1,2,True
+3416165,2020,9,2020-09-11,Sport Club Internacional,Ceará Sporting Club,1,1,2,True
+3416169,2020,9,2020-09-11,Sport Club Corinthians Paulista,Sociedade Esportiva Palmeiras,1,1,2,True
+3416170,2020,9,2020-09-11,Esporte Clube Bahia,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+3416172,2020,9,2020-09-11,Clube de Regatas Vasco da Gama,Atlético Clube Goianiense,2,2,2,True
+3416237,2020,10,2020-09-12,Club Athletico Paranaense,Coritiba Foot Ball Club,0,0,0,False
+3416235,2020,10,2020-09-13,Santos FC,São Paulo Futebol Clube,0,0,0,False
+3416236,2020,10,2020-09-13,Ceará Sporting Club,CR Flamengo,2,2,2,True
+3416238,2020,10,2020-09-13,Clube Atlético Mineiro,Red Bull Bragantino,0,0,0,False
+3416239,2020,10,2020-09-13,Fluminense Football Club,Sport Club Corinthians Paulista,0,0,0,False
+3416240,2020,10,2020-09-13,Grêmio Foot-Ball Porto Alegrense,Fortaleza Esporte Clube,2,2,2,True
+3416241,2020,10,2020-09-13,Goiás EC,Sport Club Internacional,1,1,2,True
+3416244,2020,10,2020-09-13,Esporte Clube Bahia,Atlético Clube Goianiense,0,0,0,False
+3416242,2020,10,2020-09-14,Botafogo de Futebol e Regatas,Clube de Regatas Vasco da Gama,0,0,0,False
+3416243,2020,10,2020-09-14,Sociedade Esportiva Palmeiras,Sport Club do Recife,0,0,0,False
+3417533,2020,11,2020-08-27,São Paulo Futebol Clube,Club Athletico Paranaense,0,0,0,False
+3417535,2020,11,2020-09-17,Sport Club Corinthians Paulista,Esporte Clube Bahia,1,1,2,True
+3417532,2020,11,2020-09-20,Botafogo de Futebol e Regatas,Santos FC,0,0,0,False
+3417534,2020,11,2020-09-20,Red Bull Bragantino,Ceará Sporting Club,0,0,0,False
+3417536,2020,11,2020-09-20,Grêmio Foot-Ball Porto Alegrense,Sociedade Esportiva Palmeiras,0,0,0,False
+3417538,2020,11,2020-09-20,Coritiba Foot Ball Club,Clube de Regatas Vasco da Gama,1,1,2,True
+3417539,2020,11,2020-09-20,Fortaleza Esporte Clube,Sport Club Internacional,1,1,2,True
+3417540,2020,11,2020-09-20,Atlético Clube Goianiense,Clube Atlético Mineiro,1,1,2,True
+3417537,2020,11,2020-09-21,Sport Club do Recife,Fluminense Football Club,0,0,0,False
+3417531,2020,11,2020-10-13,CR Flamengo,Goiás EC,1,1,2,True
+3417551,2020,12,2020-09-24,Sport Club do Recife,Sport Club Corinthians Paulista,0,0,0,False
+3417546,2020,12,2020-09-27,Clube de Regatas Vasco da Gama,Red Bull Bragantino,0,0,0,False
+3417547,2020,12,2020-09-27,Sociedade Esportiva Palmeiras,CR Flamengo,0,0,0,False
+3417549,2020,12,2020-09-27,Clube Atlético Mineiro,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+3417550,2020,12,2020-09-27,Sport Club Internacional,São Paulo Futebol Clube,1,1,2,True
+3417552,2020,12,2020-09-27,Club Athletico Paranaense,Esporte Clube Bahia,2,2,2,True
+3417553,2020,12,2020-09-27,Ceará Sporting Club,Goiás EC,1,1,2,True
+3417554,2020,12,2020-09-27,Atlético Clube Goianiense,Botafogo de Futebol e Regatas,0,0,0,False
+3417548,2020,12,2020-09-28,Santos FC,Fortaleza Esporte Clube,1,1,2,True
+3417545,2020,12,2020-09-29,Fluminense Football Club,Coritiba Foot Ball Club,1,1,2,True
+3417560,2020,13,2020-10-03,Grêmio Foot-Ball Porto Alegrense,Sport Club Internacional,1,1,2,True
+3417555,2020,13,2020-10-04,CR Flamengo,Club Athletico Paranaense,1,1,2,True
+3417556,2020,13,2020-10-04,Botafogo de Futebol e Regatas,Fluminense Football Club,0,0,0,False
+3417557,2020,13,2020-10-04,Sociedade Esportiva Palmeiras,Ceará Sporting Club,3,3,2,True
+3417558,2020,13,2020-10-04,Red Bull Bragantino,Sport Club Corinthians Paulista,0,0,0,False
+3417561,2020,13,2020-10-04,Esporte Clube Bahia,Sport Club do Recife,0,0,0,False
+3417562,2020,13,2020-10-04,Coritiba Foot Ball Club,São Paulo Futebol Clube,0,0,0,False
+3417563,2020,13,2020-10-04,Fortaleza Esporte Clube,Atlético Clube Goianiense,1,1,2,True
+3417564,2020,13,2020-10-04,Goiás EC,Santos FC,1,1,2,True
+3417559,2020,13,2020-10-05,Clube Atlético Mineiro,Clube de Regatas Vasco da Gama,0,0,0,False
+3417565,2020,14,2020-10-08,CR Flamengo,Sport Club do Recife,2,2,2,True
+3417566,2020,14,2020-10-08,Botafogo de Futebol e Regatas,Sociedade Esportiva Palmeiras,0,0,0,False
+3417567,2020,14,2020-10-08,São Paulo Futebol Clube,Atlético Clube Goianiense,0,0,0,False
+3417569,2020,14,2020-10-08,Sport Club Corinthians Paulista,Santos FC,0,0,0,False
+3417570,2020,14,2020-10-08,Grêmio Foot-Ball Porto Alegrense,Coritiba Foot Ball Club,0,0,0,False
+3417571,2020,14,2020-10-08,Esporte Clube Bahia,Clube de Regatas Vasco da Gama,2,2,2,True
+3417573,2020,14,2020-10-08,Fortaleza Esporte Clube,Clube Atlético Mineiro,0,0,0,False
+3417574,2020,14,2020-10-08,Goiás EC,Fluminense Football Club,2,2,2,True
+3417568,2020,14,2020-10-09,Red Bull Bragantino,Sport Club Internacional,2,2,2,True
+3417572,2020,14,2020-10-09,Club Athletico Paranaense,Ceará Sporting Club,1,1,2,True
+3417576,2020,15,2020-10-10,Clube de Regatas Vasco da Gama,CR Flamengo,1,1,2,True
+3417575,2020,15,2020-10-11,Fluminense Football Club,Esporte Clube Bahia,1,1,2,True
+3417577,2020,15,2020-10-11,Sociedade Esportiva Palmeiras,São Paulo Futebol Clube,0,0,0,False
+3417578,2020,15,2020-10-11,Santos FC,Grêmio Foot-Ball Porto Alegrense,0,0,0,False
+3417579,2020,15,2020-10-11,Clube Atlético Mineiro,Goiás EC,0,0,0,False
+3417581,2020,15,2020-10-11,Sport Club do Recife,Botafogo de Futebol e Regatas,0,0,0,False
+3417582,2020,15,2020-10-11,Coritiba Foot Ball Club,Fortaleza Esporte Clube,1,3,3,True
+3417584,2020,15,2020-10-11,Atlético Clube Goianiense,Red Bull Bragantino,0,0,0,False
+3417580,2020,15,2020-10-12,Sport Club Internacional,Club Athletico Paranaense,1,1,2,True
+3417583,2020,15,2020-10-12,Ceará Sporting Club,Sport Club Corinthians Paulista,2,2,2,True
+3417587,2020,16,2020-10-14,Sociedade Esportiva Palmeiras,Coritiba Foot Ball Club,2,2,2,True
+3417588,2020,16,2020-10-15,Santos FC,Atlético Clube Goianiense,0,0,0,False
+3417589,2020,16,2020-10-15,Clube Atlético Mineiro,Fluminense Football Club,1,1,2,True
+3417590,2020,16,2020-10-15,Grêmio Foot-Ball Porto Alegrense,Botafogo de Futebol e Regatas,1,1,2,True
+3417591,2020,16,2020-10-15,Sport Club do Recife,Sport Club Internacional,1,1,2,True
+3417592,2020,16,2020-10-15,Club Athletico Paranaense,Sport Club Corinthians Paulista,1,1,2,True
+3417585,2020,16,2020-10-16,CR Flamengo,Red Bull Bragantino,1,1,2,True
+3417594,2020,16,2020-10-17,Goiás EC,Esporte Clube Bahia,1,1,2,True
+3417586,2020,16,2020-11-19,Clube de Regatas Vasco da Gama,Fortaleza Esporte Clube,0,0,0,False
+3417593,2020,16,2020-11-25,Ceará Sporting Club,São Paulo Futebol Clube,0,0,0,False
+3417595,2020,17,2020-10-18,Fluminense Football Club,Ceará Sporting Club,1,1,2,True
+3417597,2020,17,2020-10-18,São Paulo Futebol Clube,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+3417599,2020,17,2020-10-18,Sport Club Corinthians Paulista,CR Flamengo,3,3,2,True
+3417600,2020,17,2020-10-18,Sport Club Internacional,Clube de Regatas Vasco da Gama,2,2,2,True
+3417602,2020,17,2020-10-18,Coritiba Foot Ball Club,Santos FC,0,0,0,False
+3417604,2020,17,2020-10-18,Atlético Clube Goianiense,Club Athletico Paranaense,0,0,0,False
+3417598,2020,17,2020-10-19,Red Bull Bragantino,Sport Club do Recife,3,3,2,True
+3417603,2020,17,2020-10-19,Fortaleza Esporte Clube,Sociedade Esportiva Palmeiras,1,1,2,True
+3417596,2020,17,2020-10-20,Botafogo de Futebol e Regatas,Goiás EC,0,0,0,False
+3417601,2020,17,2020-10-20,Esporte Clube Bahia,Clube Atlético Mineiro,1,1,2,True
+3417606,2020,18,2020-10-22,Clube de Regatas Vasco da Gama,Sport Club Corinthians Paulista,0,0,0,False
+3417608,2020,18,2020-10-24,Red Bull Bragantino,Goiás EC,0,0,0,False
+3417605,2020,18,2020-10-25,Fluminense Football Club,Santos FC,1,1,2,True
+3417609,2020,18,2020-10-25,Clube Atlético Mineiro,Sport Club do Recife,0,0,0,False
+3417610,2020,18,2020-10-25,Sport Club Internacional,CR Flamengo,1,1,2,True
+3417612,2020,18,2020-10-25,Club Athletico Paranaense,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+3417613,2020,18,2020-10-25,Ceará Sporting Club,Coritiba Foot Ball Club,1,1,2,True
+3417614,2020,18,2020-10-25,Atlético Clube Goianiense,Sociedade Esportiva Palmeiras,0,0,0,False
+3417611,2020,18,2020-11-11,Esporte Clube Bahia,Fortaleza Esporte Clube,0,0,0,False
+3417607,2020,18,2020-12-10,São Paulo Futebol Clube,Botafogo de Futebol e Regatas,0,0,0,False
+3417616,2020,19,2020-10-31,Botafogo de Futebol e Regatas,Ceará Sporting Club,0,0,0,False
+3417619,2020,19,2020-10-31,Sport Club Corinthians Paulista,Sport Club Internacional,2,2,2,True
+3417622,2020,19,2020-10-31,Coritiba Foot Ball Club,Atlético Clube Goianiense,1,1,2,True
+3417615,2020,19,2020-11-01,CR Flamengo,São Paulo Futebol Clube,0,0,0,False
+3417618,2020,19,2020-11-01,Santos FC,Esporte Clube Bahia,0,0,0,False
+3417621,2020,19,2020-11-01,Sport Club do Recife,Club Athletico Paranaense,1,1,2,True
+3417623,2020,19,2020-11-01,Fortaleza Esporte Clube,Fluminense Football Club,1,1,2,True
+3417617,2020,19,2020-11-02,Sociedade Esportiva Palmeiras,Clube Atlético Mineiro,0,0,0,False
+3417624,2020,19,2020-11-02,Goiás EC,Clube de Regatas Vasco da Gama,0,0,0,False
+3417620,2020,19,2020-11-03,Grêmio Foot-Ball Porto Alegrense,Red Bull Bragantino,2,2,2,True
+3417631,2020,20,2020-11-07,Ceará Sporting Club,Sport Club do Recife,1,1,2,True
+3417633,2020,20,2020-11-07,Club Athletico Paranaense,Fortaleza Esporte Clube,1,1,2,True
+3417634,2020,20,2020-11-07,São Paulo Futebol Clube,Goiás EC,1,1,2,True
+3417625,2020,20,2020-11-08,Clube Atlético Mineiro,CR Flamengo,1,1,2,True
+3417626,2020,20,2020-11-08,Esporte Clube Bahia,Botafogo de Futebol e Regatas,0,0,0,False
+3417627,2020,20,2020-11-08,Clube de Regatas Vasco da Gama,Sociedade Esportiva Palmeiras,1,1,2,True
+3417628,2020,20,2020-11-08,Red Bull Bragantino,Santos FC,2,2,2,True
+3417629,2020,20,2020-11-08,Atlético Clube Goianiense,Sport Club Corinthians Paulista,1,1,2,True
+3417632,2020,20,2020-11-08,Sport Club Internacional,Coritiba Foot Ball Club,1,1,2,True
+3417630,2020,20,2020-11-09,Fluminense Football Club,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+3417636,2020,21,2020-11-14,Sport Club do Recife,Clube de Regatas Vasco da Gama,0,0,0,False
+3417637,2020,21,2020-11-14,Fortaleza Esporte Clube,São Paulo Futebol Clube,0,0,0,False
+3417639,2020,21,2020-11-14,Sport Club Corinthians Paulista,Clube Atlético Mineiro,0,0,0,False
+3417640,2020,21,2020-11-14,Santos FC,Sport Club Internacional,1,1,2,True
+3417641,2020,21,2020-11-14,Coritiba Foot Ball Club,Esporte Clube Bahia,0,0,0,False
+3417642,2020,21,2020-11-14,Goiás EC,Club Athletico Paranaense,1,1,2,True
+3417643,2020,21,2020-11-14,Grêmio Foot-Ball Porto Alegrense,Ceará Sporting Club,2,2,2,True
+3417635,2020,21,2020-11-15,Sociedade Esportiva Palmeiras,Fluminense Football Club,0,0,0,False
+3417644,2020,21,2020-11-15,CR Flamengo,Atlético Clube Goianiense,2,2,2,True
+3417638,2020,21,2020-11-17,Botafogo de Futebol e Regatas,Red Bull Bragantino,0,0,0,False
+3417663,2020,22,2020-11-20,Red Bull Bragantino,Esporte Clube Bahia,0,0,0,False
+3417659,2020,22,2020-11-21,Club Athletico Paranaense,Santos FC,1,1,2,True
+3417665,2020,22,2020-11-21,CR Flamengo,Coritiba Foot Ball Club,1,1,2,True
+3417656,2020,22,2020-11-22,Sport Club Internacional,Fluminense Football Club,2,2,2,True
+3417657,2020,22,2020-11-22,São Paulo Futebol Clube,Clube de Regatas Vasco da Gama,0,0,0,False
+3417658,2020,22,2020-11-22,Goiás EC,Sociedade Esportiva Palmeiras,1,1,2,True
+3417660,2020,22,2020-11-22,Ceará Sporting Club,Clube Atlético Mineiro,0,0,0,False
+3417661,2020,22,2020-11-22,Sport Club Corinthians Paulista,Grêmio Foot-Ball Porto Alegrense,2,2,2,True
+3417667,2020,22,2020-11-22,Botafogo de Futebol e Regatas,Fortaleza Esporte Clube,1,1,2,True
+3417669,2020,22,2020-11-23,Sport Club do Recife,Atlético Clube Goianiense,0,0,0,False
+3417662,2020,23,2020-11-26,Clube Atlético Mineiro,Botafogo de Futebol e Regatas,2,2,2,True
+3417668,2020,23,2020-11-26,Coritiba Foot Ball Club,Sport Club Corinthians Paulista,0,0,0,False
+3417674,2020,23,2020-11-26,Fortaleza Esporte Clube,Goiás EC,2,2,2,True
+3417664,2020,23,2020-11-28,Esporte Clube Bahia,São Paulo Futebol Clube,0,0,0,False
+3417671,2020,23,2020-11-28,Santos FC,Sport Club do Recife,0,0,0,False
+3417672,2020,23,2020-11-28,Sociedade Esportiva Palmeiras,Club Athletico Paranaense,0,0,0,False
+3417670,2020,23,2020-11-29,Atlético Clube Goianiense,Sport Club Internacional,1,1,2,True
+3417666,2020,23,2020-11-30,Fluminense Football Club,Red Bull Bragantino,0,0,0,False
+3417673,2020,23,2020-11-30,Clube de Regatas Vasco da Gama,Ceará Sporting Club,1,1,2,True
+3417655,2020,23,2021-01-29,Grêmio Foot-Ball Porto Alegrense,CR Flamengo,0,0,0,False
+3417649,2020,24,2020-12-03,Fortaleza Esporte Clube,Sport Club Corinthians Paulista,1,1,2,True
+3417645,2020,24,2020-12-05,Botafogo de Futebol e Regatas,CR Flamengo,0,0,0,False
+3417647,2020,24,2020-12-05,Santos FC,Sociedade Esportiva Palmeiras,1,1,2,True
+3417652,2020,24,2020-12-05,Fluminense Football Club,Club Athletico Paranaense,2,2,2,True
+3417653,2020,24,2020-12-05,Esporte Clube Bahia,Ceará Sporting Club,0,0,0,False
+3417646,2020,24,2020-12-06,Grêmio Foot-Ball Porto Alegrense,Clube de Regatas Vasco da Gama,1,1,2,True
+3417648,2020,24,2020-12-06,Coritiba Foot Ball Club,Red Bull Bragantino,0,0,0,False
+3417650,2020,24,2020-12-06,Clube Atlético Mineiro,Sport Club Internacional,0,0,0,False
+3417651,2020,24,2020-12-06,São Paulo Futebol Clube,Sport Club do Recife,0,0,0,False
+3417654,2020,24,2020-12-07,Atlético Clube Goianiense,Goiás EC,0,0,0,False
+3417676,2020,25,2020-12-12,Sport Club Internacional,Botafogo de Futebol e Regatas,2,2,2,True
+3417679,2020,25,2020-12-12,Club Athletico Paranaense,Clube Atlético Mineiro,0,0,0,False
+3417681,2020,25,2020-12-12,Sociedade Esportiva Palmeiras,Esporte Clube Bahia,0,0,0,False
+3417683,2020,25,2020-12-12,Red Bull Bragantino,Fortaleza Esporte Clube,0,0,0,False
+3417677,2020,25,2020-12-13,Sport Club Corinthians Paulista,São Paulo Futebol Clube,0,0,0,False
+3417678,2020,25,2020-12-13,CR Flamengo,Santos FC,1,1,2,True
+3417680,2020,25,2020-12-13,Goiás EC,Grêmio Foot-Ball Porto Alegrense,0,0,0,False
+3417682,2020,25,2020-12-13,Sport Club do Recife,Coritiba Foot Ball Club,0,0,0,False
+3417684,2020,25,2020-12-13,Ceará Sporting Club,Atlético Clube Goianiense,1,1,2,True
+3417675,2020,25,2020-12-14,Clube de Regatas Vasco da Gama,Fluminense Football Club,1,1,2,True
+3417685,2020,26,2020-12-17,Atlético Clube Goianiense,Fluminense Football Club,0,0,0,False
+3417699,2020,26,2020-12-17,São Paulo Futebol Clube,Clube Atlético Mineiro,0,0,0,False
+3417700,2020,26,2020-12-19,Sport Club do Recife,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+3417696,2020,26,2020-12-20,Coritiba Foot Ball Club,Botafogo de Futebol e Regatas,1,1,2,True
+3417697,2020,26,2020-12-20,Sport Club Internacional,Sociedade Esportiva Palmeiras,2,2,2,True
+3417698,2020,26,2020-12-20,Clube de Regatas Vasco da Gama,Santos FC,3,3,2,True
+3417701,2020,26,2020-12-20,CR Flamengo,Esporte Clube Bahia,0,0,0,False
+3417702,2020,26,2020-12-20,Red Bull Bragantino,Club Athletico Paranaense,1,1,2,True
+3417703,2020,26,2020-12-20,Fortaleza Esporte Clube,Ceará Sporting Club,1,1,2,True
+3417704,2020,26,2020-12-21,Sport Club Corinthians Paulista,Goiás EC,0,0,0,False
+3417686,2020,27,2020-12-26,Fortaleza Esporte Clube,CR Flamengo,1,1,2,True
+3417692,2020,27,2020-12-26,Goiás EC,Sport Club do Recife,0,0,0,False
+3417693,2020,27,2020-12-26,Clube Atlético Mineiro,Coritiba Foot Ball Club,1,1,2,True
+3417687,2020,27,2020-12-27,Club Athletico Paranaense,Clube de Regatas Vasco da Gama,1,1,2,True
+3417688,2020,27,2020-12-27,Fluminense Football Club,São Paulo Futebol Clube,1,1,2,True
+3417689,2020,27,2020-12-27,Sociedade Esportiva Palmeiras,Red Bull Bragantino,0,0,0,False
+3417690,2020,27,2020-12-27,Botafogo de Futebol e Regatas,Sport Club Corinthians Paulista,1,1,2,True
+3417691,2020,27,2020-12-27,Esporte Clube Bahia,Sport Club Internacional,0,0,0,False
+3417694,2020,27,2020-12-27,Santos FC,Ceará Sporting Club,1,1,2,True
+3417695,2020,27,2020-12-27,Grêmio Foot-Ball Porto Alegrense,Atlético Clube Goianiense,0,0,0,False
+3417502,2020,28,2021-01-06,Botafogo de Futebol e Regatas,Club Athletico Paranaense,1,1,2,True
+3417506,2020,28,2021-01-06,Grêmio Foot-Ball Porto Alegrense,Esporte Clube Bahia,0,0,0,False
+3417507,2020,28,2021-01-06,Sport Club do Recife,Fortaleza Esporte Clube,0,0,0,False
+3417508,2020,28,2021-01-06,Coritiba Foot Ball Club,Goiás EC,1,1,2,True
+3417501,2020,28,2021-01-07,CR Flamengo,Fluminense Football Club,1,1,2,True
+3417504,2020,28,2021-01-07,Red Bull Bragantino,São Paulo Futebol Clube,0,0,0,False
+3417509,2020,28,2021-01-07,Ceará Sporting Club,Sport Club Internacional,3,3,2,True
+3417510,2020,28,2021-01-08,Atlético Clube Goianiense,Clube de Regatas Vasco da Gama,2,2,2,True
+3417503,2020,28,2021-01-18,Sociedade Esportiva Palmeiras,Sport Club Corinthians Paulista,0,0,0,False
+3417505,2020,28,2021-01-27,Clube Atlético Mineiro,Santos FC,0,0,0,False
+3417517,2020,29,2021-01-09,Sport Club do Recife,Sociedade Esportiva Palmeiras,0,0,0,False
+3417518,2020,29,2021-01-09,Coritiba Foot Ball Club,Club Athletico Paranaense,2,2,2,True
+3417511,2020,29,2021-01-10,CR Flamengo,Ceará Sporting Club,0,0,0,False
+3417512,2020,29,2021-01-10,Clube de Regatas Vasco da Gama,Botafogo de Futebol e Regatas,1,1,2,True
+3417513,2020,29,2021-01-10,São Paulo Futebol Clube,Santos FC,1,1,2,True
+3417516,2020,29,2021-01-10,Sport Club Internacional,Goiás EC,0,0,0,False
+3417519,2020,29,2021-01-10,Fortaleza Esporte Clube,Grêmio Foot-Ball Porto Alegrense,0,0,0,False
+3417520,2020,29,2021-01-10,Atlético Clube Goianiense,Esporte Clube Bahia,2,2,2,True
+3417514,2020,29,2021-01-11,Red Bull Bragantino,Clube Atlético Mineiro,0,0,0,False
+3417515,2020,29,2021-01-14,Sport Club Corinthians Paulista,Fluminense Football Club,1,1,2,True
+3417521,2020,30,2021-01-16,Fluminense Football Club,Sport Club do Recife,0,0,0,False
+3417523,2020,30,2021-01-16,Sociedade Esportiva Palmeiras,Grêmio Foot-Ball Porto Alegrense,0,0,0,False
+3417522,2020,30,2021-01-17,Clube de Regatas Vasco da Gama,Coritiba Foot Ball Club,0,0,0,False
+3417524,2020,30,2021-01-17,Santos FC,Botafogo de Futebol e Regatas,0,0,0,False
+3417525,2020,30,2021-01-17,Clube Atlético Mineiro,Atlético Clube Goianiense,1,1,2,True
+3417528,2020,30,2021-01-17,Club Athletico Paranaense,São Paulo Futebol Clube,3,3,2,True
+3417526,2020,30,2021-01-18,Sport Club Internacional,Fortaleza Esporte Clube,1,1,2,True
+3417529,2020,30,2021-01-18,Ceará Sporting Club,Red Bull Bragantino,0,0,0,False
+3417530,2020,30,2021-01-19,Goiás EC,CR Flamengo,1,1,2,True
+3417527,2020,30,2021-01-28,Esporte Clube Bahia,Sport Club Corinthians Paulista,0,0,0,False
+3417706,2020,31,2021-01-20,Botafogo de Futebol e Regatas,Atlético Clube Goianiense,0,0,0,False
+3417710,2020,31,2021-01-20,Grêmio Foot-Ball Porto Alegrense,Clube Atlético Mineiro,1,1,2,True
+3417711,2020,31,2021-01-20,Esporte Clube Bahia,Club Athletico Paranaense,0,0,0,False
+3417705,2020,31,2021-01-21,CR Flamengo,Sociedade Esportiva Palmeiras,0,0,0,False
+3417707,2020,31,2021-01-21,São Paulo Futebol Clube,Sport Club Internacional,1,1,2,True
+3417708,2020,31,2021-01-21,Red Bull Bragantino,Clube de Regatas Vasco da Gama,1,1,2,True
+3417712,2020,31,2021-01-21,Coritiba Foot Ball Club,Fluminense Football Club,0,0,0,False
+3417713,2020,31,2021-01-21,Fortaleza Esporte Clube,Santos FC,0,0,0,False
+3417714,2020,31,2021-01-21,Goiás EC,Ceará Sporting Club,0,0,0,False
+3417709,2020,31,2021-01-22,Sport Club Corinthians Paulista,Sport Club do Recife,0,0,0,False
+3417807,2020,32,2021-01-23,São Paulo Futebol Clube,Coritiba Foot Ball Club,1,1,2,True
+3417806,2020,32,2021-01-24,Clube de Regatas Vasco da Gama,Clube Atlético Mineiro,0,0,0,False
+3417809,2020,32,2021-01-24,Sport Club Internacional,Grêmio Foot-Ball Porto Alegrense,2,2,2,True
+3417810,2020,32,2021-01-24,Sport Club do Recife,Esporte Clube Bahia,0,0,0,False
+3417811,2020,32,2021-01-24,Club Athletico Paranaense,CR Flamengo,1,1,2,True
+3417812,2020,32,2021-01-24,Ceará Sporting Club,Sociedade Esportiva Palmeiras,0,0,0,False
+3417813,2020,32,2021-01-24,Atlético Clube Goianiense,Fortaleza Esporte Clube,1,1,2,True
+3417814,2020,32,2021-01-24,Santos FC,Goiás EC,1,1,2,True
+3417805,2020,32,2021-01-25,Fluminense Football Club,Botafogo de Futebol e Regatas,0,0,0,False
+3417808,2020,32,2021-01-26,Sport Club Corinthians Paulista,Red Bull Bragantino,0,0,0,False
+3418067,2020,33,2021-01-31,Clube de Regatas Vasco da Gama,Esporte Clube Bahia,1,1,2,True
+3418070,2020,33,2021-01-31,Clube Atlético Mineiro,Fortaleza Esporte Clube,0,0,0,False
+3418071,2020,33,2021-01-31,Sport Club Internacional,Red Bull Bragantino,1,1,2,True
+3418073,2020,33,2021-01-31,Coritiba Foot Ball Club,Grêmio Foot-Ball Porto Alegrense,0,0,0,False
+3418074,2020,33,2021-01-31,Ceará Sporting Club,Club Athletico Paranaense,1,1,2,True
+3418075,2020,33,2021-01-31,Atlético Clube Goianiense,São Paulo Futebol Clube,1,1,2,True
+3418066,2020,33,2021-02-01,Fluminense Football Club,Goiás EC,1,1,2,True
+3418068,2020,33,2021-02-02,Sociedade Esportiva Palmeiras,Botafogo de Futebol e Regatas,0,0,0,False
+3418072,2020,33,2021-02-02,Sport Club do Recife,CR Flamengo,0,0,0,False
+3418069,2020,33,2021-02-17,Santos FC,Sport Club Corinthians Paulista,2,2,2,True
+3418079,2020,34,2021-02-03,Red Bull Bragantino,Atlético Clube Goianiense,1,1,2,True
+3418081,2020,34,2021-02-03,Grêmio Foot-Ball Porto Alegrense,Santos FC,0,0,0,False
+3418080,2020,34,2021-02-04,Sport Club Corinthians Paulista,Ceará Sporting Club,2,2,2,True
+3418082,2020,34,2021-02-04,Esporte Clube Bahia,Fluminense Football Club,0,0,0,False
+3418084,2020,34,2021-02-04,Fortaleza Esporte Clube,Coritiba Foot Ball Club,1,1,2,True
+3418085,2020,34,2021-02-04,Goiás EC,Clube Atlético Mineiro,0,0,0,False
+3418076,2020,34,2021-02-05,CR Flamengo,Clube de Regatas Vasco da Gama,0,0,0,False
+3418077,2020,34,2021-02-05,Botafogo de Futebol e Regatas,Sport Club do Recife,0,0,0,False
+3418083,2020,34,2021-02-05,Club Athletico Paranaense,Sport Club Internacional,3,5,3,True
+3418078,2020,34,2021-02-20,São Paulo Futebol Clube,Sociedade Esportiva Palmeiras,1,1,2,True
+3418092,2020,35,2021-02-06,Esporte Clube Bahia,Goiás EC,0,0,0,False
+3418089,2020,35,2021-02-07,Red Bull Bragantino,CR Flamengo,0,0,0,False
+3418095,2020,35,2021-02-07,Atlético Clube Goianiense,Santos FC,2,2,2,True
+3418087,2020,35,2021-02-08,Botafogo de Futebol e Regatas,Grêmio Foot-Ball Porto Alegrense,2,2,2,True
+3418091,2020,35,2021-02-10,Sport Club Internacional,Sport Club do Recife,1,1,2,True
+3418094,2020,35,2021-02-10,Fortaleza Esporte Clube,Clube de Regatas Vasco da Gama,0,0,0,False
+3418086,2020,35,2021-02-11,Fluminense Football Club,Clube Atlético Mineiro,0,0,0,False
+3418088,2020,35,2021-02-11,São Paulo Futebol Clube,Ceará Sporting Club,1,1,2,True
+3418090,2020,35,2021-02-11,Sport Club Corinthians Paulista,Club Athletico Paranaense,1,1,2,True
+3418093,2020,35,2021-02-17,Coritiba Foot Ball Club,Sociedade Esportiva Palmeiras,0,0,0,False
+3418099,2020,36,2021-02-13,Santos FC,Coritiba Foot Ball Club,1,1,2,True
+3418100,2020,36,2021-02-13,Clube Atlético Mineiro,Esporte Clube Bahia,1,1,2,True
+3418105,2020,36,2021-02-13,Goiás EC,Botafogo de Futebol e Regatas,0,0,0,False
+3418096,2020,36,2021-02-14,CR Flamengo,Sport Club Corinthians Paulista,2,2,2,True
+3418097,2020,36,2021-02-14,Clube de Regatas Vasco da Gama,Sport Club Internacional,3,3,2,True
+3418098,2020,36,2021-02-14,Sociedade Esportiva Palmeiras,Fortaleza Esporte Clube,0,0,0,False
+3418103,2020,36,2021-02-14,Club Athletico Paranaense,Atlético Clube Goianiense,1,1,2,True
+3418101,2020,36,2021-02-15,Grêmio Foot-Ball Porto Alegrense,São Paulo Futebol Clube,1,1,2,True
+3418104,2020,36,2021-02-15,Ceará Sporting Club,Fluminense Football Club,1,1,2,True
+3418102,2020,36,2021-02-16,Sport Club do Recife,Red Bull Bragantino,1,1,2,True
+3418113,2020,37,2021-02-20,Coritiba Foot Ball Club,Ceará Sporting Club,0,0,0,False
+3418106,2020,37,2021-02-21,CR Flamengo,Sport Club Internacional,1,1,2,True
+3418109,2020,37,2021-02-21,Santos FC,Fluminense Football Club,2,2,2,True
+3418110,2020,37,2021-02-21,Sport Club Corinthians Paulista,Clube de Regatas Vasco da Gama,0,0,0,False
+3418111,2020,37,2021-02-21,Grêmio Foot-Ball Porto Alegrense,Club Athletico Paranaense,1,1,2,True
+3418112,2020,37,2021-02-21,Sport Club do Recife,Clube Atlético Mineiro,0,0,0,False
+3418114,2020,37,2021-02-21,Fortaleza Esporte Clube,Esporte Clube Bahia,2,2,2,True
+3418108,2020,37,2021-02-22,Sociedade Esportiva Palmeiras,Atlético Clube Goianiense,2,4,3,True
+3418115,2020,37,2021-02-22,Goiás EC,Red Bull Bragantino,0,0,0,False
+3418107,2020,37,2021-02-23,Botafogo de Futebol e Regatas,São Paulo Futebol Clube,0,0,0,False
+3418118,2020,38,2021-02-25,São Paulo Futebol Clube,CR Flamengo,1,1,2,True
+3418116,2020,38,2021-02-26,Fluminense Football Club,Fortaleza Esporte Clube,0,0,0,False
+3418117,2020,38,2021-02-26,Clube de Regatas Vasco da Gama,Goiás EC,0,0,0,False
+3418119,2020,38,2021-02-26,Red Bull Bragantino,Grêmio Foot-Ball Porto Alegrense,0,0,0,False
+3418120,2020,38,2021-02-26,Clube Atlético Mineiro,Sociedade Esportiva Palmeiras,0,0,0,False
+3418121,2020,38,2021-02-26,Sport Club Internacional,Sport Club Corinthians Paulista,1,1,2,True
+3418122,2020,38,2021-02-26,Esporte Clube Bahia,Santos FC,1,1,2,True
+3418123,2020,38,2021-02-26,Club Athletico Paranaense,Sport Club do Recife,1,3,3,True
+3418124,2020,38,2021-02-26,Ceará Sporting Club,Botafogo de Futebol e Regatas,0,0,0,False
+3418125,2020,38,2021-02-26,Atlético Clube Goianiense,Coritiba Foot Ball Club,0,0,0,False
+3546464,2021,1,2021-05-30,CR Flamengo,Sociedade Esportiva Palmeiras,0,0,0,False
+3546466,2021,1,2021-05-30,São Paulo Futebol Clube,Fluminense Football Club,1,1,2,True
+3546467,2021,1,2021-05-30,Esporte Clube Bahia,Santos FC,0,0,0,False
+3546468,2021,1,2021-05-30,Associação Chapecoense de Futebol,Red Bull Bragantino,0,0,0,False
+3546469,2021,1,2021-05-30,Sport Club Corinthians Paulista,Atlético Clube Goianiense,1,1,2,True
+3546470,2021,1,2021-05-30,Clube Atlético Mineiro,Fortaleza Esporte Clube,0,0,0,False
+3546471,2021,1,2021-05-30,Ceará Sporting Club,Grêmio Foot-Ball Porto Alegrense,0,0,0,False
+3546472,2021,1,2021-05-30,Club Athletico Paranaense,América Futebol Clube (MG),1,1,2,True
+3546473,2021,1,2021-05-30,Cuiabá Esporte Clube (MT),Esporte Clube Juventude,0,0,0,False
+3546465,2021,1,2021-05-31,Sport Club Internacional,Sport Club do Recife,1,1,2,True
+3546474,2021,2,2021-06-06,América Futebol Clube (MG),Sport Club Corinthians Paulista,3,3,2,True
+3546475,2021,2,2021-06-06,Esporte Clube Juventude,Club Athletico Paranaense,2,2,2,True
+3546476,2021,2,2021-06-06,Atlético Clube Goianiense,São Paulo Futebol Clube,0,0,0,False
+3546478,2021,2,2021-06-06,Red Bull Bragantino,Esporte Clube Bahia,2,2,2,True
+3546479,2021,2,2021-06-06,Santos FC,Ceará Sporting Club,1,1,2,True
+3546480,2021,2,2021-06-06,Sociedade Esportiva Palmeiras,Associação Chapecoense de Futebol,1,1,2,True
+3546481,2021,2,2021-06-06,Fluminense Football Club,Cuiabá Esporte Clube (MT),0,0,0,False
+3546483,2021,2,2021-06-06,Fortaleza Esporte Clube,Sport Club Internacional,0,0,0,False
+3546477,2021,2,2021-06-07,Sport Club do Recife,Clube Atlético Mineiro,0,0,0,False
+3546482,2021,2,2021-11-24,Grêmio Foot-Ball Porto Alegrense,CR Flamengo,1,1,2,True
+3571593,2021,3,2021-06-13,Sociedade Esportiva Palmeiras,Sport Club Corinthians Paulista,0,0,0,False
+3571594,2021,3,2021-06-13,Santos FC,Esporte Clube Juventude,2,2,2,True
+3571595,2021,3,2021-06-13,Clube Atlético Mineiro,São Paulo Futebol Clube,0,0,0,False
+3571596,2021,3,2021-06-13,Grêmio Foot-Ball Porto Alegrense,Club Athletico Paranaense,2,2,2,True
+3571600,2021,3,2021-06-13,CR Flamengo,América Futebol Clube (MG),1,1,2,True
+3571597,2021,3,2021-06-14,Red Bull Bragantino,Fluminense Football Club,2,2,2,True
+3571598,2021,3,2021-06-14,Esporte Clube Bahia,Sport Club Internacional,1,1,2,True
+3571599,2021,3,2021-06-14,Fortaleza Esporte Clube,Sport Club do Recife,0,0,0,False
+3571601,2021,3,2021-06-14,Associação Chapecoense de Futebol,Ceará Sporting Club,0,0,0,False
+3571602,2021,3,2021-07-22,Cuiabá Esporte Clube (MT),Atlético Clube Goianiense,0,0,0,False
+3572009,2021,4,2021-06-17,São Paulo Futebol Clube,Associação Chapecoense de Futebol,0,0,0,False
+3572010,2021,4,2021-06-17,Sport Club Internacional,Clube Atlético Mineiro,0,0,0,False
+3572011,2021,4,2021-06-17,Sport Club Corinthians Paulista,Red Bull Bragantino,1,1,2,True
+3572012,2021,4,2021-06-17,Esporte Clube Juventude,Sociedade Esportiva Palmeiras,0,0,0,False
+3572016,2021,4,2021-06-17,América Futebol Clube (MG),Cuiabá Esporte Clube (MT),0,0,0,False
+3572017,2021,4,2021-06-17,Ceará Sporting Club,Esporte Clube Bahia,1,1,2,True
+3572014,2021,4,2021-06-18,Sport Club do Recife,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+3572015,2021,4,2021-06-18,Fluminense Football Club,Santos FC,0,0,0,False
+3572018,2021,4,2021-06-18,Atlético Clube Goianiense,Fortaleza Esporte Clube,1,1,2,True
+3572013,2021,4,2021-11-02,Club Athletico Paranaense,CR Flamengo,1,1,2,True
+3572019,2021,5,2021-06-20,Santos FC,São Paulo Futebol Clube,0,0,0,False
+3572020,2021,5,2021-06-20,CR Flamengo,Red Bull Bragantino,1,1,2,True
+3572021,2021,5,2021-06-20,Sociedade Esportiva Palmeiras,América Futebol Clube (MG),1,1,2,True
+3572022,2021,5,2021-06-20,Sport Club Internacional,Ceará Sporting Club,1,1,2,True
+3572023,2021,5,2021-06-20,Esporte Clube Bahia,Sport Club Corinthians Paulista,0,0,0,False
+3572024,2021,5,2021-06-20,Club Athletico Paranaense,Atlético Clube Goianiense,1,1,2,True
+3572025,2021,5,2021-06-20,Fortaleza Esporte Clube,Fluminense Football Club,1,1,2,True
+3572027,2021,5,2021-06-21,Esporte Clube Juventude,Sport Club do Recife,1,1,2,True
+3572028,2021,5,2021-06-22,Clube Atlético Mineiro,Associação Chapecoense de Futebol,1,1,2,True
+3572026,2021,5,2021-08-19,Cuiabá Esporte Clube (MT),Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+3580694,2021,6,2021-06-24,CR Flamengo,Fortaleza Esporte Clube,1,3,3,True
+3580695,2021,6,2021-06-24,Atlético Clube Goianiense,Fluminense Football Club,0,0,0,False
+3580696,2021,6,2021-06-24,Red Bull Bragantino,Sociedade Esportiva Palmeiras,1,1,2,True
+3580698,2021,6,2021-06-24,São Paulo Futebol Clube,Cuiabá Esporte Clube (MT),2,2,2,True
+3580700,2021,6,2021-06-24,América Futebol Clube (MG),Esporte Clube Juventude,1,1,2,True
+3580697,2021,6,2021-06-25,Grêmio Foot-Ball Porto Alegrense,Santos FC,1,1,2,True
+3580699,2021,6,2021-06-25,Esporte Clube Bahia,Club Athletico Paranaense,0,0,0,False
+3580701,2021,6,2021-06-25,Sport Club Corinthians Paulista,Sport Club do Recife,0,0,0,False
+3580702,2021,6,2021-06-25,Ceará Sporting Club,Clube Atlético Mineiro,1,1,2,True
+3580703,2021,6,2021-06-25,Associação Chapecoense de Futebol,Sport Club Internacional,0,0,0,False
+3580707,2021,7,2021-06-27,Esporte Clube Juventude,CR Flamengo,1,1,2,True
+3580708,2021,7,2021-06-27,Fluminense Football Club,Sport Club Corinthians Paulista,0,0,0,False
+3580705,2021,7,2021-06-28,Grêmio Foot-Ball Porto Alegrense,Fortaleza Esporte Clube,0,0,0,False
+3580706,2021,7,2021-06-28,Sociedade Esportiva Palmeiras,Esporte Clube Bahia,0,0,0,False
+3580709,2021,7,2021-06-28,Santos FC,Clube Atlético Mineiro,0,0,0,False
+3580710,2021,7,2021-06-28,Club Athletico Paranaense,Associação Chapecoense de Futebol,2,2,2,True
+3580711,2021,7,2021-06-28,Ceará Sporting Club,São Paulo Futebol Clube,0,0,0,False
+3580712,2021,7,2021-06-28,Sport Club do Recife,Cuiabá Esporte Clube (MT),0,0,0,False
+3580713,2021,7,2021-06-28,América Futebol Clube (MG),Sport Club Internacional,2,2,2,True
+3580714,2021,7,2021-06-29,Atlético Clube Goianiense,Red Bull Bragantino,0,0,0,False
+3580715,2021,8,2021-06-30,Fortaleza Esporte Clube,Associação Chapecoense de Futebol,1,1,2,True
+3580718,2021,8,2021-06-30,Fluminense Football Club,Club Athletico Paranaense,1,3,3,True
+3580716,2021,8,2021-07-01,Sport Club Internacional,Sociedade Esportiva Palmeiras,1,1,2,True
+3580717,2021,8,2021-07-01,Esporte Clube Bahia,América Futebol Clube (MG),4,4,2,True
+3580719,2021,8,2021-07-01,Santos FC,Sport Club do Recife,0,0,0,False
+3580720,2021,8,2021-07-01,Esporte Clube Juventude,Grêmio Foot-Ball Porto Alegrense,0,0,0,False
+3580721,2021,8,2021-07-01,Sport Club Corinthians Paulista,São Paulo Futebol Clube,1,1,2,True
+3580722,2021,8,2021-07-01,Red Bull Bragantino,Ceará Sporting Club,1,1,2,True
+3580723,2021,8,2021-07-02,Clube Atlético Mineiro,Atlético Clube Goianiense,1,1,2,True
+3580724,2021,8,2021-07-02,Cuiabá Esporte Clube (MT),CR Flamengo,2,2,2,True
+3583799,2021,9,2021-07-04,CR Flamengo,Fluminense Football Club,1,1,2,True
+3583800,2021,9,2021-07-04,Sport Club Corinthians Paulista,Sport Club Internacional,0,0,0,False
+3583801,2021,9,2021-07-04,São Paulo Futebol Clube,Red Bull Bragantino,1,1,2,True
+3583802,2021,9,2021-07-04,América Futebol Clube (MG),Santos FC,2,2,2,True
+3583804,2021,9,2021-07-04,Ceará Sporting Club,Esporte Clube Juventude,0,0,0,False
+3583805,2021,9,2021-07-04,Sport Club do Recife,Sociedade Esportiva Palmeiras,0,0,0,False
+3583806,2021,9,2021-07-04,Club Athletico Paranaense,Fortaleza Esporte Clube,1,1,2,True
+3583807,2021,9,2021-07-04,Associação Chapecoense de Futebol,Esporte Clube Bahia,2,2,2,True
+3583808,2021,9,2021-07-04,Cuiabá Esporte Clube (MT),Clube Atlético Mineiro,0,0,0,False
+3583803,2021,9,2021-07-05,Grêmio Foot-Ball Porto Alegrense,Atlético Clube Goianiense,1,1,2,True
+3583811,2021,10,2021-07-07,Santos FC,Club Athletico Paranaense,0,0,0,False
+3583814,2021,10,2021-07-07,Fortaleza Esporte Clube,América Futebol Clube (MG),1,3,3,True
+3583815,2021,10,2021-07-07,Esporte Clube Bahia,Esporte Clube Juventude,0,0,0,False
+3583816,2021,10,2021-07-07,Red Bull Bragantino,Cuiabá Esporte Clube (MT),0,0,0,False
+3583809,2021,10,2021-07-08,Fluminense Football Club,Ceará Sporting Club,0,0,0,False
+3583810,2021,10,2021-07-08,Sociedade Esportiva Palmeiras,Grêmio Foot-Ball Porto Alegrense,0,0,0,False
+3583812,2021,10,2021-07-08,Clube Atlético Mineiro,CR Flamengo,1,1,2,True
+3583813,2021,10,2021-07-08,Sport Club Internacional,São Paulo Futebol Clube,1,1,2,True
+3583818,2021,10,2021-07-08,Atlético Clube Goianiense,Sport Club do Recife,1,1,2,True
+3583817,2021,10,2021-07-09,Associação Chapecoense de Futebol,Sport Club Corinthians Paulista,0,0,0,False
+3583820,2021,11,2021-07-10,Sociedade Esportiva Palmeiras,Santos FC,2,2,2,True
+3583823,2021,11,2021-07-10,Grêmio Foot-Ball Porto Alegrense,Sport Club Internacional,2,2,2,True
+3583826,2021,11,2021-07-10,Club Athletico Paranaense,Red Bull Bragantino,1,1,2,True
+3583819,2021,11,2021-07-11,CR Flamengo,Associação Chapecoense de Futebol,1,1,2,True
+3583821,2021,11,2021-07-11,São Paulo Futebol Clube,Esporte Clube Bahia,1,1,2,True
+3583822,2021,11,2021-07-11,América Futebol Clube (MG),Clube Atlético Mineiro,1,3,3,True
+3583825,2021,11,2021-07-11,Sport Club do Recife,Fluminense Football Club,1,1,2,True
+3583827,2021,11,2021-07-11,Esporte Clube Juventude,Atlético Clube Goianiense,1,1,2,True
+3583828,2021,11,2021-07-11,Cuiabá Esporte Clube (MT),Ceará Sporting Club,0,0,0,False
+3583824,2021,11,2021-07-12,Fortaleza Esporte Clube,Sport Club Corinthians Paulista,1,1,2,True
+3583831,2021,12,2021-07-17,São Paulo Futebol Clube,Fortaleza Esporte Clube,1,1,2,True
+3583834,2021,12,2021-07-17,Ceará Sporting Club,Club Athletico Paranaense,0,0,0,False
+3583829,2021,12,2021-07-18,Fluminense Football Club,Grêmio Foot-Ball Porto Alegrense,0,0,0,False
+3583830,2021,12,2021-07-18,Sport Club Corinthians Paulista,Clube Atlético Mineiro,0,0,0,False
+3583835,2021,12,2021-07-18,Esporte Clube Bahia,CR Flamengo,1,1,2,True
+3583837,2021,12,2021-07-18,Associação Chapecoense de Futebol,Cuiabá Esporte Clube (MT),0,0,0,False
+3583838,2021,12,2021-07-18,Atlético Clube Goianiense,Sociedade Esportiva Palmeiras,1,1,2,True
+3583833,2021,12,2021-07-19,Sport Club Internacional,Esporte Clube Juventude,0,0,0,False
+3583836,2021,12,2021-07-19,Red Bull Bragantino,Santos FC,2,2,2,True
+3583832,2021,12,2021-07-20,América Futebol Clube (MG),Sport Club do Recife,1,1,2,True
+3583843,2021,13,2021-07-24,Grêmio Foot-Ball Porto Alegrense,América Futebol Clube (MG),0,0,0,False
+3583839,2021,13,2021-07-25,CR Flamengo,São Paulo Futebol Clube,2,2,2,True
+3583840,2021,13,2021-07-25,Sociedade Esportiva Palmeiras,Fluminense Football Club,1,1,2,True
+3583841,2021,13,2021-07-25,Santos FC,Atlético Clube Goianiense,1,1,2,True
+3583842,2021,13,2021-07-25,Clube Atlético Mineiro,Esporte Clube Bahia,0,0,0,False
+3583844,2021,13,2021-07-25,Fortaleza Esporte Clube,Red Bull Bragantino,0,0,0,False
+3583846,2021,13,2021-07-25,Club Athletico Paranaense,Sport Club Internacional,0,0,0,False
+3583845,2021,13,2021-07-26,Sport Club do Recife,Ceará Sporting Club,1,1,2,True
+3583847,2021,13,2021-07-26,Esporte Clube Juventude,Associação Chapecoense de Futebol,2,2,2,True
+3583848,2021,13,2021-07-27,Cuiabá Esporte Clube (MT),Sport Club Corinthians Paulista,0,0,0,False
+3583870,2021,14,2021-08-01,Sport Club Corinthians Paulista,CR Flamengo,1,1,2,True
+3583871,2021,14,2021-08-01,São Paulo Futebol Clube,Sociedade Esportiva Palmeiras,1,1,2,True
+3583872,2021,14,2021-08-01,Clube Atlético Mineiro,Club Athletico Paranaense,2,2,2,True
+3583873,2021,14,2021-08-01,Sport Club Internacional,Cuiabá Esporte Clube (MT),0,0,0,False
+3583875,2021,14,2021-08-01,Esporte Clube Bahia,Sport Club do Recife,0,0,0,False
+3583876,2021,14,2021-08-01,Red Bull Bragantino,Grêmio Foot-Ball Porto Alegrense,0,0,0,False
+3583877,2021,14,2021-08-01,Associação Chapecoense de Futebol,Santos FC,0,0,0,False
+3583874,2021,14,2021-08-02,Ceará Sporting Club,Fortaleza Esporte Clube,0,0,0,False
+3583878,2021,14,2021-08-02,Atlético Clube Goianiense,América Futebol Clube (MG),0,0,0,False
+3583869,2021,14,2021-09-03,Fluminense Football Club,Esporte Clube Juventude,1,1,2,True
+3583865,2021,15,2021-08-07,Sport Club do Recife,Red Bull Bragantino,1,1,2,True
+3583866,2021,15,2021-08-07,Club Athletico Paranaense,São Paulo Futebol Clube,0,0,0,False
+3583859,2021,15,2021-08-08,CR Flamengo,Sport Club Internacional,0,0,0,False
+3583860,2021,15,2021-08-08,Sociedade Esportiva Palmeiras,Fortaleza Esporte Clube,1,1,2,True
+3583861,2021,15,2021-08-08,Santos FC,Sport Club Corinthians Paulista,0,0,0,False
+3583862,2021,15,2021-08-08,América Futebol Clube (MG),Fluminense Football Club,1,1,2,True
+3583864,2021,15,2021-08-08,Ceará Sporting Club,Atlético Clube Goianiense,3,3,2,True
+3583867,2021,15,2021-08-08,Esporte Clube Juventude,Clube Atlético Mineiro,3,3,2,True
+3583868,2021,15,2021-08-08,Cuiabá Esporte Clube (MT),Esporte Clube Bahia,0,0,0,False
+3583863,2021,15,2021-08-10,Grêmio Foot-Ball Porto Alegrense,Associação Chapecoense de Futebol,1,1,2,True
+3583856,2021,16,2021-08-14,Red Bull Bragantino,Esporte Clube Juventude,2,2,2,True
+3583849,2021,16,2021-08-15,CR Flamengo,Sport Club do Recife,0,0,0,False
+3583850,2021,16,2021-08-15,Sport Club Corinthians Paulista,Ceará Sporting Club,1,1,2,True
+3583851,2021,16,2021-08-15,São Paulo Futebol Clube,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+3583852,2021,16,2021-08-15,Clube Atlético Mineiro,Sociedade Esportiva Palmeiras,1,1,2,True
+3583854,2021,16,2021-08-15,Fortaleza Esporte Clube,Santos FC,0,0,0,False
+3583855,2021,16,2021-08-15,Esporte Clube Bahia,Atlético Clube Goianiense,0,0,0,False
+3583858,2021,16,2021-08-15,Cuiabá Esporte Clube (MT),Club Athletico Paranaense,2,2,2,True
+3583857,2021,16,2021-08-17,Associação Chapecoense de Futebol,América Futebol Clube (MG),1,1,2,True
+3583888,2021,17,2021-08-21,Atlético Clube Goianiense,Associação Chapecoense de Futebol,2,2,2,True
+3583880,2021,17,2021-08-22,Sociedade Esportiva Palmeiras,Cuiabá Esporte Clube (MT),0,0,0,False
+3583881,2021,17,2021-08-22,Santos FC,Sport Club Internacional,2,2,2,True
+3583883,2021,17,2021-08-22,Grêmio Foot-Ball Porto Alegrense,Esporte Clube Bahia,0,0,0,False
+3583884,2021,17,2021-08-22,Ceará Sporting Club,CR Flamengo,0,0,0,False
+3583886,2021,17,2021-08-22,Club Athletico Paranaense,Sport Club Corinthians Paulista,0,0,0,False
+3583887,2021,17,2021-08-22,Esporte Clube Juventude,Fortaleza Esporte Clube,1,1,2,True
+3583885,2021,17,2021-08-23,Sport Club do Recife,São Paulo Futebol Clube,0,0,0,False
+3583879,2021,17,2021-08-24,Fluminense Football Club,Clube Atlético Mineiro,0,0,0,False
+3583882,2021,17,2021-08-24,América Futebol Clube (MG),Red Bull Bragantino,2,2,2,True
+3583895,2021,18,2021-08-28,Sport Club do Recife,Associação Chapecoense de Futebol,1,1,2,True
+3583890,2021,18,2021-08-29,Sociedade Esportiva Palmeiras,Club Athletico Paranaense,0,0,0,False
+3583891,2021,18,2021-08-29,Santos FC,CR Flamengo,1,1,2,True
+3583892,2021,18,2021-08-29,América Futebol Clube (MG),Ceará Sporting Club,0,0,0,False
+3583893,2021,18,2021-08-29,Grêmio Foot-Ball Porto Alegrense,Sport Club Corinthians Paulista,1,1,2,True
+3583897,2021,18,2021-08-29,Esporte Clube Juventude,São Paulo Futebol Clube,0,0,0,False
+3583898,2021,18,2021-08-29,Atlético Clube Goianiense,Sport Club Internacional,0,0,0,False
+3583896,2021,18,2021-08-30,Red Bull Bragantino,Clube Atlético Mineiro,1,1,2,True
+3583889,2021,18,2021-08-31,Fluminense Football Club,Esporte Clube Bahia,0,0,0,False
+3583894,2021,18,2021-08-31,Fortaleza Esporte Clube,Cuiabá Esporte Clube (MT),0,0,0,False
+3583905,2021,19,2021-09-05,Esporte Clube Bahia,Fortaleza Esporte Clube,0,0,0,False
+3583906,2021,19,2021-09-05,Club Athletico Paranaense,Sport Club do Recife,1,1,2,True
+3583908,2021,19,2021-09-05,Cuiabá Esporte Clube (MT),Santos FC,0,0,0,False
+3583900,2021,19,2021-09-08,Sport Club Corinthians Paulista,Esporte Clube Juventude,0,0,0,False
+3583907,2021,19,2021-09-08,Associação Chapecoense de Futebol,Fluminense Football Club,2,2,2,True
+3583901,2021,19,2021-09-23,São Paulo Futebol Clube,América Futebol Clube (MG),1,1,2,True
+3583904,2021,19,2021-10-21,Ceará Sporting Club,Sociedade Esportiva Palmeiras,0,0,0,False
+3583903,2021,19,2021-10-22,Sport Club Internacional,Red Bull Bragantino,1,1,2,True
+3583902,2021,19,2021-11-04,Clube Atlético Mineiro,Grêmio Foot-Ball Porto Alegrense,0,0,0,False
+3583899,2021,19,2021-11-06,CR Flamengo,Atlético Clube Goianiense,1,1,2,True
+3583932,2021,20,2021-09-11,América Futebol Clube (MG),Club Athletico Paranaense,1,1,2,True
+3583937,2021,20,2021-09-11,Esporte Clube Juventude,Cuiabá Esporte Clube (MT),0,0,0,False
+3583930,2021,20,2021-09-12,Sociedade Esportiva Palmeiras,CR Flamengo,1,1,2,True
+3583931,2021,20,2021-09-12,Santos FC,Esporte Clube Bahia,1,1,2,True
+3583933,2021,20,2021-09-12,Grêmio Foot-Ball Porto Alegrense,Ceará Sporting Club,0,0,0,False
+3583934,2021,20,2021-09-12,Fortaleza Esporte Clube,Clube Atlético Mineiro,1,1,2,True
+3583936,2021,20,2021-09-12,Red Bull Bragantino,Associação Chapecoense de Futebol,1,1,2,True
+3583938,2021,20,2021-09-12,Atlético Clube Goianiense,Sport Club Corinthians Paulista,1,1,2,True
+3583929,2021,20,2021-09-13,Fluminense Football Club,São Paulo Futebol Clube,0,0,0,False
+3583935,2021,20,2021-09-14,Sport Club do Recife,Sport Club Internacional,1,1,2,True
+3583926,2021,21,2021-09-18,Club Athletico Paranaense,Esporte Clube Juventude,1,1,2,True
+3583927,2021,21,2021-09-18,Associação Chapecoense de Futebol,Sociedade Esportiva Palmeiras,1,1,2,True
+3583920,2021,21,2021-09-19,Sport Club Corinthians Paulista,América Futebol Clube (MG),2,2,2,True
+3583921,2021,21,2021-09-19,São Paulo Futebol Clube,Atlético Clube Goianiense,1,1,2,True
+3583922,2021,21,2021-09-19,Clube Atlético Mineiro,Sport Club do Recife,0,0,0,False
+3583923,2021,21,2021-09-19,Sport Club Internacional,Fortaleza Esporte Clube,0,0,0,False
+3583924,2021,21,2021-09-19,Ceará Sporting Club,Santos FC,1,1,2,True
+3583925,2021,21,2021-09-19,Esporte Clube Bahia,Red Bull Bragantino,1,1,2,True
+3583919,2021,21,2021-09-20,CR Flamengo,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+3583928,2021,21,2021-09-21,Cuiabá Esporte Clube (MT),Fluminense Football Club,0,0,0,False
+3583914,2021,22,2021-09-25,Ceará Sporting Club,Associação Chapecoense de Futebol,1,1,2,True
+3583909,2021,22,2021-09-26,Fluminense Football Club,Red Bull Bragantino,1,1,2,True
+3583910,2021,22,2021-09-26,Sport Club Corinthians Paulista,Sociedade Esportiva Palmeiras,0,0,0,False
+3583911,2021,22,2021-09-26,São Paulo Futebol Clube,Clube Atlético Mineiro,0,0,0,False
+3583912,2021,22,2021-09-26,América Futebol Clube (MG),CR Flamengo,1,1,2,True
+3583913,2021,22,2021-09-26,Sport Club Internacional,Esporte Clube Bahia,0,0,0,False
+3583915,2021,22,2021-09-26,Sport Club do Recife,Fortaleza Esporte Clube,0,0,0,False
+3583916,2021,22,2021-09-26,Club Athletico Paranaense,Grêmio Foot-Ball Porto Alegrense,0,0,0,False
+3583917,2021,22,2021-09-26,Esporte Clube Juventude,Santos FC,2,2,2,True
+3583918,2021,22,2021-09-27,Atlético Clube Goianiense,Cuiabá Esporte Clube (MT),0,0,0,False
+3583944,2021,23,2021-10-02,Fortaleza Esporte Clube,Atlético Clube Goianiense,0,0,0,False
+3583948,2021,23,2021-10-02,Cuiabá Esporte Clube (MT),América Futebol Clube (MG),1,1,2,True
+3583939,2021,23,2021-10-03,CR Flamengo,Club Athletico Paranaense,0,0,0,False
+3583940,2021,23,2021-10-03,Sociedade Esportiva Palmeiras,Esporte Clube Juventude,1,1,2,True
+3583942,2021,23,2021-10-03,Clube Atlético Mineiro,Sport Club Internacional,1,1,2,True
+3583946,2021,23,2021-10-03,Red Bull Bragantino,Sport Club Corinthians Paulista,1,1,2,True
+3583943,2021,23,2021-10-04,Grêmio Foot-Ball Porto Alegrense,Sport Club do Recife,1,1,2,True
+3583941,2021,23,2021-10-28,Santos FC,Fluminense Football Club,1,1,2,True
+3583945,2021,23,2021-10-28,Esporte Clube Bahia,Ceará Sporting Club,0,0,0,False
+3583950,2021,24,2021-10-06,Sport Club Corinthians Paulista,Esporte Clube Bahia,1,1,2,True
+3583949,2021,24,2021-10-07,Fluminense Football Club,Fortaleza Esporte Clube,1,1,2,True
+3583951,2021,24,2021-10-07,São Paulo Futebol Clube,Santos FC,0,0,0,False
+3583952,2021,24,2021-10-07,América Futebol Clube (MG),Sociedade Esportiva Palmeiras,1,1,2,True
+3583953,2021,24,2021-10-07,Grêmio Foot-Ball Porto Alegrense,Cuiabá Esporte Clube (MT),0,0,0,False
+3583954,2021,24,2021-10-07,Ceará Sporting Club,Sport Club Internacional,1,1,2,True
+3583955,2021,24,2021-10-07,Sport Club do Recife,Esporte Clube Juventude,2,2,2,True
+3583956,2021,24,2021-10-07,Red Bull Bragantino,CR Flamengo,0,0,0,False
+3583957,2021,24,2021-10-07,Associação Chapecoense de Futebol,Clube Atlético Mineiro,3,3,2,True
+3583958,2021,24,2021-10-07,Atlético Clube Goianiense,Club Athletico Paranaense,1,1,2,True
+3583959,2021,25,2021-10-09,Fluminense Football Club,Atlético Clube Goianiense,0,0,0,False
+3583962,2021,25,2021-10-09,Clube Atlético Mineiro,Ceará Sporting Club,0,0,0,False
+3583965,2021,25,2021-10-09,Sport Club do Recife,Sport Club Corinthians Paulista,0,0,0,False
+3583960,2021,25,2021-10-10,Sociedade Esportiva Palmeiras,Red Bull Bragantino,1,1,2,True
+3583961,2021,25,2021-10-10,Santos FC,Grêmio Foot-Ball Porto Alegrense,0,0,0,False
+3583963,2021,25,2021-10-10,Sport Club Internacional,Associação Chapecoense de Futebol,1,1,2,True
+3583966,2021,25,2021-10-10,Club Athletico Paranaense,Esporte Clube Bahia,1,1,2,True
+3583967,2021,25,2021-10-10,Esporte Clube Juventude,América Futebol Clube (MG),1,3,3,True
+3583968,2021,25,2021-10-12,Cuiabá Esporte Clube (MT),São Paulo Futebol Clube,0,0,0,False
+3583995,2021,26,2021-10-13,Esporte Clube Bahia,Sociedade Esportiva Palmeiras,0,0,0,False
+3583996,2021,26,2021-10-13,Red Bull Bragantino,Atlético Clube Goianiense,2,2,2,True
+3583989,2021,26,2021-10-14,CR Flamengo,Esporte Clube Juventude,2,2,2,True
+3583990,2021,26,2021-10-14,Sport Club Corinthians Paulista,Fluminense Football Club,1,1,2,True
+3583992,2021,26,2021-10-14,Clube Atlético Mineiro,Santos FC,1,1,2,True
+3583993,2021,26,2021-10-14,Sport Club Internacional,América Futebol Clube (MG),2,2,2,True
+3583994,2021,26,2021-10-14,Fortaleza Esporte Clube,Grêmio Foot-Ball Porto Alegrense,0,0,0,False
+3583997,2021,26,2021-10-14,Associação Chapecoense de Futebol,Club Athletico Paranaense,2,2,2,True
+3583991,2021,26,2021-10-15,São Paulo Futebol Clube,Ceará Sporting Club,0,0,0,False
+3583998,2021,26,2021-10-15,Cuiabá Esporte Clube (MT),Sport Club do Recife,1,1,2,True
+3583980,2021,27,2021-10-17,Sociedade Esportiva Palmeiras,Sport Club Internacional,3,3,2,True
+3583982,2021,27,2021-10-17,América Futebol Clube (MG),Esporte Clube Bahia,2,2,2,True
+3583983,2021,27,2021-10-17,Grêmio Foot-Ball Porto Alegrense,Esporte Clube Juventude,0,0,0,False
+3583984,2021,27,2021-10-17,Ceará Sporting Club,Red Bull Bragantino,1,1,2,True
+3583986,2021,27,2021-10-17,Club Athletico Paranaense,Fluminense Football Club,0,0,0,False
+3583987,2021,27,2021-10-17,Associação Chapecoense de Futebol,Fortaleza Esporte Clube,2,2,2,True
+3583988,2021,27,2021-10-17,Atlético Clube Goianiense,Clube Atlético Mineiro,0,0,0,False
+3583979,2021,27,2021-10-18,CR Flamengo,Cuiabá Esporte Clube (MT),2,2,2,True
+3583985,2021,27,2021-10-18,Sport Club do Recife,Santos FC,2,2,2,True
+3583981,2021,27,2021-10-19,São Paulo Futebol Clube,Sport Club Corinthians Paulista,0,0,0,False
+3583971,2021,28,2021-10-23,Santos FC,América Futebol Clube (MG),1,1,2,True
+3583977,2021,28,2021-10-23,Esporte Clube Juventude,Ceará Sporting Club,1,1,2,True
+3583969,2021,28,2021-10-24,Fluminense Football Club,CR Flamengo,1,1,2,True
+3583972,2021,28,2021-10-24,Clube Atlético Mineiro,Cuiabá Esporte Clube (MT),2,2,2,True
+3583973,2021,28,2021-10-24,Sport Club Internacional,Sport Club Corinthians Paulista,3,3,2,True
+3583974,2021,28,2021-10-24,Fortaleza Esporte Clube,Club Athletico Paranaense,1,1,2,True
+3583976,2021,28,2021-10-24,Red Bull Bragantino,São Paulo Futebol Clube,0,0,0,False
+3583975,2021,28,2021-10-25,Esporte Clube Bahia,Associação Chapecoense de Futebol,1,1,2,True
+3583970,2021,28,2021-10-26,Sociedade Esportiva Palmeiras,Sport Club do Recife,0,0,0,False
+3583978,2021,28,2021-10-26,Atlético Clube Goianiense,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+3584006,2021,29,2021-10-30,Club Athletico Paranaense,Santos FC,0,0,0,False
+3583999,2021,29,2021-10-31,CR Flamengo,Clube Atlético Mineiro,1,1,2,True
+3584001,2021,29,2021-10-31,São Paulo Futebol Clube,Sport Club Internacional,1,1,2,True
+3584002,2021,29,2021-10-31,América Futebol Clube (MG),Fortaleza Esporte Clube,1,1,2,True
+3584003,2021,29,2021-10-31,Grêmio Foot-Ball Porto Alegrense,Sociedade Esportiva Palmeiras,0,0,0,False
+3584004,2021,29,2021-10-31,Ceará Sporting Club,Fluminense Football Club,0,0,0,False
+3584007,2021,29,2021-10-31,Esporte Clube Juventude,Esporte Clube Bahia,1,1,2,True
+3584005,2021,29,2021-11-01,Sport Club do Recife,Atlético Clube Goianiense,0,0,0,False
+3584008,2021,29,2021-11-02,Cuiabá Esporte Clube (MT),Red Bull Bragantino,1,1,2,True
+3584010,2021,30,2021-11-06,Sport Club Corinthians Paulista,Fortaleza Esporte Clube,2,2,2,True
+3584013,2021,30,2021-11-06,Sport Club Internacional,Grêmio Foot-Ball Porto Alegrense,2,2,2,True
+3584009,2021,30,2021-11-07,Fluminense Football Club,Sport Club do Recife,1,1,2,True
+3584011,2021,30,2021-11-07,Santos FC,Sociedade Esportiva Palmeiras,1,1,2,True
+3584012,2021,30,2021-11-07,Clube Atlético Mineiro,América Futebol Clube (MG),1,1,2,True
+3584015,2021,30,2021-11-07,Esporte Clube Bahia,São Paulo Futebol Clube,1,1,2,True
+3584016,2021,30,2021-11-07,Red Bull Bragantino,Club Athletico Paranaense,0,0,0,False
+3584014,2021,30,2021-11-08,Ceará Sporting Club,Cuiabá Esporte Clube (MT),0,0,0,False
+3584017,2021,30,2021-11-09,Associação Chapecoense de Futebol,CR Flamengo,3,3,2,True
+3584018,2021,30,2021-11-23,Atlético Clube Goianiense,Esporte Clube Juventude,1,1,2,True
+3584028,2021,31,2021-11-05,Cuiabá Esporte Clube (MT),Associação Chapecoense de Futebol,1,1,2,True
+3584021,2021,31,2021-11-10,Santos FC,Red Bull Bragantino,2,2,2,True
+3584022,2021,31,2021-11-10,Clube Atlético Mineiro,Sport Club Corinthians Paulista,0,0,0,False
+3584023,2021,31,2021-11-10,Grêmio Foot-Ball Porto Alegrense,Fluminense Football Club,0,0,0,False
+3584026,2021,31,2021-11-10,Club Athletico Paranaense,Ceará Sporting Club,0,0,0,False
+3584019,2021,31,2021-11-11,CR Flamengo,Esporte Clube Bahia,1,1,2,True
+3584020,2021,31,2021-11-11,Sociedade Esportiva Palmeiras,Atlético Clube Goianiense,0,0,0,False
+3584024,2021,31,2021-11-11,Fortaleza Esporte Clube,São Paulo Futebol Clube,0,0,0,False
+3584025,2021,31,2021-11-11,Sport Club do Recife,América Futebol Clube (MG),2,2,2,True
+3584027,2021,31,2021-11-11,Esporte Clube Juventude,Sport Club Internacional,2,2,2,True
+3584052,2021,32,2021-11-13,América Futebol Clube (MG),Grêmio Foot-Ball Porto Alegrense,2,2,2,True
+3584053,2021,32,2021-11-13,Sport Club Internacional,Club Athletico Paranaense,2,2,2,True
+3584056,2021,32,2021-11-13,Red Bull Bragantino,Fortaleza Esporte Clube,0,0,0,False
+3584058,2021,32,2021-11-13,Atlético Clube Goianiense,Santos FC,0,0,0,False
+3584049,2021,32,2021-11-14,Fluminense Football Club,Sociedade Esportiva Palmeiras,1,1,2,True
+3584050,2021,32,2021-11-14,Sport Club Corinthians Paulista,Cuiabá Esporte Clube (MT),0,0,0,False
+3584051,2021,32,2021-11-14,São Paulo Futebol Clube,CR Flamengo,1,1,2,True
+3584054,2021,32,2021-11-14,Ceará Sporting Club,Sport Club do Recife,0,0,0,False
+3584057,2021,32,2021-11-14,Associação Chapecoense de Futebol,Esporte Clube Juventude,2,2,2,True
+3584055,2021,32,2021-12-02,Esporte Clube Bahia,Clube Atlético Mineiro,1,1,2,True
+3584043,2021,33,2021-11-16,Grêmio Foot-Ball Porto Alegrense,Red Bull Bragantino,1,1,2,True
+3584046,2021,33,2021-11-16,Club Athletico Paranaense,Clube Atlético Mineiro,0,0,0,False
+3584041,2021,33,2021-11-17,Santos FC,Associação Chapecoense de Futebol,1,1,2,True
+3584042,2021,33,2021-11-17,América Futebol Clube (MG),Atlético Clube Goianiense,1,1,2,True
+3584048,2021,33,2021-11-17,Cuiabá Esporte Clube (MT),Sport Club Internacional,1,1,2,True
+3584039,2021,33,2021-11-18,CR Flamengo,Sport Club Corinthians Paulista,2,2,2,True
+3584040,2021,33,2021-11-18,Sociedade Esportiva Palmeiras,São Paulo Futebol Clube,0,0,0,False
+3584044,2021,33,2021-11-18,Fortaleza Esporte Clube,Ceará Sporting Club,0,0,0,False
+3584047,2021,33,2021-11-18,Esporte Clube Juventude,Fluminense Football Club,0,0,0,False
+3584045,2021,33,2021-11-19,Sport Club do Recife,Esporte Clube Bahia,0,0,0,False
+3584036,2021,34,2021-10-29,Red Bull Bragantino,Sport Club do Recife,0,0,0,False
+3584032,2021,34,2021-11-20,Clube Atlético Mineiro,Esporte Clube Juventude,0,0,0,False
+3584034,2021,34,2021-11-20,Fortaleza Esporte Clube,Sociedade Esportiva Palmeiras,3,3,2,True
+3584037,2021,34,2021-11-20,Associação Chapecoense de Futebol,Grêmio Foot-Ball Porto Alegrense,2,2,2,True
+3584029,2021,34,2021-11-21,Fluminense Football Club,América Futebol Clube (MG),2,2,2,True
+3584030,2021,34,2021-11-21,Sport Club Corinthians Paulista,Santos FC,0,0,0,False
+3584033,2021,34,2021-11-21,Sport Club Internacional,CR Flamengo,2,2,2,True
+3584035,2021,34,2021-11-21,Esporte Clube Bahia,Cuiabá Esporte Clube (MT),0,0,0,False
+3584038,2021,34,2021-11-21,Atlético Clube Goianiense,Ceará Sporting Club,0,0,0,False
+3584031,2021,34,2021-11-25,São Paulo Futebol Clube,Club Athletico Paranaense,1,1,2,True
+3584060,2021,35,2021-11-24,Sociedade Esportiva Palmeiras,Clube Atlético Mineiro,0,0,0,False
+3584059,2021,35,2021-11-25,Fluminense Football Club,Sport Club Internacional,1,1,2,True
+3584061,2021,35,2021-11-25,Santos FC,Fortaleza Esporte Clube,1,1,2,True
+3584064,2021,35,2021-11-26,Ceará Sporting Club,Sport Club Corinthians Paulista,1,1,2,True
+3584068,2021,35,2021-11-29,Atlético Clube Goianiense,Esporte Clube Bahia,1,1,2,True
+3584067,2021,35,2021-11-30,Esporte Clube Juventude,Red Bull Bragantino,1,1,2,True
+3584062,2021,35,2021-12-01,América Futebol Clube (MG),Associação Chapecoense de Futebol,3,3,2,True
+3584063,2021,35,2021-12-03,Grêmio Foot-Ball Porto Alegrense,São Paulo Futebol Clube,2,2,2,True
+3584066,2021,35,2021-12-03,Club Athletico Paranaense,Cuiabá Esporte Clube (MT),0,0,0,False
+3584065,2021,35,2021-12-04,Sport Club do Recife,CR Flamengo,0,0,0,False
+3584075,2021,36,2021-11-26,Esporte Clube Bahia,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+3584076,2021,36,2021-11-27,Red Bull Bragantino,América Futebol Clube (MG),1,1,2,True
+3584070,2021,36,2021-11-28,Sport Club Corinthians Paulista,Club Athletico Paranaense,1,1,2,True
+3584071,2021,36,2021-11-28,São Paulo Futebol Clube,Sport Club do Recife,0,0,0,False
+3584072,2021,36,2021-11-28,Clube Atlético Mineiro,Fluminense Football Club,0,0,0,False
+3584073,2021,36,2021-11-28,Sport Club Internacional,Santos FC,2,2,2,True
+3584069,2021,36,2021-12-01,CR Flamengo,Ceará Sporting Club,0,0,0,False
+3584078,2021,36,2021-12-01,Cuiabá Esporte Clube (MT),Sociedade Esportiva Palmeiras,2,2,2,True
+3584074,2021,36,2021-12-04,Fortaleza Esporte Clube,Esporte Clube Juventude,0,0,0,False
+3584077,2021,36,2021-12-04,Associação Chapecoense de Futebol,Atlético Clube Goianiense,3,3,2,True
+3584080,2021,37,2021-12-05,Sport Club Corinthians Paulista,Grêmio Foot-Ball Porto Alegrense,0,0,0,False
+3584082,2021,37,2021-12-05,Clube Atlético Mineiro,Red Bull Bragantino,0,0,0,False
+3584084,2021,37,2021-12-05,Ceará Sporting Club,América Futebol Clube (MG),1,1,2,True
+3584085,2021,37,2021-12-05,Esporte Clube Bahia,Fluminense Football Club,0,0,0,False
+3584081,2021,37,2021-12-06,São Paulo Futebol Clube,Esporte Clube Juventude,0,0,0,False
+3584086,2021,37,2021-12-06,Club Athletico Paranaense,Sociedade Esportiva Palmeiras,0,0,0,False
+3584079,2021,37,2021-12-07,CR Flamengo,Santos FC,0,0,0,False
+3584083,2021,37,2021-12-07,Sport Club Internacional,Atlético Clube Goianiense,2,2,2,True
+3584087,2021,37,2021-12-07,Associação Chapecoense de Futebol,Sport Club do Recife,2,2,2,True
+3584088,2021,37,2021-12-07,Cuiabá Esporte Clube (MT),Fortaleza Esporte Clube,0,0,0,False
+3584089,2021,38,2021-12-10,Fluminense Football Club,Associação Chapecoense de Futebol,0,0,0,False
+3584090,2021,38,2021-12-10,Sociedade Esportiva Palmeiras,Ceará Sporting Club,1,1,2,True
+3584091,2021,38,2021-12-10,Santos FC,Cuiabá Esporte Clube (MT),0,0,0,False
+3584092,2021,38,2021-12-10,América Futebol Clube (MG),São Paulo Futebol Clube,0,0,0,False
+3584093,2021,38,2021-12-10,Grêmio Foot-Ball Porto Alegrense,Clube Atlético Mineiro,0,0,0,False
+3584094,2021,38,2021-12-10,Fortaleza Esporte Clube,Esporte Clube Bahia,2,2,2,True
+3584095,2021,38,2021-12-10,Sport Club do Recife,Club Athletico Paranaense,0,0,0,False
+3584096,2021,38,2021-12-10,Red Bull Bragantino,Sport Club Internacional,2,2,2,True
+3584097,2021,38,2021-12-10,Esporte Clube Juventude,Sport Club Corinthians Paulista,0,0,0,False
+3584098,2021,38,2021-12-10,Atlético Clube Goianiense,CR Flamengo,2,2,2,True
+3767773,2022,1,2022-04-09,Fluminense Football Club,Santos FC,0,0,0,False
+3767772,2022,1,2022-04-10,Clube Atlético Mineiro,Sport Club Internacional,2,2,2,True
+3767775,2022,1,2022-04-10,Sociedade Esportiva Palmeiras,Ceará Sporting Club,0,0,0,False
+3767776,2022,1,2022-04-10,Botafogo de Futebol e Regatas,Sport Club Corinthians Paulista,0,0,0,False
+3767778,2022,1,2022-04-10,Fortaleza Esporte Clube,Cuiabá Esporte Clube (MT),0,0,0,False
+3767779,2022,1,2022-04-10,Atlético Clube Goianiense,CR Flamengo,1,1,2,True
+3767781,2022,1,2022-04-10,Coritiba Foot Ball Club,Goiás EC,1,1,2,True
+3767774,2022,1,2022-04-11,São Paulo Futebol Clube,Club Athletico Paranaense,0,0,0,False
+3767780,2022,1,2022-04-11,Avaí FC,América Futebol Clube (MG),0,0,0,False
+3767777,2022,1,2022-04-12,Esporte Clube Juventude,Red Bull Bragantino,0,0,0,False
+3767789,2022,2,2022-04-16,Goiás EC,Sociedade Esportiva Palmeiras,1,1,2,True
+3767782,2022,2,2022-04-17,América Futebol Clube (MG),Esporte Clube Juventude,0,0,0,False
+3767783,2022,2,2022-04-17,CR Flamengo,São Paulo Futebol Clube,3,3,2,True
+3767784,2022,2,2022-04-17,Red Bull Bragantino,Atlético Clube Goianiense,2,2,2,True
+3767785,2022,2,2022-04-17,Sport Club Corinthians Paulista,Avaí FC,0,0,0,False
+3767786,2022,2,2022-04-17,Santos FC,Coritiba Foot Ball Club,2,2,2,True
+3767787,2022,2,2022-04-17,Sport Club Internacional,Fortaleza Esporte Clube,1,1,2,True
+3767790,2022,2,2022-04-17,Cuiabá Esporte Clube (MT),Fluminense Football Club,0,0,0,False
+3767791,2022,2,2022-04-17,Club Athletico Paranaense,Clube Atlético Mineiro,0,0,0,False
+3767788,2022,2,2022-04-18,Ceará Sporting Club,Botafogo de Futebol e Regatas,1,1,2,True
+3767794,2022,3,2022-04-23,Red Bull Bragantino,São Paulo Futebol Clube,1,1,2,True
+3767801,2022,3,2022-04-23,Club Athletico Paranaense,CR Flamengo,2,2,2,True
+3767792,2022,3,2022-04-24,Clube Atlético Mineiro,Coritiba Foot Ball Club,0,0,0,False
+3767793,2022,3,2022-04-24,Fluminense Football Club,Sport Club Internacional,0,0,0,False
+3767795,2022,3,2022-04-24,Sociedade Esportiva Palmeiras,Sport Club Corinthians Paulista,1,1,2,True
+3767796,2022,3,2022-04-24,Santos FC,América Futebol Clube (MG),0,0,0,False
+3767797,2022,3,2022-04-24,Esporte Clube Juventude,Cuiabá Esporte Clube (MT),0,0,0,False
+3767799,2022,3,2022-04-24,Atlético Clube Goianiense,Botafogo de Futebol e Regatas,1,1,2,True
+3767800,2022,3,2022-04-26,Avaí FC,Goiás EC,1,1,2,True
+3767798,2022,3,2022-06-02,Fortaleza Esporte Clube,Ceará Sporting Club,0,0,0,False
+3767823,2022,4,2022-04-21,CR Flamengo,Sociedade Esportiva Palmeiras,1,1,2,True
+3767822,2022,4,2022-04-30,América Futebol Clube (MG),Club Athletico Paranaense,0,0,0,False
+3767828,2022,4,2022-04-30,Ceará Sporting Club,Red Bull Bragantino,0,0,0,False
+3767829,2022,4,2022-04-30,Goiás EC,Clube Atlético Mineiro,0,0,0,False
+3767825,2022,4,2022-05-01,Sport Club Corinthians Paulista,Fortaleza Esporte Clube,0,0,0,False
+3767826,2022,4,2022-05-01,Botafogo de Futebol e Regatas,Esporte Clube Juventude,0,0,0,False
+3767830,2022,4,2022-05-01,Cuiabá Esporte Clube (MT),Atlético Clube Goianiense,0,0,0,False
+3767831,2022,4,2022-05-01,Coritiba Foot Ball Club,Fluminense Football Club,2,2,2,True
+3767827,2022,4,2022-05-02,Sport Club Internacional,Avaí FC,2,2,2,True
+3767824,2022,4,2022-05-03,São Paulo Futebol Clube,Santos FC,0,0,0,False
+3767812,2022,5,2022-05-07,Clube Atlético Mineiro,América Futebol Clube (MG),0,0,0,False
+3767813,2022,5,2022-05-08,CR Flamengo,Botafogo de Futebol e Regatas,2,2,2,True
+3767814,2022,5,2022-05-08,Red Bull Bragantino,Sport Club Corinthians Paulista,1,1,2,True
+3767815,2022,5,2022-05-08,Sociedade Esportiva Palmeiras,Fluminense Football Club,1,1,2,True
+3767816,2022,5,2022-05-08,Santos FC,Cuiabá Esporte Clube (MT),0,0,0,False
+3767819,2022,5,2022-05-08,Atlético Clube Goianiense,Goiás EC,1,1,2,True
+3767821,2022,5,2022-05-08,Club Athletico Paranaense,Ceará Sporting Club,0,0,0,False
+3767817,2022,5,2022-05-09,Esporte Clube Juventude,Sport Club Internacional,0,0,0,False
+3767818,2022,5,2022-05-09,Fortaleza Esporte Clube,São Paulo Futebol Clube,1,1,2,True
+3767820,2022,5,2022-05-10,Avaí FC,Coritiba Foot Ball Club,3,3,2,True
+3767805,2022,6,2022-05-14,Sociedade Esportiva Palmeiras,Red Bull Bragantino,1,1,2,True
+3767808,2022,6,2022-05-14,Ceará Sporting Club,CR Flamengo,0,0,0,False
+3767802,2022,6,2022-05-15,Clube Atlético Mineiro,Atlético Clube Goianiense,0,0,0,False
+3767803,2022,6,2022-05-15,Fluminense Football Club,Club Athletico Paranaense,1,1,2,True
+3767804,2022,6,2022-05-15,São Paulo Futebol Clube,Cuiabá Esporte Clube (MT),0,0,0,False
+3767806,2022,6,2022-05-15,Botafogo de Futebol e Regatas,Fortaleza Esporte Clube,0,0,0,False
+3767807,2022,6,2022-05-15,Sport Club Internacional,Sport Club Corinthians Paulista,0,0,0,False
+3767810,2022,6,2022-05-15,Avaí FC,Esporte Clube Juventude,1,1,2,True
+3767811,2022,6,2022-05-15,Coritiba Foot Ball Club,América Futebol Clube (MG),1,1,2,True
+3767809,2022,6,2022-05-16,Goiás EC,Santos FC,0,0,0,False
+3767834,2022,7,2022-05-12,Red Bull Bragantino,Clube Atlético Mineiro,1,1,2,True
+3767833,2022,7,2022-05-21,CR Flamengo,Goiás EC,1,1,2,True
+3767836,2022,7,2022-05-21,Santos FC,Ceará Sporting Club,1,3,3,True
+3767839,2022,7,2022-05-21,Atlético Clube Goianiense,Coritiba Foot Ball Club,1,1,2,True
+3767832,2022,7,2022-05-22,América Futebol Clube (MG),Botafogo de Futebol e Regatas,0,0,0,False
+3767835,2022,7,2022-05-22,Sport Club Corinthians Paulista,São Paulo Futebol Clube,1,1,2,True
+3767837,2022,7,2022-05-22,Esporte Clube Juventude,Sociedade Esportiva Palmeiras,0,0,0,False
+3767838,2022,7,2022-05-22,Fortaleza Esporte Clube,Fluminense Football Club,1,1,2,True
+3767840,2022,7,2022-05-22,Cuiabá Esporte Clube (MT),Sport Club Internacional,0,0,0,False
+3767841,2022,7,2022-05-23,Club Athletico Paranaense,Avaí FC,0,0,0,False
+3767849,2022,8,2022-05-28,Goiás EC,Red Bull Bragantino,1,1,2,True
+3767843,2022,8,2022-05-29,Fluminense Football Club,CR Flamengo,1,1,2,True
+3767844,2022,8,2022-05-29,São Paulo Futebol Clube,Ceará Sporting Club,3,3,2,True
+3767845,2022,8,2022-05-29,Sport Club Corinthians Paulista,América Futebol Clube (MG),1,1,2,True
+3767846,2022,8,2022-05-29,Santos FC,Sociedade Esportiva Palmeiras,0,0,0,False
+3767848,2022,8,2022-05-29,Fortaleza Esporte Clube,Esporte Clube Juventude,0,0,0,False
+3767850,2022,8,2022-05-29,Cuiabá Esporte Clube (MT),Club Athletico Paranaense,0,0,0,False
+3767851,2022,8,2022-05-29,Coritiba Foot Ball Club,Botafogo de Futebol e Regatas,1,1,2,True
+3767842,2022,8,2022-05-30,Clube Atlético Mineiro,Avaí FC,1,1,2,True
+3767847,2022,8,2022-05-31,Sport Club Internacional,Atlético Clube Goianiense,1,1,2,True
+3767852,2022,9,2022-06-04,América Futebol Clube (MG),Cuiabá Esporte Clube (MT),0,0,0,False
+3767853,2022,9,2022-06-05,CR Flamengo,Fortaleza Esporte Clube,1,1,2,True
+3767855,2022,9,2022-06-05,Sociedade Esportiva Palmeiras,Clube Atlético Mineiro,0,0,0,False
+3767857,2022,9,2022-06-05,Esporte Clube Juventude,Fluminense Football Club,1,1,2,True
+3767858,2022,9,2022-06-05,Ceará Sporting Club,Coritiba Foot Ball Club,2,2,2,True
+3767859,2022,9,2022-06-05,Atlético Clube Goianiense,Sport Club Corinthians Paulista,0,0,0,False
+3767860,2022,9,2022-06-05,Avaí FC,São Paulo Futebol Clube,2,2,2,True
+3767861,2022,9,2022-06-05,Club Athletico Paranaense,Santos FC,0,0,0,False
+3767854,2022,9,2022-06-06,Red Bull Bragantino,Sport Club Internacional,2,2,2,True
+3767856,2022,9,2022-06-07,Botafogo de Futebol e Regatas,Goiás EC,1,1,2,True
+3767890,2022,10,2022-06-08,Cuiabá Esporte Clube (MT),Sport Club Corinthians Paulista,0,0,0,False
+3767882,2022,10,2022-06-09,América Futebol Clube (MG),Ceará Sporting Club,2,2,2,True
+3767883,2022,10,2022-06-09,Fluminense Football Club,Clube Atlético Mineiro,1,1,2,True
+3767884,2022,10,2022-06-09,Red Bull Bragantino,CR Flamengo,1,1,2,True
+3767886,2022,10,2022-06-09,Santos FC,Sport Club Internacional,1,1,2,True
+3767887,2022,10,2022-06-09,Esporte Clube Juventude,Club Athletico Paranaense,0,0,0,False
+3767889,2022,10,2022-06-09,Atlético Clube Goianiense,Avaí FC,1,1,2,True
+3767885,2022,10,2022-06-10,Sociedade Esportiva Palmeiras,Botafogo de Futebol e Regatas,3,3,2,True
+3767888,2022,10,2022-06-10,Fortaleza Esporte Clube,Goiás EC,0,0,0,False
+3767891,2022,10,2022-06-10,Coritiba Foot Ball Club,São Paulo Futebol Clube,1,1,2,True
+3767875,2022,11,2022-06-11,Sport Club Corinthians Paulista,Esporte Clube Juventude,0,0,0,False
+3767872,2022,11,2022-06-12,Clube Atlético Mineiro,Santos FC,0,0,0,False
+3767873,2022,11,2022-06-12,Fluminense Football Club,Atlético Clube Goianiense,1,1,2,True
+3767874,2022,11,2022-06-12,São Paulo Futebol Clube,América Futebol Clube (MG),1,1,2,True
+3767877,2022,11,2022-06-12,Sport Club Internacional,CR Flamengo,0,0,0,False
+3767879,2022,11,2022-06-12,Goiás EC,Ceará Sporting Club,1,1,2,True
+3767880,2022,11,2022-06-12,Cuiabá Esporte Clube (MT),Red Bull Bragantino,0,0,0,False
+3767881,2022,11,2022-06-12,Coritiba Foot Ball Club,Sociedade Esportiva Palmeiras,0,0,0,False
+3767878,2022,11,2022-06-13,Fortaleza Esporte Clube,Club Athletico Paranaense,0,0,0,False
+3767876,2022,11,2022-06-14,Botafogo de Futebol e Regatas,Avaí FC,1,1,2,True
+3767867,2022,12,2022-06-15,Esporte Clube Juventude,Santos FC,0,0,0,False
+3767862,2022,12,2022-06-16,América Futebol Clube (MG),Fluminense Football Club,2,2,2,True
+3767863,2022,12,2022-06-16,CR Flamengo,Cuiabá Esporte Clube (MT),0,0,0,False
+3767864,2022,12,2022-06-16,Red Bull Bragantino,Coritiba Foot Ball Club,2,2,2,True
+3767865,2022,12,2022-06-16,Sociedade Esportiva Palmeiras,Atlético Clube Goianiense,2,2,2,True
+3767866,2022,12,2022-06-16,Botafogo de Futebol e Regatas,São Paulo Futebol Clube,0,0,0,False
+3767871,2022,12,2022-06-16,Club Athletico Paranaense,Sport Club Corinthians Paulista,1,1,2,True
+3767870,2022,12,2022-06-17,Avaí FC,Fortaleza Esporte Clube,1,1,2,True
+3767892,2022,13,2022-06-19,Clube Atlético Mineiro,CR Flamengo,0,0,0,False
+3767893,2022,13,2022-06-19,Fluminense Football Club,Avaí FC,3,3,2,True
+3767895,2022,13,2022-06-19,Sport Club Corinthians Paulista,Goiás EC,1,1,2,True
+3767896,2022,13,2022-06-19,Santos FC,Red Bull Bragantino,1,1,2,True
+3767897,2022,13,2022-06-19,Sport Club Internacional,Botafogo de Futebol e Regatas,2,2,2,True
+3767898,2022,13,2022-06-19,Fortaleza Esporte Clube,América Futebol Clube (MG),0,0,0,False
+3767899,2022,13,2022-06-19,Atlético Clube Goianiense,Esporte Clube Juventude,0,0,0,False
+3767900,2022,13,2022-06-19,Cuiabá Esporte Clube (MT),Ceará Sporting Club,2,2,2,True
+3767901,2022,13,2022-06-19,Coritiba Foot Ball Club,Club Athletico Paranaense,0,0,0,False
+3767894,2022,13,2022-06-21,São Paulo Futebol Clube,Sociedade Esportiva Palmeiras,0,0,0,False
+3767907,2022,14,2022-06-25,Sport Club Internacional,Coritiba Foot Ball Club,0,0,0,False
+3767911,2022,14,2022-06-25,Club Athletico Paranaense,Red Bull Bragantino,3,3,2,True
+3767902,2022,14,2022-06-26,Clube Atlético Mineiro,Fortaleza Esporte Clube,1,1,2,True
+3767903,2022,14,2022-06-26,CR Flamengo,América Futebol Clube (MG),0,0,0,False
+3767904,2022,14,2022-06-26,São Paulo Futebol Clube,Esporte Clube Juventude,1,1,2,True
+3767905,2022,14,2022-06-26,Sport Club Corinthians Paulista,Santos FC,1,1,2,True
+3767906,2022,14,2022-06-26,Botafogo de Futebol e Regatas,Fluminense Football Club,2,2,2,True
+3767908,2022,14,2022-06-26,Ceará Sporting Club,Atlético Clube Goianiense,0,0,0,False
+3767909,2022,14,2022-06-26,Goiás EC,Cuiabá Esporte Clube (MT),0,0,0,False
+3767910,2022,14,2022-06-26,Avaí FC,Sociedade Esportiva Palmeiras,2,2,2,True
+3767917,2022,15,2022-07-02,Esporte Clube Juventude,Clube Atlético Mineiro,1,1,2,True
+3767912,2022,15,2022-07-03,América Futebol Clube (MG),Goiás EC,0,0,0,False
+3767913,2022,15,2022-07-03,Fluminense Football Club,Sport Club Corinthians Paulista,2,2,2,True
+3767914,2022,15,2022-07-03,Red Bull Bragantino,Botafogo de Futebol e Regatas,2,2,2,True
+3767915,2022,15,2022-07-03,Sociedade Esportiva Palmeiras,Club Athletico Paranaense,0,0,0,False
+3767916,2022,15,2022-07-03,Santos FC,CR Flamengo,0,0,0,False
+3767918,2022,15,2022-07-03,Ceará Sporting Club,Sport Club Internacional,0,0,0,False
+3767919,2022,15,2022-07-03,Atlético Clube Goianiense,São Paulo Futebol Clube,0,0,0,False
+3767920,2022,15,2022-07-03,Avaí FC,Cuiabá Esporte Clube (MT),1,1,2,True
+3767921,2022,15,2022-07-03,Coritiba Foot Ball Club,Fortaleza Esporte Clube,2,2,2,True
+3768144,2022,16,2022-07-09,Red Bull Bragantino,Avaí FC,2,2,2,True
+3768142,2022,16,2022-07-10,Clube Atlético Mineiro,São Paulo Futebol Clube,1,1,2,True
+3768143,2022,16,2022-07-10,Fluminense Football Club,Ceará Sporting Club,3,3,2,True
+3768145,2022,16,2022-07-10,Sport Club Corinthians Paulista,CR Flamengo,2,2,2,True
+3768146,2022,16,2022-07-10,Santos FC,Atlético Clube Goianiense,1,1,2,True
+3768148,2022,16,2022-07-10,Fortaleza Esporte Clube,Sociedade Esportiva Palmeiras,1,1,2,True
+3768149,2022,16,2022-07-10,Goiás EC,Club Athletico Paranaense,0,0,0,False
+3768151,2022,16,2022-07-10,Coritiba Foot Ball Club,Esporte Clube Juventude,1,1,2,True
+3768150,2022,16,2022-07-11,Cuiabá Esporte Clube (MT),Botafogo de Futebol e Regatas,1,1,2,True
+3768147,2022,16,2022-07-12,Sport Club Internacional,América Futebol Clube (MG),1,1,2,True
+3768141,2022,17,2022-07-16,Club Athletico Paranaense,Sport Club Internacional,1,1,2,True
+3768133,2022,17,2022-07-17,CR Flamengo,Coritiba Foot Ball Club,1,1,2,True
+3768134,2022,17,2022-07-17,São Paulo Futebol Clube,Fluminense Football Club,1,1,2,True
+3768136,2022,17,2022-07-17,Botafogo de Futebol e Regatas,Clube Atlético Mineiro,0,0,0,False
+3768137,2022,17,2022-07-17,Esporte Clube Juventude,Goiás EC,0,0,0,False
+3768138,2022,17,2022-07-17,Ceará Sporting Club,Sport Club Corinthians Paulista,0,0,0,False
+3768139,2022,17,2022-07-17,Atlético Clube Goianiense,Fortaleza Esporte Clube,2,2,2,True
+3768140,2022,17,2022-07-17,Avaí FC,Santos FC,1,1,2,True
+3768132,2022,17,2022-07-18,América Futebol Clube (MG),Red Bull Bragantino,1,1,2,True
+3768135,2022,17,2022-07-19,Sociedade Esportiva Palmeiras,Cuiabá Esporte Clube (MT),1,1,2,True
+3768128,2022,18,2022-07-20,Ceará Sporting Club,Avaí FC,2,2,2,True
+3768123,2022,18,2022-07-21,CR Flamengo,Esporte Clube Juventude,1,1,2,True
+3768124,2022,18,2022-07-21,Red Bull Bragantino,Fortaleza Esporte Clube,3,3,2,True
+3768125,2022,18,2022-07-21,Sport Club Corinthians Paulista,Coritiba Foot Ball Club,1,1,2,True
+3768126,2022,18,2022-07-21,Santos FC,Botafogo de Futebol e Regatas,1,1,2,True
+3768127,2022,18,2022-07-21,Sport Club Internacional,São Paulo Futebol Clube,2,2,2,True
+3768129,2022,18,2022-07-21,Goiás EC,Fluminense Football Club,1,1,2,True
+3768131,2022,18,2022-07-21,Club Athletico Paranaense,Atlético Clube Goianiense,2,2,2,True
+3768122,2022,18,2022-07-22,América Futebol Clube (MG),Sociedade Esportiva Palmeiras,0,0,0,False
+3768130,2022,18,2022-07-22,Cuiabá Esporte Clube (MT),Clube Atlético Mineiro,1,1,2,True
+3768112,2022,19,2022-07-24,Clube Atlético Mineiro,Sport Club Corinthians Paulista,1,1,2,True
+3768113,2022,19,2022-07-24,Fluminense Football Club,Red Bull Bragantino,3,3,2,True
+3768114,2022,19,2022-07-24,São Paulo Futebol Clube,Goiás EC,0,0,0,False
+3768115,2022,19,2022-07-24,Sociedade Esportiva Palmeiras,Sport Club Internacional,2,2,2,True
+3768116,2022,19,2022-07-24,Botafogo de Futebol e Regatas,Club Athletico Paranaense,0,0,0,False
+3768117,2022,19,2022-07-24,Esporte Clube Juventude,Ceará Sporting Club,0,0,0,False
+3768118,2022,19,2022-07-24,Fortaleza Esporte Clube,Santos FC,0,0,0,False
+3768119,2022,19,2022-07-24,Atlético Clube Goianiense,América Futebol Clube (MG),0,0,0,False
+3768120,2022,19,2022-07-24,Avaí FC,CR Flamengo,2,2,2,True
+3768121,2022,19,2022-07-26,Coritiba Foot Ball Club,Cuiabá Esporte Clube (MT),0,0,0,False
+3768108,2022,20,2022-07-30,Ceará Sporting Club,Sociedade Esportiva Palmeiras,0,0,0,False
+3768109,2022,20,2022-07-30,Goiás EC,Coritiba Foot Ball Club,0,0,0,False
+3768102,2022,20,2022-07-31,América Futebol Clube (MG),Avaí FC,1,1,2,True
+3768103,2022,20,2022-07-31,CR Flamengo,Atlético Clube Goianiense,0,0,0,False
+3768105,2022,20,2022-07-31,Sport Club Corinthians Paulista,Botafogo de Futebol e Regatas,0,0,0,False
+3768107,2022,20,2022-07-31,Sport Club Internacional,Clube Atlético Mineiro,1,1,2,True
+3768110,2022,20,2022-07-31,Cuiabá Esporte Clube (MT),Fortaleza Esporte Clube,1,1,2,True
+3768111,2022,20,2022-07-31,Club Athletico Paranaense,São Paulo Futebol Clube,2,2,2,True
+3768104,2022,20,2022-08-01,Red Bull Bragantino,Esporte Clube Juventude,1,1,2,True
+3768106,2022,20,2022-08-02,Santos FC,Fluminense Football Club,1,1,2,True
+3768096,2022,21,2022-08-06,Botafogo de Futebol e Regatas,Ceará Sporting Club,0,0,0,False
+3768097,2022,21,2022-08-06,Esporte Clube Juventude,América Futebol Clube (MG),0,0,0,False
+3768093,2022,21,2022-08-07,Fluminense Football Club,Cuiabá Esporte Clube (MT),0,0,0,False
+3768094,2022,21,2022-08-07,São Paulo Futebol Clube,CR Flamengo,3,3,2,True
+3768095,2022,21,2022-08-07,Sociedade Esportiva Palmeiras,Goiás EC,0,0,0,False
+3768098,2022,21,2022-08-07,Fortaleza Esporte Clube,Sport Club Internacional,2,2,2,True
+3768099,2022,21,2022-08-07,Atlético Clube Goianiense,Red Bull Bragantino,3,3,2,True
+3768100,2022,21,2022-08-07,Avaí FC,Sport Club Corinthians Paulista,2,4,3,True
+3768092,2022,21,2022-08-08,Clube Atlético Mineiro,Club Athletico Paranaense,0,0,0,False
+3768101,2022,21,2022-08-09,Coritiba Foot Ball Club,Santos FC,2,2,2,True
+3768089,2022,22,2022-08-13,Goiás EC,Avaí FC,1,1,2,True
+3768082,2022,22,2022-08-14,América Futebol Clube (MG),Santos FC,2,2,2,True
+3768083,2022,22,2022-08-14,CR Flamengo,Club Athletico Paranaense,1,1,2,True
+3768084,2022,22,2022-08-14,São Paulo Futebol Clube,Red Bull Bragantino,0,0,0,False
+3768085,2022,22,2022-08-14,Sport Club Corinthians Paulista,Sociedade Esportiva Palmeiras,1,1,2,True
+3768086,2022,22,2022-08-14,Botafogo de Futebol e Regatas,Atlético Clube Goianiense,1,1,2,True
+3768088,2022,22,2022-08-14,Ceará Sporting Club,Fortaleza Esporte Clube,0,0,0,False
+3768090,2022,22,2022-08-14,Cuiabá Esporte Clube (MT),Esporte Clube Juventude,0,0,0,False
+3768091,2022,22,2022-08-14,Coritiba Foot Ball Club,Clube Atlético Mineiro,0,0,0,False
+3768087,2022,22,2022-08-15,Sport Club Internacional,Fluminense Football Club,1,1,2,True
+3768072,2022,23,2022-08-20,Clube Atlético Mineiro,Goiás EC,1,1,2,True
+3768073,2022,23,2022-08-21,Fluminense Football Club,Coritiba Foot Ball Club,2,2,2,True
+3768074,2022,23,2022-08-21,Red Bull Bragantino,Ceará Sporting Club,2,2,2,True
+3768075,2022,23,2022-08-21,Sociedade Esportiva Palmeiras,CR Flamengo,2,2,2,True
+3768077,2022,23,2022-08-21,Esporte Clube Juventude,Botafogo de Futebol e Regatas,1,1,2,True
+3768078,2022,23,2022-08-21,Fortaleza Esporte Clube,Sport Club Corinthians Paulista,3,3,2,True
+3768079,2022,23,2022-08-21,Atlético Clube Goianiense,Cuiabá Esporte Clube (MT),0,0,0,False
+3768081,2022,23,2022-08-21,Club Athletico Paranaense,América Futebol Clube (MG),1,1,2,True
+3768080,2022,23,2022-08-23,Avaí FC,Sport Club Internacional,2,2,2,True
+3768069,2022,24,2022-08-27,Goiás EC,Atlético Clube Goianiense,0,0,0,False
+3768071,2022,24,2022-08-27,Coritiba Foot Ball Club,Avaí FC,1,1,2,True
+3768062,2022,24,2022-08-28,América Futebol Clube (MG),Clube Atlético Mineiro,0,0,0,False
+3768063,2022,24,2022-08-28,Fluminense Football Club,Sociedade Esportiva Palmeiras,1,1,2,True
+3768064,2022,24,2022-08-28,São Paulo Futebol Clube,Fortaleza Esporte Clube,2,2,2,True
+3768066,2022,24,2022-08-28,Botafogo de Futebol e Regatas,CR Flamengo,1,1,2,True
+3768068,2022,24,2022-08-28,Ceará Sporting Club,Club Athletico Paranaense,0,0,0,False
+3768070,2022,24,2022-08-28,Cuiabá Esporte Clube (MT),Santos FC,1,1,2,True
+3768065,2022,24,2022-08-30,Sport Club Corinthians Paulista,Red Bull Bragantino,1,1,2,True
+3768067,2022,24,2022-08-30,Sport Club Internacional,Esporte Clube Juventude,0,0,0,False
+3768057,2022,25,2022-09-03,Esporte Clube Juventude,Avaí FC,0,0,0,False
+3768052,2022,25,2022-09-04,América Futebol Clube (MG),Coritiba Foot Ball Club,1,1,2,True
+3768053,2022,25,2022-09-04,CR Flamengo,Ceará Sporting Club,0,0,0,False
+3768054,2022,25,2022-09-04,Red Bull Bragantino,Sociedade Esportiva Palmeiras,2,2,2,True
+3768055,2022,25,2022-09-04,Sport Club Corinthians Paulista,Sport Club Internacional,1,1,2,True
+3768058,2022,25,2022-09-04,Fortaleza Esporte Clube,Botafogo de Futebol e Regatas,1,1,2,True
+3768059,2022,25,2022-09-04,Atlético Clube Goianiense,Clube Atlético Mineiro,0,0,0,False
+3768061,2022,25,2022-09-04,Club Athletico Paranaense,Fluminense Football Club,2,2,2,True
+3768060,2022,25,2022-09-05,Cuiabá Esporte Clube (MT),São Paulo Futebol Clube,0,0,0,False
+3768056,2022,25,2022-09-06,Santos FC,Goiás EC,1,1,2,True
+3768047,2022,26,2022-09-10,Sport Club Internacional,Cuiabá Esporte Clube (MT),1,1,2,True
+3768048,2022,26,2022-09-10,Ceará Sporting Club,Santos FC,1,1,2,True
+3768042,2022,26,2022-09-11,Clube Atlético Mineiro,Red Bull Bragantino,1,1,2,True
+3768043,2022,26,2022-09-11,Fluminense Football Club,Fortaleza Esporte Clube,1,1,2,True
+3768044,2022,26,2022-09-11,São Paulo Futebol Clube,Sport Club Corinthians Paulista,1,3,3,True
+3768045,2022,26,2022-09-11,Sociedade Esportiva Palmeiras,Esporte Clube Juventude,0,0,0,False
+3768046,2022,26,2022-09-11,Botafogo de Futebol e Regatas,América Futebol Clube (MG),0,0,0,False
+3768049,2022,26,2022-09-11,Goiás EC,CR Flamengo,0,0,0,False
+3768050,2022,26,2022-09-11,Avaí FC,Club Athletico Paranaense,1,1,2,True
+3768051,2022,26,2022-09-11,Coritiba Foot Ball Club,Atlético Clube Goianiense,0,0,0,False
+3768040,2022,27,2022-09-17,Avaí FC,Clube Atlético Mineiro,0,0,0,False
+3768032,2022,27,2022-09-18,América Futebol Clube (MG),Sport Club Corinthians Paulista,1,1,2,True
+3768033,2022,27,2022-09-18,CR Flamengo,Fluminense Football Club,2,2,2,True
+3768034,2022,27,2022-09-18,Red Bull Bragantino,Goiás EC,2,2,2,True
+3768035,2022,27,2022-09-18,Sociedade Esportiva Palmeiras,Santos FC,0,0,0,False
+3768036,2022,27,2022-09-18,Botafogo de Futebol e Regatas,Coritiba Foot Ball Club,1,1,2,True
+3768037,2022,27,2022-09-18,Esporte Clube Juventude,Fortaleza Esporte Clube,0,0,0,False
+3768038,2022,27,2022-09-18,Ceará Sporting Club,São Paulo Futebol Clube,1,1,2,True
+3768041,2022,27,2022-09-19,Club Athletico Paranaense,Cuiabá Esporte Clube (MT),2,2,2,True
+3768039,2022,27,2022-09-20,Atlético Clube Goianiense,Sport Club Internacional,1,1,2,True
+3768004,2022,28,2022-09-26,São Paulo Futebol Clube,Avaí FC,1,1,2,True
+3768006,2022,28,2022-09-28,Santos FC,Club Athletico Paranaense,1,1,2,True
+3768002,2022,28,2022-09-29,Clube Atlético Mineiro,Sociedade Esportiva Palmeiras,1,1,2,True
+3768003,2022,28,2022-09-29,Fluminense Football Club,Esporte Clube Juventude,1,1,2,True
+3768005,2022,28,2022-09-29,Sport Club Corinthians Paulista,Atlético Clube Goianiense,0,0,0,False
+3768007,2022,28,2022-09-29,Sport Club Internacional,Red Bull Bragantino,2,2,2,True
+3768008,2022,28,2022-09-29,Fortaleza Esporte Clube,CR Flamengo,0,0,0,False
+3768009,2022,28,2022-09-29,Goiás EC,Botafogo de Futebol e Regatas,0,0,0,False
+3768010,2022,28,2022-09-29,Cuiabá Esporte Clube (MT),América Futebol Clube (MG),0,0,0,False
+3768011,2022,28,2022-09-29,Coritiba Foot Ball Club,Ceará Sporting Club,2,2,2,True
+3768012,2022,29,2022-10-01,Clube Atlético Mineiro,Fluminense Football Club,1,1,2,True
+3768017,2022,29,2022-10-01,Sport Club Internacional,Santos FC,0,0,0,False
+3768013,2022,29,2022-10-02,CR Flamengo,Red Bull Bragantino,1,1,2,True
+3768015,2022,29,2022-10-02,Sport Club Corinthians Paulista,Cuiabá Esporte Clube (MT),0,0,0,False
+3768018,2022,29,2022-10-02,Ceará Sporting Club,América Futebol Clube (MG),2,2,2,True
+3768019,2022,29,2022-10-02,Goiás EC,Fortaleza Esporte Clube,1,1,2,True
+3768020,2022,29,2022-10-02,Avaí FC,Atlético Clube Goianiense,0,0,0,False
+3768021,2022,29,2022-10-02,Club Athletico Paranaense,Esporte Clube Juventude,0,0,0,False
+3768016,2022,29,2022-10-04,Botafogo de Futebol e Regatas,Sociedade Esportiva Palmeiras,1,1,2,True
+3768014,2022,29,2022-10-21,São Paulo Futebol Clube,Coritiba Foot Ball Club,1,1,2,True
+3768027,2022,30,2022-10-05,Esporte Clube Juventude,Sport Club Corinthians Paulista,0,0,0,False
+3768023,2022,30,2022-10-06,CR Flamengo,Sport Club Internacional,0,0,0,False
+3768024,2022,30,2022-10-06,Red Bull Bragantino,Cuiabá Esporte Clube (MT),1,1,2,True
+3768026,2022,30,2022-10-06,Santos FC,Clube Atlético Mineiro,0,0,0,False
+3768028,2022,30,2022-10-06,Ceará Sporting Club,Goiás EC,1,1,2,True
+3768029,2022,30,2022-10-06,Atlético Clube Goianiense,Fluminense Football Club,0,0,0,False
+3768031,2022,30,2022-10-06,Club Athletico Paranaense,Fortaleza Esporte Clube,2,2,2,True
+3768022,2022,30,2022-10-07,América Futebol Clube (MG),São Paulo Futebol Clube,1,1,2,True
+3768025,2022,30,2022-10-07,Sociedade Esportiva Palmeiras,Coritiba Foot Ball Club,1,1,2,True
+3768030,2022,30,2022-10-07,Avaí FC,Botafogo de Futebol e Regatas,0,0,0,False
+3767992,2022,31,2022-10-09,Clube Atlético Mineiro,Ceará Sporting Club,2,2,2,True
+3767993,2022,31,2022-10-09,Fluminense Football Club,América Futebol Clube (MG),2,2,2,True
+3767994,2022,31,2022-10-09,São Paulo Futebol Clube,Botafogo de Futebol e Regatas,2,2,2,True
+3767995,2022,31,2022-10-09,Sport Club Corinthians Paulista,Club Athletico Paranaense,2,2,2,True
+3767997,2022,31,2022-10-09,Sport Club Internacional,Goiás EC,0,0,0,False
+3767998,2022,31,2022-10-09,Fortaleza Esporte Clube,Avaí FC,1,1,2,True
+3768000,2022,31,2022-10-09,Cuiabá Esporte Clube (MT),CR Flamengo,0,0,0,False
+3768001,2022,31,2022-10-09,Coritiba Foot Ball Club,Red Bull Bragantino,1,1,2,True
+3767999,2022,31,2022-10-10,Atlético Clube Goianiense,Sociedade Esportiva Palmeiras,1,1,2,True
+3767996,2022,31,2022-10-11,Santos FC,Esporte Clube Juventude,0,0,0,False
+3767982,2022,32,2022-10-16,América Futebol Clube (MG),Fortaleza Esporte Clube,0,0,0,False
+3767983,2022,32,2022-10-16,CR Flamengo,Clube Atlético Mineiro,1,1,2,True
+3767985,2022,32,2022-10-16,Sociedade Esportiva Palmeiras,São Paulo Futebol Clube,0,0,0,False
+3767986,2022,32,2022-10-16,Botafogo de Futebol e Regatas,Sport Club Internacional,2,2,2,True
+3767987,2022,32,2022-10-16,Esporte Clube Juventude,Atlético Clube Goianiense,0,0,0,False
+3767988,2022,32,2022-10-16,Ceará Sporting Club,Cuiabá Esporte Clube (MT),0,0,0,False
+3767991,2022,32,2022-10-16,Club Athletico Paranaense,Coritiba Foot Ball Club,1,1,2,True
+3767990,2022,32,2022-10-17,Avaí FC,Fluminense Football Club,1,1,2,True
+3767984,2022,32,2022-10-18,Red Bull Bragantino,Santos FC,3,3,2,True
+3767989,2022,32,2022-10-29,Goiás EC,Sport Club Corinthians Paulista,0,0,0,False
+3767974,2022,33,2022-10-22,Red Bull Bragantino,Club Athletico Paranaense,1,1,2,True
+3767972,2022,33,2022-10-23,América Futebol Clube (MG),CR Flamengo,1,1,2,True
+3767973,2022,33,2022-10-23,Fluminense Football Club,Botafogo de Futebol e Regatas,1,1,2,True
+3767975,2022,33,2022-10-23,Sociedade Esportiva Palmeiras,Avaí FC,0,0,0,False
+3767976,2022,33,2022-10-23,Santos FC,Sport Club Corinthians Paulista,0,0,0,False
+3767977,2022,33,2022-10-23,Esporte Clube Juventude,São Paulo Futebol Clube,1,1,2,True
+3767979,2022,33,2022-10-23,Atlético Clube Goianiense,Ceará Sporting Club,0,0,0,False
+3767980,2022,33,2022-10-23,Cuiabá Esporte Clube (MT),Goiás EC,0,0,0,False
+3767981,2022,33,2022-10-23,Coritiba Foot Ball Club,Sport Club Internacional,0,0,0,False
+3767978,2022,33,2022-10-25,Fortaleza Esporte Clube,Clube Atlético Mineiro,0,0,0,False
+3767943,2022,34,2022-10-26,CR Flamengo,Santos FC,0,0,0,False
+3767951,2022,34,2022-10-26,Club Athletico Paranaense,Sociedade Esportiva Palmeiras,1,1,2,True
+3767945,2022,34,2022-10-27,Sport Club Corinthians Paulista,Fluminense Football Club,1,1,2,True
+3767946,2022,34,2022-10-27,Botafogo de Futebol e Regatas,Red Bull Bragantino,2,2,2,True
+3767947,2022,34,2022-10-27,Sport Club Internacional,Ceará Sporting Club,1,1,2,True
+3767949,2022,34,2022-10-27,Goiás EC,América Futebol Clube (MG),0,0,0,False
+3767942,2022,34,2022-10-28,Clube Atlético Mineiro,Esporte Clube Juventude,0,0,0,False
+3767944,2022,34,2022-10-28,São Paulo Futebol Clube,Atlético Clube Goianiense,3,3,2,True
+3767948,2022,34,2022-10-28,Fortaleza Esporte Clube,Coritiba Foot Ball Club,0,0,0,False
+3767950,2022,34,2022-10-28,Cuiabá Esporte Clube (MT),Avaí FC,2,2,2,True
+3767956,2022,35,2022-11-01,Botafogo de Futebol e Regatas,Cuiabá Esporte Clube (MT),1,1,2,True
+3767958,2022,35,2022-11-01,Ceará Sporting Club,Fluminense Football Club,1,1,2,True
+3767952,2022,35,2022-11-02,América Futebol Clube (MG),Sport Club Internacional,0,0,0,False
+3767954,2022,35,2022-11-02,São Paulo Futebol Clube,Clube Atlético Mineiro,0,0,0,False
+3767957,2022,35,2022-11-02,Esporte Clube Juventude,Coritiba Foot Ball Club,0,0,0,False
+3767959,2022,35,2022-11-02,Atlético Clube Goianiense,Santos FC,0,0,0,False
+3767960,2022,35,2022-11-02,Avaí FC,Red Bull Bragantino,2,2,2,True
+3767961,2022,35,2022-11-02,Club Athletico Paranaense,Goiás EC,0,0,0,False
+3767953,2022,35,2022-11-03,CR Flamengo,Sport Club Corinthians Paulista,1,1,2,True
+3767955,2022,35,2022-11-03,Sociedade Esportiva Palmeiras,Fortaleza Esporte Clube,1,1,2,True
+3767963,2022,36,2022-11-05,Fluminense Football Club,São Paulo Futebol Clube,1,1,2,True
+3767964,2022,36,2022-11-05,Red Bull Bragantino,América Futebol Clube (MG),1,1,2,True
+3767966,2022,36,2022-11-05,Santos FC,Avaí FC,0,0,0,False
+3767969,2022,36,2022-11-05,Goiás EC,Esporte Clube Juventude,0,0,0,False
+3767965,2022,36,2022-11-06,Sport Club Corinthians Paulista,Ceará Sporting Club,0,0,0,False
+3767967,2022,36,2022-11-06,Sport Club Internacional,Club Athletico Paranaense,2,2,2,True
+3767968,2022,36,2022-11-06,Fortaleza Esporte Clube,Atlético Clube Goianiense,2,2,2,True
+3767970,2022,36,2022-11-06,Cuiabá Esporte Clube (MT),Sociedade Esportiva Palmeiras,0,0,0,False
+3767971,2022,36,2022-11-06,Coritiba Foot Ball Club,CR Flamengo,1,1,2,True
+3767962,2022,36,2022-11-08,Clube Atlético Mineiro,Botafogo de Futebol e Regatas,1,1,2,True
+3767933,2022,37,2022-11-09,Fluminense Football Club,Goiás EC,0,0,0,False
+3767934,2022,37,2022-11-09,São Paulo Futebol Clube,Sport Club Internacional,0,0,0,False
+3767940,2022,37,2022-11-09,Avaí FC,Ceará Sporting Club,0,0,0,False
+3767941,2022,37,2022-11-09,Coritiba Foot Ball Club,Sport Club Corinthians Paulista,0,0,0,False
+3767935,2022,37,2022-11-10,Sociedade Esportiva Palmeiras,América Futebol Clube (MG),0,0,0,False
+3767937,2022,37,2022-11-10,Esporte Clube Juventude,CR Flamengo,1,1,2,True
+3767938,2022,37,2022-11-10,Fortaleza Esporte Clube,Red Bull Bragantino,3,3,2,True
+3767939,2022,37,2022-11-10,Atlético Clube Goianiense,Club Athletico Paranaense,0,0,0,False
+3767932,2022,37,2022-11-11,Clube Atlético Mineiro,Cuiabá Esporte Clube (MT),1,1,2,True
+3767936,2022,37,2022-11-11,Botafogo de Futebol e Regatas,Santos FC,2,2,2,True
+3767922,2022,38,2022-11-13,América Futebol Clube (MG),Atlético Clube Goianiense,0,0,0,False
+3767923,2022,38,2022-11-13,CR Flamengo,Avaí FC,0,0,0,False
+3767924,2022,38,2022-11-13,Red Bull Bragantino,Fluminense Football Club,2,2,2,True
+3767925,2022,38,2022-11-13,Sport Club Corinthians Paulista,Clube Atlético Mineiro,0,0,0,False
+3767926,2022,38,2022-11-13,Santos FC,Fortaleza Esporte Clube,0,0,0,False
+3767927,2022,38,2022-11-13,Sport Club Internacional,Sociedade Esportiva Palmeiras,0,0,0,False
+3767928,2022,38,2022-11-13,Ceará Sporting Club,Esporte Clube Juventude,2,2,2,True
+3767929,2022,38,2022-11-13,Goiás EC,São Paulo Futebol Clube,0,0,0,False
+3767930,2022,38,2022-11-13,Cuiabá Esporte Clube (MT),Coritiba Foot Ball Club,2,2,2,True
+3767931,2022,38,2022-11-13,Club Athletico Paranaense,Botafogo de Futebol e Regatas,1,1,2,True
+4055814,2023,1,2023-04-15,Sociedade Esportiva Palmeiras,Cuiabá Esporte Clube (MT),0,0,0,False
+4055815,2023,1,2023-04-15,América Futebol Clube (MG),Fluminense Football Club,3,3,2,True
+4055816,2023,1,2023-04-15,Botafogo de Futebol e Regatas,São Paulo Futebol Clube,1,1,2,True
+4055817,2023,1,2023-04-15,Red Bull Bragantino,Esporte Clube Bahia,1,1,2,True
+4055818,2023,1,2023-04-15,Club Athletico Paranaense,Goiás EC,0,0,0,False
+4055819,2023,1,2023-04-15,Fortaleza Esporte Clube,Sport Club Internacional,2,2,2,True
+4055820,2023,1,2023-04-16,Clube Atlético Mineiro,Clube de Regatas Vasco da Gama,0,0,0,False
+4055821,2023,1,2023-04-16,CR Flamengo,Coritiba Foot Ball Club,0,0,0,False
+4055822,2023,1,2023-04-16,Sport Club Corinthians Paulista,Cruzeiro Esporte Clube,1,1,2,True
+4055823,2023,1,2023-04-16,Grêmio Foot-Ball Porto Alegrense,Santos FC,1,1,2,True
+4059103,2023,2,2023-04-22,Fluminense Football Club,Club Athletico Paranaense,0,0,0,False
+4059104,2023,2,2023-04-22,São Paulo Futebol Clube,América Futebol Clube (MG),1,1,2,True
+4059105,2023,2,2023-04-22,Cuiabá Esporte Clube (MT),Red Bull Bragantino,1,1,2,True
+4059106,2023,2,2023-04-23,Cruzeiro Esporte Clube,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+4059107,2023,2,2023-04-23,Sport Club Internacional,CR Flamengo,0,0,0,False
+4059108,2023,2,2023-04-23,Clube de Regatas Vasco da Gama,Sociedade Esportiva Palmeiras,0,0,0,False
+4059109,2023,2,2023-04-23,Santos FC,Clube Atlético Mineiro,0,0,0,False
+4059110,2023,2,2023-04-23,Coritiba Foot Ball Club,Fortaleza Esporte Clube,0,0,0,False
+4059111,2023,2,2023-04-24,Goiás EC,Sport Club Corinthians Paulista,1,1,2,True
+4059112,2023,2,2023-04-25,Esporte Clube Bahia,Botafogo de Futebol e Regatas,1,1,2,True
+4060062,2023,3,2023-04-29,Coritiba Foot Ball Club,São Paulo Futebol Clube,1,1,2,True
+4060064,2023,3,2023-04-29,Sociedade Esportiva Palmeiras,Sport Club Corinthians Paulista,2,2,2,True
+4060065,2023,3,2023-04-29,Santos FC,América Futebol Clube (MG),1,1,2,True
+4060066,2023,3,2023-04-29,Red Bull Bragantino,Cruzeiro Esporte Clube,1,1,2,True
+4060067,2023,3,2023-04-30,Clube Atlético Mineiro,Club Athletico Paranaense,0,0,0,False
+4060068,2023,3,2023-04-30,CR Flamengo,Botafogo de Futebol e Regatas,2,2,2,True
+4060069,2023,3,2023-04-30,Sport Club Internacional,Goiás EC,1,1,2,True
+4060070,2023,3,2023-04-30,Cuiabá Esporte Clube (MT),Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+4060071,2023,3,2023-05-02,Clube de Regatas Vasco da Gama,Esporte Clube Bahia,0,0,0,False
+4061498,2023,4,2023-05-06,Cruzeiro Esporte Clube,Santos FC,1,1,2,True
+4061493,2023,4,2023-05-07,Fluminense Football Club,Clube de Regatas Vasco da Gama,0,0,0,False
+4061494,2023,4,2023-05-07,Botafogo de Futebol e Regatas,Clube Atlético Mineiro,2,2,2,True
+4061495,2023,4,2023-05-07,São Paulo Futebol Clube,Sport Club Internacional,0,0,0,False
+4061497,2023,4,2023-05-07,Goiás EC,Sociedade Esportiva Palmeiras,0,0,0,False
+4061499,2023,4,2023-05-07,Grêmio Foot-Ball Porto Alegrense,Red Bull Bragantino,1,1,2,True
+4061500,2023,4,2023-05-07,Club Athletico Paranaense,CR Flamengo,0,0,0,False
+4061501,2023,4,2023-05-07,Esporte Clube Bahia,Coritiba Foot Ball Club,0,0,0,False
+4061502,2023,4,2023-05-07,América Futebol Clube (MG),Cuiabá Esporte Clube (MT),0,0,0,False
+4061496,2023,4,2023-05-09,Sport Club Corinthians Paulista,Fortaleza Esporte Clube,1,1,2,True
+4061433,2023,5,2023-05-11,CR Flamengo,Goiás EC,0,0,0,False
+4061435,2023,5,2023-05-11,Sociedade Esportiva Palmeiras,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+4061436,2023,5,2023-05-11,Santos FC,Esporte Clube Bahia,0,0,0,False
+4061437,2023,5,2023-05-11,Red Bull Bragantino,América Futebol Clube (MG),2,2,2,True
+4061438,2023,5,2023-05-11,Cruzeiro Esporte Clube,Fluminense Football Club,1,1,2,True
+4061439,2023,5,2023-05-11,Sport Club Internacional,Club Athletico Paranaense,2,2,2,True
+4061442,2023,5,2023-05-11,Cuiabá Esporte Clube (MT),Clube Atlético Mineiro,1,1,2,True
+4061434,2023,5,2023-05-12,Botafogo de Futebol e Regatas,Sport Club Corinthians Paulista,1,1,2,True
+4061440,2023,5,2023-05-12,Coritiba Foot Ball Club,Clube de Regatas Vasco da Gama,0,0,0,False
+4061441,2023,5,2023-05-12,Fortaleza Esporte Clube,São Paulo Futebol Clube,2,2,2,True
+4061513,2023,6,2023-05-13,Fluminense Football Club,Cuiabá Esporte Clube (MT),0,0,0,False
+4061515,2023,6,2023-05-13,Sociedade Esportiva Palmeiras,Red Bull Bragantino,1,1,2,True
+4061521,2023,6,2023-05-13,Esporte Clube Bahia,CR Flamengo,1,1,2,True
+4061514,2023,6,2023-05-14,Clube de Regatas Vasco da Gama,Santos FC,1,1,2,True
+4061516,2023,6,2023-05-14,Sport Club Corinthians Paulista,São Paulo Futebol Clube,0,0,0,False
+4061517,2023,6,2023-05-14,Goiás EC,Botafogo de Futebol e Regatas,2,2,2,True
+4061518,2023,6,2023-05-14,Clube Atlético Mineiro,Sport Club Internacional,0,0,0,False
+4061519,2023,6,2023-05-14,Grêmio Foot-Ball Porto Alegrense,Fortaleza Esporte Clube,2,2,2,True
+4061520,2023,6,2023-05-14,Club Athletico Paranaense,Coritiba Foot Ball Club,1,1,2,True
+4061522,2023,6,2023-05-14,América Futebol Clube (MG),Cruzeiro Esporte Clube,2,2,2,True
+4061404,2023,7,2023-05-20,Botafogo de Futebol e Regatas,Fluminense Football Club,0,0,0,False
+4061405,2023,7,2023-05-20,São Paulo Futebol Clube,Clube de Regatas Vasco da Gama,1,1,2,True
+4061407,2023,7,2023-05-20,Red Bull Bragantino,Club Athletico Paranaense,0,0,0,False
+4061410,2023,7,2023-05-20,Coritiba Foot Ball Club,Clube Atlético Mineiro,0,0,0,False
+4061411,2023,7,2023-05-20,Esporte Clube Bahia,Goiás EC,2,2,2,True
+4061412,2023,7,2023-05-20,América Futebol Clube (MG),Fortaleza Esporte Clube,0,0,0,False
+4061403,2023,7,2023-05-21,CR Flamengo,Sport Club Corinthians Paulista,0,0,0,False
+4061406,2023,7,2023-05-21,Santos FC,Sociedade Esportiva Palmeiras,1,1,2,True
+4061409,2023,7,2023-05-21,Grêmio Foot-Ball Porto Alegrense,Sport Club Internacional,1,1,2,True
+4061408,2023,7,2023-05-23,Cruzeiro Esporte Clube,Cuiabá Esporte Clube (MT),1,1,2,True
+4061443,2023,8,2023-05-27,CR Flamengo,Cruzeiro Esporte Clube,1,3,3,True
+4061450,2023,8,2023-05-27,Club Athletico Paranaense,Grêmio Foot-Ball Porto Alegrense,0,0,0,False
+4061451,2023,8,2023-05-27,Fortaleza Esporte Clube,Clube de Regatas Vasco da Gama,1,1,2,True
+4061452,2023,8,2023-05-27,Cuiabá Esporte Clube (MT),Coritiba Foot Ball Club,0,0,0,False
+4061445,2023,8,2023-05-28,São Paulo Futebol Clube,Goiás EC,1,1,2,True
+4061446,2023,8,2023-05-28,Sport Club Corinthians Paulista,Fluminense Football Club,1,1,2,True
+4061448,2023,8,2023-05-28,Clube Atlético Mineiro,Sociedade Esportiva Palmeiras,1,1,2,True
+4061449,2023,8,2023-05-28,Sport Club Internacional,Esporte Clube Bahia,1,1,2,True
+4061444,2023,8,2023-05-29,Botafogo de Futebol e Regatas,América Futebol Clube (MG),0,0,0,False
+4061447,2023,8,2023-05-29,Red Bull Bragantino,Santos FC,1,1,2,True
+4061418,2023,9,2023-06-03,Cruzeiro Esporte Clube,Clube Atlético Mineiro,1,1,2,True
+4061420,2023,9,2023-06-03,Club Athletico Paranaense,Botafogo de Futebol e Regatas,1,1,2,True
+4061421,2023,9,2023-06-03,Fortaleza Esporte Clube,Esporte Clube Bahia,0,0,0,False
+4061422,2023,9,2023-06-03,América Futebol Clube (MG),Sport Club Corinthians Paulista,1,1,2,True
+4061413,2023,9,2023-06-04,Fluminense Football Club,Red Bull Bragantino,0,0,0,False
+4061415,2023,9,2023-06-04,Sociedade Esportiva Palmeiras,Coritiba Foot Ball Club,0,0,0,False
+4061416,2023,9,2023-06-04,Santos FC,Sport Club Internacional,1,1,2,True
+4061417,2023,9,2023-06-04,Goiás EC,Cuiabá Esporte Clube (MT),2,2,2,True
+4061419,2023,9,2023-06-04,Grêmio Foot-Ball Porto Alegrense,São Paulo Futebol Clube,2,2,2,True
+4061414,2023,9,2023-06-06,Clube de Regatas Vasco da Gama,CR Flamengo,0,0,0,False
+4061526,2023,10,2023-06-10,Sport Club Corinthians Paulista,Cuiabá Esporte Clube (MT),0,0,0,False
+4061528,2023,10,2023-06-10,Clube Atlético Mineiro,Red Bull Bragantino,1,1,2,True
+4061530,2023,10,2023-06-10,Coritiba Foot Ball Club,Santos FC,0,0,0,False
+4061531,2023,10,2023-06-10,Esporte Clube Bahia,Cruzeiro Esporte Clube,2,4,3,True
+4061523,2023,10,2023-06-11,CR Flamengo,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+4061524,2023,10,2023-06-11,Botafogo de Futebol e Regatas,Fortaleza Esporte Clube,0,0,0,False
+4061525,2023,10,2023-06-11,São Paulo Futebol Clube,Sociedade Esportiva Palmeiras,1,1,2,True
+4061527,2023,10,2023-06-11,Goiás EC,Fluminense Football Club,1,1,2,True
+4061529,2023,10,2023-06-11,Sport Club Internacional,Clube de Regatas Vasco da Gama,0,0,0,False
+4061532,2023,10,2023-06-11,América Futebol Clube (MG),Club Athletico Paranaense,0,0,0,False
+4061463,2023,11,2023-06-22,Fluminense Football Club,Clube Atlético Mineiro,0,0,0,False
+4061465,2023,11,2023-06-22,São Paulo Futebol Clube,Club Athletico Paranaense,0,0,0,False
+4061466,2023,11,2023-06-22,Santos FC,Sport Club Corinthians Paulista,0,0,0,False
+4061468,2023,11,2023-06-22,Cruzeiro Esporte Clube,Fortaleza Esporte Clube,2,2,2,True
+4061471,2023,11,2023-06-22,Esporte Clube Bahia,Sociedade Esportiva Palmeiras,1,1,2,True
+4061464,2023,11,2023-06-23,Clube de Regatas Vasco da Gama,Goiás EC,2,2,2,True
+4061467,2023,11,2023-06-23,Red Bull Bragantino,CR Flamengo,1,1,2,True
+4061469,2023,11,2023-06-23,Grêmio Foot-Ball Porto Alegrense,América Futebol Clube (MG),1,1,2,True
+4061470,2023,11,2023-06-23,Coritiba Foot Ball Club,Sport Club Internacional,2,2,2,True
+4061472,2023,11,2023-06-23,Cuiabá Esporte Clube (MT),Botafogo de Futebol e Regatas,2,2,2,True
+4061503,2023,12,2023-06-24,Fluminense Football Club,Esporte Clube Bahia,2,2,2,True
+4061510,2023,12,2023-06-24,Club Athletico Paranaense,Sport Club Corinthians Paulista,2,2,2,True
+4061511,2023,12,2023-06-24,Fortaleza Esporte Clube,Clube Atlético Mineiro,0,0,0,False
+4061505,2023,12,2023-06-25,Sociedade Esportiva Palmeiras,Botafogo de Futebol e Regatas,1,1,2,True
+4061506,2023,12,2023-06-25,Santos FC,CR Flamengo,0,0,0,False
+4061507,2023,12,2023-06-25,Red Bull Bragantino,Goiás EC,1,1,2,True
+4061508,2023,12,2023-06-25,Cruzeiro Esporte Clube,São Paulo Futebol Clube,1,1,2,True
+4061509,2023,12,2023-06-25,Grêmio Foot-Ball Porto Alegrense,Coritiba Foot Ball Club,1,1,2,True
+4061512,2023,12,2023-06-25,América Futebol Clube (MG),Sport Club Internacional,0,0,0,False
+4061504,2023,12,2023-06-27,Clube de Regatas Vasco da Gama,Cuiabá Esporte Clube (MT),1,1,2,True
+4061541,2023,13,2023-07-01,CR Flamengo,Fortaleza Esporte Clube,1,1,2,True
+4061555,2023,13,2023-07-01,São Paulo Futebol Clube,Fluminense Football Club,0,0,0,False
+4061561,2023,13,2023-07-01,Esporte Clube Bahia,Grêmio Foot-Ball Porto Alegrense,2,2,2,True
+4061550,2023,13,2023-07-02,Botafogo de Futebol e Regatas,Clube de Regatas Vasco da Gama,1,1,2,True
+4061556,2023,13,2023-07-02,Sport Club Corinthians Paulista,Red Bull Bragantino,0,0,0,False
+4061558,2023,13,2023-07-02,Clube Atlético Mineiro,América Futebol Clube (MG),0,0,0,False
+4061559,2023,13,2023-07-02,Sport Club Internacional,Cruzeiro Esporte Clube,2,2,2,True
+4061560,2023,13,2023-07-02,Club Athletico Paranaense,Sociedade Esportiva Palmeiras,0,0,0,False
+4061562,2023,13,2023-07-02,Cuiabá Esporte Clube (MT),Santos FC,0,0,0,False
+4061557,2023,13,2023-07-04,Goiás EC,Coritiba Foot Ball Club,1,1,2,True
+4061298,2023,14,2023-07-08,Clube Atlético Mineiro,Sport Club Corinthians Paulista,0,0,0,False
+4061300,2023,14,2023-07-08,Coritiba Foot Ball Club,América Futebol Clube (MG),1,1,2,True
+4061302,2023,14,2023-07-08,Cuiabá Esporte Clube (MT),Esporte Clube Bahia,0,0,0,False
+4061293,2023,14,2023-07-09,Fluminense Football Club,Sport Club Internacional,0,0,0,False
+4061295,2023,14,2023-07-09,Sociedade Esportiva Palmeiras,CR Flamengo,3,3,2,True
+4061296,2023,14,2023-07-09,Santos FC,Goiás EC,2,2,2,True
+4061297,2023,14,2023-07-09,Red Bull Bragantino,São Paulo Futebol Clube,1,1,2,True
+4061299,2023,14,2023-07-09,Grêmio Foot-Ball Porto Alegrense,Botafogo de Futebol e Regatas,1,1,2,True
+4061301,2023,14,2023-07-09,Fortaleza Esporte Clube,Club Athletico Paranaense,0,0,0,False
+4061423,2023,15,2023-07-16,Fluminense Football Club,CR Flamengo,1,1,2,True
+4061424,2023,15,2023-07-16,Botafogo de Futebol e Regatas,Red Bull Bragantino,1,1,2,True
+4061425,2023,15,2023-07-16,São Paulo Futebol Clube,Santos FC,0,0,0,False
+4061428,2023,15,2023-07-16,Cruzeiro Esporte Clube,Coritiba Foot Ball Club,2,2,2,True
+4061429,2023,15,2023-07-16,Sport Club Internacional,Sociedade Esportiva Palmeiras,0,0,0,False
+4061430,2023,15,2023-07-16,Club Athletico Paranaense,Esporte Clube Bahia,0,0,0,False
+4061431,2023,15,2023-07-16,Fortaleza Esporte Clube,Cuiabá Esporte Clube (MT),0,0,0,False
+4061427,2023,15,2023-07-18,Goiás EC,Clube Atlético Mineiro,0,0,0,False
+4061426,2023,15,2023-09-19,Sport Club Corinthians Paulista,Grêmio Foot-Ball Porto Alegrense,3,3,2,True
+4061432,2023,15,2023-09-26,América Futebol Clube (MG),Clube de Regatas Vasco da Gama,0,0,0,False
+4061534,2023,16,2023-07-22,CR Flamengo,América Futebol Clube (MG),0,0,0,False
+4061538,2023,16,2023-07-22,Sociedade Esportiva Palmeiras,Fortaleza Esporte Clube,0,0,0,False
+4061551,2023,16,2023-07-22,Esporte Clube Bahia,Sport Club Corinthians Paulista,1,1,2,True
+4061553,2023,16,2023-07-22,Cuiabá Esporte Clube (MT),São Paulo Futebol Clube,0,0,0,False
+4061536,2023,16,2023-07-23,Clube de Regatas Vasco da Gama,Club Athletico Paranaense,2,2,2,True
+4061539,2023,16,2023-07-23,Santos FC,Botafogo de Futebol e Regatas,0,0,0,False
+4061543,2023,16,2023-07-23,Red Bull Bragantino,Sport Club Internacional,1,1,2,True
+4061545,2023,16,2023-07-23,Cruzeiro Esporte Clube,Goiás EC,1,1,2,True
+4061547,2023,16,2023-07-23,Grêmio Foot-Ball Porto Alegrense,Clube Atlético Mineiro,0,0,0,False
+4061549,2023,16,2023-07-25,Coritiba Foot Ball Club,Fluminense Football Club,1,1,2,True
+4061533,2023,17,2023-07-29,Fluminense Football Club,Santos FC,0,0,0,False
+4061540,2023,17,2023-07-29,Sport Club Corinthians Paulista,Clube de Regatas Vasco da Gama,1,1,2,True
+4061546,2023,17,2023-07-29,Sport Club Internacional,Cuiabá Esporte Clube (MT),0,0,0,False
+4061548,2023,17,2023-07-29,Club Athletico Paranaense,Cruzeiro Esporte Clube,1,1,2,True
+4061552,2023,17,2023-07-29,Fortaleza Esporte Clube,Red Bull Bragantino,2,2,2,True
+4061535,2023,17,2023-07-30,Botafogo de Futebol e Regatas,Coritiba Foot Ball Club,1,1,2,True
+4061537,2023,17,2023-07-30,São Paulo Futebol Clube,Esporte Clube Bahia,1,1,2,True
+4061542,2023,17,2023-07-30,Goiás EC,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+4061544,2023,17,2023-07-30,Clube Atlético Mineiro,CR Flamengo,0,0,0,False
+4061554,2023,17,2023-07-30,América Futebol Clube (MG),Sociedade Esportiva Palmeiras,1,1,2,True
+4061276,2023,18,2023-08-05,Santos FC,Club Athletico Paranaense,2,2,2,True
+4061277,2023,18,2023-08-05,Goiás EC,Fortaleza Esporte Clube,0,0,0,False
+4061279,2023,18,2023-08-05,Sport Club Internacional,Sport Club Corinthians Paulista,1,1,2,True
+4061273,2023,18,2023-08-06,Fluminense Football Club,Sociedade Esportiva Palmeiras,1,3,3,True
+4061274,2023,18,2023-08-06,Clube de Regatas Vasco da Gama,Grêmio Foot-Ball Porto Alegrense,2,2,2,True
+4061275,2023,18,2023-08-06,São Paulo Futebol Clube,Clube Atlético Mineiro,0,0,0,False
+4061278,2023,18,2023-08-06,Cruzeiro Esporte Clube,Botafogo de Futebol e Regatas,1,1,2,True
+4061280,2023,18,2023-08-06,Coritiba Foot Ball Club,Red Bull Bragantino,1,1,2,True
+4061281,2023,18,2023-08-06,Esporte Clube Bahia,América Futebol Clube (MG),1,1,2,True
+4061282,2023,18,2023-08-07,Cuiabá Esporte Clube (MT),CR Flamengo,0,0,0,False
+4061393,2023,19,2023-08-13,CR Flamengo,São Paulo Futebol Clube,0,0,0,False
+4061394,2023,19,2023-08-13,Botafogo de Futebol e Regatas,Sport Club Internacional,3,3,2,True
+4061396,2023,19,2023-08-13,Sport Club Corinthians Paulista,Coritiba Foot Ball Club,0,0,0,False
+4061398,2023,19,2023-08-13,Clube Atlético Mineiro,Esporte Clube Bahia,1,1,2,True
+4061399,2023,19,2023-08-13,Grêmio Foot-Ball Porto Alegrense,Fluminense Football Club,1,1,2,True
+4061401,2023,19,2023-08-13,Fortaleza Esporte Clube,Santos FC,0,0,0,False
+4061402,2023,19,2023-08-13,América Futebol Clube (MG),Goiás EC,0,0,0,False
+4061395,2023,19,2023-08-15,Sociedade Esportiva Palmeiras,Cruzeiro Esporte Clube,1,1,2,True
+4061397,2023,19,2023-08-15,Red Bull Bragantino,Clube de Regatas Vasco da Gama,0,0,0,False
+4061400,2023,19,2023-08-16,Club Athletico Paranaense,Cuiabá Esporte Clube (MT),0,0,0,False
+4061243,2023,20,2023-08-19,Fluminense Football Club,América Futebol Clube (MG),0,0,0,False
+4061245,2023,20,2023-08-19,São Paulo Futebol Clube,Botafogo de Futebol e Regatas,2,2,2,True
+4061249,2023,20,2023-08-19,Sport Club Internacional,Fortaleza Esporte Clube,2,2,2,True
+4061252,2023,20,2023-08-19,Cuiabá Esporte Clube (MT),Sociedade Esportiva Palmeiras,0,0,0,False
+4061244,2023,20,2023-08-20,Clube de Regatas Vasco da Gama,Clube Atlético Mineiro,0,0,0,False
+4061246,2023,20,2023-08-20,Santos FC,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+4061248,2023,20,2023-08-20,Cruzeiro Esporte Clube,Sport Club Corinthians Paulista,1,1,2,True
+4061250,2023,20,2023-08-20,Coritiba Foot Ball Club,CR Flamengo,0,0,0,False
+4061251,2023,20,2023-08-20,Esporte Clube Bahia,Red Bull Bragantino,2,2,2,True
+4061247,2023,20,2023-08-22,Goiás EC,Club Athletico Paranaense,0,0,0,False
+4061383,2023,21,2023-08-26,CR Flamengo,Sport Club Internacional,1,1,2,True
+4061384,2023,21,2023-08-27,Botafogo de Futebol e Regatas,Esporte Clube Bahia,2,2,2,True
+4061385,2023,21,2023-08-27,Sociedade Esportiva Palmeiras,Clube de Regatas Vasco da Gama,1,1,2,True
+4061386,2023,21,2023-08-27,Sport Club Corinthians Paulista,Goiás EC,0,0,0,False
+4061387,2023,21,2023-08-27,Red Bull Bragantino,Cuiabá Esporte Clube (MT),1,1,2,True
+4061388,2023,21,2023-08-27,Clube Atlético Mineiro,Santos FC,1,1,2,True
+4061390,2023,21,2023-08-27,Club Athletico Paranaense,Fluminense Football Club,2,2,2,True
+4061391,2023,21,2023-08-27,Fortaleza Esporte Clube,Coritiba Foot Ball Club,0,0,0,False
+4061392,2023,21,2023-08-27,América Futebol Clube (MG),São Paulo Futebol Clube,1,1,2,True
+4061389,2023,21,2023-08-28,Grêmio Foot-Ball Porto Alegrense,Cruzeiro Esporte Clube,3,3,2,True
+4061287,2023,22,2023-09-02,Goiás EC,Sport Club Internacional,1,1,2,True
+4061290,2023,22,2023-09-02,Club Athletico Paranaense,Clube Atlético Mineiro,1,1,2,True
+4061283,2023,22,2023-09-03,Fluminense Football Club,Fortaleza Esporte Clube,0,0,0,False
+4061284,2023,22,2023-09-03,Botafogo de Futebol e Regatas,CR Flamengo,1,1,2,True
+4061286,2023,22,2023-09-03,Sport Club Corinthians Paulista,Sociedade Esportiva Palmeiras,0,0,0,False
+4061288,2023,22,2023-09-03,Cruzeiro Esporte Clube,Red Bull Bragantino,1,3,3,True
+4061289,2023,22,2023-09-03,Grêmio Foot-Ball Porto Alegrense,Cuiabá Esporte Clube (MT),2,2,2,True
+4061291,2023,22,2023-09-03,Esporte Clube Bahia,Clube de Regatas Vasco da Gama,1,1,2,True
+4061292,2023,22,2023-09-03,América Futebol Clube (MG),Santos FC,2,2,2,True
+4061285,2023,22,2023-09-28,São Paulo Futebol Clube,Coritiba Foot Ball Club,0,0,0,False
+4061213,2023,23,2023-09-14,CR Flamengo,Club Athletico Paranaense,0,0,0,False
+4061219,2023,23,2023-09-14,Sport Club Internacional,São Paulo Futebol Clube,1,1,2,True
+4061216,2023,23,2023-09-15,Santos FC,Cruzeiro Esporte Clube,1,1,2,True
+4061217,2023,23,2023-09-15,Red Bull Bragantino,Grêmio Foot-Ball Porto Alegrense,2,2,2,True
+4061220,2023,23,2023-09-15,Coritiba Foot Ball Club,Esporte Clube Bahia,1,1,2,True
+4061221,2023,23,2023-09-15,Fortaleza Esporte Clube,Sport Club Corinthians Paulista,0,0,0,False
+4061214,2023,23,2023-09-16,Clube de Regatas Vasco da Gama,Fluminense Football Club,0,0,0,False
+4061215,2023,23,2023-09-16,Sociedade Esportiva Palmeiras,Goiás EC,1,1,2,True
+4061222,2023,23,2023-09-16,Cuiabá Esporte Clube (MT),América Futebol Clube (MG),0,0,0,False
+4061218,2023,23,2023-09-17,Clube Atlético Mineiro,Botafogo de Futebol e Regatas,1,1,2,True
+4061261,2023,24,2023-09-19,Esporte Clube Bahia,Santos FC,2,2,2,True
+4061262,2023,24,2023-09-20,América Futebol Clube (MG),Red Bull Bragantino,1,1,2,True
+4061253,2023,24,2023-09-21,Fluminense Football Club,Cruzeiro Esporte Clube,1,1,2,True
+4061255,2023,24,2023-09-21,São Paulo Futebol Clube,Fortaleza Esporte Clube,0,0,0,False
+4061257,2023,24,2023-09-21,Goiás EC,CR Flamengo,0,0,0,False
+4061259,2023,24,2023-09-22,Grêmio Foot-Ball Porto Alegrense,Sociedade Esportiva Palmeiras,1,1,2,True
+4061260,2023,24,2023-09-22,Club Athletico Paranaense,Sport Club Internacional,0,0,0,False
+4061256,2023,24,2023-09-23,Sport Club Corinthians Paulista,Botafogo de Futebol e Regatas,1,1,2,True
+4061258,2023,24,2023-09-24,Clube Atlético Mineiro,Cuiabá Esporte Clube (MT),0,0,0,False
+4061373,2023,25,2023-09-30,CR Flamengo,Esporte Clube Bahia,2,2,2,True
+4061375,2023,25,2023-09-30,São Paulo Futebol Clube,Sport Club Corinthians Paulista,1,1,2,True
+4061381,2023,25,2023-09-30,Fortaleza Esporte Clube,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+4061382,2023,25,2023-09-30,Cuiabá Esporte Clube (MT),Fluminense Football Club,0,0,0,False
+4061376,2023,25,2023-10-01,Santos FC,Clube de Regatas Vasco da Gama,1,1,2,True
+4061377,2023,25,2023-10-01,Red Bull Bragantino,Sociedade Esportiva Palmeiras,0,0,0,False
+4061378,2023,25,2023-10-01,Cruzeiro Esporte Clube,América Futebol Clube (MG),2,2,2,True
+4061379,2023,25,2023-10-01,Sport Club Internacional,Clube Atlético Mineiro,0,0,0,False
+4061380,2023,25,2023-10-01,Coritiba Foot Ball Club,Club Athletico Paranaense,1,1,2,True
+4061374,2023,25,2023-10-03,Botafogo de Futebol e Regatas,Goiás EC,1,1,2,True
+4061264,2023,26,2023-10-07,Clube de Regatas Vasco da Gama,São Paulo Futebol Clube,0,0,0,False
+4061267,2023,26,2023-10-07,Goiás EC,Esporte Clube Bahia,1,1,2,True
+4061263,2023,26,2023-10-08,Fluminense Football Club,Botafogo de Futebol e Regatas,1,1,2,True
+4061265,2023,26,2023-10-08,Sociedade Esportiva Palmeiras,Santos FC,2,2,2,True
+4061266,2023,26,2023-10-08,Sport Club Corinthians Paulista,CR Flamengo,0,0,0,False
+4061268,2023,26,2023-10-08,Clube Atlético Mineiro,Coritiba Foot Ball Club,1,1,2,True
+4061269,2023,26,2023-10-08,Sport Club Internacional,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+4061270,2023,26,2023-10-08,Club Athletico Paranaense,Red Bull Bragantino,1,1,2,True
+4061271,2023,26,2023-10-08,Fortaleza Esporte Clube,América Futebol Clube (MG),2,2,2,True
+4061272,2023,26,2023-10-15,Cuiabá Esporte Clube (MT),Cruzeiro Esporte Clube,1,1,2,True
+4061344,2023,27,2023-10-19,Clube de Regatas Vasco da Gama,Fortaleza Esporte Clube,0,0,0,False
+4061347,2023,27,2023-10-19,Goiás EC,São Paulo Futebol Clube,1,1,2,True
+4061349,2023,27,2023-10-19,Grêmio Foot-Ball Porto Alegrense,Club Athletico Paranaense,0,0,0,False
+4061350,2023,27,2023-10-19,Coritiba Foot Ball Club,Cuiabá Esporte Clube (MT),1,1,2,True
+4061351,2023,27,2023-10-19,Esporte Clube Bahia,Sport Club Internacional,1,1,2,True
+4061352,2023,27,2023-10-19,América Futebol Clube (MG),Botafogo de Futebol e Regatas,1,1,2,True
+4061343,2023,27,2023-10-20,Fluminense Football Club,Sport Club Corinthians Paulista,3,3,2,True
+4061346,2023,27,2023-10-20,Santos FC,Red Bull Bragantino,2,2,2,True
+4061348,2023,27,2023-10-20,Cruzeiro Esporte Clube,CR Flamengo,1,3,3,True
+4061325,2023,28,2023-10-21,São Paulo Futebol Clube,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+4061331,2023,28,2023-10-21,Esporte Clube Bahia,Fortaleza Esporte Clube,2,2,2,True
+4061332,2023,28,2023-10-21,Cuiabá Esporte Clube (MT),Goiás EC,1,1,2,True
+4061323,2023,28,2023-10-22,CR Flamengo,Clube de Regatas Vasco da Gama,0,0,0,False
+4061324,2023,28,2023-10-22,Botafogo de Futebol e Regatas,Club Athletico Paranaense,2,2,2,True
+4061326,2023,28,2023-10-22,Sport Club Corinthians Paulista,América Futebol Clube (MG),0,0,0,False
+4061327,2023,28,2023-10-22,Red Bull Bragantino,Fluminense Football Club,1,1,2,True
+4061328,2023,28,2023-10-22,Clube Atlético Mineiro,Cruzeiro Esporte Clube,0,0,0,False
+4061329,2023,28,2023-10-22,Sport Club Internacional,Santos FC,2,2,2,True
+4061330,2023,28,2023-10-22,Coritiba Foot Ball Club,Sociedade Esportiva Palmeiras,0,0,0,False
+4061453,2023,29,2023-10-26,Fluminense Football Club,Goiás EC,1,1,2,True
+4061455,2023,29,2023-10-26,Sociedade Esportiva Palmeiras,São Paulo Futebol Clube,1,1,2,True
+4061457,2023,29,2023-10-26,Red Bull Bragantino,Clube Atlético Mineiro,2,2,2,True
+4061458,2023,29,2023-10-26,Cruzeiro Esporte Clube,Esporte Clube Bahia,2,4,3,True
+4061459,2023,29,2023-10-26,Grêmio Foot-Ball Porto Alegrense,CR Flamengo,0,0,0,False
+4061460,2023,29,2023-10-26,Club Athletico Paranaense,América Futebol Clube (MG),0,0,0,False
+4061462,2023,29,2023-10-26,Cuiabá Esporte Clube (MT),Sport Club Corinthians Paulista,0,0,0,False
+4061454,2023,29,2023-10-27,Clube de Regatas Vasco da Gama,Sport Club Internacional,0,0,0,False
+4061456,2023,29,2023-10-27,Santos FC,Coritiba Foot Ball Club,1,1,2,True
+4061461,2023,29,2023-11-23,Fortaleza Esporte Clube,Botafogo de Futebol e Regatas,1,1,2,True
+4061315,2023,30,2023-10-29,Sociedade Esportiva Palmeiras,Esporte Clube Bahia,1,1,2,True
+4061316,2023,30,2023-10-29,Sport Club Corinthians Paulista,Santos FC,1,1,2,True
+4061317,2023,30,2023-10-29,Goiás EC,Clube de Regatas Vasco da Gama,2,2,2,True
+4061318,2023,30,2023-10-29,Clube Atlético Mineiro,Fluminense Football Club,0,0,0,False
+4061319,2023,30,2023-10-29,Sport Club Internacional,Coritiba Foot Ball Club,0,0,0,False
+4061320,2023,30,2023-10-29,Club Athletico Paranaense,São Paulo Futebol Clube,1,1,2,True
+4061322,2023,30,2023-10-29,América Futebol Clube (MG),Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+4061314,2023,30,2023-10-30,Botafogo de Futebol e Regatas,Cuiabá Esporte Clube (MT),1,1,2,True
+4061321,2023,30,2023-11-18,Fortaleza Esporte Clube,Cruzeiro Esporte Clube,1,1,2,True
+4061313,2023,30,2023-11-24,CR Flamengo,Red Bull Bragantino,1,1,2,True
+4061241,2023,31,2023-10-31,Esporte Clube Bahia,Fluminense Football Club,1,1,2,True
+4061236,2023,31,2023-11-01,Sport Club Corinthians Paulista,Club Athletico Paranaense,1,1,2,True
+4061239,2023,31,2023-11-01,Sport Club Internacional,América Futebol Clube (MG),2,2,2,True
+4061233,2023,31,2023-11-02,CR Flamengo,Santos FC,0,0,0,False
+4061234,2023,31,2023-11-02,Botafogo de Futebol e Regatas,Sociedade Esportiva Palmeiras,1,3,3,True
+4061237,2023,31,2023-11-02,Goiás EC,Red Bull Bragantino,0,0,0,False
+4061238,2023,31,2023-11-02,Clube Atlético Mineiro,Fortaleza Esporte Clube,0,0,0,False
+4061240,2023,31,2023-11-02,Coritiba Foot Ball Club,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+4061242,2023,31,2023-11-02,Cuiabá Esporte Clube (MT),Clube de Regatas Vasco da Gama,0,0,0,False
+4061235,2023,31,2023-11-03,São Paulo Futebol Clube,Cruzeiro Esporte Clube,1,1,2,True
+4061229,2023,32,2023-11-04,Grêmio Foot-Ball Porto Alegrense,Esporte Clube Bahia,1,3,3,True
+4061232,2023,32,2023-11-04,América Futebol Clube (MG),Clube Atlético Mineiro,0,0,0,False
+4061225,2023,32,2023-11-05,Sociedade Esportiva Palmeiras,Club Athletico Paranaense,0,0,0,False
+4061227,2023,32,2023-11-05,Red Bull Bragantino,Sport Club Corinthians Paulista,0,0,0,False
+4061228,2023,32,2023-11-05,Cruzeiro Esporte Clube,Sport Club Internacional,1,1,2,True
+4061230,2023,32,2023-11-05,Coritiba Foot Ball Club,Goiás EC,1,1,2,True
+4061231,2023,32,2023-11-05,Fortaleza Esporte Clube,CR Flamengo,1,1,2,True
+4061224,2023,32,2023-11-06,Clube de Regatas Vasco da Gama,Botafogo de Futebol e Regatas,1,1,2,True
+4061226,2023,32,2023-11-07,Santos FC,Cuiabá Esporte Clube (MT),0,0,0,False
+4061223,2023,32,2023-11-23,Fluminense Football Club,São Paulo Futebol Clube,0,0,0,False
+4061339,2023,33,2023-11-08,Sport Club Internacional,Fluminense Football Club,0,0,0,False
+4061342,2023,33,2023-11-08,América Futebol Clube (MG),Coritiba Foot Ball Club,0,0,0,False
+4061333,2023,33,2023-11-09,CR Flamengo,Sociedade Esportiva Palmeiras,2,2,2,True
+4061335,2023,33,2023-11-09,São Paulo Futebol Clube,Red Bull Bragantino,0,0,0,False
+4061336,2023,33,2023-11-09,Sport Club Corinthians Paulista,Clube Atlético Mineiro,1,1,2,True
+4061337,2023,33,2023-11-09,Goiás EC,Santos FC,2,2,2,True
+4061340,2023,33,2023-11-09,Club Athletico Paranaense,Fortaleza Esporte Clube,0,0,0,False
+4061334,2023,33,2023-11-10,Botafogo de Futebol e Regatas,Grêmio Foot-Ball Porto Alegrense,2,2,2,True
+4061341,2023,33,2023-11-10,Esporte Clube Bahia,Cuiabá Esporte Clube (MT),1,1,2,True
+4061338,2023,33,2023-11-22,Cruzeiro Esporte Clube,Clube de Regatas Vasco da Gama,2,2,2,True
+4061303,2023,34,2023-11-11,CR Flamengo,Fluminense Football Club,0,0,0,False
+4061310,2023,34,2023-11-11,Coritiba Foot Ball Club,Cruzeiro Esporte Clube,1,1,2,True
+4061304,2023,34,2023-11-12,Clube de Regatas Vasco da Gama,América Futebol Clube (MG),0,0,0,False
+4061305,2023,34,2023-11-12,Sociedade Esportiva Palmeiras,Sport Club Internacional,0,0,0,False
+4061306,2023,34,2023-11-12,Santos FC,São Paulo Futebol Clube,0,0,0,False
+4061307,2023,34,2023-11-12,Red Bull Bragantino,Botafogo de Futebol e Regatas,1,1,2,True
+4061308,2023,34,2023-11-12,Clube Atlético Mineiro,Goiás EC,2,2,2,True
+4061309,2023,34,2023-11-12,Grêmio Foot-Ball Porto Alegrense,Sport Club Corinthians Paulista,1,1,2,True
+4061311,2023,34,2023-11-12,Esporte Clube Bahia,Club Athletico Paranaense,1,1,2,True
+4061312,2023,34,2023-11-12,Cuiabá Esporte Clube (MT),Fortaleza Esporte Clube,0,0,0,False
+4061356,2023,35,2023-11-25,Sport Club Corinthians Paulista,Esporte Clube Bahia,1,1,2,True
+4061360,2023,35,2023-11-25,Club Athletico Paranaense,Clube de Regatas Vasco da Gama,0,0,0,False
+4061353,2023,35,2023-11-26,Fluminense Football Club,Coritiba Foot Ball Club,1,1,2,True
+4061354,2023,35,2023-11-26,Botafogo de Futebol e Regatas,Santos FC,1,1,2,True
+4061355,2023,35,2023-11-26,São Paulo Futebol Clube,Cuiabá Esporte Clube (MT),0,0,0,False
+4061358,2023,35,2023-11-26,Clube Atlético Mineiro,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+4061359,2023,35,2023-11-26,Sport Club Internacional,Red Bull Bragantino,1,1,2,True
+4061361,2023,35,2023-11-26,Fortaleza Esporte Clube,Sociedade Esportiva Palmeiras,0,0,0,False
+4061362,2023,35,2023-11-26,América Futebol Clube (MG),CR Flamengo,0,0,0,False
+4061357,2023,35,2023-11-28,Goiás EC,Cruzeiro Esporte Clube,2,2,2,True
+4061363,2023,36,2023-11-29,CR Flamengo,Clube Atlético Mineiro,1,1,2,True
+4061364,2023,36,2023-11-29,Clube de Regatas Vasco da Gama,Sport Club Corinthians Paulista,0,0,0,False
+4061366,2023,36,2023-11-29,Santos FC,Fluminense Football Club,0,0,0,False
+4061365,2023,36,2023-11-30,Sociedade Esportiva Palmeiras,América Futebol Clube (MG),0,0,0,False
+4061369,2023,36,2023-11-30,Grêmio Foot-Ball Porto Alegrense,Goiás EC,2,2,2,True
+4061370,2023,36,2023-11-30,Coritiba Foot Ball Club,Botafogo de Futebol e Regatas,1,3,3,True
+4061371,2023,36,2023-11-30,Esporte Clube Bahia,São Paulo Futebol Clube,1,3,3,True
+4061372,2023,36,2023-11-30,Cuiabá Esporte Clube (MT),Sport Club Internacional,1,1,2,True
+4061367,2023,36,2023-12-01,Red Bull Bragantino,Fortaleza Esporte Clube,1,1,2,True
+4061368,2023,36,2023-12-01,Cruzeiro Esporte Clube,Club Athletico Paranaense,1,1,2,True
+4061476,2023,37,2023-12-02,Sport Club Corinthians Paulista,Sport Club Internacional,0,0,0,False
+4061473,2023,37,2023-12-03,CR Flamengo,Cuiabá Esporte Clube (MT),0,0,0,False
+4061474,2023,37,2023-12-03,Botafogo de Futebol e Regatas,Cruzeiro Esporte Clube,2,2,2,True
+4061475,2023,37,2023-12-03,Sociedade Esportiva Palmeiras,Fluminense Football Club,0,0,0,False
+4061477,2023,37,2023-12-03,Red Bull Bragantino,Coritiba Foot Ball Club,0,0,0,False
+4061478,2023,37,2023-12-03,Clube Atlético Mineiro,São Paulo Futebol Clube,1,1,2,True
+4061479,2023,37,2023-12-03,Grêmio Foot-Ball Porto Alegrense,Clube de Regatas Vasco da Gama,1,1,2,True
+4061480,2023,37,2023-12-03,Club Athletico Paranaense,Santos FC,3,3,2,True
+4061481,2023,37,2023-12-03,Fortaleza Esporte Clube,Goiás EC,0,0,0,False
+4061482,2023,37,2023-12-03,América Futebol Clube (MG),Esporte Clube Bahia,1,1,2,True
+4061487,2023,38,2023-12-06,Goiás EC,América Futebol Clube (MG),1,1,2,True
+4061483,2023,38,2023-12-07,Fluminense Football Club,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+4061484,2023,38,2023-12-07,Clube de Regatas Vasco da Gama,Red Bull Bragantino,1,1,2,True
+4061485,2023,38,2023-12-07,São Paulo Futebol Clube,CR Flamengo,0,0,0,False
+4061486,2023,38,2023-12-07,Santos FC,Fortaleza Esporte Clube,1,1,2,True
+4061488,2023,38,2023-12-07,Cruzeiro Esporte Clube,Sociedade Esportiva Palmeiras,1,1,2,True
+4061489,2023,38,2023-12-07,Sport Club Internacional,Botafogo de Futebol e Regatas,0,0,0,False
+4061490,2023,38,2023-12-07,Coritiba Foot Ball Club,Sport Club Corinthians Paulista,1,1,2,True
+4061491,2023,38,2023-12-07,Esporte Clube Bahia,Clube Atlético Mineiro,2,2,2,True
+4061492,2023,38,2023-12-07,Cuiabá Esporte Clube (MT),Club Athletico Paranaense,0,0,0,False
+4316187,2024,1,2024-04-13,Sport Club Internacional,Esporte Clube Bahia,2,2,2,True
+4316196,2024,1,2024-04-13,Criciúma EC,Esporte Clube Juventude,1,1,2,True
+4316188,2024,1,2024-04-14,Cruzeiro Esporte Clube,Botafogo de Futebol e Regatas,1,1,2,True
+4316189,2024,1,2024-04-14,Esporte Clube Vitória,Sociedade Esportiva Palmeiras,1,1,2,True
+4316190,2024,1,2024-04-14,Fluminense Football Club,Red Bull Bragantino,0,0,0,False
+4316191,2024,1,2024-04-14,Clube de Regatas Vasco da Gama,Grêmio Foot-Ball Porto Alegrense,0,0,0,False
+4316192,2024,1,2024-04-14,Sport Club Corinthians Paulista,Clube Atlético Mineiro,1,1,2,True
+4316193,2024,1,2024-04-14,São Paulo Futebol Clube,Fortaleza Esporte Clube,0,0,0,False
+4316194,2024,1,2024-04-14,Club Athletico Paranaense,Cuiabá Esporte Clube (MT),1,1,2,True
+4316195,2024,1,2024-04-14,Atlético Clube Goianiense,CR Flamengo,1,1,2,True
+4316259,2024,2,2024-04-17,Esporte Clube Bahia,Fluminense Football Club,0,0,0,False
+4316257,2024,2,2024-04-18,Grêmio Foot-Ball Porto Alegrense,Club Athletico Paranaense,0,0,0,False
+4316258,2024,2,2024-04-18,Clube Atlético Mineiro,Criciúma EC,1,1,2,True
+4316260,2024,2,2024-04-18,CR Flamengo,São Paulo Futebol Clube,0,0,0,False
+4316262,2024,2,2024-04-18,Sociedade Esportiva Palmeiras,Sport Club Internacional,1,1,2,True
+4316263,2024,2,2024-04-18,Red Bull Bragantino,Clube de Regatas Vasco da Gama,1,1,2,True
+4316264,2024,2,2024-04-18,Fortaleza Esporte Clube,Cruzeiro Esporte Clube,0,0,0,False
+4316266,2024,2,2024-04-18,Esporte Clube Juventude,Sport Club Corinthians Paulista,0,0,0,False
+4316261,2024,2,2024-04-19,Botafogo de Futebol e Regatas,Atlético Clube Goianiense,0,0,0,False
+4316265,2024,2,2024-06-06,Cuiabá Esporte Clube (MT),Esporte Clube Vitória,1,1,2,True
+4316227,2024,3,2024-04-20,Grêmio Foot-Ball Porto Alegrense,Cuiabá Esporte Clube (MT),2,2,2,True
+4316230,2024,3,2024-04-20,Fluminense Football Club,Clube de Regatas Vasco da Gama,0,0,0,False
+4316233,2024,3,2024-04-20,Red Bull Bragantino,Sport Club Corinthians Paulista,0,0,0,False
+4316228,2024,3,2024-04-21,Clube Atlético Mineiro,Cruzeiro Esporte Clube,1,1,2,True
+4316229,2024,3,2024-04-21,Esporte Clube Vitória,Esporte Clube Bahia,2,2,2,True
+4316231,2024,3,2024-04-21,Botafogo de Futebol e Regatas,Esporte Clube Juventude,1,1,2,True
+4316232,2024,3,2024-04-21,Sociedade Esportiva Palmeiras,CR Flamengo,3,3,2,True
+4316234,2024,3,2024-04-21,Club Athletico Paranaense,Sport Club Internacional,2,2,2,True
+4316235,2024,3,2024-04-21,Atlético Clube Goianiense,São Paulo Futebol Clube,0,0,0,False
+4316236,2024,3,2024-07-25,Criciúma EC,Fortaleza Esporte Clube,3,3,2,True
+4316271,2024,4,2024-04-27,Clube de Regatas Vasco da Gama,Criciúma EC,2,2,2,True
+4316275,2024,4,2024-04-27,Cuiabá Esporte Clube (MT),Clube Atlético Mineiro,2,2,2,True
+4316268,2024,4,2024-04-28,Cruzeiro Esporte Clube,Esporte Clube Vitória,1,1,2,True
+4316269,2024,4,2024-04-28,Esporte Clube Bahia,Grêmio Foot-Ball Porto Alegrense,0,0,0,False
+4316270,2024,4,2024-04-28,CR Flamengo,Botafogo de Futebol e Regatas,3,3,2,True
+4316272,2024,4,2024-04-28,Sport Club Corinthians Paulista,Fluminense Football Club,2,2,2,True
+4316274,2024,4,2024-04-28,Fortaleza Esporte Clube,Red Bull Bragantino,1,1,2,True
+4316276,2024,4,2024-04-28,Esporte Clube Juventude,Club Athletico Paranaense,0,0,0,False
+4316267,2024,4,2024-04-29,Sport Club Internacional,Atlético Clube Goianiense,1,1,2,True
+4316273,2024,4,2024-04-30,São Paulo Futebol Clube,Sociedade Esportiva Palmeiras,1,1,2,True
+4316290,2024,5,2024-05-04,Fluminense Football Club,Clube Atlético Mineiro,0,0,0,False
+4316293,2024,5,2024-05-04,Red Bull Bragantino,CR Flamengo,1,1,2,True
+4316289,2024,5,2024-05-05,Esporte Clube Vitória,São Paulo Futebol Clube,1,1,2,True
+4316291,2024,5,2024-05-05,Botafogo de Futebol e Regatas,Esporte Clube Bahia,2,2,2,True
+4316292,2024,5,2024-05-05,Sport Club Corinthians Paulista,Fortaleza Esporte Clube,0,0,0,False
+4316294,2024,5,2024-05-05,Club Athletico Paranaense,Clube de Regatas Vasco da Gama,0,0,0,False
+4316295,2024,5,2024-05-05,Cuiabá Esporte Clube (MT),Sociedade Esportiva Palmeiras,0,0,0,False
+4316296,2024,5,2024-06-06,Esporte Clube Juventude,Atlético Clube Goianiense,1,1,2,True
+4316288,2024,5,2024-08-29,Cruzeiro Esporte Clube,Sport Club Internacional,2,2,2,True
+4316287,2024,5,2024-09-26,Grêmio Foot-Ball Porto Alegrense,Criciúma EC,1,1,2,True
+4316310,2024,6,2024-05-11,CR Flamengo,Sport Club Corinthians Paulista,2,2,2,True
+4316309,2024,6,2024-05-12,Esporte Clube Bahia,Red Bull Bragantino,1,1,2,True
+4316311,2024,6,2024-05-12,Clube de Regatas Vasco da Gama,Esporte Clube Vitória,0,0,0,False
+4316312,2024,6,2024-05-12,Sociedade Esportiva Palmeiras,Club Athletico Paranaense,0,0,0,False
+4316314,2024,6,2024-05-12,Fortaleza Esporte Clube,Botafogo de Futebol e Regatas,0,0,0,False
+4316315,2024,6,2024-05-12,Atlético Clube Goianiense,Cruzeiro Esporte Clube,1,1,2,True
+4316313,2024,6,2024-05-14,São Paulo Futebol Clube,Fluminense Football Club,1,1,2,True
+4316316,2024,6,2024-06-09,Criciúma EC,Cuiabá Esporte Clube (MT),1,3,3,True
+4316307,2024,6,2024-08-15,Sport Club Internacional,Esporte Clube Juventude,2,2,2,True
+4316308,2024,6,2024-10-10,Clube Atlético Mineiro,Grêmio Foot-Ball Porto Alegrense,0,0,0,False
+4316277,2024,7,2024-06-01,Grêmio Foot-Ball Porto Alegrense,Red Bull Bragantino,2,2,2,True
+4316279,2024,7,2024-06-01,Esporte Clube Vitória,Atlético Clube Goianiense,0,0,0,False
+4316280,2024,7,2024-06-01,Fluminense Football Club,Esporte Clube Juventude,0,0,0,False
+4316285,2024,7,2024-06-01,Cuiabá Esporte Clube (MT),Sport Club Internacional,3,5,3,True
+4316278,2024,7,2024-06-02,Clube Atlético Mineiro,Esporte Clube Bahia,0,0,0,False
+4316281,2024,7,2024-06-02,Clube de Regatas Vasco da Gama,CR Flamengo,1,1,2,True
+4316282,2024,7,2024-06-02,Sport Club Corinthians Paulista,Botafogo de Futebol e Regatas,1,1,2,True
+4316283,2024,7,2024-06-02,São Paulo Futebol Clube,Cruzeiro Esporte Clube,0,0,0,False
+4316284,2024,7,2024-06-02,Fortaleza Esporte Clube,Club Athletico Paranaense,0,0,0,False
+4316286,2024,7,2024-06-02,Criciúma EC,Sociedade Esportiva Palmeiras,1,1,2,True
+4316331,2024,8,2024-06-12,Botafogo de Futebol e Regatas,Fluminense Football Club,2,2,2,True
+4316333,2024,8,2024-06-12,Red Bull Bragantino,Clube Atlético Mineiro,0,0,0,False
+4316335,2024,8,2024-06-12,Atlético Clube Goianiense,Sport Club Corinthians Paulista,0,0,0,False
+4316336,2024,8,2024-06-12,Esporte Clube Juventude,Esporte Clube Vitória,1,1,2,True
+4316327,2024,8,2024-06-14,Sport Club Internacional,São Paulo Futebol Clube,0,0,0,False
+4316328,2024,8,2024-06-14,Cruzeiro Esporte Clube,Cuiabá Esporte Clube (MT),2,2,2,True
+4316329,2024,8,2024-06-14,Esporte Clube Bahia,Fortaleza Esporte Clube,0,0,0,False
+4316330,2024,8,2024-06-14,CR Flamengo,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+4316332,2024,8,2024-06-14,Sociedade Esportiva Palmeiras,Clube de Regatas Vasco da Gama,0,0,0,False
+4316334,2024,8,2024-06-14,Club Athletico Paranaense,Criciúma EC,1,1,2,True
+4316203,2024,9,2024-06-15,Red Bull Bragantino,Esporte Clube Juventude,1,1,2,True
+4316197,2024,9,2024-06-16,Grêmio Foot-Ball Porto Alegrense,Botafogo de Futebol e Regatas,1,1,2,True
+4316199,2024,9,2024-06-16,Esporte Clube Vitória,Sport Club Internacional,0,0,0,False
+4316200,2024,9,2024-06-16,Fluminense Football Club,Atlético Clube Goianiense,0,0,0,False
+4316201,2024,9,2024-06-16,Clube de Regatas Vasco da Gama,Cruzeiro Esporte Clube,1,1,2,True
+4316202,2024,9,2024-06-16,Sport Club Corinthians Paulista,São Paulo Futebol Clube,0,0,0,False
+4316204,2024,9,2024-06-16,Club Athletico Paranaense,CR Flamengo,0,0,0,False
+4316205,2024,9,2024-06-16,Cuiabá Esporte Clube (MT),Fortaleza Esporte Clube,1,1,2,True
+4316206,2024,9,2024-06-16,Criciúma EC,Esporte Clube Bahia,1,1,2,True
+4316198,2024,9,2024-06-18,Clube Atlético Mineiro,Sociedade Esportiva Palmeiras,2,2,2,True
+4316237,2024,10,2024-06-20,Sport Club Internacional,Sport Club Corinthians Paulista,0,0,0,False
+4316238,2024,10,2024-06-20,Cruzeiro Esporte Clube,Fluminense Football Club,0,0,0,False
+4316239,2024,10,2024-06-20,Esporte Clube Vitória,Clube Atlético Mineiro,0,0,0,False
+4316241,2024,10,2024-06-20,Botafogo de Futebol e Regatas,Club Athletico Paranaense,3,3,2,True
+4316243,2024,10,2024-06-20,São Paulo Futebol Clube,Cuiabá Esporte Clube (MT),1,1,2,True
+4316244,2024,10,2024-06-20,Fortaleza Esporte Clube,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+4316245,2024,10,2024-06-20,Atlético Clube Goianiense,Criciúma EC,1,1,2,True
+4316246,2024,10,2024-06-20,Esporte Clube Juventude,Clube de Regatas Vasco da Gama,0,0,0,False
+4316240,2024,10,2024-06-21,CR Flamengo,Esporte Clube Bahia,1,1,2,True
+4316242,2024,10,2024-06-21,Sociedade Esportiva Palmeiras,Red Bull Bragantino,1,1,2,True
+4316297,2024,11,2024-06-22,Grêmio Foot-Ball Porto Alegrense,Sport Club Internacional,1,1,2,True
+4316305,2024,11,2024-06-22,Cuiabá Esporte Clube (MT),Atlético Clube Goianiense,1,1,2,True
+4316306,2024,11,2024-06-22,Criciúma EC,Botafogo de Futebol e Regatas,3,3,2,True
+4316298,2024,11,2024-06-23,Clube Atlético Mineiro,Fortaleza Esporte Clube,0,0,0,False
+4316299,2024,11,2024-06-23,Esporte Clube Bahia,Cruzeiro Esporte Clube,2,2,2,True
+4316300,2024,11,2024-06-23,Fluminense Football Club,CR Flamengo,0,0,0,False
+4316301,2024,11,2024-06-23,Clube de Regatas Vasco da Gama,São Paulo Futebol Clube,0,0,0,False
+4316302,2024,11,2024-06-23,Sociedade Esportiva Palmeiras,Esporte Clube Juventude,0,0,0,False
+4316303,2024,11,2024-06-23,Red Bull Bragantino,Esporte Clube Vitória,0,0,0,False
+4316304,2024,11,2024-06-23,Club Athletico Paranaense,Sport Club Corinthians Paulista,2,2,2,True
+4316337,2024,12,2024-06-27,Sport Club Internacional,Clube Atlético Mineiro,1,1,2,True
+4316338,2024,12,2024-06-27,Cruzeiro Esporte Clube,Club Athletico Paranaense,1,1,2,True
+4316339,2024,12,2024-06-27,Esporte Clube Bahia,Clube de Regatas Vasco da Gama,1,1,2,True
+4316341,2024,12,2024-06-27,Botafogo de Futebol e Regatas,Red Bull Bragantino,1,1,2,True
+4316342,2024,12,2024-06-27,Sport Club Corinthians Paulista,Cuiabá Esporte Clube (MT),1,1,2,True
+4316344,2024,12,2024-06-27,Fortaleza Esporte Clube,Sociedade Esportiva Palmeiras,2,2,2,True
+4316345,2024,12,2024-06-27,Atlético Clube Goianiense,Grêmio Foot-Ball Porto Alegrense,2,2,2,True
+4316346,2024,12,2024-06-27,Esporte Clube Juventude,CR Flamengo,2,2,2,True
+4316340,2024,12,2024-06-28,Fluminense Football Club,Esporte Clube Vitória,0,0,0,False
+4316343,2024,12,2024-06-28,São Paulo Futebol Clube,Criciúma EC,2,2,2,True
+4316211,2024,13,2024-06-29,Clube de Regatas Vasco da Gama,Botafogo de Futebol e Regatas,1,1,2,True
+4316215,2024,13,2024-06-29,Cuiabá Esporte Clube (MT),Red Bull Bragantino,2,2,2,True
+4316207,2024,13,2024-06-30,Grêmio Foot-Ball Porto Alegrense,Fluminense Football Club,0,0,0,False
+4316208,2024,13,2024-06-30,Clube Atlético Mineiro,Atlético Clube Goianiense,0,0,0,False
+4316209,2024,13,2024-06-30,Esporte Clube Vitória,Club Athletico Paranaense,1,1,2,True
+4316210,2024,13,2024-06-30,CR Flamengo,Cruzeiro Esporte Clube,0,0,0,False
+4316213,2024,13,2024-06-30,São Paulo Futebol Clube,Esporte Clube Bahia,1,3,3,True
+4316214,2024,13,2024-06-30,Fortaleza Esporte Clube,Esporte Clube Juventude,3,3,2,True
+4316216,2024,13,2024-06-30,Criciúma EC,Sport Club Internacional,2,2,2,True
+4316212,2024,13,2024-07-02,Sociedade Esportiva Palmeiras,Sport Club Corinthians Paulista,0,0,0,False
+4316348,2024,14,2024-07-04,Clube Atlético Mineiro,CR Flamengo,1,1,2,True
+4316351,2024,14,2024-07-04,Clube de Regatas Vasco da Gama,Fortaleza Esporte Clube,0,0,0,False
+4316353,2024,14,2024-07-04,Red Bull Bragantino,Atlético Clube Goianiense,1,1,2,True
+4316354,2024,14,2024-07-04,Club Athletico Paranaense,São Paulo Futebol Clube,0,0,0,False
+4316356,2024,14,2024-07-04,Criciúma EC,Cruzeiro Esporte Clube,1,1,2,True
+4316347,2024,14,2024-07-05,Grêmio Foot-Ball Porto Alegrense,Sociedade Esportiva Palmeiras,0,0,0,False
+4316349,2024,14,2024-07-05,Esporte Clube Bahia,Esporte Clube Juventude,2,2,2,True
+4316350,2024,14,2024-07-05,Fluminense Football Club,Sport Club Internacional,2,2,2,True
+4316352,2024,14,2024-07-05,Sport Club Corinthians Paulista,Esporte Clube Vitória,0,0,0,False
+4316317,2024,15,2024-07-07,Sport Club Internacional,Clube de Regatas Vasco da Gama,2,2,2,True
+4316318,2024,15,2024-07-07,Cruzeiro Esporte Clube,Sport Club Corinthians Paulista,1,1,2,True
+4316319,2024,15,2024-07-07,Esporte Clube Vitória,Criciúma EC,1,1,2,True
+4316320,2024,15,2024-07-07,CR Flamengo,Cuiabá Esporte Clube (MT),0,0,0,False
+4316322,2024,15,2024-07-07,Sociedade Esportiva Palmeiras,Esporte Clube Bahia,2,2,2,True
+4316323,2024,15,2024-07-07,São Paulo Futebol Clube,Red Bull Bragantino,2,2,2,True
+4316324,2024,15,2024-07-07,Fortaleza Esporte Clube,Fluminense Football Club,1,1,2,True
+4316325,2024,15,2024-07-07,Atlético Clube Goianiense,Club Athletico Paranaense,1,1,2,True
+4316326,2024,15,2024-07-07,Esporte Clube Juventude,Grêmio Foot-Ball Porto Alegrense,0,0,0,False
+4316321,2024,15,2024-07-08,Botafogo de Futebol e Regatas,Clube Atlético Mineiro,1,1,2,True
+4316457,2024,16,2024-07-10,Grêmio Foot-Ball Porto Alegrense,Cruzeiro Esporte Clube,0,0,0,False
+4316461,2024,16,2024-07-11,Clube de Regatas Vasco da Gama,Sport Club Corinthians Paulista,1,1,2,True
+4316464,2024,16,2024-07-11,Club Athletico Paranaense,Esporte Clube Bahia,1,1,2,True
+4316458,2024,16,2024-07-12,Clube Atlético Mineiro,São Paulo Futebol Clube,1,1,2,True
+4316459,2024,16,2024-07-12,Esporte Clube Vitória,Botafogo de Futebol e Regatas,0,0,0,False
+4316460,2024,16,2024-07-12,CR Flamengo,Fortaleza Esporte Clube,3,3,2,True
+4316462,2024,16,2024-07-12,Sociedade Esportiva Palmeiras,Atlético Clube Goianiense,0,0,0,False
+4316466,2024,16,2024-07-12,Criciúma EC,Fluminense Football Club,1,1,2,True
+4316465,2024,16,2024-09-06,Cuiabá Esporte Clube (MT),Esporte Clube Juventude,1,1,2,True
+4316463,2024,16,2024-09-26,Red Bull Bragantino,Sport Club Internacional,2,2,2,True
+4316388,2024,17,2024-07-13,Cruzeiro Esporte Clube,Red Bull Bragantino,1,1,2,True
+4316389,2024,17,2024-07-13,Esporte Clube Bahia,Cuiabá Esporte Clube (MT),4,4,2,True
+4316392,2024,17,2024-07-17,Sport Club Corinthians Paulista,Criciúma EC,2,2,2,True
+4316396,2024,17,2024-07-17,Esporte Clube Juventude,Clube Atlético Mineiro,0,0,0,False
+4316391,2024,17,2024-07-18,Botafogo de Futebol e Regatas,Sociedade Esportiva Palmeiras,1,3,3,True
+4316393,2024,17,2024-07-18,São Paulo Futebol Clube,Grêmio Foot-Ball Porto Alegrense,0,0,0,False
+4316394,2024,17,2024-07-18,Fortaleza Esporte Clube,Esporte Clube Vitória,1,1,2,True
+4316395,2024,17,2024-07-18,Atlético Clube Goianiense,Clube de Regatas Vasco da Gama,0,0,0,False
+4316390,2024,17,2024-10-23,Fluminense Football Club,Club Athletico Paranaense,0,0,0,False
+4316387,2024,17,2024-10-31,Sport Club Internacional,CR Flamengo,2,2,2,True
+4316540,2024,18,2024-07-20,CR Flamengo,Criciúma EC,3,5,3,True
+4316541,2024,18,2024-07-20,Botafogo de Futebol e Regatas,Sport Club Internacional,1,1,2,True
+4316537,2024,18,2024-07-21,Grêmio Foot-Ball Porto Alegrense,Esporte Clube Vitória,0,0,0,False
+4316538,2024,18,2024-07-21,Clube Atlético Mineiro,Clube de Regatas Vasco da Gama,1,1,2,True
+4316539,2024,18,2024-07-21,Esporte Clube Bahia,Sport Club Corinthians Paulista,1,1,2,True
+4316542,2024,18,2024-07-21,Sociedade Esportiva Palmeiras,Cruzeiro Esporte Clube,0,0,0,False
+4316543,2024,18,2024-07-21,Red Bull Bragantino,Club Athletico Paranaense,1,1,2,True
+4316544,2024,18,2024-07-21,Fortaleza Esporte Clube,Atlético Clube Goianiense,1,3,3,True
+4316546,2024,18,2024-07-21,Esporte Clube Juventude,São Paulo Futebol Clube,0,0,0,False
+4316545,2024,18,2024-07-22,Cuiabá Esporte Clube (MT),Fluminense Football Club,1,1,2,True
+4316378,2024,19,2024-07-25,Cruzeiro Esporte Clube,Esporte Clube Juventude,0,0,0,False
+4316379,2024,19,2024-07-25,Esporte Clube Vitória,CR Flamengo,2,2,2,True
+4316380,2024,19,2024-07-25,Fluminense Football Club,Sociedade Esportiva Palmeiras,0,0,0,False
+4316383,2024,19,2024-07-25,São Paulo Futebol Clube,Botafogo de Futebol e Regatas,1,1,2,True
+4316385,2024,19,2024-07-25,Atlético Clube Goianiense,Esporte Clube Bahia,0,0,0,False
+4316382,2024,19,2024-07-26,Sport Club Corinthians Paulista,Grêmio Foot-Ball Porto Alegrense,0,0,0,False
+4316386,2024,19,2024-08-29,Criciúma EC,Red Bull Bragantino,0,0,0,False
+4316377,2024,19,2024-09-12,Sport Club Internacional,Fortaleza Esporte Clube,0,0,0,False
+4316381,2024,19,2024-10-25,Clube de Regatas Vasco da Gama,Cuiabá Esporte Clube (MT),1,1,2,True
+4316384,2024,19,2024-11-16,Club Athletico Paranaense,Clube Atlético Mineiro,1,1,2,True
+4316499,2024,20,2024-07-28,Esporte Clube Bahia,Sport Club Internacional,2,2,2,True
+4316500,2024,20,2024-07-28,CR Flamengo,Atlético Clube Goianiense,0,0,0,False
+4316501,2024,20,2024-07-28,Botafogo de Futebol e Regatas,Cruzeiro Esporte Clube,0,0,0,False
+4316502,2024,20,2024-07-28,Sociedade Esportiva Palmeiras,Esporte Clube Vitória,2,2,2,True
+4316503,2024,20,2024-07-28,Red Bull Bragantino,Fluminense Football Club,0,0,0,False
+4316504,2024,20,2024-07-28,Fortaleza Esporte Clube,São Paulo Futebol Clube,1,1,2,True
+4316506,2024,20,2024-07-28,Esporte Clube Juventude,Criciúma EC,1,1,2,True
+4316497,2024,20,2024-07-29,Grêmio Foot-Ball Porto Alegrense,Clube de Regatas Vasco da Gama,0,0,0,False
+4316498,2024,20,2024-07-29,Clube Atlético Mineiro,Sport Club Corinthians Paulista,1,1,2,True
+4316505,2024,20,2024-07-29,Cuiabá Esporte Clube (MT),Club Athletico Paranaense,1,1,2,True
+4316359,2024,21,2024-08-03,Esporte Clube Vitória,Cuiabá Esporte Clube (MT),0,0,0,False
+4316357,2024,21,2024-08-04,Sport Club Internacional,Sociedade Esportiva Palmeiras,0,0,0,False
+4316360,2024,21,2024-08-04,Fluminense Football Club,Esporte Clube Bahia,2,2,2,True
+4316361,2024,21,2024-08-04,Clube de Regatas Vasco da Gama,Red Bull Bragantino,2,2,2,True
+4316362,2024,21,2024-08-04,Sport Club Corinthians Paulista,Esporte Clube Juventude,0,0,0,False
+4316363,2024,21,2024-08-04,São Paulo Futebol Clube,CR Flamengo,0,0,0,False
+4316364,2024,21,2024-08-04,Club Athletico Paranaense,Grêmio Foot-Ball Porto Alegrense,0,0,0,False
+4316365,2024,21,2024-08-04,Atlético Clube Goianiense,Botafogo de Futebol e Regatas,0,0,0,False
+4316366,2024,21,2024-08-04,Criciúma EC,Clube Atlético Mineiro,1,1,2,True
+4316358,2024,21,2024-08-06,Cruzeiro Esporte Clube,Fortaleza Esporte Clube,1,1,2,True
+4316424,2024,22,2024-08-10,Fortaleza Esporte Clube,Criciúma EC,2,2,2,True
+4316418,2024,22,2024-08-11,Cruzeiro Esporte Clube,Clube Atlético Mineiro,0,0,0,False
+4316419,2024,22,2024-08-11,Esporte Clube Bahia,Esporte Clube Vitória,1,1,2,True
+4316420,2024,22,2024-08-11,CR Flamengo,Sociedade Esportiva Palmeiras,1,1,2,True
+4316421,2024,22,2024-08-11,Clube de Regatas Vasco da Gama,Fluminense Football Club,0,0,0,False
+4316422,2024,22,2024-08-11,Sport Club Corinthians Paulista,Red Bull Bragantino,1,1,2,True
+4316423,2024,22,2024-08-11,São Paulo Futebol Clube,Atlético Clube Goianiense,0,0,0,False
+4316425,2024,22,2024-08-11,Cuiabá Esporte Clube (MT),Grêmio Foot-Ball Porto Alegrense,2,2,2,True
+4316426,2024,22,2024-08-11,Esporte Clube Juventude,Botafogo de Futebol e Regatas,0,0,0,False
+4316417,2024,22,2024-08-12,Sport Club Internacional,Club Athletico Paranaense,1,1,2,True
+4316427,2024,23,2024-08-17,Grêmio Foot-Ball Porto Alegrense,Esporte Clube Bahia,0,0,0,False
+4316428,2024,23,2024-08-17,Clube Atlético Mineiro,Cuiabá Esporte Clube (MT),1,1,2,True
+4316433,2024,23,2024-08-17,Red Bull Bragantino,Fortaleza Esporte Clube,0,0,0,False
+4316430,2024,23,2024-08-18,Fluminense Football Club,Sport Club Corinthians Paulista,0,0,0,False
+4316431,2024,23,2024-08-18,Botafogo de Futebol e Regatas,CR Flamengo,2,2,2,True
+4316432,2024,23,2024-08-18,Sociedade Esportiva Palmeiras,São Paulo Futebol Clube,0,0,0,False
+4316434,2024,23,2024-08-18,Club Athletico Paranaense,Esporte Clube Juventude,0,0,0,False
+4316435,2024,23,2024-08-18,Atlético Clube Goianiense,Sport Club Internacional,2,2,2,True
+4316436,2024,23,2024-08-18,Criciúma EC,Clube de Regatas Vasco da Gama,2,2,2,True
+4316429,2024,23,2024-08-20,Esporte Clube Vitória,Cruzeiro Esporte Clube,0,0,0,False
+4316442,2024,24,2024-08-24,Sociedade Esportiva Palmeiras,Cuiabá Esporte Clube (MT),1,1,2,True
+4316445,2024,24,2024-08-24,Atlético Clube Goianiense,Esporte Clube Juventude,1,1,2,True
+4316438,2024,24,2024-08-25,Clube Atlético Mineiro,Fluminense Football Club,0,0,0,False
+4316439,2024,24,2024-08-25,Esporte Clube Bahia,Botafogo de Futebol e Regatas,1,1,2,True
+4316443,2024,24,2024-08-25,São Paulo Futebol Clube,Esporte Clube Vitória,1,1,2,True
+4316444,2024,24,2024-08-25,Fortaleza Esporte Clube,Sport Club Corinthians Paulista,1,1,2,True
+4316446,2024,24,2024-08-25,Criciúma EC,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+4316437,2024,24,2024-08-26,Sport Club Internacional,Cruzeiro Esporte Clube,3,3,2,True
+4316440,2024,24,2024-08-26,CR Flamengo,Red Bull Bragantino,1,1,2,True
+4316441,2024,24,2024-08-27,Clube de Regatas Vasco da Gama,Club Athletico Paranaense,0,0,0,False
+4316535,2024,25,2024-08-31,Cuiabá Esporte Clube (MT),Criciúma EC,2,4,3,True
+4316527,2024,25,2024-09-01,Grêmio Foot-Ball Porto Alegrense,Clube Atlético Mineiro,0,0,0,False
+4316528,2024,25,2024-09-01,Cruzeiro Esporte Clube,Atlético Clube Goianiense,0,0,0,False
+4316529,2024,25,2024-09-01,Esporte Clube Vitória,Clube de Regatas Vasco da Gama,1,1,2,True
+4316530,2024,25,2024-09-01,Fluminense Football Club,São Paulo Futebol Clube,0,0,0,False
+4316531,2024,25,2024-09-01,Botafogo de Futebol e Regatas,Fortaleza Esporte Clube,2,2,2,True
+4316532,2024,25,2024-09-01,Sport Club Corinthians Paulista,CR Flamengo,2,2,2,True
+4316533,2024,25,2024-09-01,Red Bull Bragantino,Esporte Clube Bahia,1,1,2,True
+4316534,2024,25,2024-09-01,Club Athletico Paranaense,Sociedade Esportiva Palmeiras,0,0,0,False
+4316536,2024,25,2024-09-01,Esporte Clube Juventude,Sport Club Internacional,2,2,2,True
+4316414,2024,26,2024-09-14,Club Athletico Paranaense,Fortaleza Esporte Clube,0,0,0,False
+4316415,2024,26,2024-09-14,Atlético Clube Goianiense,Esporte Clube Vitória,0,0,0,False
+4316408,2024,26,2024-09-15,Cruzeiro Esporte Clube,São Paulo Futebol Clube,1,1,2,True
+4316409,2024,26,2024-09-15,Esporte Clube Bahia,Clube Atlético Mineiro,0,0,0,False
+4316410,2024,26,2024-09-15,CR Flamengo,Clube de Regatas Vasco da Gama,1,1,2,True
+4316411,2024,26,2024-09-15,Botafogo de Futebol e Regatas,Sport Club Corinthians Paulista,1,1,2,True
+4316412,2024,26,2024-09-15,Sociedade Esportiva Palmeiras,Criciúma EC,0,0,0,False
+4316413,2024,26,2024-09-15,Red Bull Bragantino,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+4316416,2024,26,2024-09-15,Esporte Clube Juventude,Fluminense Football Club,0,0,0,False
+4316407,2024,26,2024-09-17,Sport Club Internacional,Cuiabá Esporte Clube (MT),1,1,2,True
+4316509,2024,27,2024-09-21,Esporte Clube Vitória,Esporte Clube Juventude,0,0,0,False
+4316510,2024,27,2024-09-21,Fluminense Football Club,Botafogo de Futebol e Regatas,1,1,2,True
+4316512,2024,27,2024-09-21,Sport Club Corinthians Paulista,Atlético Clube Goianiense,1,1,2,True
+4316507,2024,27,2024-09-22,Grêmio Foot-Ball Porto Alegrense,CR Flamengo,0,0,0,False
+4316508,2024,27,2024-09-22,Clube Atlético Mineiro,Red Bull Bragantino,0,0,0,False
+4316511,2024,27,2024-09-22,Clube de Regatas Vasco da Gama,Sociedade Esportiva Palmeiras,0,0,0,False
+4316513,2024,27,2024-09-22,São Paulo Futebol Clube,Sport Club Internacional,1,1,2,True
+4316514,2024,27,2024-09-22,Fortaleza Esporte Clube,Esporte Clube Bahia,1,1,2,True
+4316515,2024,27,2024-09-22,Cuiabá Esporte Clube (MT),Cruzeiro Esporte Clube,1,1,2,True
+4316516,2024,27,2024-09-23,Criciúma EC,Club Athletico Paranaense,2,2,2,True
+4316252,2024,28,2024-09-28,Sociedade Esportiva Palmeiras,Clube Atlético Mineiro,0,0,0,False
+4316247,2024,28,2024-09-29,Sport Club Internacional,Esporte Clube Vitória,2,2,2,True
+4316248,2024,28,2024-09-29,Cruzeiro Esporte Clube,Clube de Regatas Vasco da Gama,0,0,0,False
+4316249,2024,28,2024-09-29,Esporte Clube Bahia,Criciúma EC,1,1,2,True
+4316251,2024,28,2024-09-29,Botafogo de Futebol e Regatas,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+4316253,2024,28,2024-09-29,São Paulo Futebol Clube,Sport Club Corinthians Paulista,0,0,0,False
+4316254,2024,28,2024-09-29,Fortaleza Esporte Clube,Cuiabá Esporte Clube (MT),0,0,0,False
+4316255,2024,28,2024-09-29,Atlético Clube Goianiense,Fluminense Football Club,1,1,2,True
+4316256,2024,28,2024-09-29,Esporte Clube Juventude,Red Bull Bragantino,1,1,2,True
+4316250,2024,28,2024-09-30,CR Flamengo,Club Athletico Paranaense,0,0,0,False
+4316450,2024,29,2024-10-04,Fluminense Football Club,Cruzeiro Esporte Clube,1,1,2,True
+4316456,2024,29,2024-10-04,Criciúma EC,Atlético Clube Goianiense,2,2,2,True
+4316447,2024,29,2024-10-05,Grêmio Foot-Ball Porto Alegrense,Fortaleza Esporte Clube,4,4,2,True
+4316448,2024,29,2024-10-05,Clube Atlético Mineiro,Esporte Clube Vitória,0,0,0,False
+4316453,2024,29,2024-10-05,Red Bull Bragantino,Sociedade Esportiva Palmeiras,0,0,0,False
+4316454,2024,29,2024-10-05,Club Athletico Paranaense,Botafogo de Futebol e Regatas,1,1,2,True
+4316449,2024,29,2024-10-06,Esporte Clube Bahia,CR Flamengo,1,1,2,True
+4316451,2024,29,2024-10-06,Clube de Regatas Vasco da Gama,Esporte Clube Juventude,1,1,2,True
+4316452,2024,29,2024-10-06,Sport Club Corinthians Paulista,Sport Club Internacional,2,2,2,True
+4316455,2024,29,2024-10-06,Cuiabá Esporte Clube (MT),São Paulo Futebol Clube,1,1,2,True
+4316523,2024,30,2024-10-17,São Paulo Futebol Clube,Clube de Regatas Vasco da Gama,0,0,0,False
+4316524,2024,30,2024-10-17,Fortaleza Esporte Clube,Clube Atlético Mineiro,1,1,2,True
+4316520,2024,30,2024-10-18,CR Flamengo,Fluminense Football Club,1,1,2,True
+4316522,2024,30,2024-10-18,Sport Club Corinthians Paulista,Club Athletico Paranaense,0,0,0,False
+4316517,2024,30,2024-10-19,Sport Club Internacional,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+4316518,2024,30,2024-10-19,Cruzeiro Esporte Clube,Esporte Clube Bahia,1,1,2,True
+4316519,2024,30,2024-10-19,Esporte Clube Vitória,Red Bull Bragantino,1,1,2,True
+4316521,2024,30,2024-10-19,Botafogo de Futebol e Regatas,Criciúma EC,1,1,2,True
+4316525,2024,30,2024-10-19,Atlético Clube Goianiense,Cuiabá Esporte Clube (MT),2,2,2,True
+4316526,2024,30,2024-10-21,Esporte Clube Juventude,Sociedade Esportiva Palmeiras,1,1,2,True
+4316477,2024,31,2024-10-26,Grêmio Foot-Ball Porto Alegrense,Atlético Clube Goianiense,0,0,0,False
+4316479,2024,31,2024-10-26,Esporte Clube Vitória,Fluminense Football Club,0,0,0,False
+4316480,2024,31,2024-10-26,CR Flamengo,Esporte Clube Juventude,0,0,0,False
+4316482,2024,31,2024-10-26,Sociedade Esportiva Palmeiras,Fortaleza Esporte Clube,0,0,0,False
+4316484,2024,31,2024-10-26,Club Athletico Paranaense,Cruzeiro Esporte Clube,1,1,2,True
+4316478,2024,31,2024-10-27,Clube Atlético Mineiro,Sport Club Internacional,2,2,2,True
+4316483,2024,31,2024-10-27,Red Bull Bragantino,Botafogo de Futebol e Regatas,1,1,2,True
+4316486,2024,31,2024-10-27,Criciúma EC,São Paulo Futebol Clube,3,3,2,True
+4316481,2024,31,2024-10-29,Clube de Regatas Vasco da Gama,Esporte Clube Bahia,0,0,0,False
+4316485,2024,31,2024-10-29,Cuiabá Esporte Clube (MT),Sport Club Corinthians Paulista,1,1,2,True
+4316370,2024,32,2024-11-02,Fluminense Football Club,Grêmio Foot-Ball Porto Alegrense,0,0,0,False
+4316373,2024,32,2024-11-02,Red Bull Bragantino,Cuiabá Esporte Clube (MT),1,1,2,True
+4316374,2024,32,2024-11-02,Club Athletico Paranaense,Esporte Clube Vitória,1,1,2,True
+4316376,2024,32,2024-11-02,Esporte Clube Juventude,Fortaleza Esporte Clube,1,1,2,True
+4316372,2024,32,2024-11-05,Sport Club Corinthians Paulista,Sociedade Esportiva Palmeiras,1,1,2,True
+4316367,2024,32,2024-11-06,Sport Club Internacional,Criciúma EC,6,6,2,True
+4316369,2024,32,2024-11-06,Esporte Clube Bahia,São Paulo Futebol Clube,0,0,0,False
+4316371,2024,32,2024-11-06,Botafogo de Futebol e Regatas,Clube de Regatas Vasco da Gama,1,1,2,True
+4316368,2024,32,2024-11-07,Cruzeiro Esporte Clube,CR Flamengo,0,0,0,False
+4316375,2024,32,2024-11-07,Atlético Clube Goianiense,Clube Atlético Mineiro,0,0,0,False
+4316467,2024,33,2024-11-08,Sport Club Internacional,Fluminense Football Club,1,1,2,True
+4316468,2024,33,2024-11-09,Cruzeiro Esporte Clube,Criciúma EC,0,0,0,False
+4316469,2024,33,2024-11-09,Esporte Clube Vitória,Sport Club Corinthians Paulista,0,0,0,False
+4316471,2024,33,2024-11-09,Botafogo de Futebol e Regatas,Cuiabá Esporte Clube (MT),2,2,2,True
+4316472,2024,33,2024-11-09,Sociedade Esportiva Palmeiras,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+4316474,2024,33,2024-11-09,Fortaleza Esporte Clube,Clube de Regatas Vasco da Gama,0,0,0,False
+4316475,2024,33,2024-11-09,Atlético Clube Goianiense,Red Bull Bragantino,2,2,2,True
+4316476,2024,33,2024-11-09,Esporte Clube Juventude,Esporte Clube Bahia,0,0,0,False
+4316473,2024,33,2024-11-10,São Paulo Futebol Clube,Club Athletico Paranaense,1,1,2,True
+4316470,2024,33,2024-11-14,CR Flamengo,Clube Atlético Mineiro,0,0,0,False
+4316547,2024,34,2024-11-20,Grêmio Foot-Ball Porto Alegrense,Esporte Clube Juventude,0,0,0,False
+4316549,2024,34,2024-11-20,Esporte Clube Bahia,Sociedade Esportiva Palmeiras,2,2,2,True
+4316552,2024,34,2024-11-20,Sport Club Corinthians Paulista,Cruzeiro Esporte Clube,1,1,2,True
+4316553,2024,34,2024-11-20,Red Bull Bragantino,São Paulo Futebol Clube,0,0,0,False
+4316554,2024,34,2024-11-20,Club Athletico Paranaense,Atlético Clube Goianiense,1,3,3,True
+4316555,2024,34,2024-11-20,Cuiabá Esporte Clube (MT),CR Flamengo,1,1,2,True
+4316556,2024,34,2024-11-20,Criciúma EC,Esporte Clube Vitória,2,2,2,True
+4316548,2024,34,2024-11-21,Clube Atlético Mineiro,Botafogo de Futebol e Regatas,1,1,2,True
+4316551,2024,34,2024-11-22,Clube de Regatas Vasco da Gama,Sport Club Internacional,1,1,2,True
+4316550,2024,34,2024-11-23,Fluminense Football Club,Fortaleza Esporte Clube,0,0,0,False
+4316221,2024,35,2024-11-23,Botafogo de Futebol e Regatas,Esporte Clube Vitória,1,1,2,True
+4316225,2024,35,2024-11-23,Atlético Clube Goianiense,Sociedade Esportiva Palmeiras,3,3,2,True
+4316226,2024,35,2024-11-23,Esporte Clube Juventude,Cuiabá Esporte Clube (MT),2,2,2,True
+4316217,2024,35,2024-11-24,Sport Club Internacional,Red Bull Bragantino,2,2,2,True
+4316219,2024,35,2024-11-24,Esporte Clube Bahia,Club Athletico Paranaense,1,1,2,True
+4316222,2024,35,2024-11-24,Sport Club Corinthians Paulista,Clube de Regatas Vasco da Gama,0,0,0,False
+4316223,2024,35,2024-11-24,São Paulo Futebol Clube,Clube Atlético Mineiro,0,0,0,False
+4316220,2024,35,2024-11-26,Fluminense Football Club,Criciúma EC,2,2,2,True
+4316224,2024,35,2024-11-27,Fortaleza Esporte Clube,CR Flamengo,2,2,2,True
+4316218,2024,35,2024-11-28,Cruzeiro Esporte Clube,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+4316488,2024,36,2024-11-27,Clube Atlético Mineiro,Esporte Clube Juventude,0,0,0,False
+4316492,2024,36,2024-11-27,Sociedade Esportiva Palmeiras,Botafogo de Futebol e Regatas,2,2,2,True
+4316495,2024,36,2024-11-30,Cuiabá Esporte Clube (MT),Esporte Clube Bahia,2,2,2,True
+4316496,2024,36,2024-11-30,Criciúma EC,Sport Club Corinthians Paulista,2,2,2,True
+4316487,2024,36,2024-12-01,Grêmio Foot-Ball Porto Alegrense,São Paulo Futebol Clube,0,0,0,False
+4316489,2024,36,2024-12-01,Esporte Clube Vitória,Fortaleza Esporte Clube,0,0,0,False
+4316490,2024,36,2024-12-01,CR Flamengo,Sport Club Internacional,2,2,2,True
+4316491,2024,36,2024-12-01,Clube de Regatas Vasco da Gama,Atlético Clube Goianiense,0,0,0,False
+4316493,2024,36,2024-12-01,Red Bull Bragantino,Cruzeiro Esporte Clube,1,1,2,True
+4316494,2024,36,2024-12-01,Club Athletico Paranaense,Fluminense Football Club,0,0,0,False
+4316561,2024,37,2024-12-04,Clube de Regatas Vasco da Gama,Clube Atlético Mineiro,1,1,2,True
+4316562,2024,37,2024-12-04,Sport Club Corinthians Paulista,Esporte Clube Bahia,1,1,2,True
+4316557,2024,37,2024-12-05,Sport Club Internacional,Botafogo de Futebol e Regatas,2,2,2,True
+4316558,2024,37,2024-12-05,Cruzeiro Esporte Clube,Sociedade Esportiva Palmeiras,0,0,0,False
+4316559,2024,37,2024-12-05,Esporte Clube Vitória,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+4316563,2024,37,2024-12-05,São Paulo Futebol Clube,Esporte Clube Juventude,0,0,0,False
+4316565,2024,37,2024-12-05,Atlético Clube Goianiense,Fortaleza Esporte Clube,1,3,3,True
+4316566,2024,37,2024-12-05,Criciúma EC,CR Flamengo,1,1,2,True
+4316560,2024,37,2024-12-06,Fluminense Football Club,Cuiabá Esporte Clube (MT),1,1,2,True
+4316564,2024,37,2024-12-06,Club Athletico Paranaense,Red Bull Bragantino,0,0,0,False
+4316397,2024,38,2024-12-08,Grêmio Foot-Ball Porto Alegrense,Sport Club Corinthians Paulista,0,0,0,False
+4316398,2024,38,2024-12-08,Clube Atlético Mineiro,Club Athletico Paranaense,1,1,2,True
+4316399,2024,38,2024-12-08,Esporte Clube Bahia,Atlético Clube Goianiense,1,1,2,True
+4316400,2024,38,2024-12-08,CR Flamengo,Esporte Clube Vitória,0,0,0,False
+4316401,2024,38,2024-12-08,Botafogo de Futebol e Regatas,São Paulo Futebol Clube,0,0,0,False
+4316402,2024,38,2024-12-08,Sociedade Esportiva Palmeiras,Fluminense Football Club,0,0,0,False
+4316403,2024,38,2024-12-08,Red Bull Bragantino,Criciúma EC,1,1,2,True
+4316404,2024,38,2024-12-08,Fortaleza Esporte Clube,Sport Club Internacional,1,1,2,True
+4316405,2024,38,2024-12-08,Cuiabá Esporte Clube (MT),Clube de Regatas Vasco da Gama,0,0,0,False
+4316406,2024,38,2024-12-08,Esporte Clube Juventude,Cruzeiro Esporte Clube,1,1,2,True
+4582063,2025,1,2025-03-29,São Paulo Futebol Clube,Sport Club do Recife,2,2,2,True
+4582065,2025,1,2025-03-29,Cruzeiro Esporte Clube,Mirassol Futebol Clube (SP),0,0,0,False
+4582066,2025,1,2025-03-29,Grêmio Foot-Ball Porto Alegrense,Clube Atlético Mineiro,1,1,2,True
+4582068,2025,1,2025-03-29,Fortaleza Esporte Clube,Fluminense Football Club,0,0,0,False
+4582069,2025,1,2025-03-29,Esporte Clube Juventude,Esporte Clube Vitória,1,1,2,True
+4582060,2025,1,2025-03-30,CR Flamengo,Sport Club Internacional,0,0,0,False
+4582061,2025,1,2025-03-30,Clube de Regatas Vasco da Gama,Santos FC,1,1,2,True
+4582062,2025,1,2025-03-30,Sociedade Esportiva Palmeiras,Botafogo de Futebol e Regatas,1,1,2,True
+4582067,2025,1,2025-03-31,Esporte Clube Bahia,Sport Club Corinthians Paulista,3,3,2,True
+4582064,2025,1,2025-04-01,Red Bull Bragantino,Ceará Sporting Club,0,0,0,False
+4582132,2025,2,2025-04-05,Sport Club Corinthians Paulista,Clube de Regatas Vasco da Gama,1,1,2,True
+4582138,2025,2,2025-04-05,Ceará Sporting Club,Grêmio Foot-Ball Porto Alegrense,0,0,0,False
+4582130,2025,2,2025-04-06,Fluminense Football Club,Red Bull Bragantino,0,0,0,False
+4582131,2025,2,2025-04-06,Botafogo de Futebol e Regatas,Esporte Clube Juventude,0,0,0,False
+4582134,2025,2,2025-04-06,Mirassol Futebol Clube (SP),Fortaleza Esporte Clube,2,2,2,True
+4582135,2025,2,2025-04-06,Clube Atlético Mineiro,São Paulo Futebol Clube,1,1,2,True
+4582136,2025,2,2025-04-06,Sport Club Internacional,Cruzeiro Esporte Clube,1,1,2,True
+4582137,2025,2,2025-04-06,Esporte Clube Vitória,CR Flamengo,1,1,2,True
+4582139,2025,2,2025-04-06,Sport Club do Recife,Sociedade Esportiva Palmeiras,1,1,2,True
+4582133,2025,2,2025-04-07,Santos FC,Esporte Clube Bahia,0,0,0,False
+4582032,2025,3,2025-04-12,Sociedade Esportiva Palmeiras,Sport Club Corinthians Paulista,0,0,0,False
+4582034,2025,3,2025-04-12,Red Bull Bragantino,Botafogo de Futebol e Regatas,0,0,0,False
+4582039,2025,3,2025-04-12,Esporte Clube Juventude,Ceará Sporting Club,0,0,0,False
+4582031,2025,3,2025-04-13,Clube de Regatas Vasco da Gama,Sport Club do Recife,1,1,2,True
+4582033,2025,3,2025-04-13,São Paulo Futebol Clube,Cruzeiro Esporte Clube,0,0,0,False
+4582036,2025,3,2025-04-13,Grêmio Foot-Ball Porto Alegrense,CR Flamengo,1,1,2,True
+4582037,2025,3,2025-04-13,Esporte Clube Bahia,Mirassol Futebol Clube (SP),1,3,3,True
+4582030,2025,3,2025-04-14,Fluminense Football Club,Santos FC,1,1,2,True
+4582035,2025,3,2025-04-14,Clube Atlético Mineiro,Esporte Clube Vitória,1,1,2,True
+4582038,2025,3,2025-04-14,Fortaleza Esporte Clube,Sport Club Internacional,0,0,0,False
+4582088,2025,4,2025-04-16,Ceará Sporting Club,Clube de Regatas Vasco da Gama,0,0,0,False
+4582080,2025,4,2025-04-17,CR Flamengo,Esporte Clube Juventude,0,0,0,False
+4582081,2025,4,2025-04-17,Botafogo de Futebol e Regatas,São Paulo Futebol Clube,0,0,0,False
+4582082,2025,4,2025-04-17,Sport Club Corinthians Paulista,Fluminense Football Club,2,2,2,True
+4582083,2025,4,2025-04-17,Santos FC,Clube Atlético Mineiro,1,1,2,True
+4582084,2025,4,2025-04-17,Mirassol Futebol Clube (SP),Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+4582086,2025,4,2025-04-17,Sport Club Internacional,Sociedade Esportiva Palmeiras,2,2,2,True
+4582087,2025,4,2025-04-17,Esporte Clube Vitória,Fortaleza Esporte Clube,2,2,2,True
+4582089,2025,4,2025-04-17,Sport Club do Recife,Red Bull Bragantino,1,1,2,True
+4582085,2025,4,2025-04-18,Cruzeiro Esporte Clube,Esporte Clube Bahia,0,0,0,False
+4582141,2025,5,2025-04-19,Clube de Regatas Vasco da Gama,CR Flamengo,2,2,2,True
+4582142,2025,5,2025-04-19,Sport Club Corinthians Paulista,Sport Club do Recife,1,1,2,True
+4582140,2025,5,2025-04-20,Fluminense Football Club,Esporte Clube Vitória,0,0,0,False
+4582143,2025,5,2025-04-20,São Paulo Futebol Clube,Santos FC,1,1,2,True
+4582145,2025,5,2025-04-20,Clube Atlético Mineiro,Botafogo de Futebol e Regatas,1,1,2,True
+4582146,2025,5,2025-04-20,Grêmio Foot-Ball Porto Alegrense,Sport Club Internacional,1,1,2,True
+4582148,2025,5,2025-04-20,Fortaleza Esporte Clube,Sociedade Esportiva Palmeiras,0,0,0,False
+4582149,2025,5,2025-04-20,Esporte Clube Juventude,Mirassol Futebol Clube (SP),1,1,2,True
+4582144,2025,5,2025-04-21,Red Bull Bragantino,Cruzeiro Esporte Clube,0,0,0,False
+4582147,2025,5,2025-04-22,Esporte Clube Bahia,Ceará Sporting Club,0,0,0,False
+4582164,2025,6,2025-04-26,Mirassol Futebol Clube (SP),Clube Atlético Mineiro,2,2,2,True
+4582166,2025,6,2025-04-26,Sport Club Internacional,Esporte Clube Juventude,1,1,2,True
+4582168,2025,6,2025-04-26,Ceará Sporting Club,São Paulo Futebol Clube,0,0,0,False
+4582160,2025,6,2025-04-27,CR Flamengo,Sport Club Corinthians Paulista,2,2,2,True
+4582161,2025,6,2025-04-27,Botafogo de Futebol e Regatas,Fluminense Football Club,0,0,0,False
+4582162,2025,6,2025-04-27,Sociedade Esportiva Palmeiras,Esporte Clube Bahia,2,2,2,True
+4582165,2025,6,2025-04-27,Cruzeiro Esporte Clube,Clube de Regatas Vasco da Gama,1,1,2,True
+4582167,2025,6,2025-04-27,Esporte Clube Vitória,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+4582169,2025,6,2025-04-27,Sport Club do Recife,Fortaleza Esporte Clube,1,1,2,True
+4582163,2025,6,2025-04-28,Santos FC,Red Bull Bragantino,1,1,2,True
+4582090,2025,7,2025-05-03,Fluminense Football Club,Sport Club do Recife,2,2,2,True
+4582092,2025,7,2025-05-03,Sport Club Corinthians Paulista,Sport Club Internacional,0,0,0,False
+4582093,2025,7,2025-05-03,São Paulo Futebol Clube,Fortaleza Esporte Clube,1,1,2,True
+4582098,2025,7,2025-05-03,Ceará Sporting Club,Esporte Clube Vitória,0,0,0,False
+4582091,2025,7,2025-05-04,Clube de Regatas Vasco da Gama,Sociedade Esportiva Palmeiras,0,0,0,False
+4582095,2025,7,2025-05-04,Cruzeiro Esporte Clube,CR Flamengo,1,1,2,True
+4582096,2025,7,2025-05-04,Grêmio Foot-Ball Porto Alegrense,Santos FC,2,2,2,True
+4582097,2025,7,2025-05-04,Esporte Clube Bahia,Botafogo de Futebol e Regatas,0,0,0,False
+4582094,2025,7,2025-05-06,Red Bull Bragantino,Mirassol Futebol Clube (SP),0,0,0,False
+4582099,2025,7,2025-05-06,Esporte Clube Juventude,Clube Atlético Mineiro,2,2,2,True
+4582054,2025,8,2025-05-10,Mirassol Futebol Clube (SP),Sport Club Corinthians Paulista,0,0,0,False
+4582056,2025,8,2025-05-10,Grêmio Foot-Ball Porto Alegrense,Red Bull Bragantino,1,1,2,True
+4582057,2025,8,2025-05-10,Esporte Clube Vitória,Clube de Regatas Vasco da Gama,2,2,2,True
+4582058,2025,8,2025-05-10,Fortaleza Esporte Clube,Esporte Clube Juventude,1,1,2,True
+4582050,2025,8,2025-05-11,CR Flamengo,Esporte Clube Bahia,0,0,0,False
+4582052,2025,8,2025-05-11,Sociedade Esportiva Palmeiras,São Paulo Futebol Clube,0,0,0,False
+4582055,2025,8,2025-05-11,Clube Atlético Mineiro,Fluminense Football Club,3,3,2,True
+4582059,2025,8,2025-05-11,Sport Club do Recife,Cruzeiro Esporte Clube,1,1,2,True
+4582051,2025,8,2025-05-12,Botafogo de Futebol e Regatas,Sport Club Internacional,1,1,2,True
+4582053,2025,8,2025-05-13,Santos FC,Ceará Sporting Club,0,0,0,False
+4582071,2025,9,2025-05-17,Clube de Regatas Vasco da Gama,Fortaleza Esporte Clube,1,1,2,True
+4582078,2025,9,2025-05-17,Ceará Sporting Club,Sport Club do Recife,0,0,0,False
+4582070,2025,9,2025-05-18,CR Flamengo,Botafogo de Futebol e Regatas,0,0,0,False
+4582072,2025,9,2025-05-18,Sport Club Corinthians Paulista,Santos FC,0,0,0,False
+4582073,2025,9,2025-05-18,São Paulo Futebol Clube,Grêmio Foot-Ball Porto Alegrense,0,0,0,False
+4582074,2025,9,2025-05-18,Red Bull Bragantino,Sociedade Esportiva Palmeiras,1,1,2,True
+4582077,2025,9,2025-05-18,Esporte Clube Bahia,Esporte Clube Vitória,1,1,2,True
+4582079,2025,9,2025-05-18,Esporte Clube Juventude,Fluminense Football Club,0,0,0,False
+4582075,2025,9,2025-05-19,Cruzeiro Esporte Clube,Clube Atlético Mineiro,1,1,2,True
+4582076,2025,9,2025-05-19,Sport Club Internacional,Mirassol Futebol Clube (SP),1,1,2,True
+4582180,2025,10,2025-05-24,Fluminense Football Club,Clube de Regatas Vasco da Gama,0,0,0,False
+4582183,2025,10,2025-05-24,São Paulo Futebol Clube,Mirassol Futebol Clube (SP),0,0,0,False
+4582182,2025,10,2025-05-25,Sociedade Esportiva Palmeiras,CR Flamengo,1,1,2,True
+4582185,2025,10,2025-05-25,Clube Atlético Mineiro,Sport Club Corinthians Paulista,3,3,2,True
+4582186,2025,10,2025-05-25,Grêmio Foot-Ball Porto Alegrense,Esporte Clube Bahia,3,3,2,True
+4582187,2025,10,2025-05-25,Esporte Clube Vitória,Santos FC,2,2,2,True
+4582189,2025,10,2025-05-25,Sport Club do Recife,Sport Club Internacional,2,2,2,True
+4582188,2025,10,2025-05-26,Fortaleza Esporte Clube,Cruzeiro Esporte Clube,1,1,2,True
+4582184,2025,10,2025-05-27,Red Bull Bragantino,Esporte Clube Juventude,1,1,2,True
+4582181,2025,10,2025-06-05,Botafogo de Futebol e Regatas,Ceará Sporting Club,0,0,0,False
+4582157,2025,11,2025-05-31,Esporte Clube Bahia,São Paulo Futebol Clube,1,1,2,True
+4582150,2025,11,2025-06-01,CR Flamengo,Fortaleza Esporte Clube,0,0,0,False
+4582151,2025,11,2025-06-01,Clube de Regatas Vasco da Gama,Red Bull Bragantino,0,0,0,False
+4582152,2025,11,2025-06-01,Sport Club Corinthians Paulista,Esporte Clube Vitória,0,0,0,False
+4582153,2025,11,2025-06-01,Santos FC,Botafogo de Futebol e Regatas,2,2,2,True
+4582154,2025,11,2025-06-01,Mirassol Futebol Clube (SP),Sport Club do Recife,1,1,2,True
+4582158,2025,11,2025-06-01,Ceará Sporting Club,Clube Atlético Mineiro,1,1,2,True
+4582159,2025,11,2025-06-01,Esporte Clube Juventude,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+4582155,2025,11,2025-06-02,Cruzeiro Esporte Clube,Sociedade Esportiva Palmeiras,0,0,0,False
+4582156,2025,11,2025-06-02,Sport Club Internacional,Fluminense Football Club,0,0,0,False
+4582113,2025,12,2025-06-13,São Paulo Futebol Clube,Clube de Regatas Vasco da Gama,0,0,0,False
+4582114,2025,12,2025-06-13,Red Bull Bragantino,Esporte Clube Bahia,3,3,2,True
+4582115,2025,12,2025-06-13,Clube Atlético Mineiro,Sport Club Internacional,2,2,2,True
+4582116,2025,12,2025-06-13,Grêmio Foot-Ball Porto Alegrense,Sport Club Corinthians Paulista,2,2,2,True
+4582117,2025,12,2025-06-13,Esporte Clube Vitória,Cruzeiro Esporte Clube,0,0,0,False
+4582118,2025,12,2025-06-13,Fortaleza Esporte Clube,Santos FC,1,1,2,True
+4582111,2025,12,2025-09-18,Botafogo de Futebol e Regatas,Mirassol Futebol Clube (SP),0,0,0,False
+4582112,2025,12,2025-10-12,Sociedade Esportiva Palmeiras,Esporte Clube Juventude,0,0,0,False
+4582110,2025,12,2025-10-29,Fluminense Football Club,Ceará Sporting Club,0,0,0,False
+4582119,2025,12,2025-11-15,Sport Club do Recife,CR Flamengo,1,1,2,True
+4582200,2025,13,2025-07-12,CR Flamengo,São Paulo Futebol Clube,0,0,0,False
+4582201,2025,13,2025-07-12,Clube de Regatas Vasco da Gama,Botafogo de Futebol e Regatas,0,0,0,False
+4582206,2025,13,2025-07-12,Sport Club Internacional,Esporte Clube Vitória,1,1,2,True
+4582207,2025,13,2025-07-13,Esporte Clube Bahia,Clube Atlético Mineiro,1,1,2,True
+4582202,2025,13,2025-07-14,Sport Club Corinthians Paulista,Red Bull Bragantino,1,1,2,True
+4582205,2025,13,2025-07-14,Cruzeiro Esporte Clube,Grêmio Foot-Ball Porto Alegrense,3,3,2,True
+4582208,2025,13,2025-07-14,Fortaleza Esporte Clube,Ceará Sporting Club,0,0,0,False
+4582209,2025,13,2025-07-15,Esporte Clube Juventude,Sport Club do Recife,1,1,2,True
+4582204,2025,13,2025-10-09,Mirassol Futebol Clube (SP),Fluminense Football Club,0,0,0,False
+4582203,2025,13,2025-11-16,Santos FC,Sociedade Esportiva Palmeiras,2,2,2,True
+4582171,2025,14,2025-07-17,Botafogo de Futebol e Regatas,Esporte Clube Vitória,1,1,2,True
+4582172,2025,14,2025-07-17,Sociedade Esportiva Palmeiras,Mirassol Futebol Clube (SP),0,0,0,False
+4582173,2025,14,2025-07-17,Santos FC,CR Flamengo,2,2,2,True
+4582174,2025,14,2025-07-17,Red Bull Bragantino,São Paulo Futebol Clube,1,1,2,True
+4582178,2025,14,2025-07-17,Ceará Sporting Club,Sport Club Corinthians Paulista,0,0,0,False
+4582170,2025,14,2025-07-18,Fluminense Football Club,Cruzeiro Esporte Clube,1,1,2,True
+4582176,2025,14,2025-07-30,Grêmio Foot-Ball Porto Alegrense,Fortaleza Esporte Clube,2,4,3,True
+4582179,2025,14,2025-08-21,Esporte Clube Juventude,Clube de Regatas Vasco da Gama,1,1,2,True
+4582175,2025,14,2025-10-09,Clube Atlético Mineiro,Sport Club do Recife,1,1,2,True
+4582177,2025,14,2025-10-23,Esporte Clube Bahia,Sport Club Internacional,0,0,0,False
+4582101,2025,15,2025-07-19,Clube de Regatas Vasco da Gama,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+4582104,2025,15,2025-07-19,Mirassol Futebol Clube (SP),Santos FC,1,1,2,True
+4582108,2025,15,2025-07-19,Fortaleza Esporte Clube,Esporte Clube Bahia,1,1,2,True
+4582102,2025,15,2025-07-20,Sociedade Esportiva Palmeiras,Clube Atlético Mineiro,1,1,2,True
+4582103,2025,15,2025-07-20,São Paulo Futebol Clube,Sport Club Corinthians Paulista,0,0,0,False
+4582105,2025,15,2025-07-20,Cruzeiro Esporte Clube,Esporte Clube Juventude,1,1,2,True
+4582106,2025,15,2025-07-20,Sport Club Internacional,Ceará Sporting Club,1,1,2,True
+4582107,2025,15,2025-07-20,Esporte Clube Vitória,Red Bull Bragantino,1,1,2,True
+4582109,2025,15,2025-07-20,Sport Club do Recife,Botafogo de Futebol e Regatas,1,1,2,True
+4582100,2025,15,2025-07-21,CR Flamengo,Fluminense Football Club,1,1,2,True
+4582220,2025,16,2025-07-24,Fluminense Football Club,Sociedade Esportiva Palmeiras,0,0,0,False
+4582222,2025,16,2025-07-24,Sport Club Corinthians Paulista,Cruzeiro Esporte Clube,1,1,2,True
+4582223,2025,16,2025-07-24,Santos FC,Sport Club Internacional,2,2,2,True
+4582224,2025,16,2025-07-24,Red Bull Bragantino,CR Flamengo,0,0,0,False
+4582227,2025,16,2025-07-24,Esporte Clube Vitória,Sport Club do Recife,1,1,2,True
+4582228,2025,16,2025-07-24,Ceará Sporting Club,Mirassol Futebol Clube (SP),0,0,0,False
+4582229,2025,16,2025-07-25,Esporte Clube Juventude,São Paulo Futebol Clube,1,1,2,True
+4582221,2025,16,2025-09-25,Clube de Regatas Vasco da Gama,Esporte Clube Bahia,1,1,2,True
+4582226,2025,16,2025-09-25,Grêmio Foot-Ball Porto Alegrense,Botafogo de Futebol e Regatas,0,0,0,False
+4582225,2025,16,2025-11-13,Clube Atlético Mineiro,Fortaleza Esporte Clube,0,0,0,False
+4582211,2025,17,2025-07-26,Botafogo de Futebol e Regatas,Sport Club Corinthians Paulista,2,2,2,True
+4582214,2025,17,2025-07-26,Mirassol Futebol Clube (SP),Esporte Clube Vitória,1,1,2,True
+4582218,2025,17,2025-07-26,Fortaleza Esporte Clube,Red Bull Bragantino,1,1,2,True
+4582219,2025,17,2025-07-26,Sport Club do Recife,Santos FC,2,2,2,True
+4582212,2025,17,2025-07-27,Sociedade Esportiva Palmeiras,Grêmio Foot-Ball Porto Alegrense,2,2,2,True
+4582213,2025,17,2025-07-27,São Paulo Futebol Clube,Fluminense Football Club,1,1,2,True
+4582215,2025,17,2025-07-27,Cruzeiro Esporte Clube,Ceará Sporting Club,1,1,2,True
+4582216,2025,17,2025-07-27,Sport Club Internacional,Clube de Regatas Vasco da Gama,1,1,2,True
+4582217,2025,17,2025-07-27,Esporte Clube Bahia,Esporte Clube Juventude,0,0,0,False
+4582210,2025,17,2025-07-28,CR Flamengo,Clube Atlético Mineiro,1,1,2,True
+4582275,2025,18,2025-08-02,Mirassol Futebol Clube (SP),Clube de Regatas Vasco da Gama,0,0,0,False
+4582305,2025,18,2025-08-02,Sport Club do Recife,Esporte Clube Bahia,2,2,2,True
+4582261,2025,18,2025-08-03,Fluminense Football Club,Grêmio Foot-Ball Porto Alegrense,0,0,0,False
+4582264,2025,18,2025-08-03,Botafogo de Futebol e Regatas,Cruzeiro Esporte Clube,1,1,2,True
+4582267,2025,18,2025-08-03,Sport Club Corinthians Paulista,Fortaleza Esporte Clube,0,0,0,False
+4582281,2025,18,2025-08-03,Clube Atlético Mineiro,Red Bull Bragantino,2,2,2,True
+4582299,2025,18,2025-08-03,Ceará Sporting Club,CR Flamengo,0,0,0,False
+4582285,2025,18,2025-08-04,Sport Club Internacional,São Paulo Futebol Clube,1,1,2,True
+4582291,2025,18,2025-08-04,Esporte Clube Vitória,Sociedade Esportiva Palmeiras,0,0,0,False
+4582270,2025,18,2025-08-05,Santos FC,Esporte Clube Juventude,0,0,0,False
+4582120,2025,19,2025-08-09,CR Flamengo,Mirassol Futebol Clube (SP),0,0,0,False
+4582123,2025,19,2025-08-09,São Paulo Futebol Clube,Esporte Clube Vitória,1,1,2,True
+4582124,2025,19,2025-08-09,Red Bull Bragantino,Sport Club Internacional,6,6,2,True
+4582121,2025,19,2025-08-10,Clube de Regatas Vasco da Gama,Clube Atlético Mineiro,1,1,2,True
+4582122,2025,19,2025-08-10,Sociedade Esportiva Palmeiras,Ceará Sporting Club,0,0,0,False
+4582125,2025,19,2025-08-10,Cruzeiro Esporte Clube,Santos FC,0,0,0,False
+4582127,2025,19,2025-08-10,Esporte Clube Bahia,Fluminense Football Club,2,2,2,True
+4582128,2025,19,2025-08-10,Fortaleza Esporte Clube,Botafogo de Futebol e Regatas,0,0,0,False
+4582126,2025,19,2025-08-11,Grêmio Foot-Ball Porto Alegrense,Sport Club do Recife,2,2,2,True
+4582129,2025,19,2025-08-12,Esporte Clube Juventude,Sport Club Corinthians Paulista,0,0,0,False
+4582271,2025,20,2025-08-16,Fluminense Football Club,Fortaleza Esporte Clube,1,1,2,True
+4582320,2025,20,2025-08-16,Esporte Clube Vitória,Esporte Clube Juventude,0,0,0,False
+4582325,2025,20,2025-08-16,Ceará Sporting Club,Red Bull Bragantino,4,4,2,True
+4582332,2025,20,2025-08-16,Sport Club do Recife,São Paulo Futebol Clube,2,2,2,True
+4582282,2025,20,2025-08-17,Sport Club Corinthians Paulista,Esporte Clube Bahia,1,1,2,True
+4582290,2025,20,2025-08-17,Santos FC,Clube de Regatas Vasco da Gama,2,4,3,True
+4582306,2025,20,2025-08-17,Clube Atlético Mineiro,Grêmio Foot-Ball Porto Alegrense,2,2,2,True
+4582312,2025,20,2025-08-17,Sport Club Internacional,CR Flamengo,0,0,0,False
+4582277,2025,20,2025-08-18,Botafogo de Futebol e Regatas,Sociedade Esportiva Palmeiras,2,2,2,True
+4582297,2025,20,2025-08-19,Mirassol Futebol Clube (SP),Cruzeiro Esporte Clube,1,1,2,True
+4582044,2025,21,2025-08-23,Red Bull Bragantino,Fluminense Football Club,2,2,2,True
+4582045,2025,21,2025-08-23,Cruzeiro Esporte Clube,Sport Club Internacional,1,1,2,True
+4582041,2025,21,2025-08-24,Clube de Regatas Vasco da Gama,Sport Club Corinthians Paulista,1,1,2,True
+4582046,2025,21,2025-08-24,Grêmio Foot-Ball Porto Alegrense,Ceará Sporting Club,1,1,2,True
+4582047,2025,21,2025-08-24,Esporte Clube Bahia,Santos FC,1,1,2,True
+4582048,2025,21,2025-08-24,Fortaleza Esporte Clube,Mirassol Futebol Clube (SP),1,1,2,True
+4582049,2025,21,2025-08-24,Esporte Clube Juventude,Botafogo de Futebol e Regatas,1,1,2,True
+4582043,2025,21,2025-08-25,São Paulo Futebol Clube,Clube Atlético Mineiro,2,2,2,True
+4582040,2025,21,2025-08-26,CR Flamengo,Esporte Clube Vitória,0,0,0,False
+4582042,2025,21,2025-08-26,Sociedade Esportiva Palmeiras,Sport Club do Recife,1,1,2,True
+4582269,2025,22,2025-08-30,Botafogo de Futebol e Regatas,Red Bull Bragantino,1,1,2,True
+4582321,2025,22,2025-08-30,Ceará Sporting Club,Esporte Clube Juventude,0,0,0,False
+4582265,2025,22,2025-08-31,CR Flamengo,Grêmio Foot-Ball Porto Alegrense,2,2,2,True
+4582276,2025,22,2025-08-31,Sport Club Corinthians Paulista,Sociedade Esportiva Palmeiras,1,1,2,True
+4582288,2025,22,2025-08-31,Santos FC,Fluminense Football Club,1,1,2,True
+4582295,2025,22,2025-08-31,Mirassol Futebol Clube (SP),Esporte Clube Bahia,0,0,0,False
+4582302,2025,22,2025-08-31,Cruzeiro Esporte Clube,São Paulo Futebol Clube,0,0,0,False
+4582316,2025,22,2025-08-31,Esporte Clube Vitória,Clube Atlético Mineiro,1,1,2,True
+4582310,2025,22,2025-09-01,Sport Club Internacional,Fortaleza Esporte Clube,2,2,2,True
+4582328,2025,22,2025-09-01,Sport Club do Recife,Clube de Regatas Vasco da Gama,2,2,2,True
+4582192,2025,23,2025-09-13,Sociedade Esportiva Palmeiras,Sport Club Internacional,3,3,2,True
+4582196,2025,23,2025-09-13,Grêmio Foot-Ball Porto Alegrense,Mirassol Futebol Clube (SP),0,0,0,False
+4582198,2025,23,2025-09-13,Fortaleza Esporte Clube,Esporte Clube Vitória,1,1,2,True
+4582190,2025,23,2025-09-14,Fluminense Football Club,Sport Club Corinthians Paulista,3,3,2,True
+4582193,2025,23,2025-09-14,São Paulo Futebol Clube,Botafogo de Futebol e Regatas,0,0,0,False
+4582194,2025,23,2025-09-14,Red Bull Bragantino,Sport Club do Recife,2,2,2,True
+4582195,2025,23,2025-09-14,Clube Atlético Mineiro,Santos FC,2,2,2,True
+4582199,2025,23,2025-09-14,Esporte Clube Juventude,CR Flamengo,0,0,0,False
+4582191,2025,23,2025-09-15,Clube de Regatas Vasco da Gama,Ceará Sporting Club,1,1,2,True
+4582197,2025,23,2025-09-16,Esporte Clube Bahia,Cruzeiro Esporte Clube,1,1,2,True
+4582286,2025,24,2025-09-20,Botafogo de Futebol e Regatas,Clube Atlético Mineiro,0,0,0,False
+4582347,2025,24,2025-09-20,Esporte Clube Vitória,Fluminense Football Club,0,0,0,False
+4582348,2025,24,2025-09-20,Ceará Sporting Club,Esporte Clube Bahia,1,1,2,True
+4582274,2025,24,2025-09-21,CR Flamengo,Clube de Regatas Vasco da Gama,1,1,2,True
+4582294,2025,24,2025-09-21,Sociedade Esportiva Palmeiras,Fortaleza Esporte Clube,1,1,2,True
+4582314,2025,24,2025-09-21,Mirassol Futebol Clube (SP),Esporte Clube Juventude,0,0,0,False
+4582329,2025,24,2025-09-21,Sport Club Internacional,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+4582349,2025,24,2025-09-21,Sport Club do Recife,Sport Club Corinthians Paulista,1,1,2,True
+4582307,2025,24,2025-09-22,Santos FC,São Paulo Futebol Clube,2,2,2,True
+4582323,2025,24,2025-09-22,Cruzeiro Esporte Clube,Red Bull Bragantino,1,3,3,True
+4582241,2025,25,2025-09-27,Clube de Regatas Vasco da Gama,Cruzeiro Esporte Clube,0,0,0,False
+4582248,2025,25,2025-09-27,Fortaleza Esporte Clube,Sport Club do Recife,1,1,2,True
+4582249,2025,25,2025-09-27,Esporte Clube Juventude,Sport Club Internacional,0,0,0,False
+4582240,2025,25,2025-09-28,Fluminense Football Club,Botafogo de Futebol e Regatas,1,1,2,True
+4582244,2025,25,2025-09-28,Red Bull Bragantino,Santos FC,3,3,2,True
+4582245,2025,25,2025-09-28,Clube Atlético Mineiro,Mirassol Futebol Clube (SP),1,1,2,True
+4582246,2025,25,2025-09-28,Grêmio Foot-Ball Porto Alegrense,Esporte Clube Vitória,0,0,0,False
+4582247,2025,25,2025-09-28,Esporte Clube Bahia,Sociedade Esportiva Palmeiras,1,1,2,True
+4582242,2025,25,2025-09-29,Sport Club Corinthians Paulista,CR Flamengo,3,3,2,True
+4582243,2025,25,2025-09-30,São Paulo Futebol Clube,Ceará Sporting Club,1,1,2,True
+4582255,2025,26,2025-10-01,Clube Atlético Mineiro,Esporte Clube Juventude,2,2,2,True
+4582251,2025,26,2025-10-02,Botafogo de Futebol e Regatas,Esporte Clube Bahia,0,0,0,False
+4582252,2025,26,2025-10-02,Sociedade Esportiva Palmeiras,Clube de Regatas Vasco da Gama,0,0,0,False
+4582253,2025,26,2025-10-02,Santos FC,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+4582254,2025,26,2025-10-02,Mirassol Futebol Clube (SP),Red Bull Bragantino,0,0,0,False
+4582256,2025,26,2025-10-02,Sport Club Internacional,Sport Club Corinthians Paulista,0,0,0,False
+4582259,2025,26,2025-10-02,Sport Club do Recife,Fluminense Football Club,0,0,0,False
+4582250,2025,26,2025-10-03,CR Flamengo,Cruzeiro Esporte Clube,1,1,2,True
+4582257,2025,26,2025-10-03,Esporte Clube Vitória,Ceará Sporting Club,0,0,0,False
+4582258,2025,26,2025-10-03,Fortaleza Esporte Clube,São Paulo Futebol Clube,0,0,0,False
+4582280,2025,27,2025-10-04,Fluminense Football Club,Clube Atlético Mineiro,0,0,0,False
+4582313,2025,27,2025-10-04,Red Bull Bragantino,Grêmio Foot-Ball Porto Alegrense,1,1,2,True
+4582331,2025,27,2025-10-04,Sport Club Internacional,Botafogo de Futebol e Regatas,0,0,0,False
+4582289,2025,27,2025-10-05,Clube de Regatas Vasco da Gama,Esporte Clube Vitória,0,0,0,False
+4582296,2025,27,2025-10-05,Sport Club Corinthians Paulista,Mirassol Futebol Clube (SP),1,1,2,True
+4582304,2025,27,2025-10-05,São Paulo Futebol Clube,Sociedade Esportiva Palmeiras,0,0,0,False
+4582335,2025,27,2025-10-05,Esporte Clube Bahia,CR Flamengo,1,1,2,True
+4582341,2025,27,2025-10-05,Esporte Clube Juventude,Fortaleza Esporte Clube,1,1,2,True
+4582324,2025,27,2025-10-06,Cruzeiro Esporte Clube,Sport Club do Recife,1,1,2,True
+4582338,2025,27,2025-10-06,Ceará Sporting Club,Santos FC,1,1,2,True
+4582262,2025,28,2025-10-16,Botafogo de Futebol e Regatas,CR Flamengo,1,1,2,True
+4582266,2025,28,2025-10-16,Sociedade Esportiva Palmeiras,Red Bull Bragantino,0,0,0,False
+4582272,2025,28,2025-10-16,Santos FC,Sport Club Corinthians Paulista,2,2,2,True
+4582278,2025,28,2025-10-16,Mirassol Futebol Clube (SP),Sport Club Internacional,1,1,2,True
+4582284,2025,28,2025-10-16,Clube Atlético Mineiro,Cruzeiro Esporte Clube,0,0,0,False
+4582308,2025,28,2025-10-16,Fortaleza Esporte Clube,Clube de Regatas Vasco da Gama,0,0,0,False
+4582315,2025,28,2025-10-16,Sport Club do Recife,Ceará Sporting Club,1,1,2,True
+4582260,2025,28,2025-10-17,Fluminense Football Club,Esporte Clube Juventude,0,0,0,False
+4582292,2025,28,2025-10-17,Grêmio Foot-Ball Porto Alegrense,São Paulo Futebol Clube,1,1,2,True
+4582301,2025,28,2025-10-17,Esporte Clube Vitória,Esporte Clube Bahia,0,0,0,False
+4582273,2025,29,2025-10-18,Sport Club Corinthians Paulista,Clube Atlético Mineiro,1,1,2,True
+4582263,2025,29,2025-10-19,CR Flamengo,Sociedade Esportiva Palmeiras,0,0,0,False
+4582283,2025,29,2025-10-19,Mirassol Futebol Clube (SP),São Paulo Futebol Clube,1,1,2,True
+4582293,2025,29,2025-10-19,Cruzeiro Esporte Clube,Fortaleza Esporte Clube,0,0,0,False
+4582303,2025,29,2025-10-19,Sport Club Internacional,Sport Club do Recife,4,4,2,True
+4582318,2025,29,2025-10-19,Ceará Sporting Club,Botafogo de Futebol e Regatas,1,1,2,True
+4582311,2025,29,2025-10-20,Esporte Clube Bahia,Grêmio Foot-Ball Porto Alegrense,0,0,0,False
+4582268,2025,29,2025-10-21,Clube de Regatas Vasco da Gama,Fluminense Football Club,0,0,0,False
+4582279,2025,29,2025-10-21,Santos FC,Esporte Clube Vitória,1,1,2,True
+4582326,2025,29,2025-10-21,Esporte Clube Juventude,Red Bull Bragantino,1,1,2,True
+4582287,2025,30,2025-10-25,Fluminense Football Club,Sport Club Internacional,0,0,0,False
+4582333,2025,30,2025-10-25,Clube Atlético Mineiro,Ceará Sporting Club,1,1,2,True
+4582340,2025,30,2025-10-25,Esporte Clube Vitória,Sport Club Corinthians Paulista,1,1,2,True
+4582345,2025,30,2025-10-25,Sport Club do Recife,Mirassol Futebol Clube (SP),1,1,2,True
+4582298,2025,30,2025-10-26,Botafogo de Futebol e Regatas,Santos FC,1,1,2,True
+4582319,2025,30,2025-10-26,Fortaleza Esporte Clube,CR Flamengo,0,0,0,False
+4582327,2025,30,2025-10-26,Red Bull Bragantino,Clube de Regatas Vasco da Gama,1,1,2,True
+4582337,2025,30,2025-10-26,Grêmio Foot-Ball Porto Alegrense,Esporte Clube Juventude,1,1,2,True
+4582343,2025,30,2025-10-26,São Paulo Futebol Clube,Esporte Clube Bahia,0,0,0,False
+4582309,2025,30,2025-10-27,Sociedade Esportiva Palmeiras,Cruzeiro Esporte Clube,0,0,0,False
+4582233,2025,31,2025-11-01,Santos FC,Fortaleza Esporte Clube,1,1,2,True
+4582234,2025,31,2025-11-01,Mirassol Futebol Clube (SP),Botafogo de Futebol e Regatas,1,1,2,True
+4582235,2025,31,2025-11-01,Cruzeiro Esporte Clube,Esporte Clube Vitória,0,0,0,False
+4582230,2025,31,2025-11-02,CR Flamengo,Sport Club do Recife,2,2,2,True
+4582232,2025,31,2025-11-02,Sport Club Corinthians Paulista,Grêmio Foot-Ball Porto Alegrense,0,0,0,False
+4582236,2025,31,2025-11-02,Sport Club Internacional,Clube Atlético Mineiro,0,0,0,False
+4582237,2025,31,2025-11-02,Esporte Clube Bahia,Red Bull Bragantino,1,1,2,True
+4582238,2025,31,2025-11-02,Ceará Sporting Club,Fluminense Football Club,1,1,2,True
+4582239,2025,31,2025-11-02,Esporte Clube Juventude,Sociedade Esportiva Palmeiras,0,0,0,False
+4582231,2025,31,2025-11-03,Clube de Regatas Vasco da Gama,São Paulo Futebol Clube,1,1,2,True
+4582317,2025,32,2025-11-05,Botafogo de Futebol e Regatas,Clube de Regatas Vasco da Gama,0,0,0,False
+4582334,2025,32,2025-11-05,Red Bull Bragantino,Sport Club Corinthians Paulista,1,1,2,True
+4582342,2025,32,2025-11-05,Esporte Clube Vitória,Sport Club Internacional,1,1,2,True
+4582346,2025,32,2025-11-05,Sport Club do Recife,Esporte Clube Juventude,1,1,2,True
+4582300,2025,32,2025-11-06,Fluminense Football Club,Mirassol Futebol Clube (SP),0,0,0,False
+4582330,2025,32,2025-11-06,São Paulo Futebol Clube,CR Flamengo,1,1,2,True
+4582336,2025,32,2025-11-06,Clube Atlético Mineiro,Esporte Clube Bahia,1,1,2,True
+4582339,2025,32,2025-11-06,Grêmio Foot-Ball Porto Alegrense,Cruzeiro Esporte Clube,3,3,2,True
+4582322,2025,32,2025-11-07,Sociedade Esportiva Palmeiras,Santos FC,3,3,2,True
+4582344,2025,32,2025-11-07,Ceará Sporting Club,Fortaleza Esporte Clube,0,0,0,False
+4726114,2025,33,2025-11-08,Clube de Regatas Vasco da Gama,Esporte Clube Juventude,0,0,0,False
+4726119,2025,33,2025-11-08,Sport Club Internacional,Esporte Clube Bahia,0,0,0,False
+4726122,2025,33,2025-11-08,Sport Club do Recife,Clube Atlético Mineiro,1,1,2,True
+4726113,2025,33,2025-11-09,CR Flamengo,Santos FC,2,2,2,True
+4726115,2025,33,2025-11-09,Sport Club Corinthians Paulista,Ceará Sporting Club,1,1,2,True
+4726116,2025,33,2025-11-09,São Paulo Futebol Clube,Red Bull Bragantino,0,0,0,False
+4726118,2025,33,2025-11-09,Cruzeiro Esporte Clube,Fluminense Football Club,1,1,2,True
+4726120,2025,33,2025-11-09,Esporte Clube Vitória,Botafogo de Futebol e Regatas,0,0,0,False
+4726117,2025,33,2025-11-10,Mirassol Futebol Clube (SP),Sociedade Esportiva Palmeiras,1,1,2,True
+4726121,2025,33,2025-11-10,Fortaleza Esporte Clube,Grêmio Foot-Ball Porto Alegrense,0,0,0,False
+4726124,2025,34,2025-11-19,Botafogo de Futebol e Regatas,Sport Club do Recife,1,1,2,True
+4726123,2025,34,2025-11-20,Fluminense Football Club,CR Flamengo,0,0,0,False
+4726125,2025,34,2025-11-20,Sport Club Corinthians Paulista,São Paulo Futebol Clube,1,1,2,True
+4726126,2025,34,2025-11-20,Santos FC,Mirassol Futebol Clube (SP),1,1,2,True
+4726129,2025,34,2025-11-20,Grêmio Foot-Ball Porto Alegrense,Clube de Regatas Vasco da Gama,0,0,0,False
+4726130,2025,34,2025-11-20,Esporte Clube Bahia,Fortaleza Esporte Clube,1,1,2,True
+4726132,2025,34,2025-11-20,Esporte Clube Juventude,Cruzeiro Esporte Clube,1,1,2,True
+4726131,2025,34,2025-11-21,Ceará Sporting Club,Sport Club Internacional,0,0,0,False
+4726127,2025,34,2025-12-03,Red Bull Bragantino,Esporte Clube Vitória,1,1,2,True
+4726128,2025,34,2025-12-04,Clube Atlético Mineiro,Sociedade Esportiva Palmeiras,1,1,2,True
+4726134,2025,35,2025-11-22,Botafogo de Futebol e Regatas,Grêmio Foot-Ball Porto Alegrense,0,0,0,False
+4726133,2025,35,2025-11-23,CR Flamengo,Red Bull Bragantino,0,0,0,False
+4726135,2025,35,2025-11-23,Sociedade Esportiva Palmeiras,Fluminense Football Club,0,0,0,False
+4726136,2025,35,2025-11-23,São Paulo Futebol Clube,Esporte Clube Juventude,1,1,2,True
+4726140,2025,35,2025-11-23,Esporte Clube Bahia,Clube de Regatas Vasco da Gama,0,0,0,False
+4726142,2025,35,2025-11-23,Sport Club do Recife,Esporte Clube Vitória,0,0,0,False
+4726137,2025,35,2025-11-24,Mirassol Futebol Clube (SP),Ceará Sporting Club,0,0,0,False
+4726138,2025,35,2025-11-24,Cruzeiro Esporte Clube,Sport Club Corinthians Paulista,1,1,2,True
+4726139,2025,35,2025-11-25,Sport Club Internacional,Santos FC,1,1,2,True
+4726141,2025,35,2025-11-30,Fortaleza Esporte Clube,Clube Atlético Mineiro,0,0,0,False
+4726147,2025,36,2025-11-26,Red Bull Bragantino,Fortaleza Esporte Clube,1,1,2,True
+4726148,2025,36,2025-11-26,Clube Atlético Mineiro,CR Flamengo,1,1,2,True
+4726149,2025,36,2025-11-26,Grêmio Foot-Ball Porto Alegrense,Sociedade Esportiva Palmeiras,2,2,2,True
+4726143,2025,36,2025-11-28,Fluminense Football Club,São Paulo Futebol Clube,0,0,0,False
+4726144,2025,36,2025-11-28,Clube de Regatas Vasco da Gama,Sport Club Internacional,1,1,2,True
+4726152,2025,36,2025-11-28,Esporte Clube Juventude,Esporte Clube Bahia,2,2,2,True
+4726146,2025,36,2025-11-29,Santos FC,Sport Club do Recife,0,0,0,False
+4726150,2025,36,2025-11-29,Esporte Clube Vitória,Mirassol Futebol Clube (SP),1,1,2,True
+4726145,2025,36,2025-11-30,Sport Club Corinthians Paulista,Botafogo de Futebol e Regatas,1,1,2,True
+4726151,2025,36,2025-11-30,Ceará Sporting Club,Cruzeiro Esporte Clube,0,0,0,False
+4726157,2025,37,2025-11-16,Red Bull Bragantino,Clube Atlético Mineiro,0,0,0,False
+4726155,2025,37,2025-11-19,Sociedade Esportiva Palmeiras,Esporte Clube Vitória,0,0,0,False
+4726154,2025,37,2025-12-02,Clube de Regatas Vasco da Gama,Mirassol Futebol Clube (SP),0,0,0,False
+4726159,2025,37,2025-12-03,Grêmio Foot-Ball Porto Alegrense,Fluminense Football Club,1,1,2,True
+4726161,2025,37,2025-12-03,Fortaleza Esporte Clube,Sport Club Corinthians Paulista,0,0,0,False
+4726162,2025,37,2025-12-03,Esporte Clube Juventude,Santos FC,1,1,2,True
+4726153,2025,37,2025-12-04,CR Flamengo,Ceará Sporting Club,0,0,0,False
+4726156,2025,37,2025-12-04,São Paulo Futebol Clube,Sport Club Internacional,1,1,2,True
+4726158,2025,37,2025-12-04,Cruzeiro Esporte Clube,Botafogo de Futebol e Regatas,1,1,2,True
+4726160,2025,37,2025-12-04,Esporte Clube Bahia,Sport Club do Recife,0,0,0,False
+4726167,2025,38,2025-12-06,Mirassol Futebol Clube (SP),CR Flamengo,0,0,0,False
+4726163,2025,38,2025-12-07,Fluminense Football Club,Esporte Clube Bahia,0,0,0,False
+4726164,2025,38,2025-12-07,Botafogo de Futebol e Regatas,Fortaleza Esporte Clube,2,2,2,True
+4726165,2025,38,2025-12-07,Sport Club Corinthians Paulista,Esporte Clube Juventude,0,0,0,False
+4726166,2025,38,2025-12-07,Santos FC,Cruzeiro Esporte Clube,0,0,0,False
+4726168,2025,38,2025-12-07,Clube Atlético Mineiro,Clube de Regatas Vasco da Gama,0,0,0,False
+4726169,2025,38,2025-12-07,Sport Club Internacional,Red Bull Bragantino,2,2,2,True
+4726170,2025,38,2025-12-07,Esporte Clube Vitória,São Paulo Futebol Clube,1,1,2,True
+4726171,2025,38,2025-12-07,Ceará Sporting Club,Sociedade Esportiva Palmeiras,0,0,0,False
+4726172,2025,38,2025-12-07,Sport Club do Recife,Grêmio Foot-Ball Porto Alegrense,0,0,0,False
