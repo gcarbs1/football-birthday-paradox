@@ -1,6 +1,9 @@
 pandas
 requests
 beautifulsoup4
+truststore
 tqdm
+matplotlib
+scipy
 jupyterlab
 ipykernel
