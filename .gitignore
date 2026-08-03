@@ -1,12 +1,3 @@
-# Python environment
 venv/
-__pycache__/
-*.pyc
-
-# OS
 .DS_Store
-
 data/
-
-# Claude Code local settings (machine-specific, not for sharing)
-.claude/settings.local.json
