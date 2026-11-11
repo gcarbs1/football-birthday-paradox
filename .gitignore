@@ -1,3 +1,30 @@
-.venv/
+# macOS
 .DS_Store
-data/
+**/.DS_Store
+
+# Editors and IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Data: only the tables in data/processed/ are versioned. The raw API
+# responses in data/raw/ are recreated by R/00-data_collection.R, and any
+# other folder in data/ is local.
+data/*
+!data/processed/
+!data/raw/
+data/raw/*
+!data/raw/.gitkeep
+
+# Local environment files
+.env
+.env.*
+!.env.example

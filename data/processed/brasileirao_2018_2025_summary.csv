@@ -1,0 +1,2 @@
+group_size,matches,matches_with_shared_birthday,observed,observed_low,observed_high,uniform,starters,permutation_mean,permutation_low,permutation_high,permutation_p_value,unique_players,random_expected,random_low,random_high
+22,3040,1627,0.5351973684210526,0.5174343351170949,0.5528715605398069,0.4756953076625503,0.5041928231996332,0.50419375,0.45426809210526314,0.5539473684210526,0.23138430784607697,2057,1446.113735294153,1392,1500

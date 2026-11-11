@@ -1,0 +1,2166 @@
+game_id,season,round,date,home_club,away_club,birth_day,players,same_club,names
+3011406,2018,1,2018-04-14,EC Vitória,Flamengo,02-03,2,TRUE,Yago Felipe · Rodrigo Andrade
+3011406,2018,1,2018-04-14,EC Vitória,Flamengo,05-03,2,TRUE,Kanu · Ramon Menezes
+3011397,2018,1,2018-04-15,América-MG,Sport Recife,03-15,2,TRUE,Serginho · Jori
+3011402,2018,1,2018-04-15,Internacional,EC Bahia,04-15,2,FALSE,Andrés D'Alessandro · Vina
+3011402,2018,1,2018-04-15,Internacional,EC Bahia,06-17,2,FALSE,Rodrigo Dourado · Tiago Pagnussat
+3011402,2018,1,2018-04-15,Internacional,EC Bahia,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3011405,2018,1,2018-04-15,Vasco da Gama,Atlético-MG,03-25,2,FALSE,Martín Silva · Patric
+3034133,2018,2,2018-04-21,Flamengo,América-MG,03-15,2,TRUE,Jori · Serginho
+3034135,2018,2,2018-04-22,Atlético-MG,EC Vitória,05-03,2,TRUE,Kanu · Ramon Menezes
+3034138,2018,2,2018-04-22,Ceará SC,São Paulo,05-29,2,FALSE,Tiago Alves · Petros
+3034146,2018,3,2018-04-29,EC Bahia,Athletico-PR,01-19,2,FALSE,Rodrigo Becão · Lucho González
+3034146,2018,3,2018-04-29,EC Bahia,Athletico-PR,03-17,2,FALSE,Elton · Santos
+3034148,2018,3,2018-04-29,Ceará SC,Flamengo,01-04,2,FALSE,Javier Reina · Réver
+3034148,2018,3,2018-04-29,Ceará SC,Flamengo,09-14,2,FALSE,Luiz Otávio · Renê
+3034149,2018,3,2018-04-29,Internacional,Cruzeiro,06-17,2,FALSE,Rodrigo Dourado · Rafael Sóbis
+3034150,2018,3,2018-04-29,Palmeiras,Chapecoense,03-17,2,TRUE,Thiago Martins · Moisés
+3034150,2018,3,2018-04-29,Palmeiras,Chapecoense,12-13,2,FALSE,Weverton · Apodi
+3034143,2018,3,2018-04-30,América-MG,EC Vitória,03-15,2,TRUE,Jori · Serginho
+3034143,2018,3,2018-04-30,América-MG,EC Vitória,05-03,2,TRUE,Kanu · Ramon Menezes
+3036817,2018,4,2018-05-06,Sport Recife,EC Bahia,04-15,2,FALSE,Cláudio Winck · Vina
+3036819,2018,4,2018-05-06,Cruzeiro,Botafogo,05-16,2,FALSE,Henrique Pacheco · Marcinho
+3036820,2018,4,2018-05-06,Athletico-PR,Palmeiras,03-17,2,FALSE,Santos · Moisés
+3036825,2018,5,2018-05-12,Grêmio,Internacional,01-13,2,TRUE,Marcelo Grohe · Madson
+3036827,2018,5,2018-05-13,Vasco da Gama,EC Vitória,05-03,2,TRUE,Kanu · André Lima
+3036827,2018,5,2018-05-13,Vasco da Gama,EC Vitória,09-05,2,FALSE,Werley · Rhayner
+3036836,2018,6,2018-05-19,Flamengo,Vasco da Gama,01-29,2,FALSE,Rodinei · Wagner
+3036838,2018,6,2018-05-20,EC Vitória,Ceará SC,05-03,2,TRUE,Kanu · André Lima
+3036838,2018,6,2018-05-20,EC Vitória,Ceará SC,06-06,2,FALSE,Willian Farias · Samuel Xavier
+3036843,2018,6,2018-05-20,Fluminense,Athletico-PR,01-19,2,FALSE,Marcos Júnior · Lucho González
+3036846,2018,7,2018-05-26,Palmeiras,Sport Recife,07-09,3,FALSE,Alejandro Guerra · Lucas Lima · Ronaldo Alves
+3036845,2018,7,2018-05-27,Botafogo,EC Vitória,03-11,2,FALSE,Moisés · Zé Welison
+3036848,2018,7,2018-05-27,Paraná,Athletico-PR,02-21,2,FALSE,Jhonny Lucas · Zé Ivaldo
+3036850,2018,7,2018-05-27,Ceará SC,Grêmio,09-14,2,FALSE,Luiz Otávio · Maicon
+3036853,2018,7,2018-05-27,América-MG,São Paulo,03-15,2,TRUE,Jori · Serginho
+3036853,2018,7,2018-05-27,América-MG,São Paulo,07-19,2,FALSE,Norberto · Nenê
+3036857,2018,8,2018-05-30,Sport Recife,Atlético-MG,10-03,2,FALSE,Sander · Gustavo Blanco
+3036859,2018,8,2018-05-30,EC Vitória,Internacional,05-03,2,TRUE,Kanu · André Lima
+3036861,2018,8,2018-05-30,Grêmio,Fluminense,01-13,2,TRUE,Marcelo Grohe · Madson
+3036863,2018,8,2018-05-31,Corinthians,América-MG,02-12,2,FALSE,Mateus Vital · Matheus Ferraz
+3036863,2018,8,2018-05-31,Corinthians,América-MG,03-15,2,TRUE,Jori · Serginho
+3036870,2018,9,2018-06-03,América-MG,Athletico-PR,03-15,2,TRUE,Jori · Serginho
+3036870,2018,9,2018-06-03,América-MG,Athletico-PR,05-21,2,FALSE,Judivan · Felipe Alves
+3036876,2018,10,2018-06-06,EC Vitória,Chapecoense,05-03,3,TRUE,Kanu · Ramon Menezes · André Lima
+3036877,2018,10,2018-06-06,Botafogo,Ceará SC,04-25,2,FALSE,Leonardo Valencia · Arthur Cabral
+3036878,2018,10,2018-06-06,Sport Recife,Athletico-PR,01-06,2,TRUE,Evandro · Gabriel
+3036880,2018,10,2018-06-06,Cruzeiro,Vasco da Gama,02-16,2,FALSE,Lucas Silva · Ricardo Graça
+3036881,2018,10,2018-06-06,Grêmio,Palmeiras,03-17,2,TRUE,Thiago Martins · Moisés
+3036882,2018,10,2018-06-07,Paraná,EC Bahia,08-02,2,FALSE,Thiago Santos · Lucas Fonseca
+3036884,2018,10,2018-06-07,América-MG,Atlético-MG,03-15,2,TRUE,Jori · Serginho
+3036893,2018,11,2018-06-09,Corinthians,EC Vitória,05-03,3,TRUE,Kanu · Ramon Menezes · André Lima
+3036894,2018,11,2018-06-10,Grêmio,América-MG,03-15,2,TRUE,Jori · Serginho
+3036894,2018,11,2018-06-10,Grêmio,América-MG,10-23,2,FALSE,Léo Moura · Juninho
+3036901,2018,12,2018-06-12,São Paulo,EC Vitória,05-03,2,TRUE,Ramon Menezes · André Lima
+3036896,2018,12,2018-06-13,Paraná,Cruzeiro,06-17,2,FALSE,Neris · Rafael Sóbis
+3036896,2018,12,2018-06-13,Paraná,Cruzeiro,07-01,2,FALSE,Silvinho · Dedé
+3036897,2018,12,2018-06-13,América-MG,Chapecoense,03-15,3,FALSE,Jori · Serginho · Héctor Canteros
+3036898,2018,12,2018-06-13,EC Bahia,Corinthians,08-02,2,FALSE,Lucas Fonseca · Guilherme Mantuan
+3036899,2018,12,2018-06-13,Fluminense,Santos,07-19,2,TRUE,Luan Peres · Mateus Norton
+3036899,2018,12,2018-06-13,Fluminense,Santos,08-30,2,FALSE,Jádson · Gabriel Barbosa
+3036903,2018,12,2018-06-13,Palmeiras,Flamengo,03-17,2,TRUE,Thiago Martins · Moisés
+3036908,2018,13,2018-07-18,EC Vitória,Paraná,05-03,2,TRUE,Kanu · André Lima
+3036913,2018,13,2018-07-18,Corinthians,Botafogo,06-06,2,FALSE,Cássio · Rodrigo Lindoso
+3036914,2018,13,2018-07-18,Grêmio,Atlético-MG,03-11,2,FALSE,Bruno Cortez · Zé Welison
+3036907,2018,13,2018-07-19,Chapecoense,EC Bahia,11-20,2,FALSE,Eduardo · Anderson
+3036920,2018,14,2018-07-21,Flamengo,Botafogo,01-01,2,TRUE,Paolo Guerrero · Fernando Uribe
+3036915,2018,14,2018-07-22,Cruzeiro,Athletico-PR,02-27,2,FALSE,Thiago Neves · Jonathan
+3036922,2018,14,2018-07-22,Sport Recife,Fluminense,10-03,2,FALSE,Sander · Léo Morais
+3036924,2018,14,2018-07-23,Internacional,Ceará SC,11-19,2,FALSE,Victor Cuesta · Fabinho
+3036925,2018,15,2018-07-25,Atlético-MG,Paraná,01-21,2,FALSE,Victor · Júnior
+3036929,2018,15,2018-07-25,Fluminense,Palmeiras,03-07,2,FALSE,Gilberto · Antônio Carlos
+3036928,2018,15,2018-07-26,EC Vitória,Sport Recife,04-09,2,FALSE,Aderllan Santos · Magrão
+3036928,2018,15,2018-07-26,EC Vitória,Sport Recife,05-03,2,TRUE,Ramon Menezes · André Lima
+3036926,2018,15,2018-08-29,Athletico-PR,Vasco da Gama,02-15,2,TRUE,Andrey · Bruno Silva
+3036931,2018,15,2018-08-29,Ceará SC,EC Bahia,12-12,2,FALSE,Juninho Quixadá · Douglas Friedrich
+3036941,2018,16,2018-07-28,Ceará SC,Fluminense,04-25,2,FALSE,Arthur Cabral · Júnior Dutra
+3036936,2018,16,2018-07-29,Athletico-PR,EC Vitória,05-03,3,TRUE,Kanu · Ramon Menezes · André Lima
+3036939,2018,16,2018-07-29,Vasco da Gama,Corinthians,06-09,2,FALSE,Evander · Danilo Avelar
+3036943,2018,16,2018-07-29,Palmeiras,Paraná,03-17,2,TRUE,Thiago Martins · Moisés
+3036944,2018,16,2018-07-29,Internacional,Botafogo,05-16,2,FALSE,Zeca · Marcinho
+3036944,2018,16,2018-07-29,Internacional,Botafogo,10-01,2,FALSE,Nicolás López · Rodrigo Aguirre
+3036938,2018,16,2018-07-30,EC Bahia,Atlético-MG,05-06,2,FALSE,Edigar Junio · Ricardo Oliveira
+3036946,2018,17,2018-08-05,Paraná,Ceará SC,07-22,2,FALSE,Nádson · Everson
+3036947,2018,17,2018-08-05,América-MG,Palmeiras,01-26,2,FALSE,Ruy · Miguel Borja
+3036947,2018,17,2018-08-05,América-MG,Palmeiras,03-17,2,TRUE,Thiago Martins · Moisés
+3036947,2018,17,2018-08-05,América-MG,Palmeiras,06-23,2,FALSE,Giovanni · Victor Luís
+3036947,2018,17,2018-08-05,América-MG,Palmeiras,06-24,2,FALSE,Wesley · Jean
+3036949,2018,17,2018-08-05,Fluminense,EC Bahia,08-30,2,FALSE,Jádson · Bruno
+3036952,2018,17,2018-08-05,Sport Recife,Chapecoense,02-27,2,TRUE,Andrigo · Carlos Henrique
+3036945,2018,17,2018-08-06,Atlético-MG,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3036961,2018,18,2018-08-11,Ceará SC,Athletico-PR,06-08,2,FALSE,João Lucas · Marcinho
+3036955,2018,18,2018-08-12,Atlético-MG,Santos,01-14,2,FALSE,Emerson Royal · Victor Ferraz
+3036955,2018,18,2018-08-12,Atlético-MG,Santos,02-06,2,FALSE,Iago Maidana · Dodô
+3036957,2018,18,2018-08-12,Chapecoense,Corinthians,01-07,2,TRUE,Carlos Augusto · Roger Silva
+3036963,2018,18,2018-08-12,Palmeiras,Vasco da Gama,05-06,2,FALSE,Gustavo Gómez · Ramon
+3036963,2018,18,2018-08-12,Palmeiras,Vasco da Gama,09-05,2,FALSE,Thiago Santos · Giovanni Augusto
+3036964,2018,18,2018-08-12,Grêmio,EC Vitória,02-03,2,TRUE,Rodrigo Andrade · Yago Felipe
+3036964,2018,18,2018-08-12,Grêmio,EC Vitória,05-03,2,TRUE,Kanu · Ramon Menezes
+3036959,2018,18,2018-08-13,Fluminense,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3036973,2018,19,2018-08-18,Corinthians,Grêmio,06-09,2,TRUE,Danilo Avelar · Ralf
+3036965,2018,19,2018-08-19,Cruzeiro,EC Bahia,06-16,2,FALSE,Egídio · Zé Rafael
+3036968,2018,19,2018-08-19,EC Vitória,Palmeiras,02-03,2,TRUE,Rodrigo Andrade · Yago Felipe
+3036970,2018,19,2018-08-19,Botafogo,Atlético-MG,01-21,2,FALSE,Luis Ricardo · Victor
+3036970,2018,19,2018-08-19,Botafogo,Atlético-MG,03-11,2,FALSE,Moisés · Zé Welison
+3036970,2018,19,2018-08-19,Botafogo,Atlético-MG,03-13,2,TRUE,Matheus Galdezani · Nathan
+3036971,2018,19,2018-08-19,São Paulo,Chapecoense,03-01,2,FALSE,Bruno Peres · Jandrei
+3036974,2018,19,2018-08-19,Internacional,Paraná,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3036976,2018,20,2018-08-22,Paraná,São Paulo,03-01,2,FALSE,Richard Costa · Bruno Peres
+3036978,2018,20,2018-08-22,EC Bahia,Internacional,06-17,2,FALSE,Tiago Pagnussat · Rodrigo Dourado
+3036978,2018,20,2018-08-22,EC Bahia,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3036979,2018,20,2018-08-22,Fluminense,Corinthians,06-09,2,TRUE,Danilo Avelar · Ralf
+3036984,2018,20,2018-08-22,Grêmio,Cruzeiro,03-27,2,FALSE,Luan · Murilo
+3036975,2018,20,2018-08-23,Atlético-MG,Vasco da Gama,02-15,2,TRUE,Andrey · Bruno Silva
+3036975,2018,20,2018-08-23,Atlético-MG,Vasco da Gama,03-13,2,TRUE,Matheus Galdezani · Nathan
+3036975,2018,20,2018-08-23,Atlético-MG,Vasco da Gama,04-03,2,FALSE,Juan Cazares · Maxi López
+3036980,2018,20,2018-08-23,Flamengo,EC Vitória,02-03,3,TRUE,Rodrigo Andrade · Yago Felipe · Léo Ceará
+3036977,2018,20,2018-09-13,Chapecoense,Athletico-PR,06-08,2,FALSE,Elicarlos · Marcinho
+3036993,2018,21,2018-08-25,Corinthians,Paraná,06-09,2,TRUE,Danilo Avelar · Ralf
+3036987,2018,21,2018-08-26,América-MG,Flamengo,06-24,2,FALSE,Wesley · Diego Alves
+3036988,2018,21,2018-08-26,EC Vitória,Atlético-MG,02-03,3,TRUE,Rodrigo Andrade · Yago Felipe · Léo Ceará
+3036989,2018,21,2018-08-26,Vasco da Gama,Chapecoense,02-15,2,TRUE,Andrey · Bruno Silva
+3036989,2018,21,2018-08-26,Vasco da Gama,Chapecoense,03-15,2,TRUE,Héctor Canteros · Yann Rolim
+3036994,2018,21,2018-08-26,Internacional,Palmeiras,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3036998,2018,22,2018-09-01,EC Vitória,América-MG,02-03,3,TRUE,Rodrigo Andrade · Yago Felipe · Léo Ceará
+3036999,2018,22,2018-09-01,Vasco da Gama,Santos,02-15,2,TRUE,Andrey · Bruno Silva
+3037003,2018,22,2018-09-01,Corinthians,Atlético-MG,06-09,2,TRUE,Danilo Avelar · Ralf
+3037004,2018,22,2018-09-01,Grêmio,Botafogo,03-11,2,FALSE,Bruno Cortez · Moisés
+3036995,2018,22,2018-09-02,Cruzeiro,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3036996,2018,22,2018-09-02,Athletico-PR,EC Bahia,03-17,2,FALSE,Santos · Elton
+3037000,2018,22,2018-09-02,Flamengo,Ceará SC,09-14,2,FALSE,Renê · Luiz Otávio
+3037002,2018,22,2018-09-02,Sport Recife,Paraná,04-09,2,FALSE,Magrão · Rafael Grampola
+3037006,2018,23,2018-09-05,Paraná,Chapecoense,03-01,2,FALSE,Richard Costa · Jandrei
+3037010,2018,23,2018-09-05,Botafogo,Cruzeiro,05-16,2,FALSE,Marcinho · Henrique Pacheco
+3037011,2018,23,2018-09-05,Ceará SC,Corinthians,06-09,2,TRUE,Danilo Avelar · Ralf
+3037013,2018,23,2018-09-05,Palmeiras,Athletico-PR,03-17,2,FALSE,Moisés · Santos
+3037013,2018,23,2018-09-05,Palmeiras,Athletico-PR,06-23,2,FALSE,Victor Luís · Pablo
+3037014,2018,23,2018-09-05,Internacional,Flamengo,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3037007,2018,23,2018-09-06,América-MG,Vasco da Gama,02-12,2,FALSE,Matheus Ferraz · Luiz Gustavo
+3037009,2018,23,2018-09-06,Fluminense,EC Vitória,02-03,2,TRUE,Rodrigo Andrade · Léo Ceará
+3037016,2018,24,2018-09-09,Paraná,Santos,08-15,2,FALSE,Carlos Júnior · Diego Pituca
+3037017,2018,24,2018-09-09,América-MG,Ceará SC,02-25,2,FALSE,Paulão · Calyson
+3037017,2018,24,2018-09-09,América-MG,Ceará SC,05-29,2,FALSE,David · Tiago Alves
+3037018,2018,24,2018-09-09,EC Vitória,Vasco da Gama,02-03,2,TRUE,Rodrigo Andrade · Léo Ceará
+3037023,2018,24,2018-09-09,Palmeiras,Corinthians,01-07,2,FALSE,Dudu · Roger Silva
+3037023,2018,24,2018-09-09,Palmeiras,Corinthians,06-09,2,TRUE,Danilo Avelar · Ralf
+3037024,2018,24,2018-09-09,Internacional,Grêmio,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3037015,2018,24,2018-09-10,Atlético-MG,Athletico-PR,11-16,2,FALSE,Tomás Andrade · Bruno Guimarães
+3037031,2018,25,2018-09-15,Ceará SC,EC Vitória,02-03,2,TRUE,Rodrigo Andrade · Léo Ceará
+3037033,2018,25,2018-09-16,Corinthians,Sport Recife,06-09,2,TRUE,Danilo Avelar · Ralf
+3037027,2018,25,2018-09-17,Chapecoense,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3037038,2018,26,2018-09-23,EC Vitória,Botafogo,02-03,2,TRUE,Yago Felipe · Léo Ceará
+3037038,2018,26,2018-09-23,EC Vitória,Botafogo,02-17,2,TRUE,Fabiano · Neilton
+3037042,2018,26,2018-09-23,Sport Recife,Palmeiras,07-09,2,FALSE,Ronaldo Alves · Lucas Lima
+3037043,2018,26,2018-09-23,Corinthians,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3037044,2018,26,2018-09-23,Grêmio,Ceará SC,09-14,2,FALSE,Maicon · Luiz Otávio
+3037039,2018,26,2018-09-24,Vasco da Gama,EC Bahia,06-05,2,FALSE,Yago Pikachu · Gilberto
+3037047,2018,27,2018-09-29,América-MG,Corinthians,02-12,2,FALSE,Matheus Ferraz · Mateus Vital
+3037049,2018,27,2018-09-29,Fluminense,Grêmio,02-18,2,FALSE,Richard · Douglas
+3037049,2018,27,2018-09-29,Fluminense,Grêmio,05-07,2,FALSE,Digão · Jean Pyerre
+3037045,2018,27,2018-09-30,Atlético-MG,Sport Recife,01-14,2,FALSE,Emerson Royal · Marcão
+3037045,2018,27,2018-09-30,Atlético-MG,Sport Recife,04-02,2,FALSE,Yimmi Chará · Marlone
+3037053,2018,27,2018-09-30,Palmeiras,Cruzeiro,06-23,2,FALSE,Victor Luís · Rafael
+3037053,2018,27,2018-09-30,Palmeiras,Cruzeiro,07-09,2,TRUE,Fernando Prass · Lucas Lima
+3037054,2018,27,2018-09-30,Internacional,EC Vitória,02-03,2,TRUE,Rodrigo Andrade · Yago Felipe
+3037054,2018,27,2018-09-30,Internacional,EC Vitória,02-17,2,TRUE,Fabiano · Neilton
+3037054,2018,27,2018-09-30,Internacional,EC Vitória,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3037046,2018,27,2018-10-01,Paraná,Vasco da Gama,03-25,2,FALSE,Jorge González · Martín Silva
+3037058,2018,28,2018-10-05,EC Vitória,Santos,02-03,3,TRUE,Rodrigo Andrade · Yago Felipe · Léo Ceará
+3037062,2018,28,2018-10-05,Sport Recife,Internacional,03-23,2,FALSE,Adryelson · Iago
+3037063,2018,28,2018-10-05,Corinthians,Flamengo,06-09,2,TRUE,Danilo Avelar · Ralf
+3037063,2018,28,2018-10-05,Corinthians,Flamengo,10-14,2,FALSE,Henrique · Gustavo Cuéllar
+3037070,2018,29,2018-10-13,Flamengo,Fluminense,01-04,2,FALSE,Réver · Gum
+3037066,2018,29,2018-10-14,Athletico-PR,Sport Recife,01-06,2,TRUE,Evandro · Gabriel
+3037067,2018,29,2018-10-14,Chapecoense,EC Vitória,12-10,2,FALSE,Gustavo Barreto · Erick
+3037069,2018,29,2018-10-14,Vasco da Gama,Cruzeiro,06-05,2,FALSE,Yago Pikachu · Patrick Brey
+3037074,2018,29,2018-10-14,Internacional,São Paulo,06-17,2,FALSE,Rodrigo Dourado · Diego Souza
+3037074,2018,29,2018-10-14,Internacional,São Paulo,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3037071,2018,29,2018-10-15,Ceará SC,Botafogo,06-06,2,FALSE,Samuel Xavier · Rodrigo Lindoso
+3037078,2018,30,2018-10-21,EC Vitória,Corinthians,06-06,2,FALSE,Willian Farias · Cássio
+3037078,2018,30,2018-10-21,EC Vitória,Corinthians,06-09,2,TRUE,Danilo Avelar · Ralf
+3037084,2018,30,2018-10-22,Internacional,Santos,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3037089,2018,31,2018-10-26,Vasco da Gama,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3037093,2018,31,2018-10-27,Corinthians,EC Bahia,06-09,2,TRUE,Danilo Avelar · Ralf
+3037095,2018,32,2018-11-03,Atlético-MG,Grêmio,03-22,2,TRUE,Michel · Everton
+3037096,2018,32,2018-11-04,Paraná,EC Vitória,02-03,2,TRUE,Rodrigo Andrade · Léo Ceará
+3037096,2018,32,2018-11-04,Paraná,EC Vitória,04-09,2,FALSE,Rafael Grampola · Aderllan Santos
+3037100,2018,32,2018-11-04,Botafogo,Corinthians,06-06,2,FALSE,Rodrigo Lindoso · Cássio
+3037100,2018,32,2018-11-04,Botafogo,Corinthians,06-09,2,TRUE,Danilo Avelar · Ralf
+3037100,2018,32,2018-11-04,Botafogo,Corinthians,06-11,2,TRUE,Fagner · Danilo
+3037102,2018,32,2018-11-05,Sport Recife,Ceará SC,03-20,2,TRUE,Juninho Valoura · Pedro Ken
+3037106,2018,33,2018-11-10,Athletico-PR,Cruzeiro,02-27,2,FALSE,Jonathan · Thiago Neves
+3037113,2018,33,2018-11-10,Corinthians,São Paulo,06-11,2,TRUE,Fagner · Danilo
+3037111,2018,33,2018-11-11,Ceará SC,Internacional,07-22,2,FALSE,Everson · Leandro Damião
+3037111,2018,33,2018-11-11,Ceará SC,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3037114,2018,33,2018-11-11,Grêmio,Vasco da Gama,03-22,2,TRUE,Michel · Everton
+3037112,2018,33,2018-11-12,Santos,Chapecoense,03-01,2,FALSE,Alison · Jandrei
+3037115,2018,34,2018-11-14,Cruzeiro,Corinthians,06-09,2,TRUE,Danilo Avelar · Ralf
+3037115,2018,34,2018-11-14,Cruzeiro,Corinthians,06-11,2,TRUE,Fagner · Danilo
+3037116,2018,34,2018-11-14,Paraná,Atlético-MG,06-22,2,FALSE,Wesley Dias · Leonardo Silva
+3037116,2018,34,2018-11-14,Paraná,Atlético-MG,08-11,2,TRUE,Luan · David Terans
+3037122,2018,34,2018-11-14,Sport Recife,EC Vitória,05-03,2,TRUE,Ramon Menezes · André Lima
+3037117,2018,34,2018-11-15,Chapecoense,Botafogo,03-01,2,FALSE,Jandrei · Brenner
+3037121,2018,34,2018-11-15,São Paulo,Grêmio,03-22,2,TRUE,Michel · Everton
+3037124,2018,34,2018-11-15,Internacional,América-MG,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3037125,2018,35,2018-11-17,Atlético-MG,EC Bahia,05-06,2,FALSE,Ricardo Oliveira · Edigar Junio
+3037133,2018,35,2018-11-17,Corinthians,Vasco da Gama,06-09,2,TRUE,Danilo Avelar · Ralf
+3037133,2018,35,2018-11-17,Corinthians,Vasco da Gama,06-11,2,TRUE,Fagner · Danilo
+3037130,2018,35,2018-11-18,Botafogo,Internacional,05-16,2,FALSE,Marcinho · Zeca
+3037130,2018,35,2018-11-18,Botafogo,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3037131,2018,35,2018-11-18,São Paulo,Cruzeiro,01-30,2,FALSE,Húdson · Léo
+3037134,2018,35,2018-11-18,Grêmio,Chapecoense,03-22,2,TRUE,Michel · Everton
+3037129,2018,35,2018-11-19,Fluminense,Ceará SC,03-20,2,FALSE,Bryan Cabezas · Juninho Valoura
+3037135,2018,36,2018-11-21,Cruzeiro,EC Vitória,02-03,3,TRUE,Rodrigo Andrade · Yago Felipe · Léo Ceará
+3037136,2018,36,2018-11-21,Athletico-PR,Corinthians,06-09,2,TRUE,Danilo Avelar · Ralf
+3037136,2018,36,2018-11-21,Athletico-PR,Corinthians,06-11,2,TRUE,Fagner · Danilo
+3037140,2018,36,2018-11-21,Flamengo,Grêmio,03-22,2,TRUE,Michel · Everton
+3037142,2018,36,2018-11-21,Santos,Botafogo,03-01,2,FALSE,Alison · Brenner
+3037144,2018,36,2018-11-21,Internacional,Atlético-MG,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3037138,2018,36,2018-11-22,EC Bahia,Fluminense,08-30,2,FALSE,Bruno · Jádson
+3037139,2018,36,2018-11-22,Vasco da Gama,São Paulo,04-25,2,FALSE,Henrique Silva · Helinho
+3037152,2018,37,2018-11-24,Santos,Atlético-MG,01-14,2,FALSE,Victor Ferraz · Emerson Royal
+3037147,2018,37,2018-11-25,América-MG,EC Bahia,10-23,2,FALSE,Juninho · Clayton
+3037148,2018,37,2018-11-25,EC Vitória,Grêmio,03-22,3,FALSE,João Gabriel · Michel · Everton
+3037153,2018,37,2018-11-25,Corinthians,Chapecoense,02-12,2,FALSE,Mateus Vital · Fabrício Bruno
+3037153,2018,37,2018-11-25,Corinthians,Chapecoense,06-11,2,FALSE,Fagner · Márcio Araújo
+3037154,2018,37,2018-11-25,Internacional,Fluminense,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3037150,2018,37,2018-11-26,Botafogo,Paraná,03-01,2,FALSE,Brenner · Richard Costa
+3037151,2018,37,2018-11-26,São Paulo,Sport Recife,09-28,2,FALSE,Reinaldo · Mateus Gonçalves
+3037155,2018,38,2018-12-01,Atlético-MG,Botafogo,05-16,2,FALSE,Elias · Marcinho
+3037156,2018,38,2018-12-02,Paraná,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3037158,2018,38,2018-12-02,EC Bahia,Cruzeiro,06-05,2,FALSE,Gilberto · Patrick Brey
+3037161,2018,38,2018-12-02,Ceará SC,Vasco da Gama,02-10,2,FALSE,Valdo · Caio Monteiro
+3037161,2018,38,2018-12-02,Ceará SC,Vasco da Gama,02-15,2,FALSE,Felipe Jonatan · Andrey
+3037162,2018,38,2018-12-02,Sport Recife,Santos,01-14,2,FALSE,Marcão · Victor Ferraz
+3037162,2018,38,2018-12-02,Sport Recife,Santos,02-01,2,FALSE,Fellipe Bastos · Vanderlei
+3037163,2018,38,2018-12-02,Palmeiras,EC Vitória,02-03,2,TRUE,Yago Felipe · Léo Ceará
+3037163,2018,38,2018-12-02,Palmeiras,EC Vitória,06-06,2,TRUE,Bruno Bispo · Willian Farias
+3037164,2018,38,2018-12-02,Grêmio,Corinthians,03-22,2,TRUE,Michel · Everton
+3173969,2019,1,2019-04-27,Flamengo,Cruzeiro,03-27,2,TRUE,Murilo · Rodriguinho
+3173971,2019,1,2019-04-27,Chapecoense,Internacional,04-04,2,TRUE,Douglas · Campanharo
+3173972,2019,1,2019-04-28,EC Bahia,Corinthians,05-22,2,TRUE,Ramiro · Mauro Boselli
+3173973,2019,1,2019-04-28,Athletico-PR,Vasco da Gama,11-16,2,TRUE,Tomás Andrade · Bruno Guimarães
+3180854,2019,2,2019-05-01,Corinthians,Chapecoense,01-07,2,FALSE,Carlos Augusto · Tharlis
+3180854,2019,2,2019-05-01,Corinthians,Chapecoense,04-04,2,TRUE,Douglas · Campanharo
+3180854,2019,2,2019-05-01,Corinthians,Chapecoense,05-22,2,TRUE,Ramiro · Mauro Boselli
+3180854,2019,2,2019-05-01,Corinthians,Chapecoense,06-11,2,FALSE,Fagner · Márcio Araújo
+3180857,2019,2,2019-05-01,Internacional,Flamengo,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3180859,2019,2,2019-05-01,Goiás,São Paulo,04-01,2,FALSE,Kayke · Igor Vinícius
+3180860,2019,2,2019-05-01,Fortaleza,Athletico-PR,11-16,2,TRUE,Tomás Andrade · Bruno Guimarães
+3180863,2019,3,2019-05-04,Palmeiras,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3180864,2019,3,2019-05-04,Vasco da Gama,Corinthians,02-12,2,FALSE,Luiz Gustavo · Mateus Vital
+3180865,2019,3,2019-05-04,Ceará SC,Atlético-MG,05-16,2,FALSE,Chico Kim · Elias
+3180866,2019,3,2019-05-05,Chapecoense,Athletico-PR,04-04,2,TRUE,Douglas · Campanharo
+3180868,2019,3,2019-05-05,Botafogo,Fortaleza,11-29,2,FALSE,Fernando Costanza · Carlinhos
+3180871,2019,3,2019-05-05,Grêmio,Fluminense,03-22,2,TRUE,Michel · Everton
+3180932,2019,4,2019-05-11,Fluminense,Botafogo,03-03,2,FALSE,Allan · Jonathan Vieira
+3180933,2019,4,2019-05-11,Corinthians,Grêmio,03-22,2,TRUE,Michel · Everton
+3180933,2019,4,2019-05-11,Corinthians,Grêmio,05-22,2,TRUE,Ramiro · Mauro Boselli
+3180933,2019,4,2019-05-11,Corinthians,Grêmio,06-09,2,TRUE,Danilo Avelar · Ralf
+3180934,2019,4,2019-05-11,Goiás,Ceará SC,04-02,2,TRUE,Daniel Guedes · Marlone
+3180936,2019,4,2019-05-12,Internacional,Cruzeiro,10-01,2,FALSE,Nicolás López · Pedro Rocha
+3180936,2019,4,2019-05-12,Internacional,Cruzeiro,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3180937,2019,4,2019-05-12,Santos,Vasco da Gama,02-24,2,FALSE,Eduardo Sasha · Lucas Mineiro
+3180938,2019,4,2019-05-12,Atlético-MG,Palmeiras,05-06,2,FALSE,Ricardo Oliveira · Gustavo Gómez
+3180940,2019,4,2019-05-12,Avaí FC,CSA,04-21,2,FALSE,Luan Pereira · Nilton
+3180945,2019,5,2019-05-19,Chapecoense,Fortaleza,03-20,2,FALSE,Rildo · Juninho Valoura
+3180948,2019,5,2019-05-19,Athletico-PR,Corinthians,06-09,2,TRUE,Danilo Avelar · Ralf
+3180948,2019,5,2019-05-19,Athletico-PR,Corinthians,06-11,2,TRUE,Fagner · Vágner Love
+3180949,2019,5,2019-05-19,Internacional,CSA,04-15,2,FALSE,Andrés D'Alessandro · Matheus Savio
+3180949,2019,5,2019-05-19,Internacional,CSA,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3180950,2019,5,2019-05-19,Vasco da Gama,Avaí FC,02-05,2,FALSE,Marrony · Pedro Castro
+3180951,2019,5,2019-05-19,Ceará SC,Grêmio,03-22,2,TRUE,Michel · Everton
+3180953,2019,6,2019-05-25,Botafogo,Palmeiras,01-07,2,FALSE,Marcelo Benevenuto · Dudu
+3180957,2019,6,2019-05-25,Grêmio,Atlético-MG,03-22,2,TRUE,Michel · Everton
+3180954,2019,6,2019-05-26,Corinthians,São Paulo,06-09,2,TRUE,Danilo Avelar · Ralf
+3180954,2019,6,2019-05-26,Corinthians,São Paulo,06-11,2,TRUE,Fagner · Vágner Love
+3180955,2019,6,2019-05-26,Santos,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3180958,2019,6,2019-05-26,Cruzeiro,Chapecoense,04-04,2,TRUE,Douglas · Campanharo
+3180960,2019,6,2019-05-27,Avaí FC,Ceará SC,06-06,2,FALSE,Igor Fernandes · Samuel Xavier
+3181106,2019,7,2019-06-02,São Paulo,Cruzeiro,01-30,2,FALSE,Húdson · Léo
+3181107,2019,7,2019-06-02,Chapecoense,Palmeiras,04-04,2,TRUE,Douglas · Campanharo
+3181110,2019,7,2019-06-02,Internacional,Avaí FC,06-06,2,FALSE,Rodrigo Lindoso · Igor Fernandes
+3181110,2019,7,2019-06-02,Internacional,Avaí FC,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3181118,2019,8,2019-06-07,Vasco da Gama,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3181117,2019,8,2019-06-08,Cruzeiro,Corinthians,06-09,2,TRUE,Danilo Avelar · Ralf
+3181119,2019,8,2019-06-09,CSA,Botafogo,05-13,2,FALSE,Naldo · Alex Santana
+3181142,2019,9,2019-06-12,Fortaleza,Cruzeiro,05-16,2,FALSE,Marcinho · Henrique Pacheco
+3181143,2019,9,2019-06-12,Internacional,EC Bahia,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3181144,2019,9,2019-06-12,CSA,Flamengo,04-21,2,TRUE,Nilton · Victor Paraíba
+3181145,2019,9,2019-06-12,Santos,Corinthians,06-09,2,TRUE,Danilo Avelar · Ralf
+3181150,2019,9,2019-06-13,Chapecoense,Fluminense,04-04,2,TRUE,Douglas · Campanharo
+3193491,2019,10,2019-07-13,Fortaleza,Avaí FC,03-01,2,FALSE,Romarinho · Brenner
+3193488,2019,10,2019-07-14,Flamengo,Goiás,03-12,2,FALSE,Willian Arão · Michael
+3193490,2019,10,2019-07-14,Cruzeiro,Botafogo,05-16,2,FALSE,Henrique Pacheco · Marcinho
+3193492,2019,10,2019-07-14,Corinthians,CSA,06-09,2,TRUE,Danilo Avelar · Ralf
+3193492,2019,10,2019-07-14,Corinthians,CSA,06-11,2,TRUE,Fagner · Vágner Love
+3193495,2019,10,2019-07-14,Chapecoense,Atlético-MG,01-04,2,FALSE,Gum · Ramón Martínez
+3193495,2019,10,2019-07-14,Chapecoense,Atlético-MG,04-04,2,TRUE,Douglas · Campanharo
+3193498,2019,11,2019-07-20,Internacional,Grêmio,09-19,2,FALSE,Guilherme Parede · Rômulo
+3193506,2019,11,2019-07-20,EC Bahia,Cruzeiro,06-15,2,FALSE,Arthur Caíke · Weverton
+3193506,2019,11,2019-07-20,EC Bahia,Cruzeiro,06-23,2,FALSE,Giovanni · Rafael
+3193507,2019,11,2019-07-20,CSA,Athletico-PR,04-01,2,FALSE,Rafinha · Vitinho
+3193507,2019,11,2019-07-20,CSA,Athletico-PR,06-03,2,FALSE,Dawhan · Matheus Rossetto
+3193501,2019,11,2019-07-21,Corinthians,Flamengo,06-11,2,TRUE,Fagner · Vágner Love
+3193502,2019,11,2019-07-22,São Paulo,Chapecoense,06-11,2,FALSE,Raniel · Márcio Araújo
+3193514,2019,12,2019-07-27,Palmeiras,Vasco da Gama,04-25,2,FALSE,Arthur Cabral · Henrique Silva
+3193516,2019,12,2019-07-27,Internacional,Ceará SC,07-20,2,FALSE,Martín Sarrafiore · Thiago Galhardo
+3193509,2019,12,2019-07-28,Chapecoense,EC Bahia,04-04,2,TRUE,Douglas · Campanharo
+3193510,2019,12,2019-07-28,Goiás,Atlético-MG,01-04,2,TRUE,Réver · Ramón Martínez
+3193510,2019,12,2019-07-28,Goiás,Atlético-MG,04-02,3,FALSE,Daniel Guedes · Marlone · Yimmi Chará
+3193511,2019,12,2019-07-29,CSA,Grêmio,10-30,2,FALSE,Alan Costa · Rafael Galhardo
+3195270,2019,13,2019-08-03,Fluminense,Internacional,01-11,2,FALSE,Danielzinho · William Klaus
+3195270,2019,13,2019-08-03,Fluminense,Internacional,03-03,2,FALSE,Allan · Nonato
+3195266,2019,13,2019-08-04,Atlético-MG,Cruzeiro,05-16,2,FALSE,Elias · Henrique Pacheco
+3195268,2019,13,2019-08-04,Corinthians,Palmeiras,06-11,2,TRUE,Fagner · Vágner Love
+3195271,2019,13,2019-08-04,Avaí FC,Botafogo,07-16,2,TRUE,Vladimir · Richard Franco
+3195275,2019,14,2019-08-10,Atlético-MG,Fluminense,01-04,2,TRUE,Réver · Ramón Martínez
+3195276,2019,14,2019-08-10,Ceará SC,Chapecoense,06-11,2,FALSE,Lima · Márcio Araújo
+3195282,2019,14,2019-08-11,Avaí FC,Cruzeiro,07-16,2,TRUE,Vladimir · Richard Franco
+3195353,2019,15,2019-08-17,Corinthians,Botafogo,01-07,2,FALSE,Carlos Augusto · Marcelo Benevenuto
+3195355,2019,15,2019-08-17,Vasco da Gama,Flamengo,03-10,2,FALSE,Oswaldo Henríquez · Matheus Thuler
+3195358,2019,15,2019-08-17,EC Bahia,Goiás,02-01,2,FALSE,Juninho · Marcelo Hermes
+3195359,2019,15,2019-08-17,Athletico-PR,Atlético-MG,01-04,2,TRUE,Réver · Ramón Martínez
+3195359,2019,15,2019-08-17,Athletico-PR,Atlético-MG,10-26,2,TRUE,Adriano · Marco Ruben
+3195354,2019,15,2019-08-18,São Paulo,Ceará SC,06-11,2,FALSE,Raniel · Lima
+3195357,2019,15,2019-08-18,Chapecoense,Avaí FC,07-16,2,TRUE,Vladimir · Richard Franco
+3195430,2019,16,2019-08-25,Santos,Fortaleza,03-01,2,FALSE,Alison · Romarinho
+3195433,2019,16,2019-08-25,Avaí FC,Corinthians,05-22,2,TRUE,Ramiro · Mauro Boselli
+3195433,2019,16,2019-08-25,Avaí FC,Corinthians,06-06,2,FALSE,Igor Fernandes · Cássio
+3195433,2019,16,2019-08-25,Avaí FC,Corinthians,07-16,2,TRUE,Vladimir · Richard Franco
+3195434,2019,16,2019-08-25,Goiás,Internacional,01-06,2,FALSE,Fábio Sanches · Wellington Silva
+3197452,2019,17,2019-08-31,São Paulo,Grêmio,03-22,2,TRUE,Michel · Everton
+3197456,2019,17,2019-08-31,Internacional,Botafogo,05-16,2,FALSE,Zeca · Marcinho
+3197456,2019,17,2019-08-31,Internacional,Botafogo,06-17,2,FALSE,Rafael Sóbis · Diego Souza
+3197456,2019,17,2019-08-31,Internacional,Botafogo,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3197457,2019,17,2019-08-31,EC Bahia,CSA,07-09,2,FALSE,Alejandro Guerra · Ronaldo Alves
+3197459,2019,17,2019-08-31,Athletico-PR,Ceará SC,10-26,2,TRUE,Adriano · Marco Ruben
+3197451,2019,17,2019-09-01,Flamengo,Palmeiras,05-20,2,FALSE,Gerson · Vitor Hugo
+3197451,2019,17,2019-09-01,Flamengo,Palmeiras,08-17,2,FALSE,Rodrigo Caio · Diogo Barbosa
+3197453,2019,17,2019-09-01,Corinthians,Atlético-MG,06-09,2,TRUE,Danilo Avelar · Ralf
+3197453,2019,17,2019-09-01,Corinthians,Atlético-MG,06-11,2,TRUE,Fagner · Vágner Love
+3197450,2019,17,2019-09-02,Fluminense,Avaí FC,07-16,2,TRUE,Vladimir · Richard Franco
+3197463,2019,18,2019-09-07,Avaí FC,Flamengo,07-16,2,TRUE,Vladimir · Richard Franco
+3197463,2019,18,2019-09-07,Avaí FC,Flamengo,09-07,2,FALSE,Lourenço · Rafinha
+3197465,2019,18,2019-09-07,Vasco da Gama,EC Bahia,02-01,2,FALSE,Fellipe Bastos · Juninho
+3197465,2019,18,2019-09-07,Vasco da Gama,EC Bahia,06-05,2,FALSE,Yago Pikachu · Gilberto
+3197465,2019,18,2019-09-07,Vasco da Gama,EC Bahia,10-23,2,FALSE,Clayton · Ronaldo
+3197467,2019,18,2019-09-07,Corinthians,Ceará SC,06-06,2,FALSE,Cássio · Samuel Xavier
+3197467,2019,18,2019-09-07,Corinthians,Ceará SC,06-11,2,FALSE,Vágner Love · Lima
+3197468,2019,18,2019-09-07,Fortaleza,Fluminense,04-10,2,FALSE,Felipe · Nino
+3197464,2019,18,2019-09-08,Botafogo,Atlético-MG,05-16,2,FALSE,Marcinho · Elias
+3197464,2019,18,2019-09-08,Botafogo,Atlético-MG,08-26,2,FALSE,Cícero · Jair
+3197469,2019,18,2019-09-08,Cruzeiro,Grêmio,03-22,2,TRUE,Michel · Everton
+3197493,2019,19,2019-09-15,Athletico-PR,Avaí FC,07-16,2,TRUE,Vladimir · Richard Franco
+3197494,2019,19,2019-09-15,Grêmio,Goiás,03-22,2,TRUE,Michel · Everton
+3197502,2019,19,2019-09-15,Atlético-MG,Internacional,01-04,2,TRUE,Réver · Ramón Martínez
+3197502,2019,19,2019-09-15,Atlético-MG,Internacional,05-16,2,FALSE,Elias · Zeca
+3255761,2019,20,2019-09-21,Botafogo,São Paulo,05-14,2,FALSE,Gilson · Luan
+3255763,2019,20,2019-09-21,Corinthians,EC Bahia,06-11,2,TRUE,Fagner · Vágner Love
+3255764,2019,20,2019-09-21,Santos,Grêmio,03-22,2,TRUE,Michel · Everton
+3255765,2019,20,2019-09-22,Internacional,Chapecoense,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3255770,2019,20,2019-09-23,Avaí FC,Atlético-MG,04-28,2,FALSE,Jonathan Júnior · Igor Rabello
+3255770,2019,20,2019-09-23,Avaí FC,Atlético-MG,07-16,2,TRUE,Vladimir · Richard Franco
+3255774,2019,21,2019-09-25,Flamengo,Internacional,08-30,2,FALSE,Gabriel Barbosa · Bruno
+3255774,2019,21,2019-09-25,Flamengo,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3255776,2019,21,2019-09-26,Palmeiras,CSA,12-13,2,FALSE,Weverton · Apodi
+3255778,2019,21,2019-09-26,Grêmio,Avaí FC,03-22,2,TRUE,Michel · Everton
+3255778,2019,21,2019-09-26,Grêmio,Avaí FC,07-16,2,TRUE,Vladimir · Richard Franco
+3255780,2019,21,2019-10-02,Chapecoense,Corinthians,06-09,2,TRUE,Danilo Avelar · Ralf
+3255780,2019,21,2019-10-02,Chapecoense,Corinthians,06-11,3,FALSE,Márcio Araújo · Fagner · Vágner Love
+3260649,2019,22,2019-09-28,Flamengo,São Paulo,08-30,2,FALSE,Gabriel Barbosa · Tchê Tchê
+3260650,2019,22,2019-09-29,Corinthians,Vasco da Gama,05-22,2,TRUE,Ramiro · Mauro Boselli
+3260650,2019,22,2019-09-29,Corinthians,Vasco da Gama,06-09,2,TRUE,Danilo Avelar · Ralf
+3260651,2019,22,2019-09-29,Internacional,Palmeiras,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3260653,2019,22,2019-09-29,Santos,CSA,08-15,2,FALSE,Diego Pituca · Ricardo Bueno
+3260658,2019,22,2019-09-30,Fortaleza,Botafogo,11-29,2,FALSE,Carlinhos · Fernando Costanza
+3260659,2019,23,2019-10-05,Cruzeiro,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3260662,2019,23,2019-10-05,Grêmio,Corinthians,06-09,2,TRUE,Danilo Avelar · Ralf
+3260662,2019,23,2019-10-05,Grêmio,Corinthians,06-11,2,TRUE,Fagner · Vágner Love
+3260667,2019,23,2019-10-06,Chapecoense,Flamengo,04-04,2,TRUE,Douglas · Campanharo
+3260668,2019,23,2019-10-06,CSA,Avaí FC,07-16,2,TRUE,Vladimir · Richard Franco
+3260668,2019,23,2019-10-06,CSA,Avaí FC,09-13,2,TRUE,Luciano Castán · Bruno Alves
+3265339,2019,24,2019-10-09,CSA,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3265340,2019,24,2019-10-09,Fortaleza,Chapecoense,04-04,2,TRUE,Douglas · Campanharo
+3265343,2019,24,2019-10-09,Cruzeiro,Fluminense,01-11,2,FALSE,Sassá · Danielzinho
+3265345,2019,24,2019-10-10,Corinthians,Athletico-PR,05-22,2,TRUE,Ramiro · Mauro Boselli
+3265345,2019,24,2019-10-10,Corinthians,Athletico-PR,06-09,2,TRUE,Danilo Avelar · Ralf
+3265345,2019,24,2019-10-10,Corinthians,Athletico-PR,06-11,2,TRUE,Fagner · Vágner Love
+3265346,2019,24,2019-10-10,Avaí FC,Vasco da Gama,02-18,2,FALSE,Douglas · Richard
+3265346,2019,24,2019-10-10,Avaí FC,Vasco da Gama,07-16,2,TRUE,Vladimir · Richard Franco
+3265348,2019,25,2019-10-12,Goiás,CSA,01-03,2,TRUE,Jefferson · Thalles
+3265348,2019,25,2019-10-12,Goiás,CSA,02-04,2,FALSE,Tadeu · Alecsandro
+3265348,2019,25,2019-10-12,Goiás,CSA,09-13,2,TRUE,Luciano Castán · Bruno Alves
+3265351,2019,25,2019-10-13,Internacional,Santos,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3265352,2019,25,2019-10-13,Vasco da Gama,Fortaleza,04-22,2,FALSE,Rossi · Wellington Paulista
+3265354,2019,25,2019-10-13,Ceará SC,Avaí FC,06-06,2,FALSE,Samuel Xavier · Igor Fernandes
+3265354,2019,25,2019-10-13,Ceará SC,Avaí FC,07-08,2,FALSE,Diogo Silva · Igor Goularte
+3265354,2019,25,2019-10-13,Ceará SC,Avaí FC,07-16,2,TRUE,Vladimir · Richard Franco
+3265355,2019,25,2019-10-13,São Paulo,Corinthians,06-11,2,TRUE,Fagner · Vágner Love
+3265506,2019,26,2019-10-16,Fortaleza,Flamengo,03-12,2,FALSE,Felipe Araruna · Willian Arão
+3265511,2019,26,2019-10-16,Vasco da Gama,Botafogo,04-25,2,TRUE,Henrique Silva · Felipe Ferreira
+3265512,2019,26,2019-10-17,Avaí FC,Internacional,07-16,2,TRUE,Vladimir · Richard Franco
+3265512,2019,26,2019-10-17,Avaí FC,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3265514,2019,27,2019-10-19,Fortaleza,Grêmio,05-21,2,FALSE,Felipe Alves · David Braz
+3265515,2019,27,2019-10-19,Corinthians,Cruzeiro,02-12,2,FALSE,Mateus Vital · Fabrício Bruno
+3265515,2019,27,2019-10-19,Corinthians,Cruzeiro,06-09,2,TRUE,Danilo Avelar · Ralf
+3265518,2019,27,2019-10-20,Internacional,Vasco da Gama,04-25,2,TRUE,Henrique Silva · Felipe Ferreira
+3265518,2019,27,2019-10-20,Internacional,Vasco da Gama,11-05,2,FALSE,Heitor · Leandro Castán
+3265518,2019,27,2019-10-20,Internacional,Vasco da Gama,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3265519,2019,27,2019-10-20,São Paulo,Avaí FC,07-16,2,TRUE,Vladimir · Richard Franco
+3265520,2019,27,2019-10-20,Flamengo,Fluminense,04-10,2,FALSE,Everton Ribeiro · Nino
+3265522,2019,27,2019-10-20,Athletico-PR,Palmeiras,10-26,2,TRUE,Adriano · Marco Ruben
+3268452,2019,28,2019-10-26,Corinthians,Santos,06-09,2,TRUE,Danilo Avelar · Ralf
+3268454,2019,28,2019-10-26,EC Bahia,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3268455,2019,28,2019-10-26,Fluminense,Chapecoense,04-10,2,FALSE,Nino · Maurício Ramos
+3268458,2019,28,2019-10-27,Athletico-PR,Goiás,09-17,2,FALSE,Thiago Heleno · Rafael Vaz
+3268458,2019,28,2019-10-27,Athletico-PR,Goiás,10-26,2,TRUE,Adriano · Marco Ruben
+3268459,2019,28,2019-10-27,Grêmio,Botafogo,03-14,2,FALSE,Walter Kannemann · Gabriel
+3268460,2019,28,2019-10-27,Avaí FC,Palmeiras,07-16,2,TRUE,Vladimir · Richard Franco
+3268460,2019,28,2019-10-27,Avaí FC,Palmeiras,10-21,2,FALSE,Marquinhos · Bruno Henrique
+3268463,2019,29,2019-10-30,Palmeiras,São Paulo,05-06,2,FALSE,Gustavo Gómez · Dani Alves
+3268464,2019,29,2019-10-30,Avaí FC,Fortaleza,07-16,2,TRUE,Vladimir · Richard Franco
+3268466,2019,29,2019-10-30,CSA,Corinthians,06-09,2,TRUE,Danilo Avelar · Ralf
+3268467,2019,29,2019-10-30,Vasco da Gama,Grêmio,03-22,2,TRUE,Michel · Everton
+3268467,2019,29,2019-10-30,Vasco da Gama,Grêmio,05-21,2,FALSE,Ribamar · David Braz
+3268469,2019,29,2019-10-31,Goiás,Flamengo,03-12,2,FALSE,Michael · Willian Arão
+3268470,2019,29,2019-10-31,Internacional,Athletico-PR,07-29,2,FALSE,Patrick · Nikão
+3268470,2019,29,2019-10-31,Internacional,Athletico-PR,10-26,2,TRUE,Adriano · Marco Ruben
+3268470,2019,29,2019-10-31,Internacional,Athletico-PR,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3268471,2019,29,2019-10-31,Botafogo,Cruzeiro,04-25,2,FALSE,Leonardo Valencia · Cacá
+3268471,2019,29,2019-10-31,Botafogo,Cruzeiro,05-16,2,FALSE,Marcinho · Henrique Pacheco
+3272410,2019,30,2019-11-02,Fortaleza,Atlético-MG,08-11,2,TRUE,Luan · David Terans
+3272411,2019,30,2019-11-02,Palmeiras,Ceará SC,05-06,2,FALSE,Gustavo Gómez · Eduardo Brock
+3272413,2019,30,2019-11-02,Chapecoense,São Paulo,06-11,2,FALSE,Márcio Araújo · Raniel
+3272415,2019,30,2019-11-03,Grêmio,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3272416,2019,30,2019-11-03,Athletico-PR,CSA,09-17,2,FALSE,Thiago Heleno · Warley
+3272418,2019,30,2019-11-03,Santos,Botafogo,06-30,2,FALSE,Yeferson Soteldo · Igor Cássio
+3272419,2019,30,2019-11-03,Goiás,Avaí FC,07-16,2,TRUE,Vladimir · Richard Franco
+3272423,2019,31,2019-11-05,Vasco da Gama,Palmeiras,06-30,2,FALSE,Fredy Guarín · Matheus Fernandes
+3272423,2019,31,2019-11-05,Vasco da Gama,Palmeiras,07-09,2,TRUE,Fernando Prass · Lucas Lima
+3272425,2019,31,2019-11-05,EC Bahia,Chapecoense,05-27,2,FALSE,Élber · Henrique Almeida
+3272420,2019,31,2019-11-06,Corinthians,Fortaleza,02-26,3,FALSE,Manoel · Janderson · Marlon
+3272421,2019,31,2019-11-06,Atlético-MG,Goiás,01-03,2,TRUE,Jefferson · Thalles
+3272426,2019,31,2019-11-06,Ceará SC,Internacional,06-06,2,FALSE,Samuel Xavier · Rodrigo Lindoso
+3272426,2019,31,2019-11-06,Ceará SC,Internacional,11-19,2,FALSE,Fabinho · Victor Cuesta
+3273302,2019,32,2019-11-08,Goiás,Santos,01-03,2,TRUE,Jefferson · Thalles
+3273303,2019,32,2019-11-08,Palmeiras,Corinthians,02-26,2,TRUE,Manoel · Janderson
+3273303,2019,32,2019-11-08,Palmeiras,Corinthians,05-22,2,TRUE,Ramiro · Mauro Boselli
+3273304,2019,32,2019-11-09,Internacional,Fluminense,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3273305,2019,32,2019-11-09,Cruzeiro,Atlético-MG,01-04,2,TRUE,Réver · Ramón Martínez
+3273306,2019,32,2019-11-09,São Paulo,Athletico-PR,03-17,2,FALSE,Igor Gomes · Santos
+3277734,2019,33,2019-11-16,Grêmio,Flamengo,03-22,2,TRUE,Michel · Everton
+3277734,2019,33,2019-11-16,Grêmio,Flamengo,09-14,2,FALSE,Maicon · Renê
+3277735,2019,33,2019-11-16,Corinthians,Internacional,02-26,2,TRUE,Manoel · Janderson
+3277735,2019,33,2019-11-16,Corinthians,Internacional,06-06,2,FALSE,Cássio · Rodrigo Lindoso
+3277735,2019,33,2019-11-16,Corinthians,Internacional,06-09,2,TRUE,Danilo Avelar · Ralf
+3277735,2019,33,2019-11-16,Corinthians,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3277737,2019,33,2019-11-17,Vasco da Gama,Goiás,01-03,2,TRUE,Jefferson · Thalles
+3277738,2019,33,2019-11-17,Cruzeiro,Avaí FC,07-16,2,TRUE,Vladimir · Richard Franco
+3277739,2019,34,2019-11-13,Flamengo,Vasco da Gama,08-17,2,FALSE,Rodrigo Caio · Danilo Barcelos
+3277741,2019,34,2019-11-24,Goiás,EC Bahia,02-01,2,FALSE,Marcelo Hermes · Juninho
+3277743,2019,34,2019-11-24,Botafogo,Corinthians,03-29,2,FALSE,Roberto Fernández · Gustavo
+3277743,2019,34,2019-11-24,Botafogo,Corinthians,06-11,2,TRUE,Fagner · Vágner Love
+3277745,2019,34,2019-11-24,Avaí FC,Chapecoense,04-04,2,TRUE,Douglas · Campanharo
+3277745,2019,34,2019-11-24,Avaí FC,Chapecoense,07-16,2,TRUE,Vladimir · Richard Franco
+3277746,2019,34,2019-11-24,Internacional,Fortaleza,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3277748,2019,34,2019-11-24,CSA,Fluminense,09-13,2,TRUE,Luciano Castán · Bruno Alves
+3277779,2019,35,2019-11-26,Internacional,Goiás,10-08,2,FALSE,Uendel · Leandro Barcia
+3277779,2019,35,2019-11-26,Internacional,Goiás,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3277781,2019,35,2019-11-26,Athletico-PR,Grêmio,03-22,2,TRUE,Michel · Everton
+3277782,2019,35,2019-11-26,Corinthians,Avaí FC,02-26,2,TRUE,Manoel · Janderson
+3277782,2019,35,2019-11-26,Corinthians,Avaí FC,06-06,2,FALSE,Cássio · Igor Fernandes
+3277782,2019,35,2019-11-26,Corinthians,Avaí FC,07-16,2,TRUE,Vladimir · Richard Franco
+3277784,2019,35,2019-11-27,Fortaleza,Santos,03-01,2,FALSE,Romarinho · Alison
+3277784,2019,35,2019-11-27,Fortaleza,Santos,03-20,2,FALSE,Juninho Valoura · Derlis González
+3277806,2019,36,2019-11-29,Botafogo,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3277808,2019,36,2019-11-30,Palmeiras,Flamengo,05-20,2,FALSE,Vitor Hugo · Gerson
+3277808,2019,36,2019-11-30,Palmeiras,Flamengo,08-17,2,FALSE,Diogo Barbosa · Rodrigo Caio
+3277809,2019,36,2019-11-30,Goiás,Fortaleza,03-12,2,FALSE,Michael · Felipe Araruna
+3277811,2019,36,2019-11-30,Atlético-MG,Corinthians,02-26,2,TRUE,Manoel · Janderson
+3277812,2019,36,2019-11-30,Grêmio,São Paulo,02-24,2,FALSE,Pepê · Antony
+3277812,2019,36,2019-11-30,Grêmio,São Paulo,03-22,2,TRUE,Michel · Everton
+3277814,2019,36,2019-11-30,Avaí FC,Fluminense,07-16,2,TRUE,Vladimir · Richard Franco
+3277815,2019,36,2019-12-01,Vasco da Gama,Cruzeiro,04-25,2,FALSE,Henrique Silva · Cacá
+3285718,2019,37,2019-12-03,Atlético-MG,Botafogo,08-26,2,FALSE,Jair · Cícero
+3285719,2019,37,2019-12-03,Ceará SC,Corinthians,02-26,2,TRUE,Manoel · Janderson
+3285719,2019,37,2019-12-03,Ceará SC,Corinthians,05-22,2,TRUE,Ramiro · Mauro Boselli
+3285719,2019,37,2019-12-03,Ceará SC,Corinthians,06-06,2,FALSE,Samuel Xavier · Cássio
+3285719,2019,37,2019-12-03,Ceará SC,Corinthians,06-11,2,FALSE,Lima · Fagner
+3285721,2019,37,2019-12-03,São Paulo,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3285722,2019,37,2019-12-03,Fluminense,Fortaleza,04-10,2,FALSE,Nino · Felipe
+3285724,2019,37,2019-12-04,EC Bahia,Vasco da Gama,02-15,2,FALSE,Artur · Andrey
+3285724,2019,37,2019-12-04,EC Bahia,Vasco da Gama,06-05,2,FALSE,Gilberto · Yago Pikachu
+3285725,2019,37,2019-12-04,Grêmio,Cruzeiro,03-22,2,TRUE,Michel · Everton
+3285726,2019,37,2019-12-04,Flamengo,Avaí FC,07-16,2,TRUE,Vladimir · Richard Franco
+3285726,2019,37,2019-12-04,Flamengo,Avaí FC,09-07,2,FALSE,Rafinha · Lourenço
+3285727,2019,38,2019-12-08,Internacional,Atlético-MG,04-15,2,FALSE,Andrés D'Alessandro · Vina
+3285727,2019,38,2019-12-08,Internacional,Atlético-MG,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3285730,2019,38,2019-12-08,Corinthians,Fluminense,06-11,2,TRUE,Fagner · Vágner Love
+3285734,2019,38,2019-12-08,Avaí FC,Athletico-PR,06-15,2,FALSE,Lucas Frigeri · Braian Romero
+3285735,2019,38,2019-12-08,Goiás,Grêmio,12-31,2,FALSE,Léo Sena · Ferreirinha
+3285736,2019,38,2019-12-08,CSA,São Paulo,03-17,2,FALSE,Alisson Safira · Igor Gomes
+3285736,2019,38,2019-12-08,CSA,São Paulo,04-01,2,FALSE,Rafinha · Igor Vinícius
+3392043,2020,1,2020-08-08,Sport Recife,Ceará SC,06-06,2,FALSE,Willian Farias · Samuel Xavier
+3392040,2020,1,2020-08-09,Santos,RB Bragantino,02-15,2,FALSE,Felipe Jonatan · Artur
+3392042,2020,1,2020-08-09,Grêmio,Fluminense,02-01,2,FALSE,Vanderlei · Marcos Paulo
+3392045,2020,1,2020-08-09,Fortaleza,Athletico-PR,02-27,3,TRUE,Jonathan · Fernando Canesin · Léo Cittadini
+3392045,2020,1,2020-08-09,Fortaleza,Athletico-PR,03-01,2,FALSE,Romarinho · Jandrei
+3417542,2020,1,2020-09-30,Corinthians,Atlético-GO,03-27,2,FALSE,Luan · Marlon Freitas
+3417541,2020,1,2021-01-26,Palmeiras,Vasco da Gama,06-26,2,FALSE,Felipe Melo · Talles Magno
+3411140,2020,2,2020-08-11,Atlético-MG,Corinthians,09-10,2,FALSE,Keno · Bruno Méndez
+3411141,2020,2,2020-08-11,Athletico-PR,Goiás,02-27,2,TRUE,Jonathan · Fernando Canesin
+3411141,2020,2,2020-08-11,Athletico-PR,Goiás,09-17,2,FALSE,Thiago Heleno · Rafael Vaz
+3411143,2020,2,2020-08-12,EC Bahia,Coritiba FC,01-11,2,FALSE,Danielzinho · Sassá
+3411145,2020,2,2020-08-12,Fluminense,Palmeiras,06-16,2,FALSE,Egídio · Zé Rafael
+3411147,2020,2,2020-08-13,São Paulo,Fortaleza,05-06,2,FALSE,Dani Alves · Yuri César
+3411148,2020,2,2020-08-13,Internacional,Santos,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3416079,2020,3,2020-08-15,Coritiba FC,Flamengo,01-31,2,FALSE,Wilson · Léo Pereira
+3416081,2020,3,2020-08-16,Atlético-MG,Ceará SC,08-29,2,FALSE,Guga · Gabriel Lacerda
+3416082,2020,3,2020-08-16,Vasco da Gama,São Paulo,06-26,2,FALSE,Talles Magno · Paulinho Bóia
+3416084,2020,3,2020-08-16,Fluminense,Internacional,06-16,2,FALSE,Egídio · Renzo Saravia
+3416084,2020,3,2020-08-16,Fluminense,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3416087,2020,3,2020-08-16,Santos,Athletico-PR,02-27,2,TRUE,Jonathan · Léo Cittadini
+3416218,2020,4,2020-08-19,RB Bragantino,Fluminense,04-10,2,FALSE,Matheus Jesus · Nino
+3416222,2020,4,2020-08-19,Botafogo,Atlético-MG,02-05,2,FALSE,Guilherme Santos · Marrony
+3416226,2020,4,2020-08-20,Ceará SC,Vasco da Gama,06-17,2,FALSE,Tiago Pagnussat · Martín Benítez
+3416099,2020,5,2020-08-22,Athletico-PR,Fluminense,02-27,2,FALSE,Léo Cittadini · Calegari
+3416099,2020,5,2020-08-22,Athletico-PR,Fluminense,10-02,2,FALSE,Pedro Henrique · Luccas Claro
+3416101,2020,5,2020-08-22,Internacional,Atlético-MG,06-23,2,TRUE,Rafael · Mariano
+3416101,2020,5,2020-08-22,Internacional,Atlético-MG,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3416102,2020,5,2020-08-22,Goiás,Atlético-GO,07-28,2,FALSE,Juan Pintado · Everton Felipe
+3416104,2020,5,2020-08-23,Vasco da Gama,Grêmio,02-16,2,FALSE,Ricardo Graça · Lucas Silva
+3416100,2020,5,2020-08-26,Corinthians,Fortaleza,03-20,2,FALSE,Jô · Juninho Valoura
+3416109,2020,6,2020-08-29,Botafogo,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3416110,2020,6,2020-08-29,Fluminense,Vasco da Gama,02-01,2,FALSE,Marcos Paulo · Fellipe Bastos
+3416116,2020,6,2020-08-29,Fortaleza,RB Bragantino,02-26,2,FALSE,Marlon · Léo Realpe
+3416116,2020,6,2020-08-29,Fortaleza,RB Bragantino,09-01,2,FALSE,Tinga · Morato
+3416113,2020,6,2020-08-30,São Paulo,Corinthians,06-26,2,TRUE,Gabriel Sara · Paulinho Bóia
+3416119,2020,7,2020-09-02,Ceará SC,Fortaleza,02-25,2,FALSE,William Oliveira · Paulão
+3416119,2020,7,2020-09-02,Ceará SC,Fortaleza,05-10,2,FALSE,Leandro Carvalho · Gabriel Dias
+3416123,2020,7,2020-09-02,Athletico-PR,RB Bragantino,01-28,2,FALSE,Wellington · Claudinho
+3416123,2020,7,2020-09-02,Athletico-PR,RB Bragantino,02-27,2,FALSE,Léo Cittadini · Ricardo Ryller
+3416125,2020,7,2020-09-02,Santos,Vasco da Gama,02-15,2,FALSE,Felipe Jonatan · Andrey
+3416128,2020,7,2020-09-03,Atlético-MG,São Paulo,06-23,3,FALSE,Rafael · Mariano · Pablo
+3416128,2020,7,2020-09-03,Atlético-MG,São Paulo,06-26,2,TRUE,Gabriel Sara · Paulinho Bóia
+3416130,2020,8,2020-09-05,Corinthians,Botafogo,09-07,2,FALSE,Gustavo Silva · Kevin
+3416135,2020,8,2020-09-05,Flamengo,Fortaleza,03-12,2,TRUE,Willian Arão · Michael
+3416133,2020,8,2020-09-06,São Paulo,Fluminense,06-26,2,TRUE,Gabriel Sara · Paulinho Bóia
+3416133,2020,8,2020-09-06,São Paulo,Fluminense,09-28,2,FALSE,Reinaldo · Michel Araújo
+3416134,2020,8,2020-09-06,Internacional,EC Bahia,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3416138,2020,8,2020-09-06,Coritiba FC,Atlético-MG,08-29,2,FALSE,Rodolfo Filemon · Guga
+3416163,2020,9,2020-09-09,Goiás,Coritiba FC,01-03,2,FALSE,Jefferson · Hugo Moura
+3416166,2020,9,2020-09-09,Athletico-PR,Botafogo,02-27,2,TRUE,Jonathan · Léo Cittadini
+3416168,2020,9,2020-09-09,Santos,Atlético-MG,06-23,2,TRUE,Rafael · Mariano
+3416171,2020,9,2020-09-09,Fortaleza,Sport Recife,03-23,2,FALSE,Juan Quintero · Adryelson
+3416165,2020,9,2020-09-10,Internacional,Ceará SC,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3416169,2020,9,2020-09-10,Corinthians,Palmeiras,11-09,2,FALSE,Rómulo Otero · Matías Viña
+3416170,2020,9,2020-09-10,EC Bahia,Grêmio,02-01,2,FALSE,Juninho · Vanderlei
+3416172,2020,9,2020-09-10,Vasco da Gama,Atlético-GO,01-02,2,FALSE,Germán Cano · Gustavo Ferrareis
+3416236,2020,10,2020-09-13,Ceará SC,Flamengo,03-12,2,TRUE,Willian Arão · Michael
+3416236,2020,10,2020-09-13,Ceará SC,Flamengo,09-14,2,FALSE,Luiz Otávio · Renê
+3416240,2020,10,2020-09-13,Grêmio,Fortaleza,04-22,2,FALSE,Isaque · Wellington Paulista
+3416240,2020,10,2020-09-13,Grêmio,Fortaleza,05-21,2,FALSE,David Braz · Felipe Alves
+3416241,2020,10,2020-09-13,Goiás,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3417535,2020,11,2020-09-16,Corinthians,EC Bahia,03-02,2,FALSE,Xavier · Gregore
+3417539,2020,11,2020-09-19,Fortaleza,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3417540,2020,11,2020-09-19,Atlético-GO,Atlético-MG,02-24,2,FALSE,Nicolas · Eduardo Sasha
+3417538,2020,11,2020-09-20,Coritiba FC,Vasco da Gama,05-13,2,FALSE,Matheus Sales · Marcos Júnior
+3417531,2020,11,2020-10-13,Flamengo,Goiás,03-12,2,TRUE,Willian Arão · Michael
+3417549,2020,12,2020-09-26,Atlético-MG,Grêmio,02-24,2,FALSE,Eduardo Sasha · Pepê
+3417550,2020,12,2020-09-26,Internacional,São Paulo,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3417552,2020,12,2020-09-26,Athletico-PR,EC Bahia,02-27,2,TRUE,Jonathan · Léo Cittadini
+3417552,2020,12,2020-09-26,Athletico-PR,EC Bahia,05-27,2,FALSE,Abner · Élber
+3417548,2020,12,2020-09-27,Santos,Fortaleza,05-10,2,FALSE,Alex · Gabriel Dias
+3417553,2020,12,2020-09-27,Ceará SC,Goiás,06-17,2,TRUE,Tiago Pagnussat · Rafael Sóbis
+3417545,2020,12,2020-09-28,Fluminense,Coritiba FC,01-06,2,FALSE,Wellington Silva · Gabriel
+3417557,2020,13,2020-10-03,Palmeiras,Ceará SC,05-06,2,FALSE,Gustavo Gómez · Eduardo Brock
+3417557,2020,13,2020-10-03,Palmeiras,Ceará SC,06-19,2,FALSE,Raphael Veiga · Charles
+3417557,2020,13,2020-10-03,Palmeiras,Ceará SC,11-19,2,FALSE,Willian Bigode · Fabinho
+3417560,2020,13,2020-10-03,Grêmio,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3417563,2020,13,2020-10-04,Fortaleza,Atlético-GO,02-26,2,FALSE,Marlon · Janderson
+3417564,2020,13,2020-10-04,Goiás,Santos,01-24,2,FALSE,David Duarte · Kaio Jorge
+3417565,2020,14,2020-10-07,Flamengo,Sport Recife,02-06,2,FALSE,Natan · Iago Maidana
+3417565,2020,14,2020-10-07,Flamengo,Sport Recife,03-23,2,FALSE,Thiago Maia · Adryelson
+3417571,2020,14,2020-10-07,EC Bahia,Vasco da Gama,02-01,2,FALSE,Juninho · Fellipe Bastos
+3417571,2020,14,2020-10-07,EC Bahia,Vasco da Gama,06-05,2,FALSE,Gilberto · Yago Pikachu
+3417574,2020,14,2020-10-07,Goiás,Fluminense,05-07,2,FALSE,Vinícius Lopes · Digão
+3417574,2020,14,2020-10-07,Goiás,Fluminense,08-17,2,FALSE,Heron · Danilo Barcelos
+3417568,2020,14,2020-10-08,RB Bragantino,Internacional,03-05,2,FALSE,Bruno Tubarão · Gabriel Boschilia
+3417568,2020,14,2020-10-08,RB Bragantino,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3417572,2020,14,2020-10-08,Athletico-PR,Ceará SC,02-27,2,TRUE,Jonathan · Léo Cittadini
+3417576,2020,15,2020-10-10,Vasco da Gama,Flamengo,01-31,2,TRUE,Hugo Souza · Léo Pereira
+3417582,2020,15,2020-10-10,Coritiba FC,Fortaleza,05-06,3,FALSE,Nathan Silva · Ricardo Oliveira · Yuri César
+3417575,2020,15,2020-10-11,Fluminense,EC Bahia,04-17,2,FALSE,Dodi · Ernando
+3417580,2020,15,2020-10-11,Internacional,Athletico-PR,02-27,2,TRUE,Jonathan · Léo Cittadini
+3417583,2020,15,2020-10-11,Ceará SC,Corinthians,06-06,2,FALSE,Samuel Xavier · Cássio
+3417583,2020,15,2020-10-11,Ceará SC,Corinthians,06-17,2,TRUE,Tiago Pagnussat · Rafael Sóbis
+3417587,2020,16,2020-10-14,Palmeiras,Coritiba FC,01-05,2,FALSE,Gustavo Scarpa · Natanael
+3417587,2020,16,2020-10-14,Palmeiras,Coritiba FC,06-24,2,FALSE,Lucas Esteves · Yan Sasse
+3417589,2020,16,2020-10-14,Atlético-MG,Fluminense,04-10,2,FALSE,Sávio · Nino
+3417590,2020,16,2020-10-14,Grêmio,Botafogo,02-24,2,FALSE,Pepê · Caio Alexandre
+3417591,2020,16,2020-10-14,Sport Recife,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3417592,2020,16,2020-10-14,Athletico-PR,Corinthians,11-18,2,FALSE,Fabinho · Walter
+3417585,2020,16,2020-10-15,Flamengo,RB Bragantino,01-31,2,TRUE,Hugo Souza · Léo Pereira
+3417594,2020,16,2020-10-16,Goiás,EC Bahia,07-06,2,FALSE,Daniel Villalva · Juninho Capixaba
+3417595,2020,17,2020-10-17,Fluminense,Ceará SC,06-17,2,TRUE,Tiago Pagnussat · Rafael Sóbis
+3417597,2020,17,2020-10-17,São Paulo,Grêmio,12-19,2,FALSE,Tiago Volpi · Matheus Henrique
+3417598,2020,17,2020-10-18,RB Bragantino,Sport Recife,01-12,2,FALSE,Ytalo · Lucas Mugni
+3417598,2020,17,2020-10-18,RB Bragantino,Sport Recife,02-27,2,FALSE,Ricardo Ryller · Thiago Neves
+3417599,2020,17,2020-10-18,Corinthians,Flamengo,03-02,2,TRUE,Camacho · Xavier
+3417599,2020,17,2020-10-18,Corinthians,Flamengo,06-12,2,FALSE,Gil · Mauricio Isla
+3417599,2020,17,2020-10-18,Corinthians,Flamengo,10-09,2,FALSE,Lucas Piton · Vitinho
+3417600,2020,17,2020-10-18,Internacional,Vasco da Gama,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3417603,2020,17,2020-10-18,Fortaleza,Palmeiras,05-06,2,FALSE,Yuri César · Gustavo Gómez
+3417601,2020,17,2020-10-19,EC Bahia,Atlético-MG,01-04,2,FALSE,Fessin · Réver
+3417613,2020,18,2020-10-24,Ceará SC,Coritiba FC,05-06,2,FALSE,Eduardo Brock · Nathan Silva
+3417605,2020,18,2020-10-25,Fluminense,Santos,07-19,2,FALSE,Nenê · Luan Peres
+3417610,2020,18,2020-10-25,Internacional,Flamengo,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3417612,2020,18,2020-10-25,Athletico-PR,Grêmio,10-10,2,FALSE,Carlos Eduardo · Rodrigues
+3417619,2020,19,2020-10-31,Corinthians,Internacional,06-06,2,FALSE,Cássio · Rodrigo Lindoso
+3417619,2020,19,2020-10-31,Corinthians,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3417622,2020,19,2020-10-31,Coritiba FC,Atlético-GO,05-06,2,TRUE,Nathan Silva · Ricardo Oliveira
+3417623,2020,19,2020-10-31,Fortaleza,Fluminense,04-10,2,FALSE,Felipe · Nino
+3417621,2020,19,2020-11-01,Sport Recife,Athletico-PR,02-27,2,FALSE,Thiago Neves · Léo Cittadini
+3417620,2020,19,2020-11-02,Grêmio,RB Bragantino,05-21,2,FALSE,David Braz · Edimar
+3417629,2020,20,2020-11-07,Atlético-GO,Corinthians,03-27,2,FALSE,Marlon Freitas · Luan
+3417631,2020,20,2020-11-07,Ceará SC,Sport Recife,04-06,2,FALSE,Léo Chú · Luan Polli
+3417633,2020,20,2020-11-07,Athletico-PR,Fortaleza,02-25,2,FALSE,Khellven · Paulão
+3417634,2020,20,2020-11-07,São Paulo,Goiás,02-02,2,TRUE,Chico · Douglas Baggio
+3417627,2020,20,2020-11-08,Vasco da Gama,Palmeiras,06-26,2,FALSE,Talles Magno · Felipe Melo
+3417628,2020,20,2020-11-08,RB Bragantino,Santos,02-15,2,FALSE,Artur · Felipe Jonatan
+3417628,2020,20,2020-11-08,RB Bragantino,Santos,03-05,2,TRUE,Tomás Cuello · Jan Hurtado
+3417630,2020,20,2020-11-08,Fluminense,Grêmio,08-17,2,FALSE,Danilo Barcelos · Diogo Barbosa
+3417632,2020,20,2020-11-08,Internacional,Coritiba FC,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3417640,2020,21,2020-11-14,Santos,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3417642,2020,21,2020-11-14,Goiás,Athletico-PR,02-02,2,TRUE,Chico · Douglas Baggio
+3417643,2020,21,2020-11-14,Grêmio,Ceará SC,05-07,2,FALSE,Jean Pyerre · Kelvyn
+3417643,2020,21,2020-11-14,Grêmio,Ceará SC,06-17,2,FALSE,Diego Souza · Tiago Pagnussat
+3417644,2020,21,2020-11-14,Flamengo,Atlético-GO,01-31,2,TRUE,Hugo Souza · Léo Pereira
+3417644,2020,21,2020-11-14,Flamengo,Atlético-GO,09-14,2,FALSE,Renê · Zé Roberto
+3417658,2020,22,2020-11-21,Goiás,Palmeiras,12-11,2,TRUE,Marcos Rocha · Marcelinho
+3417665,2020,22,2020-11-21,Flamengo,Coritiba FC,01-31,2,FALSE,Léo Pereira · Wilson
+3417656,2020,22,2020-11-22,Internacional,Fluminense,02-14,2,TRUE,Muriel · Lucca
+3417656,2020,22,2020-11-22,Internacional,Fluminense,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3417661,2020,22,2020-11-22,Corinthians,Grêmio,04-16,2,FALSE,Marllon · Darlan
+3417661,2020,22,2020-11-22,Corinthians,Grêmio,07-10,2,TRUE,Gabriel · Jonathan Cafu
+3417662,2020,23,2020-11-25,Atlético-MG,Botafogo,02-24,2,FALSE,Eduardo Sasha · Caio Alexandre
+3417662,2020,23,2020-11-25,Atlético-MG,Botafogo,06-23,2,FALSE,Rafael · Victor Luís
+3417674,2020,23,2020-11-26,Fortaleza,Goiás,04-22,2,FALSE,Wellington Paulista · Miguel Figueira
+3417674,2020,23,2020-11-26,Fortaleza,Goiás,09-01,2,FALSE,Tinga · Breno
+3417670,2020,23,2020-11-28,Atlético-GO,Internacional,04-15,2,FALSE,Arnaldo · Andrés D'Alessandro
+3417649,2020,24,2020-12-02,Fortaleza,Corinthians,03-20,2,FALSE,Juninho Valoura · Jô
+3417647,2020,24,2020-12-05,Santos,Palmeiras,11-10,2,FALSE,Lucas Braga · Mayke
+3417652,2020,24,2020-12-05,Fluminense,Athletico-PR,02-27,2,FALSE,Calegari · Léo Cittadini
+3417652,2020,24,2020-12-05,Fluminense,Athletico-PR,10-02,2,FALSE,Luccas Claro · Pedro Henrique
+3417646,2020,24,2020-12-06,Grêmio,Vasco da Gama,06-17,2,FALSE,Diego Souza · Martín Benítez
+3417676,2020,25,2020-12-12,Internacional,Botafogo,03-11,2,FALSE,Moisés · Zé Welison
+3417676,2020,25,2020-12-12,Internacional,Botafogo,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3417684,2020,25,2020-12-12,Ceará SC,Atlético-GO,09-14,2,FALSE,Luiz Otávio · Zé Roberto
+3417675,2020,25,2020-12-13,Vasco da Gama,Fluminense,11-05,2,TRUE,Leandro Castán · Jadson
+3417678,2020,25,2020-12-13,Flamengo,Santos,08-30,2,FALSE,Gabriel Barbosa · Sandry
+3417696,2020,26,2020-12-19,Coritiba FC,Botafogo,09-07,2,FALSE,Pablo Thomaz · Kevin
+3417697,2020,26,2020-12-19,Internacional,Palmeiras,11-19,2,FALSE,Victor Cuesta · Willian Bigode
+3417697,2020,26,2020-12-19,Internacional,Palmeiras,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3417700,2020,26,2020-12-19,Sport Recife,Grêmio,01-14,2,FALSE,Marcão · Victor Ferraz
+3417703,2020,26,2020-12-19,Fortaleza,Ceará SC,03-01,2,FALSE,Romarinho · Richard Costa
+3417698,2020,26,2020-12-20,Vasco da Gama,Santos,02-15,2,FALSE,Andrey · Felipe Jonatan
+3417698,2020,26,2020-12-20,Vasco da Gama,Santos,03-01,2,FALSE,Vinícius Paiva · Alison
+3417698,2020,26,2020-12-20,Vasco da Gama,Santos,11-05,2,TRUE,Leandro Castán · Jadson
+3417686,2020,27,2020-12-26,Fortaleza,Flamengo,04-10,2,FALSE,Felipe · Everton Ribeiro
+3417688,2020,27,2020-12-26,Fluminense,São Paulo,09-28,2,FALSE,Michel Araújo · Reinaldo
+3417693,2020,27,2020-12-26,Atlético-MG,Coritiba FC,03-13,2,FALSE,Nathan · Matheus Galdezani
+3417687,2020,27,2020-12-27,Athletico-PR,Vasco da Gama,02-27,2,TRUE,Jonathan · Léo Cittadini
+3417690,2020,27,2020-12-27,Botafogo,Corinthians,09-07,2,FALSE,Kevin · Gustavo Silva
+3417501,2020,28,2021-01-06,Flamengo,Fluminense,08-17,2,FALSE,Rodrigo Caio · Danilo Barcelos
+3417502,2020,28,2021-01-06,Botafogo,Athletico-PR,02-27,2,TRUE,Jonathan · Léo Cittadini
+3417508,2020,28,2021-01-06,Coritiba FC,Goiás,01-03,2,FALSE,Hugo Moura · Jefferson
+3417509,2020,28,2021-01-07,Ceará SC,Internacional,06-17,2,FALSE,Tiago Pagnussat · Rodrigo Dourado
+3417509,2020,28,2021-01-07,Ceará SC,Internacional,11-19,2,FALSE,Fabinho · Victor Cuesta
+3417509,2020,28,2021-01-07,Ceará SC,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3417510,2020,28,2021-01-07,Atlético-GO,Vasco da Gama,01-02,2,FALSE,Gustavo Ferrareis · Germán Cano
+3417510,2020,28,2021-01-07,Atlético-GO,Vasco da Gama,02-02,2,FALSE,Lucas Oliveira · Fernando Miguel
+3417518,2020,29,2021-01-09,Coritiba FC,Athletico-PR,02-27,2,TRUE,Fernando Canesin · Léo Cittadini
+3417518,2020,29,2021-01-09,Coritiba FC,Athletico-PR,05-06,2,TRUE,Nathan Silva · Ricardo Oliveira
+3417512,2020,29,2021-01-10,Vasco da Gama,Botafogo,11-05,2,FALSE,Leandro Castán · Pedro Raul
+3417520,2020,29,2021-01-10,Atlético-GO,EC Bahia,04-05,2,FALSE,Éder · Gabriel Novaes
+3417520,2020,29,2021-01-10,Atlético-GO,EC Bahia,06-18,2,TRUE,Matheus Vargas · Wellington Rato
+3417515,2020,29,2021-01-13,Corinthians,Fluminense,02-12,2,FALSE,Mateus Vital · Matheus Ferraz
+3417525,2020,30,2021-01-17,Atlético-MG,Atlético-GO,06-18,2,TRUE,Matheus Vargas · Wellington Rato
+3417526,2020,30,2021-01-17,Internacional,Fortaleza,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3417528,2020,30,2021-01-17,Athletico-PR,São Paulo,02-27,2,TRUE,Jonathan · Fernando Canesin
+3417528,2020,30,2021-01-17,Athletico-PR,São Paulo,03-17,2,FALSE,Santos · Igor Gomes
+3417528,2020,30,2021-01-17,Athletico-PR,São Paulo,12-19,2,FALSE,Christian · Tiago Volpi
+3417530,2020,30,2021-01-18,Goiás,Flamengo,08-17,2,FALSE,Heron · Rodrigo Caio
+3417707,2020,31,2021-01-20,São Paulo,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3417708,2020,31,2021-01-20,RB Bragantino,Vasco da Gama,02-15,2,FALSE,Artur · Andrey
+3417807,2020,32,2021-01-23,São Paulo,Coritiba FC,05-06,2,FALSE,Dani Alves · Nathan Silva
+3417809,2020,32,2021-01-24,Internacional,Grêmio,06-17,2,FALSE,Rodrigo Dourado · Diego Souza
+3417809,2020,32,2021-01-24,Internacional,Grêmio,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3417811,2020,32,2021-01-24,Athletico-PR,Flamengo,02-27,2,TRUE,Jonathan · Fernando Canesin
+3417813,2020,32,2021-01-24,Atlético-GO,Fortaleza,06-18,2,FALSE,Wellington Rato · Ronald
+3417814,2020,32,2021-01-24,Santos,Goiás,01-24,2,FALSE,Kaio Jorge · David Duarte
+3418066,2020,33,2021-01-31,Fluminense,Goiás,06-16,2,FALSE,Egídio · Henrique Lordelo
+3418067,2020,33,2021-01-31,Vasco da Gama,EC Bahia,06-05,2,FALSE,Yago Pikachu · Gilberto
+3418071,2020,33,2021-01-31,Internacional,RB Bragantino,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3418074,2020,33,2021-01-31,Ceará SC,Athletico-PR,02-27,2,TRUE,Fernando Canesin · Léo Cittadini
+3418075,2020,33,2021-01-31,Atlético-GO,São Paulo,06-18,2,TRUE,Matheus Vargas · Wellington Rato
+3418069,2020,33,2021-02-17,Santos,Corinthians,02-15,2,FALSE,Felipe Jonatan · Michel Macedo
+3418079,2020,34,2021-02-03,RB Bragantino,Atlético-GO,06-18,2,TRUE,Matheus Vargas · Wellington Rato
+3418080,2020,34,2021-02-03,Corinthians,Ceará SC,06-06,2,FALSE,Cássio · Samuel Xavier
+3418080,2020,34,2021-02-03,Corinthians,Ceará SC,06-11,2,FALSE,Fagner · Lima
+3418083,2020,34,2021-02-04,Athletico-PR,Internacional,02-27,3,TRUE,Jonathan · Fernando Canesin · Léo Cittadini
+3418083,2020,34,2021-02-04,Athletico-PR,Internacional,07-29,2,FALSE,Nikão · Patrick
+3418083,2020,34,2021-02-04,Athletico-PR,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3418084,2020,34,2021-02-04,Fortaleza,Coritiba FC,05-06,2,TRUE,Nathan Silva · Ricardo Oliveira
+3418078,2020,34,2021-02-19,São Paulo,Palmeiras,05-06,2,FALSE,Dani Alves · Gustavo Gómez
+3418095,2020,35,2021-02-06,Atlético-GO,Santos,06-18,2,TRUE,Matheus Vargas · Wellington Rato
+3418087,2020,35,2021-02-08,Botafogo,Grêmio,02-24,2,FALSE,Caio Alexandre · Pepê
+3418087,2020,35,2021-02-08,Botafogo,Grêmio,03-11,2,FALSE,Zé Welison · Bruno Cortez
+3418088,2020,35,2021-02-10,São Paulo,Ceará SC,10-22,2,FALSE,Robert Arboleda · Cléber
+3418090,2020,35,2021-02-10,Corinthians,Athletico-PR,02-27,2,TRUE,Jonathan · Fernando Canesin
+3418091,2020,35,2021-02-10,Internacional,Sport Recife,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3418099,2020,36,2021-02-13,Santos,Coritiba FC,05-06,2,TRUE,Nathan Silva · Ricardo Oliveira
+3418100,2020,36,2021-02-13,Atlético-MG,EC Bahia,03-02,2,TRUE,Patrick de Lucca · Gregore
+3418096,2020,36,2021-02-14,Flamengo,Corinthians,06-12,2,FALSE,Mauricio Isla · Gil
+3418097,2020,36,2021-02-14,Vasco da Gama,Internacional,06-17,2,FALSE,Martín Benítez · Rodrigo Dourado
+3418097,2020,36,2021-02-14,Vasco da Gama,Internacional,06-22,2,FALSE,Carlinhos · Mauricio
+3418097,2020,36,2021-02-14,Vasco da Gama,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3418101,2020,36,2021-02-14,Grêmio,São Paulo,12-19,2,FALSE,Matheus Henrique · Tiago Volpi
+3418103,2020,36,2021-02-14,Athletico-PR,Atlético-GO,02-27,2,TRUE,Jonathan · Léo Cittadini
+3418102,2020,36,2021-02-15,Sport Recife,RB Bragantino,03-05,2,TRUE,Bruno Tubarão · Tomás Cuello
+3418104,2020,36,2021-02-15,Ceará SC,Fluminense,06-17,2,TRUE,Tiago Pagnussat · Saulo Mineiro
+3418114,2020,37,2021-02-20,Fortaleza,EC Bahia,03-02,2,TRUE,Patrick de Lucca · Gregore
+3418114,2020,37,2021-02-20,Fortaleza,EC Bahia,04-22,2,FALSE,Wellington Paulista · Rossi
+3418106,2020,37,2021-02-21,Flamengo,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3418109,2020,37,2021-02-21,Santos,Fluminense,02-14,2,FALSE,Pará · Lucca
+3418109,2020,37,2021-02-21,Santos,Fluminense,07-19,2,FALSE,Luan Peres · Nenê
+3418111,2020,37,2021-02-21,Grêmio,Athletico-PR,02-27,2,TRUE,Jonathan · Léo Cittadini
+3418108,2020,37,2021-02-22,Palmeiras,Atlético-GO,06-18,3,TRUE,Mauricio Kozlinski · Matheus Vargas · Wellington Rato
+3418118,2020,38,2021-02-25,São Paulo,Flamengo,08-30,2,FALSE,Tchê Tchê · Gabriel Barbosa
+3418121,2020,38,2021-02-25,Internacional,Corinthians,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3418122,2020,38,2021-02-25,EC Bahia,Santos,03-02,2,TRUE,Patrick de Lucca · Gregore
+3418123,2020,38,2021-02-25,Athletico-PR,Sport Recife,02-27,3,FALSE,Jonathan · Léo Cittadini · Thiago Neves
+3546466,2021,1,2021-05-29,São Paulo,Fluminense,04-01,2,FALSE,Igor Vinícius · Biel
+3546465,2021,1,2021-05-30,Internacional,Sport Recife,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3546469,2021,1,2021-05-30,Corinthians,Atlético-GO,03-27,2,FALSE,Luan · Marlon Freitas
+3546472,2021,1,2021-05-30,Athletico-PR,América-MG,02-13,2,TRUE,Eduardo Bauermann · Marlon
+3546478,2021,2,2021-06-05,RB Bragantino,EC Bahia,02-06,2,TRUE,Natan · Lucas Evangelista
+3546479,2021,2,2021-06-05,Santos,Ceará SC,03-01,2,FALSE,Alison · Richard Costa
+3546474,2021,2,2021-06-06,América-MG,Corinthians,02-13,2,TRUE,Eduardo Bauermann · Marlon
+3546474,2021,2,2021-06-06,América-MG,Corinthians,06-06,2,FALSE,Alê · Cássio
+3546475,2021,2,2021-06-06,Juventude,Athletico-PR,02-27,2,TRUE,Léo Cittadini · Fernando Canesin
+3546475,2021,2,2021-06-06,Juventude,Athletico-PR,05-16,2,FALSE,Chico Kim · Marcinho
+3546480,2021,2,2021-06-06,Palmeiras,Chapecoense,06-23,2,FALSE,Victor Luís · Anselmo Ramon
+3546482,2021,2,2021-11-23,Grêmio,Flamengo,01-31,2,TRUE,Hugo Souza · Léo Pereira
+3571594,2021,3,2021-06-12,Santos,Juventude,02-13,2,FALSE,John Victor · Vitor Mendes
+3571594,2021,3,2021-06-12,Santos,Juventude,02-15,2,FALSE,Felipe Jonatan · Michel Macedo
+3571596,2021,3,2021-06-13,Grêmio,Athletico-PR,04-01,2,FALSE,Brenno · Vitinho
+3571596,2021,3,2021-06-13,Grêmio,Athletico-PR,12-19,2,FALSE,Matheus Henrique · Christian
+3571597,2021,3,2021-06-13,RB Bragantino,Fluminense,01-28,2,FALSE,Claudinho · Wellington
+3571597,2021,3,2021-06-13,RB Bragantino,Fluminense,02-06,2,TRUE,Natan · Lucas Evangelista
+3571598,2021,3,2021-06-13,EC Bahia,Internacional,01-19,2,FALSE,Renan Guedes · Lucas Ribeiro
+3571600,2021,3,2021-06-13,Flamengo,América-MG,03-12,2,TRUE,Willian Arão · Michael
+3572011,2021,4,2021-06-16,Corinthians,RB Bragantino,02-12,2,FALSE,Mateus Vital · Fabrício Bruno
+3572017,2021,4,2021-06-17,Ceará SC,EC Bahia,01-11,2,FALSE,William Klaus · Danielzinho
+3572018,2021,4,2021-06-17,Atlético-GO,Fortaleza,02-02,2,TRUE,Fernando Miguel · Lucas Oliveira
+3572013,2021,4,2021-11-02,Athletico-PR,Flamengo,03-12,2,TRUE,Willian Arão · Michael
+3572020,2021,5,2021-06-19,Flamengo,RB Bragantino,03-12,2,TRUE,Willian Arão · Michael
+3572021,2021,5,2021-06-20,Palmeiras,América-MG,05-19,2,FALSE,Renan · Ramon
+3572022,2021,5,2021-06-20,Internacional,Ceará SC,01-03,2,TRUE,Léo Borges · Lucas Ramos
+3572024,2021,5,2021-06-20,Athletico-PR,Atlético-GO,02-02,2,TRUE,Fernando Miguel · Lucas Oliveira
+3572025,2021,5,2021-06-20,Fortaleza,Fluminense,04-10,2,FALSE,Felipe · Nino
+3572027,2021,5,2021-06-20,Juventude,Sport Recife,02-06,2,FALSE,Marcelo Carné · Iago Maidana
+3572028,2021,5,2021-06-21,Atlético-MG,Chapecoense,08-29,2,FALSE,Guga · Ravanelli
+3572026,2021,5,2021-08-18,Cuiabá-MT,Grêmio,09-14,2,TRUE,Maicon · Douglas Costa
+3580694,2021,6,2021-06-23,Flamengo,Fortaleza,03-12,3,FALSE,Willian Arão · Michael · Titi
+3580696,2021,6,2021-06-23,RB Bragantino,Palmeiras,02-06,2,TRUE,Natan · Lucas Evangelista
+3580698,2021,6,2021-06-23,São Paulo,Cuiabá-MT,04-16,2,FALSE,Bruno Alves · Marllon
+3580698,2021,6,2021-06-23,São Paulo,Cuiabá-MT,08-05,2,TRUE,Lucas Hernández · Yuri Lima
+3580697,2021,6,2021-06-24,Grêmio,Santos,06-29,2,FALSE,Léo Pereira · João Paulo
+3580700,2021,6,2021-06-24,América-MG,Juventude,05-21,2,TRUE,Rodolfo · Ribamar
+3580702,2021,6,2021-06-24,Ceará SC,Atlético-MG,08-29,2,FALSE,Gabriel Lacerda · Guga
+3580707,2021,7,2021-06-27,Juventude,Flamengo,03-12,2,TRUE,Willian Arão · Michael
+3580710,2021,7,2021-06-27,Athletico-PR,Chapecoense,03-08,2,TRUE,João Paulo · Mike
+3580710,2021,7,2021-06-27,Athletico-PR,Chapecoense,03-17,2,FALSE,Santos · Felipe Santana
+3580713,2021,7,2021-06-27,América-MG,Internacional,05-21,2,TRUE,Rodolfo · Ribamar
+3580715,2021,8,2021-06-30,Fortaleza,Chapecoense,03-08,2,TRUE,João Paulo · Mike
+3580716,2021,8,2021-06-30,Internacional,Palmeiras,06-16,2,FALSE,Renzo Saravia · Zé Rafael
+3580717,2021,8,2021-06-30,EC Bahia,América-MG,01-10,2,FALSE,Nino Paraíba · Felipe Azevedo
+3580717,2021,8,2021-06-30,EC Bahia,América-MG,03-02,2,FALSE,Patrick de Lucca · Anderson
+3580717,2021,8,2021-06-30,EC Bahia,América-MG,05-12,2,FALSE,Thaciano · Marcelo Toscano
+3580717,2021,8,2021-06-30,EC Bahia,América-MG,05-21,2,TRUE,Rodolfo · Ribamar
+3580718,2021,8,2021-06-30,Fluminense,Athletico-PR,02-27,3,FALSE,Calegari · Léo Cittadini · Fernando Canesin
+3580721,2021,8,2021-06-30,Corinthians,São Paulo,09-07,2,FALSE,Gustavo Silva · Miranda
+3580722,2021,8,2021-07-01,RB Bragantino,Ceará SC,02-06,2,TRUE,Natan · Lucas Evangelista
+3580723,2021,8,2021-07-01,Atlético-MG,Atlético-GO,02-02,2,TRUE,Fernando Miguel · Lucas Oliveira
+3580724,2021,8,2021-07-01,Cuiabá-MT,Flamengo,03-12,2,TRUE,Willian Arão · Michael
+3580724,2021,8,2021-07-01,Cuiabá-MT,Flamengo,08-05,2,TRUE,Lucas Hernández · Yuri Lima
+3583802,2021,9,2021-07-03,América-MG,Santos,03-02,2,FALSE,Anderson · Camacho
+3583802,2021,9,2021-07-03,América-MG,Santos,05-21,2,TRUE,Ribamar · Rodolfo
+3583806,2021,9,2021-07-03,Athletico-PR,Fortaleza,06-18,2,TRUE,Ronald · Matheus Vargas
+3583799,2021,9,2021-07-04,Flamengo,Fluminense,03-12,2,TRUE,Willian Arão · Michael
+3583801,2021,9,2021-07-04,São Paulo,RB Bragantino,02-06,2,TRUE,Natan · Lucas Evangelista
+3583803,2021,9,2021-07-04,Grêmio,Atlético-GO,02-02,2,TRUE,Fernando Miguel · Lucas Oliveira
+3583807,2021,9,2021-07-04,Chapecoense,EC Bahia,01-11,2,FALSE,Kaio Nunes · Danielzinho
+3583807,2021,9,2021-07-04,Chapecoense,EC Bahia,03-08,2,FALSE,João Paulo · Matheus Teixeira
+3583812,2021,10,2021-07-07,Atlético-MG,Flamengo,03-12,2,TRUE,Willian Arão · Michael
+3583813,2021,10,2021-07-07,Internacional,São Paulo,05-06,2,FALSE,Daniel · Dani Alves
+3583814,2021,10,2021-07-07,Fortaleza,América-MG,05-21,3,FALSE,Felipe Alves · Rodolfo · Ribamar
+3583818,2021,10,2021-07-07,Atlético-GO,Sport Recife,02-02,2,TRUE,Fernando Miguel · Lucas Oliveira
+3583820,2021,11,2021-07-10,Palmeiras,Santos,05-06,2,FALSE,Gustavo Gómez · Danilo Boza
+3583822,2021,11,2021-07-10,América-MG,Atlético-MG,02-09,3,FALSE,Zé Vítor · Bruno Nazário · Júnior Alonso
+3583823,2021,11,2021-07-10,Grêmio,Internacional,03-11,2,FALSE,Bruno Cortez · Moisés
+3583823,2021,11,2021-07-10,Grêmio,Internacional,06-17,2,FALSE,Diego Souza · Rodrigo Dourado
+3583825,2021,11,2021-07-10,Sport Recife,Fluminense,02-27,2,FALSE,Thiago Neves · Calegari
+3583826,2021,11,2021-07-10,Athletico-PR,RB Bragantino,02-06,2,TRUE,Natan · Lucas Evangelista
+3583819,2021,11,2021-07-11,Flamengo,Chapecoense,05-04,2,FALSE,Rodrigo Muniz · Anderson Leite
+3583824,2021,11,2021-07-11,Fortaleza,Corinthians,06-18,2,TRUE,Ronald · Matheus Vargas
+3583827,2021,11,2021-07-11,Juventude,Atlético-GO,02-02,2,TRUE,Fernando Miguel · Lucas Oliveira
+3583831,2021,12,2021-07-17,São Paulo,Fortaleza,06-18,2,TRUE,Ronald · Matheus Vargas
+3583835,2021,12,2021-07-18,EC Bahia,Flamengo,03-12,2,TRUE,Willian Arão · Michael
+3583836,2021,12,2021-07-18,RB Bragantino,Santos,01-12,2,FALSE,Alerrandro · Kaiky
+3583836,2021,12,2021-07-18,RB Bragantino,Santos,02-06,2,TRUE,Natan · Lucas Evangelista
+3583838,2021,12,2021-07-18,Atlético-GO,Palmeiras,02-02,2,TRUE,Fernando Miguel · Lucas Oliveira
+3583832,2021,12,2021-07-19,América-MG,Sport Recife,05-28,2,TRUE,Everaldo · Mikael
+3583840,2021,13,2021-07-24,Palmeiras,Fluminense,06-16,2,FALSE,Zé Rafael · Egídio
+3583839,2021,13,2021-07-25,Flamengo,São Paulo,08-09,2,FALSE,Filipe Luís · Rodrigo Nestor
+3583841,2021,13,2021-07-25,Santos,Atlético-GO,02-02,2,TRUE,Fernando Miguel · Lucas Oliveira
+3583845,2021,13,2021-07-25,Sport Recife,Ceará SC,05-28,2,TRUE,Everaldo · Mikael
+3583847,2021,13,2021-07-26,Juventude,Chapecoense,02-23,2,FALSE,Sorriso · Matheus Ribeiro
+3583871,2021,14,2021-07-31,São Paulo,Palmeiras,06-26,2,FALSE,Gabriel Sara · Felipe Melo
+3583870,2021,14,2021-08-01,Corinthians,Flamengo,06-12,2,FALSE,Gil · Mauricio Isla
+3583872,2021,14,2021-08-01,Atlético-MG,Athletico-PR,02-24,2,FALSE,Eduardo Sasha · Nicolas
+3583872,2021,14,2021-08-01,Atlético-MG,Athletico-PR,02-27,2,TRUE,Fernando Canesin · Léo Cittadini
+3583869,2021,14,2021-09-02,Fluminense,Juventude,04-10,2,FALSE,Nino · Matheus Jesus
+3583865,2021,15,2021-08-06,Sport Recife,RB Bragantino,05-28,2,TRUE,Everaldo · Mikael
+3583860,2021,15,2021-08-07,Palmeiras,Fortaleza,06-19,2,FALSE,Raphael Veiga · Lucas Crispim
+3583862,2021,15,2021-08-08,América-MG,Fluminense,06-06,2,FALSE,Alê · Samuel Xavier
+3583864,2021,15,2021-08-08,Ceará SC,Atlético-GO,02-26,2,FALSE,Marlon · Janderson
+3583864,2021,15,2021-08-08,Ceará SC,Atlético-GO,04-15,2,FALSE,Vina · Arnaldo
+3583864,2021,15,2021-08-08,Ceará SC,Atlético-GO,09-14,2,FALSE,Luiz Otávio · Zé Roberto
+3583867,2021,15,2021-08-08,Juventude,Atlético-MG,02-06,2,FALSE,Marcelo Carné · Dodô
+3583867,2021,15,2021-08-08,Juventude,Atlético-MG,05-25,2,FALSE,Didi · Hyoran
+3583867,2021,15,2021-08-08,Juventude,Atlético-MG,07-25,2,FALSE,Paulo Henrique · Hulk
+3583863,2021,15,2021-08-09,Grêmio,Chapecoense,03-08,2,TRUE,João Paulo · Mike
+3583851,2021,16,2021-08-14,São Paulo,Grêmio,09-05,2,FALSE,Vitor Bueno · Thiago Santos
+3583852,2021,16,2021-08-14,Atlético-MG,Palmeiras,05-06,2,FALSE,Nathan Silva · Gustavo Gómez
+3583856,2021,16,2021-08-14,RB Bragantino,Juventude,10-11,2,FALSE,Leandrinho · Wescley
+3583850,2021,16,2021-08-15,Corinthians,Ceará SC,06-11,2,FALSE,Fagner · Lima
+3583853,2021,16,2021-08-15,Internacional,Fluminense,06-06,2,FALSE,Rodrigo Lindoso · Samuel Xavier
+3583853,2021,16,2021-08-15,Internacional,Fluminense,06-16,2,FALSE,Renzo Saravia · Egídio
+3583858,2021,16,2021-08-15,Cuiabá-MT,Athletico-PR,02-27,2,TRUE,Léo Cittadini · Fernando Canesin
+3583857,2021,16,2021-08-16,Chapecoense,América-MG,10-29,2,TRUE,Keiller · Busanello
+3583887,2021,17,2021-08-21,Juventude,Fortaleza,04-10,2,FALSE,Matheus Jesus · Felipe
+3583888,2021,17,2021-08-21,Atlético-GO,Chapecoense,05-04,2,FALSE,João Paulo · Anderson Leite
+3583888,2021,17,2021-08-21,Atlético-GO,Chapecoense,10-29,2,TRUE,Keiller · Busanello
+3583881,2021,17,2021-08-22,Santos,Internacional,01-13,2,FALSE,Madson · Taison
+3583881,2021,17,2021-08-22,Santos,Internacional,03-18,2,TRUE,Gabriel Mercado · Yuri Alberto
+3583882,2021,17,2021-08-23,América-MG,RB Bragantino,02-06,2,TRUE,Natan · Lucas Evangelista
+3583882,2021,17,2021-08-23,América-MG,RB Bragantino,05-21,2,FALSE,Rodolfo · Edimar
+3583891,2021,18,2021-08-28,Santos,Flamengo,03-12,2,TRUE,Willian Arão · Michael
+3583893,2021,18,2021-08-28,Grêmio,Corinthians,09-07,2,FALSE,Rafinha · Gustavo Silva
+3583895,2021,18,2021-08-28,Sport Recife,Chapecoense,10-29,2,TRUE,Keiller · Busanello
+3583896,2021,18,2021-08-29,RB Bragantino,Atlético-MG,01-12,2,FALSE,Alerrandro · Nacho Fernández
+3583906,2021,19,2021-09-05,Athletico-PR,Sport Recife,10-02,2,FALSE,Pedro Henrique · Hayner
+3583907,2021,19,2021-09-07,Chapecoense,Fluminense,10-29,2,TRUE,Keiller · Busanello
+3583901,2021,19,2021-09-22,São Paulo,América-MG,02-13,2,TRUE,Eduardo Bauermann · Marlon
+3583903,2021,19,2021-10-21,Internacional,RB Bragantino,03-05,2,TRUE,Tomás Cuello · Jan Hurtado
+3583899,2021,19,2021-11-05,Flamengo,Atlético-GO,03-12,2,TRUE,Willian Arão · Michael
+3583931,2021,20,2021-09-11,Santos,EC Bahia,05-21,2,FALSE,Robson Reis · Lucas Araújo
+3583932,2021,20,2021-09-11,América-MG,Athletico-PR,02-13,2,TRUE,Eduardo Bauermann · Marlon
+3583936,2021,20,2021-09-11,RB Bragantino,Chapecoense,10-29,2,TRUE,Keiller · Busanello
+3583930,2021,20,2021-09-12,Palmeiras,Flamengo,03-12,2,TRUE,Willian Arão · Michael
+3583938,2021,20,2021-09-12,Atlético-GO,Corinthians,04-15,2,FALSE,Arnaldo · Roni
+3583935,2021,20,2021-09-13,Sport Recife,Internacional,03-11,2,FALSE,Zé Welison · Moisés
+3583924,2021,21,2021-09-18,Ceará SC,Santos,03-02,2,FALSE,Geovane · Camacho
+3583925,2021,21,2021-09-18,EC Bahia,RB Bragantino,01-12,2,FALSE,Lucas Mugni · Ytalo
+3583926,2021,21,2021-09-18,Athletico-PR,Juventude,01-09,2,FALSE,Bissoli · Capixaba
+3583927,2021,21,2021-09-18,Chapecoense,Palmeiras,10-29,2,TRUE,Keiller · Busanello
+3583919,2021,21,2021-09-19,Flamengo,Grêmio,03-12,2,TRUE,Willian Arão · Michael
+3583920,2021,21,2021-09-19,Corinthians,América-MG,06-06,2,FALSE,Cássio · Alê
+3583921,2021,21,2021-09-19,São Paulo,Atlético-GO,02-07,2,FALSE,Liziero · Wanderson
+3583914,2021,22,2021-09-25,Ceará SC,Chapecoense,10-29,2,TRUE,Keiller · Busanello
+3583909,2021,22,2021-09-26,Fluminense,RB Bragantino,08-17,2,FALSE,Danilo Barcelos · Emiliano Martínez
+3583912,2021,22,2021-09-26,América-MG,Flamengo,02-13,2,TRUE,Eduardo Bauermann · Marlon
+3583917,2021,22,2021-09-26,Juventude,Santos,02-15,2,FALSE,Michel Macedo · Felipe Jonatan
+3583942,2021,23,2021-10-02,Atlético-MG,Internacional,05-06,2,FALSE,Nathan Silva · Daniel
+3583946,2021,23,2021-10-02,RB Bragantino,Corinthians,02-08,2,FALSE,Praxedes · Renato Augusto
+3583948,2021,23,2021-10-02,Cuiabá-MT,América-MG,02-13,2,TRUE,Eduardo Bauermann · Marlon
+3583940,2021,23,2021-10-03,Palmeiras,Juventude,04-02,2,TRUE,William Matheus · Roberson
+3583943,2021,23,2021-10-03,Grêmio,Sport Recife,05-28,2,TRUE,Everaldo · Mikael
+3583947,2021,23,2021-10-03,Chapecoense,São Paulo,10-29,2,TRUE,Keiller · Busanello
+3583941,2021,23,2021-10-27,Santos,Fluminense,05-21,2,FALSE,Robson Reis · David Braz
+3583950,2021,24,2021-10-05,Corinthians,EC Bahia,10-09,2,FALSE,Lucas Piton · Luizão
+3583949,2021,24,2021-10-06,Fluminense,Fortaleza,04-13,2,FALSE,Marcos Felipe · Ángelo Henríquez
+3583952,2021,24,2021-10-06,América-MG,Palmeiras,02-13,2,TRUE,Eduardo Bauermann · Marlon
+3583954,2021,24,2021-10-06,Ceará SC,Internacional,03-18,2,TRUE,Gabriel Mercado · Yuri Alberto
+3583955,2021,24,2021-10-06,Sport Recife,Juventude,04-02,2,TRUE,William Matheus · Roberson
+3583955,2021,24,2021-10-06,Sport Recife,Juventude,05-28,2,TRUE,Everaldo · Mikael
+3583957,2021,24,2021-10-06,Chapecoense,Atlético-MG,03-03,2,FALSE,Moisés Ribeiro · Allan
+3583957,2021,24,2021-10-06,Chapecoense,Atlético-MG,10-29,2,TRUE,Keiller · Busanello
+3583958,2021,24,2021-10-06,Atlético-GO,Athletico-PR,05-30,2,FALSE,Dudu · Lucas Fasson
+3583964,2021,25,2021-10-09,Fortaleza,Flamengo,03-12,3,FALSE,Titi · Willian Arão · Michael
+3583966,2021,25,2021-10-09,Athletico-PR,EC Bahia,08-11,2,FALSE,David Terans · Matheus Bahia
+3583967,2021,25,2021-10-09,Juventude,América-MG,02-13,3,FALSE,Vitor Mendes · Eduardo Bauermann · Marlon
+3583963,2021,25,2021-10-10,Internacional,Chapecoense,03-08,2,TRUE,João Paulo · Mike
+3583996,2021,26,2021-10-12,RB Bragantino,Atlético-GO,02-02,2,FALSE,Luan Cândido · Fernando Miguel
+3583996,2021,26,2021-10-12,RB Bragantino,Atlético-GO,08-18,2,FALSE,Aderlan · Matheus Barbosa
+3583989,2021,26,2021-10-13,Flamengo,Juventude,03-12,2,TRUE,Willian Arão · Michael
+3583989,2021,26,2021-10-13,Flamengo,Juventude,03-23,2,FALSE,Thiago Maia · Juan Quintero
+3583990,2021,26,2021-10-13,Corinthians,Fluminense,06-06,2,FALSE,Cássio · Samuel Xavier
+3583992,2021,26,2021-10-13,Atlético-MG,Santos,08-26,2,FALSE,Jair · Léo Baptistão
+3583993,2021,26,2021-10-13,Internacional,América-MG,02-13,2,TRUE,Eduardo Bauermann · Marlon
+3583993,2021,26,2021-10-13,Internacional,América-MG,03-18,2,TRUE,Gabriel Mercado · Yuri Alberto
+3583997,2021,26,2021-10-13,Chapecoense,Athletico-PR,10-29,2,TRUE,Keiller · Busanello
+3583998,2021,26,2021-10-14,Cuiabá-MT,Sport Recife,05-28,2,TRUE,Everaldo · Mikael
+3583982,2021,27,2021-10-16,América-MG,EC Bahia,01-10,2,FALSE,Felipe Azevedo · Nino Paraíba
+3583982,2021,27,2021-10-16,América-MG,EC Bahia,02-13,2,TRUE,Eduardo Bauermann · Marlon
+3583987,2021,27,2021-10-16,Chapecoense,Fortaleza,06-18,2,TRUE,Ronald · Matheus Vargas
+3583979,2021,27,2021-10-17,Flamengo,Cuiabá-MT,03-12,2,TRUE,Willian Arão · Michael
+3583980,2021,27,2021-10-17,Palmeiras,Internacional,03-18,2,TRUE,Gabriel Mercado · Yuri Alberto
+3583980,2021,27,2021-10-17,Palmeiras,Internacional,06-16,2,FALSE,Zé Rafael · Renzo Saravia
+3583980,2021,27,2021-10-17,Palmeiras,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3583984,2021,27,2021-10-17,Ceará SC,RB Bragantino,03-05,2,TRUE,Tomás Cuello · Jan Hurtado
+3583985,2021,27,2021-10-17,Sport Recife,Santos,05-28,2,TRUE,Everaldo · Mikael
+3583985,2021,27,2021-10-17,Sport Recife,Santos,11-10,2,FALSE,Ewerthon · Lucas Braga
+3583971,2021,28,2021-10-23,Santos,América-MG,02-13,2,TRUE,Eduardo Bauermann · Marlon
+3583974,2021,28,2021-10-23,Fortaleza,Athletico-PR,05-30,2,FALSE,Robson · Lucas Fasson
+3583977,2021,28,2021-10-23,Juventude,Ceará SC,04-02,2,TRUE,William Matheus · Roberson
+3583972,2021,28,2021-10-24,Atlético-MG,Cuiabá-MT,03-10,2,FALSE,Matías Zaracho · Alan Empereur
+3583972,2021,28,2021-10-24,Atlético-MG,Cuiabá-MT,09-10,2,FALSE,Keno · Auremir
+3583973,2021,28,2021-10-24,Internacional,Corinthians,03-18,2,TRUE,Gabriel Mercado · Yuri Alberto
+3583973,2021,28,2021-10-24,Internacional,Corinthians,06-06,2,FALSE,Rodrigo Lindoso · Cássio
+3583973,2021,28,2021-10-24,Internacional,Corinthians,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3583975,2021,28,2021-10-24,EC Bahia,Chapecoense,10-29,2,TRUE,Keiller · Busanello
+3583978,2021,28,2021-10-25,Atlético-GO,Grêmio,09-14,2,FALSE,Zé Roberto · Douglas Costa
+3583999,2021,29,2021-10-30,Flamengo,Atlético-MG,03-12,2,TRUE,Willian Arão · Michael
+3584002,2021,29,2021-10-30,América-MG,Fortaleza,02-13,2,TRUE,Eduardo Bauermann · Marlon
+3584007,2021,29,2021-10-30,Juventude,EC Bahia,06-03,2,FALSE,Dawhan · Germán Conti
+3584001,2021,29,2021-10-31,São Paulo,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3584000,2021,29,2021-11-01,Corinthians,Chapecoense,10-29,2,TRUE,Keiller · Busanello
+3584008,2021,29,2021-11-01,Cuiabá-MT,RB Bragantino,01-12,2,TRUE,Ytalo · Alerrandro
+3584009,2021,30,2021-11-06,Fluminense,Sport Recife,10-03,2,FALSE,Fred · Sander
+3584010,2021,30,2021-11-06,Corinthians,Fortaleza,01-07,2,FALSE,Du Queiroz · Marcelo Benevenuto
+3584010,2021,30,2021-11-06,Corinthians,Fortaleza,06-18,2,TRUE,Matheus Vargas · Ronald
+3584013,2021,30,2021-11-06,Internacional,Grêmio,03-11,2,FALSE,Moisés · Bruno Cortez
+3584013,2021,30,2021-11-06,Internacional,Grêmio,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3584011,2021,30,2021-11-07,Santos,Palmeiras,05-06,2,FALSE,Danilo Boza · Gustavo Gómez
+3584012,2021,30,2021-11-07,Atlético-MG,América-MG,02-13,2,TRUE,Eduardo Bauermann · Marlon
+3584015,2021,30,2021-11-07,EC Bahia,São Paulo,05-18,2,FALSE,Raí Nascimento · Luciano
+3584017,2021,30,2021-11-08,Chapecoense,Flamengo,03-12,2,TRUE,Willian Arão · Michael
+3584017,2021,30,2021-11-08,Chapecoense,Flamengo,10-29,2,TRUE,Keiller · Busanello
+3584017,2021,30,2021-11-08,Chapecoense,Flamengo,12-30,2,FALSE,Denner · Bruno Henrique
+3584028,2021,31,2021-11-04,Cuiabá-MT,Chapecoense,10-29,2,TRUE,Keiller · Busanello
+3584021,2021,31,2021-11-10,Santos,RB Bragantino,01-12,2,FALSE,Kaiky · Ytalo
+3584021,2021,31,2021-11-10,Santos,RB Bragantino,02-15,2,FALSE,Felipe Jonatan · Artur
+3584025,2021,31,2021-11-10,Sport Recife,América-MG,02-13,2,TRUE,Eduardo Bauermann · Marlon
+3584025,2021,31,2021-11-10,Sport Recife,América-MG,03-16,2,FALSE,Paulinho Moccelin · Lucas Kal
+3584027,2021,31,2021-11-10,Juventude,Internacional,03-18,2,TRUE,Gabriel Mercado · Yuri Alberto
+3584027,2021,31,2021-11-10,Juventude,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3584019,2021,31,2021-11-11,Flamengo,EC Bahia,10-09,2,FALSE,Vitinho · Luizão
+3584052,2021,32,2021-11-13,América-MG,Grêmio,02-13,2,TRUE,Eduardo Bauermann · Marlon
+3584052,2021,32,2021-11-13,América-MG,Grêmio,02-16,2,FALSE,Ademir · Lucas Silva
+3584053,2021,32,2021-11-13,Internacional,Athletico-PR,07-29,2,FALSE,Patrick · Nikão
+3584053,2021,32,2021-11-13,Internacional,Athletico-PR,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3584049,2021,32,2021-11-14,Fluminense,Palmeiras,05-11,2,FALSE,Caio Paulista · Rony
+3584051,2021,32,2021-11-14,São Paulo,Flamengo,03-12,2,TRUE,Willian Arão · Michael
+3584057,2021,32,2021-11-14,Chapecoense,Juventude,02-23,2,FALSE,Matheus Ribeiro · Sorriso
+3584057,2021,32,2021-11-14,Chapecoense,Juventude,10-29,2,TRUE,Keiller · Busanello
+3584055,2021,32,2021-12-02,EC Bahia,Atlético-MG,01-12,2,FALSE,Lucas Mugni · Nacho Fernández
+3584043,2021,33,2021-11-16,Grêmio,RB Bragantino,02-26,2,TRUE,Léo Realpe · Luciano
+3584039,2021,33,2021-11-17,Flamengo,Corinthians,01-31,2,TRUE,Hugo Souza · Léo Pereira
+3584039,2021,33,2021-11-17,Flamengo,Corinthians,02-08,2,FALSE,Kenedy · Renato Augusto
+3584041,2021,33,2021-11-17,Santos,Chapecoense,03-08,2,TRUE,João Paulo · Mike
+3584042,2021,33,2021-11-17,América-MG,Atlético-GO,02-13,2,TRUE,Eduardo Bauermann · Marlon
+3584048,2021,33,2021-11-17,Cuiabá-MT,Internacional,03-18,2,TRUE,Gabriel Mercado · Yuri Alberto
+3584033,2021,34,2021-11-20,Internacional,Flamengo,03-12,2,TRUE,Willian Arão · Michael
+3584033,2021,34,2021-11-20,Internacional,Flamengo,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3584034,2021,34,2021-11-20,Fortaleza,Palmeiras,01-07,2,FALSE,Marcelo Benevenuto · Dudu
+3584034,2021,34,2021-11-20,Fortaleza,Palmeiras,06-18,2,TRUE,Ronald · Matheus Vargas
+3584037,2021,34,2021-11-20,Chapecoense,Grêmio,02-22,2,TRUE,Ezequiel · Ronei
+3584037,2021,34,2021-11-20,Chapecoense,Grêmio,03-08,2,TRUE,João Paulo · Mike
+3584029,2021,34,2021-11-21,Fluminense,América-MG,02-13,2,TRUE,Eduardo Bauermann · Marlon
+3584029,2021,34,2021-11-21,Fluminense,América-MG,06-06,2,FALSE,Samuel Xavier · Alê
+3584031,2021,34,2021-11-24,São Paulo,Athletico-PR,03-17,2,FALSE,Igor Gomes · Santos
+3584059,2021,35,2021-11-24,Fluminense,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3584061,2021,35,2021-11-25,Santos,Fortaleza,06-18,2,TRUE,Ronald · Matheus Vargas
+3584064,2021,35,2021-11-25,Ceará SC,Corinthians,06-11,2,FALSE,Lima · Fagner
+3584068,2021,35,2021-11-29,Atlético-GO,EC Bahia,03-27,2,FALSE,Marlon Freitas · Rodriguinho
+3584062,2021,35,2021-11-30,América-MG,Chapecoense,02-13,2,TRUE,Eduardo Bauermann · Marlon
+3584062,2021,35,2021-11-30,América-MG,Chapecoense,02-22,2,TRUE,Ezequiel · Ronei
+3584062,2021,35,2021-11-30,América-MG,Chapecoense,03-08,2,TRUE,João Paulo · Mike
+3584067,2021,35,2021-11-30,Juventude,RB Bragantino,02-15,2,FALSE,Michel Macedo · Artur
+3584063,2021,35,2021-12-02,Grêmio,São Paulo,06-17,2,FALSE,Diego Souza · Martín Benítez
+3584063,2021,35,2021-12-02,Grêmio,São Paulo,09-07,2,FALSE,Rafinha · Miranda
+3584075,2021,36,2021-11-26,EC Bahia,Grêmio,01-12,2,FALSE,Lucas Mugni · Bobsin
+3584076,2021,36,2021-11-27,RB Bragantino,América-MG,02-13,2,TRUE,Eduardo Bauermann · Marlon
+3584070,2021,36,2021-11-28,Corinthians,Athletico-PR,10-02,2,FALSE,Róger Guedes · Pedro Henrique
+3584073,2021,36,2021-11-28,Internacional,Santos,01-13,2,FALSE,Taison · Madson
+3584073,2021,36,2021-11-28,Internacional,Santos,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3584078,2021,36,2021-11-30,Cuiabá-MT,Palmeiras,03-22,2,FALSE,Jenison · Gabriel Silva
+3584078,2021,36,2021-11-30,Cuiabá-MT,Palmeiras,05-20,2,FALSE,Rafael Gava · Michel
+3584077,2021,36,2021-12-03,Chapecoense,Atlético-GO,02-02,2,TRUE,Fernando Miguel · Lucas Oliveira
+3584077,2021,36,2021-12-03,Chapecoense,Atlético-GO,02-22,2,TRUE,Ezequiel · Ronei
+3584077,2021,36,2021-12-03,Chapecoense,Atlético-GO,03-08,2,TRUE,João Paulo · Mike
+3584084,2021,37,2021-12-05,Ceará SC,América-MG,02-13,2,TRUE,Eduardo Bauermann · Marlon
+3584083,2021,37,2021-12-06,Internacional,Atlético-GO,02-02,2,TRUE,Fernando Miguel · Lucas Oliveira
+3584083,2021,37,2021-12-06,Internacional,Atlético-GO,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3584087,2021,37,2021-12-06,Chapecoense,Sport Recife,03-08,2,TRUE,João Paulo · Mike
+3584087,2021,37,2021-12-06,Chapecoense,Sport Recife,04-05,2,TRUE,Marquinho · Geuvânio
+3584090,2021,38,2021-12-09,Palmeiras,Ceará SC,01-04,2,TRUE,Garcia · Kevin
+3584094,2021,38,2021-12-09,Fortaleza,EC Bahia,06-05,2,FALSE,Yago Pikachu · Gilberto
+3584096,2021,38,2021-12-09,RB Bragantino,Internacional,03-18,2,TRUE,Gabriel Mercado · Yuri Alberto
+3584096,2021,38,2021-12-09,RB Bragantino,Internacional,12-18,2,TRUE,Marcelo Lomba · Edenilson
+3584098,2021,38,2021-12-09,Atlético-GO,Flamengo,01-31,2,TRUE,Hugo Souza · Léo Pereira
+3584098,2021,38,2021-12-09,Atlético-GO,Flamengo,02-02,2,TRUE,Fernando Miguel · Lucas Oliveira
+3767779,2022,1,2022-04-09,Atlético-GO,Flamengo,01-31,2,TRUE,Hugo Souza · Léo Pereira
+3767772,2022,1,2022-04-10,Atlético-MG,Internacional,05-06,2,FALSE,Nathan Silva · Daniel
+3767772,2022,1,2022-04-10,Atlético-MG,Internacional,09-10,2,FALSE,Keno · Bruno Méndez
+3767789,2022,2,2022-04-16,Goiás,Palmeiras,12-13,2,FALSE,Apodi · Weverton
+3767783,2022,2,2022-04-17,Flamengo,São Paulo,03-12,2,TRUE,Lázaro · Willian Arão
+3767783,2022,2,2022-04-17,Flamengo,São Paulo,08-09,2,FALSE,Filipe Luís · Rodrigo Nestor
+3767784,2022,2,2022-04-17,RB Bragantino,Atlético-GO,01-03,2,FALSE,Léo Ortiz · Jefferson
+3767784,2022,2,2022-04-17,RB Bragantino,Atlético-GO,02-06,2,TRUE,Natan · Lucas Evangelista
+3767786,2022,2,2022-04-17,Santos,Coritiba FC,01-30,2,FALSE,Zanocelo · Léo Gamalho
+3767786,2022,2,2022-04-17,Santos,Coritiba FC,02-15,2,TRUE,Guillermo de los Santos · Andrey
+3767787,2022,2,2022-04-17,Internacional,Fortaleza,03-11,2,FALSE,Carlos de Pena · Zé Welison
+3767788,2022,2,2022-04-17,Ceará SC,Botafogo,09-14,2,TRUE,Luiz Otávio · Zé Roberto
+3767794,2022,3,2022-04-23,RB Bragantino,São Paulo,07-29,2,TRUE,Patrick · Nikão
+3767795,2022,3,2022-04-23,Palmeiras,Corinthians,01-07,2,FALSE,Dudu · Du Queiroz
+3767801,2022,3,2022-04-23,Athletico-PR,Flamengo,01-31,2,TRUE,Hugo Souza · Léo Pereira
+3767801,2022,3,2022-04-23,Athletico-PR,Flamengo,03-12,2,TRUE,Willian Arão · Lázaro
+3767799,2022,3,2022-04-24,Atlético-GO,Botafogo,03-27,2,FALSE,Marlon Freitas · Victor Sá
+3767800,2022,3,2022-04-25,Avaí FC,Goiás,01-09,2,TRUE,Eduardo · Bissoli
+3767823,2022,4,2022-04-20,Flamengo,Palmeiras,03-12,2,TRUE,Willian Arão · Lázaro
+3767827,2022,4,2022-05-01,Internacional,Avaí FC,01-09,2,TRUE,Eduardo · Bissoli
+3767827,2022,4,2022-05-01,Internacional,Avaí FC,03-11,2,FALSE,Carlos de Pena · Bruno Cortez
+3767831,2022,4,2022-05-01,Coritiba FC,Fluminense,01-02,2,TRUE,Luiz Henrique · Germán Cano
+3767831,2022,4,2022-05-01,Coritiba FC,Fluminense,06-06,2,FALSE,Willian Farias · Samuel Xavier
+3767813,2022,5,2022-05-08,Flamengo,Botafogo,03-23,2,FALSE,Thiago Maia · Daniel Borges
+3767813,2022,5,2022-05-08,Flamengo,Botafogo,08-30,2,FALSE,Gabriel Barbosa · Tchê Tchê
+3767815,2022,5,2022-05-08,Palmeiras,Fluminense,01-02,2,TRUE,Luiz Henrique · Germán Cano
+3767818,2022,5,2022-05-08,Fortaleza,São Paulo,09-23,2,TRUE,André Anderson · Jonathan Calleri
+3767820,2022,5,2022-05-09,Avaí FC,Coritiba FC,01-09,2,TRUE,Eduardo · Bissoli
+3767820,2022,5,2022-05-09,Avaí FC,Coritiba FC,06-16,2,FALSE,Muriqui · Egídio
+3767820,2022,5,2022-05-09,Avaí FC,Coritiba FC,11-10,2,TRUE,Alex Muralha · Robinho
+3767803,2022,6,2022-05-14,Fluminense,Athletico-PR,01-02,2,TRUE,Germán Cano · Luiz Henrique
+3767805,2022,6,2022-05-14,Palmeiras,RB Bragantino,03-05,2,TRUE,Bruno Tubarão · Jan Hurtado
+3767810,2022,6,2022-05-15,Avaí FC,Juventude,01-09,2,TRUE,Eduardo · Bissoli
+3767811,2022,6,2022-05-15,Coritiba FC,América-MG,11-10,2,FALSE,Alex Muralha · Pedrinho
+3767834,2022,7,2022-05-11,RB Bragantino,Atlético-MG,01-12,2,FALSE,Ytalo · Nacho Fernández
+3767833,2022,7,2022-05-21,Flamengo,Goiás,08-17,2,FALSE,Rodrigo Caio · Danilo Barcelos
+3767836,2022,7,2022-05-21,Santos,Ceará SC,09-14,2,FALSE,Maicon · Zé Roberto
+3767839,2022,7,2022-05-21,Atlético-GO,Coritiba FC,11-10,2,TRUE,Alex Muralha · Robinho
+3767835,2022,7,2022-05-22,Corinthians,São Paulo,08-09,2,FALSE,Willian · Rodrigo Nestor
+3767838,2022,7,2022-05-22,Fortaleza,Fluminense,01-02,2,TRUE,Luiz Henrique · Germán Cano
+3767844,2022,8,2022-05-28,São Paulo,Ceará SC,09-06,2,TRUE,João Ricardo · Iury Castilho
+3767844,2022,8,2022-05-28,São Paulo,Ceará SC,09-23,2,TRUE,André Anderson · Jonathan Calleri
+3767844,2022,8,2022-05-28,São Paulo,Ceará SC,10-22,2,FALSE,Robert Arboleda · Cléber
+3767849,2022,8,2022-05-28,Goiás,RB Bragantino,02-08,2,FALSE,Dadá Belmonte · Praxedes
+3767842,2022,8,2022-05-29,Atlético-MG,Avaí FC,01-09,2,TRUE,Eduardo · Bissoli
+3767843,2022,8,2022-05-29,Fluminense,Flamengo,01-02,2,TRUE,Luiz Henrique · Germán Cano
+3767845,2022,8,2022-05-29,Corinthians,América-MG,06-06,2,FALSE,Cássio · Alê
+3767851,2022,8,2022-05-29,Coritiba FC,Botafogo,01-30,2,FALSE,Léo Gamalho · Luís Oyama
+3767847,2022,8,2022-05-30,Internacional,Atlético-GO,02-02,2,FALSE,Vitão · Airton Moisés
+3767858,2022,9,2022-06-04,Ceará SC,Coritiba FC,06-06,2,FALSE,Rodrigo Lindoso · Willian Farias
+3767860,2022,9,2022-06-04,Avaí FC,São Paulo,01-09,2,TRUE,Eduardo · Bissoli
+3767860,2022,9,2022-06-04,Avaí FC,São Paulo,09-07,2,FALSE,Kevin · Miranda
+3767853,2022,9,2022-06-05,Flamengo,Fortaleza,03-12,2,FALSE,Willian Arão · Titi
+3767854,2022,9,2022-06-05,RB Bragantino,Internacional,02-02,2,FALSE,Luan Cândido · Vitão
+3767854,2022,9,2022-06-05,RB Bragantino,Internacional,02-06,2,TRUE,Natan · Lucas Evangelista
+3767857,2022,9,2022-06-05,Juventude,Fluminense,01-02,2,TRUE,Luiz Henrique · Germán Cano
+3767856,2022,9,2022-06-06,Botafogo,Goiás,09-20,2,TRUE,Hugo · Lucas Fernandes
+3767882,2022,10,2022-06-08,América-MG,Ceará SC,01-10,2,FALSE,Felipe Azevedo · Nino Paraíba
+3767882,2022,10,2022-06-08,América-MG,Ceará SC,06-06,2,FALSE,Alê · Rodrigo Lindoso
+3767883,2022,10,2022-06-08,Fluminense,Atlético-MG,01-02,2,TRUE,Luiz Henrique · Germán Cano
+3767884,2022,10,2022-06-08,RB Bragantino,Flamengo,01-31,2,TRUE,Hugo Souza · Léo Pereira
+3767886,2022,10,2022-06-08,Santos,Internacional,09-14,2,FALSE,Maicon · Renê
+3767889,2022,10,2022-06-08,Atlético-GO,Avaí FC,01-09,2,TRUE,Eduardo · Bissoli
+3767885,2022,10,2022-06-09,Palmeiras,Botafogo,03-27,2,FALSE,Murilo · Victor Sá
+3767885,2022,10,2022-06-09,Palmeiras,Botafogo,06-16,2,FALSE,Zé Rafael · Renzo Saravia
+3767885,2022,10,2022-06-09,Palmeiras,Botafogo,09-20,2,TRUE,Hugo · Lucas Fernandes
+3767891,2022,10,2022-06-09,Coritiba FC,São Paulo,09-07,2,TRUE,Miranda · Rafinha
+3767873,2022,11,2022-06-11,Fluminense,Atlético-GO,01-02,2,TRUE,Luiz Henrique · Germán Cano
+3767874,2022,11,2022-06-12,São Paulo,América-MG,01-10,2,FALSE,Pablo Maia · Felipe Azevedo
+3767879,2022,11,2022-06-12,Goiás,Ceará SC,08-17,2,FALSE,Danilo Barcelos · Richardson
+3767876,2022,11,2022-06-13,Botafogo,Avaí FC,01-09,2,TRUE,Eduardo · Bissoli
+3767862,2022,12,2022-06-15,América-MG,Fluminense,01-02,2,TRUE,Luiz Henrique · Germán Cano
+3767862,2022,12,2022-06-15,América-MG,Fluminense,06-06,2,FALSE,Alê · Samuel Xavier
+3767864,2022,12,2022-06-15,RB Bragantino,Coritiba FC,02-06,2,TRUE,Natan · Lucas Evangelista
+3767864,2022,12,2022-06-15,RB Bragantino,Coritiba FC,02-15,2,FALSE,Artur · Guillermo de los Santos
+3767868,2022,12,2022-06-15,Ceará SC,Atlético-MG,06-23,2,FALSE,Victor Luís · Mariano
+3767869,2022,12,2022-06-15,Goiás,Internacional,05-13,2,FALSE,Matheus Sales · Alan Patrick
+3767871,2022,12,2022-06-15,Athletico-PR,Corinthians,10-02,2,FALSE,Pedro Henrique · Róger Guedes
+3767865,2022,12,2022-06-16,Palmeiras,Atlético-GO,01-05,2,FALSE,Gustavo Scarpa · Jorginho
+3767865,2022,12,2022-06-16,Palmeiras,Atlético-GO,03-27,2,FALSE,Murilo · Marlon Freitas
+3767870,2022,12,2022-06-16,Avaí FC,Fortaleza,03-11,2,FALSE,Bruno Cortez · Zé Welison
+3767893,2022,13,2022-06-18,Fluminense,Avaí FC,01-02,2,TRUE,Luiz Henrique · Germán Cano
+3767893,2022,13,2022-06-18,Fluminense,Avaí FC,01-09,2,TRUE,Eduardo · Bissoli
+3767893,2022,13,2022-06-18,Fluminense,Avaí FC,07-16,2,FALSE,André · Vladimir
+3767895,2022,13,2022-06-18,Corinthians,Goiás,02-08,2,FALSE,Renato Augusto · Dadá Belmonte
+3767896,2022,13,2022-06-18,Santos,RB Bragantino,02-06,2,TRUE,Natan · Lucas Evangelista
+3767897,2022,13,2022-06-18,Internacional,Botafogo,03-11,2,TRUE,Moisés · Carlos de Pena
+3767900,2022,13,2022-06-18,Cuiabá-MT,Ceará SC,09-06,2,TRUE,João Ricardo · Iury Castilho
+3767902,2022,14,2022-06-25,Atlético-MG,Fortaleza,04-10,2,FALSE,Sávio · Felipe
+3767904,2022,14,2022-06-25,São Paulo,Juventude,09-07,2,TRUE,Miranda · Rafinha
+3767905,2022,14,2022-06-25,Corinthians,Santos,02-13,2,TRUE,John Victor · Eduardo Bauermann
+3767906,2022,14,2022-06-25,Botafogo,Fluminense,01-02,2,TRUE,Luiz Henrique · Germán Cano
+3767906,2022,14,2022-06-25,Botafogo,Fluminense,03-03,2,FALSE,Matheus Nascimento · Nonato
+3767910,2022,14,2022-06-25,Avaí FC,Palmeiras,01-09,2,TRUE,Eduardo · Bissoli
+3767910,2022,14,2022-06-25,Avaí FC,Palmeiras,06-16,2,FALSE,Muriqui · Zé Rafael
+3767911,2022,14,2022-06-25,Athletico-PR,RB Bragantino,01-03,2,FALSE,Hugo Moura · Léo Ortiz
+3767911,2022,14,2022-06-25,Athletico-PR,RB Bragantino,02-06,2,TRUE,Natan · Lucas Evangelista
+3767911,2022,14,2022-06-25,Athletico-PR,RB Bragantino,07-11,2,FALSE,Pedro Henrique · Raul
+3767913,2022,15,2022-07-02,Fluminense,Corinthians,06-06,2,FALSE,Samuel Xavier · Cássio
+3767913,2022,15,2022-07-02,Fluminense,Corinthians,07-16,2,TRUE,André · Matheus Martins
+3767914,2022,15,2022-07-02,RB Bragantino,Botafogo,02-06,2,TRUE,Natan · Lucas Evangelista
+3767914,2022,15,2022-07-02,RB Bragantino,Botafogo,09-20,2,TRUE,Hugo · Lucas Fernandes
+3767917,2022,15,2022-07-02,Juventude,Atlético-MG,02-16,2,FALSE,César · Ademir
+3767920,2022,15,2022-07-02,Avaí FC,Cuiabá-MT,01-09,2,TRUE,Eduardo · Bissoli
+3767921,2022,15,2022-07-02,Coritiba FC,Fortaleza,03-12,2,FALSE,Val Soares · Titi
+3767921,2022,15,2022-07-02,Coritiba FC,Fortaleza,06-18,2,TRUE,Ronald · Matheus Vargas
+3768143,2022,16,2022-07-09,Fluminense,Ceará SC,06-06,2,FALSE,Samuel Xavier · Rodrigo Lindoso
+3768143,2022,16,2022-07-09,Fluminense,Ceará SC,07-16,2,TRUE,André · Matheus Martins
+3768143,2022,16,2022-07-09,Fluminense,Ceará SC,09-06,2,TRUE,João Ricardo · Iury Castilho
+3768144,2022,16,2022-07-09,RB Bragantino,Avaí FC,01-09,2,TRUE,Eduardo · Bissoli
+3768144,2022,16,2022-07-09,RB Bragantino,Avaí FC,02-06,2,TRUE,Natan · Lucas Evangelista
+3768142,2022,16,2022-07-10,Atlético-MG,São Paulo,09-07,2,TRUE,Miranda · Rafinha
+3768145,2022,16,2022-07-10,Corinthians,Flamengo,02-12,2,TRUE,Fabrício Bruno · João Gomes
+3768145,2022,16,2022-07-10,Corinthians,Flamengo,10-09,2,FALSE,Lucas Piton · Vitinho
+3768146,2022,16,2022-07-10,Santos,Atlético-GO,01-03,2,FALSE,Rodrigo Fernández Cedrés · Jefferson
+3768148,2022,16,2022-07-10,Fortaleza,Palmeiras,01-07,2,FALSE,Marcelo Benevenuto · Dudu
+3768150,2022,16,2022-07-10,Cuiabá-MT,Botafogo,09-20,2,TRUE,Hugo · Lucas Fernandes
+3768151,2022,16,2022-07-10,Coritiba FC,Juventude,07-23,2,FALSE,Fabrício Daniel · Rafael Forster
+3768147,2022,16,2022-07-11,Internacional,América-MG,03-11,2,TRUE,Moisés · Carlos de Pena
+3768133,2022,17,2022-07-16,Flamengo,Coritiba FC,03-12,2,FALSE,Lázaro · Val Soares
+3768140,2022,17,2022-07-16,Avaí FC,Santos,01-09,2,TRUE,Eduardo · Bissoli
+3768141,2022,17,2022-07-16,Athletico-PR,Internacional,03-11,2,TRUE,Moisés · Carlos de Pena
+3768132,2022,17,2022-07-17,América-MG,RB Bragantino,02-06,2,TRUE,Natan · Lucas Evangelista
+3768134,2022,17,2022-07-17,São Paulo,Fluminense,07-16,2,TRUE,André · Matheus Martins
+3768139,2022,17,2022-07-17,Atlético-GO,Fortaleza,02-02,2,FALSE,Airton Moisés · Fernando Miguel
+3768139,2022,17,2022-07-17,Atlético-GO,Fortaleza,06-18,2,FALSE,Wellington Rato · Ronald
+3768135,2022,17,2022-07-18,Palmeiras,Cuiabá-MT,03-27,2,FALSE,Murilo · Rodriguinho
+3768128,2022,18,2022-07-19,Ceará SC,Avaí FC,01-09,2,TRUE,Eduardo · Bissoli
+3768128,2022,18,2022-07-19,Ceará SC,Avaí FC,09-14,2,TRUE,Luiz Otávio · Zé Roberto
+3768123,2022,18,2022-07-20,Flamengo,Juventude,08-30,2,FALSE,Gabriel Barbosa · Jádson
+3768124,2022,18,2022-07-20,RB Bragantino,Fortaleza,02-06,2,TRUE,Natan · Lucas Evangelista
+3768124,2022,18,2022-07-20,RB Bragantino,Fortaleza,03-26,2,FALSE,Miguel Silveira · Emanuel Brítez
+3768124,2022,18,2022-07-20,RB Bragantino,Fortaleza,06-18,2,TRUE,Ronald · Matheus Vargas
+3768125,2022,18,2022-07-20,Corinthians,Coritiba FC,06-06,2,FALSE,Cássio · Willian Farias
+3768126,2022,18,2022-07-20,Santos,Botafogo,01-30,2,FALSE,Zanocelo · Luís Oyama
+3768127,2022,18,2022-07-20,Internacional,São Paulo,03-11,2,TRUE,Moisés · Carlos de Pena
+3768127,2022,18,2022-07-20,Internacional,São Paulo,04-01,2,FALSE,Alemão · Igor Vinícius
+3768129,2022,18,2022-07-20,Goiás,Fluminense,07-16,2,TRUE,André · Matheus Martins
+3768131,2022,18,2022-07-20,Athletico-PR,Atlético-GO,01-03,2,FALSE,Hugo Moura · Jefferson
+3768131,2022,18,2022-07-20,Athletico-PR,Atlético-GO,10-02,2,FALSE,Pedro Henrique · Hayner
+3768130,2022,18,2022-07-21,Cuiabá-MT,Atlético-MG,02-16,2,FALSE,Alesson · Ademir
+3768112,2022,19,2022-07-24,Atlético-MG,Corinthians,09-10,2,FALSE,Keno · Bruno Méndez
+3768113,2022,19,2022-07-24,Fluminense,RB Bragantino,02-06,2,TRUE,Natan · Lucas Evangelista
+3768113,2022,19,2022-07-24,Fluminense,RB Bragantino,02-26,2,FALSE,Manoel · Lucão
+3768115,2022,19,2022-07-24,Palmeiras,Internacional,05-06,2,FALSE,Gustavo Gómez · Daniel
+3768115,2022,19,2022-07-24,Palmeiras,Internacional,06-16,2,FALSE,Zé Rafael · Pedro Henrique
+3768120,2022,19,2022-07-24,Avaí FC,Flamengo,01-09,2,TRUE,Eduardo · Bissoli
+3768120,2022,19,2022-07-24,Avaí FC,Flamengo,02-12,2,TRUE,Fabrício Bruno · João Gomes
+3768102,2022,20,2022-07-31,América-MG,Avaí FC,01-09,2,TRUE,Eduardo · Bissoli
+3768104,2022,20,2022-07-31,RB Bragantino,Juventude,02-06,2,TRUE,Natan · Lucas Evangelista
+3768107,2022,20,2022-07-31,Internacional,Atlético-MG,05-06,2,FALSE,Daniel · Nathan Silva
+3768110,2022,20,2022-07-31,Cuiabá-MT,Fortaleza,03-01,2,TRUE,Lucas Sasha · Romarinho
+3768111,2022,20,2022-07-31,Athletico-PR,São Paulo,05-21,2,TRUE,Felipe Alves · João Moreira
+3768111,2022,20,2022-07-31,Athletico-PR,São Paulo,09-07,2,TRUE,Miranda · Rafinha
+3768106,2022,20,2022-08-01,Santos,Fluminense,07-16,2,TRUE,André · Matheus Martins
+3768094,2022,21,2022-08-06,São Paulo,Flamengo,03-17,2,FALSE,Igor Gomes · Santos
+3768094,2022,21,2022-08-06,São Paulo,Flamengo,07-29,2,TRUE,Patrick · Nikão
+3768094,2022,21,2022-08-06,São Paulo,Flamengo,09-07,2,TRUE,Miranda · Rafinha
+3768098,2022,21,2022-08-06,Fortaleza,Internacional,02-02,2,FALSE,Fernando Miguel · Vitão
+3768098,2022,21,2022-08-06,Fortaleza,Internacional,03-01,2,TRUE,Lucas Sasha · Romarinho
+3768099,2022,21,2022-08-06,Atlético-GO,RB Bragantino,01-03,2,FALSE,Jefferson · Léo Ortiz
+3768099,2022,21,2022-08-06,Atlético-GO,RB Bragantino,02-02,2,FALSE,Airton Moisés · Luan Cândido
+3768099,2022,21,2022-08-06,Atlético-GO,RB Bragantino,02-06,2,TRUE,Natan · Lucas Evangelista
+3768100,2022,21,2022-08-06,Avaí FC,Corinthians,01-09,3,FALSE,Eduardo · Bissoli · Rafael Ramos
+3768100,2022,21,2022-08-06,Avaí FC,Corinthians,09-07,2,FALSE,Kevin · Gustavo Silva
+3768101,2022,21,2022-08-08,Coritiba FC,Santos,01-30,2,FALSE,Léo Gamalho · Zanocelo
+3768101,2022,21,2022-08-08,Coritiba FC,Santos,11-10,2,FALSE,Alex Muralha · Lucas Braga
+3768082,2022,22,2022-08-13,América-MG,Santos,02-13,2,FALSE,Marlon · Eduardo Bauermann
+3768082,2022,22,2022-08-13,América-MG,Santos,11-10,2,FALSE,Pedrinho · Lucas Braga
+3768085,2022,22,2022-08-13,Corinthians,Palmeiras,01-07,2,FALSE,Du Queiroz · Dudu
+3768086,2022,22,2022-08-13,Botafogo,Atlético-GO,03-27,2,FALSE,Victor Sá · Marlon Freitas
+3768083,2022,22,2022-08-14,Flamengo,Athletico-PR,02-28,2,FALSE,Diego · Vitor Roque
+3768087,2022,22,2022-08-14,Internacional,Fluminense,07-16,2,TRUE,André · Matheus Martins
+3768072,2022,23,2022-08-20,Atlético-MG,Goiás,09-10,2,FALSE,Keno · Auremir
+3768073,2022,23,2022-08-20,Fluminense,Coritiba FC,07-16,2,TRUE,André · Matheus Martins
+3768073,2022,23,2022-08-20,Fluminense,Coritiba FC,09-30,2,FALSE,Fábio · Rafael William
+3768074,2022,23,2022-08-21,RB Bragantino,Ceará SC,02-06,2,TRUE,Natan · Lucas Evangelista
+3768074,2022,23,2022-08-21,RB Bragantino,Ceará SC,02-15,2,FALSE,Artur · Michel Macedo
+3768075,2022,23,2022-08-21,Palmeiras,Flamengo,05-11,2,FALSE,Rony · Victor Hugo
+3768075,2022,23,2022-08-21,Palmeiras,Flamengo,06-19,2,FALSE,Raphael Veiga · Ayrton Lucas
+3768076,2022,23,2022-08-21,Santos,São Paulo,07-29,2,TRUE,Patrick · Nikão
+3768076,2022,23,2022-08-21,Santos,São Paulo,09-07,2,TRUE,Rafinha · Miranda
+3768077,2022,23,2022-08-21,Juventude,Botafogo,03-27,2,FALSE,Ygor Nogueira · Victor Sá
+3768078,2022,23,2022-08-21,Fortaleza,Corinthians,03-01,2,TRUE,Lucas Sasha · Romarinho
+3768078,2022,23,2022-08-21,Fortaleza,Corinthians,03-26,2,FALSE,Emanuel Brítez · Fausto Vera
+3768081,2022,23,2022-08-21,Athletico-PR,América-MG,05-27,2,FALSE,Abner · Henrique Almeida
+3768080,2022,23,2022-08-22,Avaí FC,Internacional,01-09,2,TRUE,Eduardo · Bissoli
+3768080,2022,23,2022-08-22,Avaí FC,Internacional,03-11,2,FALSE,Bruno Cortez · Carlos de Pena
+3768063,2022,24,2022-08-27,Fluminense,Palmeiras,07-16,2,TRUE,André · Matheus Martins
+3768064,2022,24,2022-08-27,São Paulo,Fortaleza,03-01,2,FALSE,Jandrei · Lucas Sasha
+3768064,2022,24,2022-08-27,São Paulo,Fortaleza,06-18,2,FALSE,Giuliano Galoppo · Ronald
+3768071,2022,24,2022-08-27,Coritiba FC,Avaí FC,06-16,2,FALSE,Egídio · Muriqui
+3768066,2022,24,2022-08-28,Botafogo,Flamengo,08-30,2,FALSE,Tchê Tchê · Gabriel Barbosa
+3768065,2022,24,2022-08-29,Corinthians,RB Bragantino,02-06,2,TRUE,Natan · Lucas Evangelista
+3768052,2022,25,2022-09-03,América-MG,Coritiba FC,11-10,2,FALSE,Pedrinho · Alex Muralha
+3768054,2022,25,2022-09-03,RB Bragantino,Palmeiras,02-06,2,TRUE,Natan · Lucas Evangelista
+3768054,2022,25,2022-09-03,RB Bragantino,Palmeiras,03-30,2,TRUE,Wesley · Bruno Tabata
+3768061,2022,25,2022-09-03,Athletico-PR,Fluminense,03-05,2,TRUE,Anderson · Tomás Cuello
+3768061,2022,25,2022-09-03,Athletico-PR,Fluminense,07-16,2,TRUE,André · Matheus Martins
+3768055,2022,25,2022-09-04,Corinthians,Internacional,03-18,2,FALSE,Yuri Alberto · Gabriel Mercado
+3768058,2022,25,2022-09-04,Fortaleza,Botafogo,03-01,2,TRUE,Lucas Sasha · Romarinho
+3768056,2022,25,2022-09-05,Santos,Goiás,01-03,2,FALSE,Rodrigo Fernández Cedrés · Reynaldo
+3768042,2022,26,2022-09-10,Atlético-MG,RB Bragantino,02-06,2,TRUE,Natan · Lucas Evangelista
+3768043,2022,26,2022-09-10,Fluminense,Fortaleza,07-16,2,TRUE,André · Matheus Martins
+3768047,2022,26,2022-09-10,Internacional,Cuiabá-MT,05-13,2,FALSE,Alan Patrick · Sidcley
+3768048,2022,26,2022-09-10,Ceará SC,Santos,09-14,2,FALSE,Zé Roberto · Maicon
+3768044,2022,26,2022-09-11,São Paulo,Corinthians,09-07,3,FALSE,Miranda · Rafinha · Gustavo Silva
+3768050,2022,26,2022-09-11,Avaí FC,Athletico-PR,09-17,2,FALSE,Rafael Vaz · Thiago Heleno
+3768032,2022,27,2022-09-18,América-MG,Corinthians,06-06,2,FALSE,Alê · Cássio
+3768033,2022,27,2022-09-18,Flamengo,Fluminense,04-10,2,FALSE,Everton Ribeiro · Nino
+3768033,2022,27,2022-09-18,Flamengo,Fluminense,07-16,2,TRUE,André · Matheus Martins
+3768034,2022,27,2022-09-18,RB Bragantino,Goiás,01-03,2,FALSE,Léo Ortiz · Reynaldo
+3768034,2022,27,2022-09-18,RB Bragantino,Goiás,02-06,2,TRUE,Natan · Lucas Evangelista
+3768038,2022,27,2022-09-18,Ceará SC,São Paulo,01-10,2,FALSE,Nino Paraíba · Pablo Maia
+3768041,2022,27,2022-09-18,Athletico-PR,Cuiabá-MT,02-25,2,FALSE,Khellven · Paulão
+3768041,2022,27,2022-09-18,Athletico-PR,Cuiabá-MT,03-05,2,TRUE,Anderson · Tomás Cuello
+3768039,2022,27,2022-09-19,Atlético-GO,Internacional,02-02,2,FALSE,Airton Moisés · Vitão
+3768004,2022,28,2022-09-25,São Paulo,Avaí FC,09-07,2,FALSE,Rafinha · Kevin
+3768006,2022,28,2022-09-27,Santos,Athletico-PR,09-05,2,FALSE,Nathan · Vitor Bueno
+3768002,2022,28,2022-09-28,Atlético-MG,Palmeiras,08-24,2,FALSE,Jemerson · Joaquín Piquerez
+3768003,2022,28,2022-09-28,Fluminense,Juventude,07-16,2,TRUE,André · Matheus Martins
+3768007,2022,28,2022-09-28,Internacional,RB Bragantino,02-02,2,FALSE,Vitão · Luan Cândido
+3768007,2022,28,2022-09-28,Internacional,RB Bragantino,02-06,2,TRUE,Natan · Lucas Evangelista
+3768011,2022,28,2022-09-28,Coritiba FC,Ceará SC,02-15,2,FALSE,Guillermo de los Santos · Michel Macedo
+3768012,2022,29,2022-10-01,Atlético-MG,Fluminense,07-16,2,TRUE,André · Matheus Martins
+3768013,2022,29,2022-10-01,Flamengo,RB Bragantino,02-06,2,TRUE,Natan · Lucas Evangelista
+3768018,2022,29,2022-10-01,Ceará SC,América-MG,09-14,2,TRUE,Luiz Otávio · Zé Roberto
+3768019,2022,29,2022-10-01,Goiás,Fortaleza,03-01,2,TRUE,Lucas Sasha · Romarinho
+3768016,2022,29,2022-10-03,Botafogo,Palmeiras,06-16,2,FALSE,Renzo Saravia · Zé Rafael
+3768014,2022,29,2022-10-20,São Paulo,Coritiba FC,05-21,2,TRUE,Felipe Alves · João Moreira
+3768024,2022,30,2022-10-05,RB Bragantino,Cuiabá-MT,02-06,2,TRUE,Natan · Lucas Evangelista
+3768031,2022,30,2022-10-05,Athletico-PR,Fortaleza,03-01,2,TRUE,Lucas Sasha · Romarinho
+3768031,2022,30,2022-10-05,Athletico-PR,Fortaleza,10-01,2,FALSE,Agustín Canobbio · Pedro Rocha
+3768022,2022,30,2022-10-06,América-MG,São Paulo,09-07,2,TRUE,Miranda · Rafinha
+3768025,2022,30,2022-10-06,Palmeiras,Coritiba FC,01-05,2,FALSE,Gustavo Scarpa · Natanael
+3767995,2022,31,2022-10-08,Corinthians,Athletico-PR,10-02,2,FALSE,Róger Guedes · Pedro Henrique
+3767995,2022,31,2022-10-08,Corinthians,Athletico-PR,10-09,2,TRUE,Carlos Miguel · Lucas Piton
+3767992,2022,31,2022-10-09,Atlético-MG,Ceará SC,06-23,2,FALSE,Rafael · Victor Luís
+3767992,2022,31,2022-10-09,Atlético-MG,Ceará SC,08-29,2,FALSE,Guga · Gabriel Lacerda
+3767993,2022,31,2022-10-09,Fluminense,América-MG,06-06,2,FALSE,Samuel Xavier · Alê
+3767993,2022,31,2022-10-09,Fluminense,América-MG,07-16,2,TRUE,André · Matheus Martins
+3767994,2022,31,2022-10-09,São Paulo,Botafogo,02-19,2,FALSE,Welington · Marçal
+3767994,2022,31,2022-10-09,São Paulo,Botafogo,09-07,2,TRUE,Miranda · Rafinha
+3767998,2022,31,2022-10-09,Fortaleza,Avaí FC,01-19,2,TRUE,Raphael · Renato
+3768001,2022,31,2022-10-09,Coritiba FC,RB Bragantino,02-06,2,TRUE,Natan · Lucas Evangelista
+3767999,2022,31,2022-10-10,Atlético-GO,Palmeiras,03-27,2,FALSE,Marlon Freitas · Murilo
+3767983,2022,32,2022-10-15,Flamengo,Atlético-MG,02-12,2,TRUE,Fabrício Bruno · João Gomes
+3767986,2022,32,2022-10-16,Botafogo,Internacional,03-23,2,TRUE,Adryelson · Daniel Borges
+3767990,2022,32,2022-10-16,Avaí FC,Fluminense,07-16,2,FALSE,Vladimir · André
+3767991,2022,32,2022-10-16,Athletico-PR,Coritiba FC,03-05,2,FALSE,Tomás Cuello · Gabriel Boschilia
+3767984,2022,32,2022-10-17,RB Bragantino,Santos,02-06,2,TRUE,Natan · Lucas Evangelista
+3767984,2022,32,2022-10-17,RB Bragantino,Santos,02-15,2,FALSE,Artur · Felipe Jonatan
+3767972,2022,33,2022-10-22,América-MG,Flamengo,02-12,2,TRUE,Fabrício Bruno · João Gomes
+3767973,2022,33,2022-10-23,Fluminense,Botafogo,03-23,2,TRUE,Adryelson · Daniel Borges
+3767977,2022,33,2022-10-23,Juventude,São Paulo,05-21,2,TRUE,Felipe Alves · João Moreira
+3767951,2022,34,2022-10-25,Athletico-PR,Palmeiras,01-18,2,TRUE,Nicolás Hernández · Bryan García
+3767945,2022,34,2022-10-26,Corinthians,Fluminense,06-06,2,FALSE,Cássio · Samuel Xavier
+3767946,2022,34,2022-10-26,Botafogo,RB Bragantino,02-06,2,TRUE,Natan · Lucas Evangelista
+3767946,2022,34,2022-10-26,Botafogo,RB Bragantino,03-23,2,TRUE,Adryelson · Daniel Borges
+3767947,2022,34,2022-10-26,Internacional,Ceará SC,09-14,2,FALSE,Renê · Luiz Otávio
+3767944,2022,34,2022-10-27,São Paulo,Atlético-GO,05-18,2,FALSE,Luciano · Renan
+3767944,2022,34,2022-10-27,São Paulo,Atlético-GO,05-21,2,TRUE,Felipe Alves · João Moreira
+3767944,2022,34,2022-10-27,São Paulo,Atlético-GO,12-01,2,FALSE,Andrés Colorado · Diego Churín
+3767950,2022,34,2022-10-27,Cuiabá-MT,Avaí FC,01-09,2,TRUE,Eduardo · Bissoli
+3767950,2022,34,2022-10-27,Cuiabá-MT,Avaí FC,08-03,2,FALSE,Lucas Cardoso · Bruno Silva
+3767958,2022,35,2022-10-31,Ceará SC,Fluminense,08-29,2,FALSE,Gabriel Lacerda · Cristiano
+3767956,2022,35,2022-11-01,Botafogo,Cuiabá-MT,03-23,2,TRUE,Adryelson · Daniel Borges
+3767953,2022,35,2022-11-02,Flamengo,Corinthians,02-12,2,FALSE,Fabrício Bruno · Mateus Vital
+3767955,2022,35,2022-11-02,Palmeiras,Fortaleza,03-01,2,TRUE,Lucas Sasha · Romarinho
+3767960,2022,35,2022-11-02,Avaí FC,RB Bragantino,01-09,2,TRUE,Eduardo · Bissoli
+3767960,2022,35,2022-11-02,Avaí FC,RB Bragantino,02-06,2,TRUE,Natan · Lucas Evangelista
+3767964,2022,36,2022-11-05,RB Bragantino,América-MG,02-06,2,TRUE,Natan · Lucas Evangelista
+3767967,2022,36,2022-11-05,Internacional,Athletico-PR,04-01,2,FALSE,Alemão · Vitinho
+3767967,2022,36,2022-11-05,Internacional,Athletico-PR,05-13,2,FALSE,Alan Patrick · Alex Santana
+3767968,2022,36,2022-11-06,Fortaleza,Atlético-GO,02-02,2,FALSE,Fernando Miguel · Airton Moisés
+3767968,2022,36,2022-11-06,Fortaleza,Atlético-GO,03-01,2,TRUE,Lucas Sasha · Romarinho
+3767971,2022,36,2022-11-06,Coritiba FC,Flamengo,02-12,2,TRUE,Fabrício Bruno · João Gomes
+3767962,2022,36,2022-11-07,Atlético-MG,Botafogo,03-23,2,TRUE,Adryelson · Daniel Borges
+3767937,2022,37,2022-11-09,Juventude,Flamengo,02-12,2,TRUE,Fabrício Bruno · João Gomes
+3767938,2022,37,2022-11-09,Fortaleza,RB Bragantino,02-02,2,FALSE,Fernando Miguel · Luan Cândido
+3767938,2022,37,2022-11-09,Fortaleza,RB Bragantino,02-06,2,TRUE,Natan · Lucas Evangelista
+3767938,2022,37,2022-11-09,Fortaleza,RB Bragantino,03-26,2,FALSE,Emanuel Brítez · Miguel Silveira
+3767932,2022,37,2022-11-10,Atlético-MG,Cuiabá-MT,03-10,2,FALSE,Matías Zaracho · Alan Empereur
+3767936,2022,37,2022-11-10,Botafogo,Santos,03-23,2,TRUE,Adryelson · Daniel Borges
+3767936,2022,37,2022-11-10,Botafogo,Santos,09-20,2,TRUE,Hugo · Lucas Fernandes
+3767924,2022,38,2022-11-13,RB Bragantino,Fluminense,02-06,2,TRUE,Natan · Lucas Evangelista
+3767924,2022,38,2022-11-13,RB Bragantino,Fluminense,07-16,2,TRUE,André · Matheus Martins
+3767928,2022,38,2022-11-13,Ceará SC,Juventude,12-26,2,FALSE,Marcos Victor · Rodrigo Soares
+3767930,2022,38,2022-11-13,Cuiabá-MT,Coritiba FC,05-20,2,FALSE,Rafael Gava · Juan Díaz
+3767930,2022,38,2022-11-13,Cuiabá-MT,Coritiba FC,07-10,2,FALSE,Jonathan Cafu · Jesús Trindade
+3767931,2022,38,2022-11-13,Athletico-PR,Botafogo,03-23,2,TRUE,Adryelson · Daniel Borges
+4055815,2023,1,2023-04-15,América-MG,Fluminense,01-10,2,TRUE,Nino Paraíba · Felipe Azevedo
+4055815,2023,1,2023-04-15,América-MG,Fluminense,02-13,2,FALSE,Marlon · Vitor Mendes
+4055815,2023,1,2023-04-15,América-MG,Fluminense,06-06,2,FALSE,Alê · Samuel Xavier
+4055816,2023,1,2023-04-15,Botafogo,São Paulo,10-11,2,FALSE,Júnior Santos · Alan Franco
+4055817,2023,1,2023-04-15,RB Bragantino,EC Bahia,02-26,2,TRUE,Lucão · Léo Realpe
+4055819,2023,1,2023-04-15,Fortaleza,Internacional,02-02,2,FALSE,Fernando Miguel · Vitão
+4055822,2023,1,2023-04-16,Corinthians,Cruzeiro,05-20,2,TRUE,Rafael Cabral · Marlon
+4055823,2023,1,2023-04-16,Grêmio,Santos,01-24,2,TRUE,Mathías Villasanti · Luis Suárez
+4059104,2023,2,2023-04-22,São Paulo,América-MG,01-10,2,FALSE,Pablo Maia · Nino Paraíba
+4059105,2023,2,2023-04-22,Cuiabá-MT,RB Bragantino,02-06,2,TRUE,Natan · Lucas Evangelista
+4059106,2023,2,2023-04-22,Cruzeiro,Grêmio,05-20,2,TRUE,Rafael Cabral · Marlon
+4059111,2023,2,2023-04-23,Goiás,Corinthians,02-04,2,TRUE,Tadeu · Julián Palacios
+4060062,2023,3,2023-04-29,Coritiba FC,São Paulo,06-23,2,FALSE,Victor Luís · Rafael
+4060064,2023,3,2023-04-29,Palmeiras,Corinthians,01-07,2,FALSE,Dudu · Du Queiroz
+4060064,2023,3,2023-04-29,Palmeiras,Corinthians,07-04,2,TRUE,Murillo · Ángel Romero
+4060065,2023,3,2023-04-29,Santos,América-MG,02-13,2,FALSE,Eduardo Bauermann · Marlon
+4060066,2023,3,2023-04-29,RB Bragantino,Cruzeiro,05-20,2,TRUE,Rafael Cabral · Marlon
+4060068,2023,3,2023-04-30,Flamengo,Botafogo,03-23,2,FALSE,Thiago Maia · Adryelson
+4060068,2023,3,2023-04-30,Flamengo,Botafogo,08-30,2,FALSE,Gabriel Barbosa · Tchê Tchê
+4060069,2023,3,2023-04-30,Internacional,Goiás,02-04,2,TRUE,Tadeu · Julián Palacios
+4060070,2023,3,2023-04-30,Cuiabá-MT,Grêmio,04-16,2,FALSE,Marllon · Bruno Alves
+4061498,2023,4,2023-05-06,Cruzeiro,Santos,05-20,2,TRUE,Rafael Cabral · Marlon
+4061494,2023,4,2023-05-07,Botafogo,Atlético-MG,03-27,2,TRUE,Marlon Freitas · Victor Sá
+4061494,2023,4,2023-05-07,Botafogo,Atlético-MG,09-20,2,TRUE,Hugo · Lucas Fernandes
+4061499,2023,4,2023-05-07,Grêmio,RB Bragantino,02-06,2,TRUE,Natan · Lucas Evangelista
+4061496,2023,4,2023-05-08,Corinthians,Fortaleza,03-26,2,FALSE,Fausto Vera · Emanuel Brítez
+4061435,2023,5,2023-05-10,Palmeiras,Grêmio,01-07,2,FALSE,Dudu · Bitello
+4061437,2023,5,2023-05-10,RB Bragantino,América-MG,02-06,2,TRUE,Natan · Lucas Evangelista
+4061437,2023,5,2023-05-10,RB Bragantino,América-MG,02-24,2,FALSE,Eduardo Sasha · Nicolas
+4061438,2023,5,2023-05-10,Cruzeiro,Fluminense,05-20,2,TRUE,Rafael Cabral · Marlon
+4061439,2023,5,2023-05-10,Internacional,Athletico-PR,05-13,2,FALSE,Alan Patrick · Alex Santana
+4061439,2023,5,2023-05-10,Internacional,Athletico-PR,09-14,2,FALSE,Renê · Fernando
+4061442,2023,5,2023-05-10,Cuiabá-MT,Atlético-MG,03-10,2,FALSE,Alan Empereur · Matías Zaracho
+4061434,2023,5,2023-05-11,Botafogo,Corinthians,03-27,2,TRUE,Marlon Freitas · Victor Sá
+4061441,2023,5,2023-05-11,Fortaleza,São Paulo,02-01,2,FALSE,Tomás Pochettino · Marcos Paulo
+4061441,2023,5,2023-05-11,Fortaleza,São Paulo,06-18,2,FALSE,Mauricio Kozlinski · Wellington Rato
+4061515,2023,6,2023-05-13,Palmeiras,RB Bragantino,02-06,2,TRUE,Natan · Lucas Evangelista
+4061521,2023,6,2023-05-13,EC Bahia,Flamengo,04-01,2,FALSE,Biel · Matheus França
+4061514,2023,6,2023-05-14,Vasco da Gama,Santos,02-11,2,TRUE,Matías Galarza · Gabriel Pec
+4061517,2023,6,2023-05-14,Goiás,Botafogo,03-27,2,TRUE,Marlon Freitas · Victor Sá
+4061517,2023,6,2023-05-14,Goiás,Botafogo,10-26,2,FALSE,Bruno Melo · Luis Segovia
+4061519,2023,6,2023-05-14,Grêmio,Fortaleza,01-24,2,TRUE,Mathías Villasanti · Luis Suárez
+4061519,2023,6,2023-05-14,Grêmio,Fortaleza,03-01,2,TRUE,Lucas Sasha · Romarinho
+4061520,2023,6,2023-05-14,Athletico-PR,Coritiba FC,09-14,2,FALSE,Fernando · Zé Roberto
+4061522,2023,6,2023-05-14,América-MG,Cruzeiro,05-20,2,TRUE,Rafael Cabral · Marlon
+4061405,2023,7,2023-05-20,São Paulo,Vasco da Gama,02-11,2,TRUE,Matías Galarza · Gabriel Pec
+4061406,2023,7,2023-05-20,Santos,Palmeiras,11-10,2,FALSE,Lucas Braga · Mayke
+4061411,2023,7,2023-05-20,EC Bahia,Goiás,02-04,2,TRUE,Tadeu · Julián Palacios
+4061411,2023,7,2023-05-20,EC Bahia,Goiás,02-16,2,FALSE,Ademir · Alesson
+4061409,2023,7,2023-05-21,Grêmio,Internacional,01-24,2,TRUE,Mathías Villasanti · Luis Suárez
+4061408,2023,7,2023-05-22,Cruzeiro,Cuiabá-MT,05-20,2,TRUE,Rafael Cabral · Marlon
+4061443,2023,8,2023-05-27,Flamengo,Cruzeiro,05-20,3,FALSE,Gerson · Rafael Cabral · Marlon
+4061445,2023,8,2023-05-27,São Paulo,Goiás,02-04,2,TRUE,Tadeu · Julián Palacios
+4061451,2023,8,2023-05-27,Fortaleza,Vasco da Gama,02-11,2,TRUE,Matías Galarza · Gabriel Pec
+4061446,2023,8,2023-05-28,Corinthians,Fluminense,06-06,2,FALSE,Cássio · Samuel Xavier
+4061448,2023,8,2023-05-28,Atlético-MG,Palmeiras,05-06,2,FALSE,Nathan Silva · Gustavo Gómez
+4061449,2023,8,2023-05-28,Internacional,EC Bahia,04-01,2,FALSE,Alemão · Biel
+4061447,2023,8,2023-05-29,RB Bragantino,Santos,06-30,2,FALSE,Matheus Fernandes · Yeferson Soteldo
+4061416,2023,9,2023-06-03,Santos,Internacional,03-01,2,FALSE,Alison · Rômulo
+4061418,2023,9,2023-06-03,Cruzeiro,Atlético-MG,05-20,2,TRUE,Rafael Cabral · Marlon
+4061420,2023,9,2023-06-03,Athletico-PR,Botafogo,09-20,2,TRUE,Hugo · Lucas Fernandes
+4061422,2023,9,2023-06-03,América-MG,Corinthians,10-02,2,FALSE,Mateus Henrique · Róger Guedes
+4061417,2023,9,2023-06-04,Goiás,Cuiabá-MT,01-06,2,FALSE,Maguinho · Wellington Silva
+4061417,2023,9,2023-06-04,Goiás,Cuiabá-MT,02-04,2,TRUE,Tadeu · Julián Palacios
+4061419,2023,9,2023-06-04,Grêmio,São Paulo,01-24,2,TRUE,Mathías Villasanti · Luis Suárez
+4061419,2023,9,2023-06-04,Grêmio,São Paulo,09-28,2,FALSE,Reinaldo · Michel Araújo
+4061531,2023,10,2023-06-10,EC Bahia,Cruzeiro,03-07,2,FALSE,Kanu · Bruno Rodrigues
+4061531,2023,10,2023-06-10,EC Bahia,Cruzeiro,05-20,3,FALSE,Vitor Hugo · Marlon · Rafael Cabral
+4061523,2023,10,2023-06-11,Flamengo,Grêmio,01-24,2,TRUE,Mathías Villasanti · Luis Suárez
+4061525,2023,10,2023-06-11,São Paulo,Palmeiras,05-11,2,FALSE,Caio Paulista · Rony
+4061527,2023,10,2023-06-11,Goiás,Fluminense,02-04,2,TRUE,Tadeu · Julián Palacios
+4061468,2023,11,2023-06-21,Cruzeiro,Fortaleza,05-20,2,TRUE,Rafael Cabral · Marlon
+4061468,2023,11,2023-06-21,Cruzeiro,Fortaleza,06-05,2,FALSE,Gilberto · Yago Pikachu
+4061471,2023,11,2023-06-21,EC Bahia,Palmeiras,01-07,2,FALSE,Vinicius Mingotti · Dudu
+4061464,2023,11,2023-06-22,Vasco da Gama,Goiás,01-06,2,FALSE,Alex Teixeira · Maguinho
+4061464,2023,11,2023-06-22,Vasco da Gama,Goiás,02-04,2,TRUE,Tadeu · Julián Palacios
+4061467,2023,11,2023-06-22,RB Bragantino,Flamengo,05-20,2,FALSE,Jadsom · Gerson
+4061469,2023,11,2023-06-22,Grêmio,América-MG,01-24,2,TRUE,Mathías Villasanti · Luis Suárez
+4061470,2023,11,2023-06-22,Coritiba FC,Internacional,04-04,2,FALSE,Bruno Gomes · Campanharo
+4061470,2023,11,2023-06-22,Coritiba FC,Internacional,09-14,2,FALSE,Zé Roberto · Renê
+4061472,2023,11,2023-06-22,Cuiabá-MT,Botafogo,03-23,2,FALSE,Denilson · Adryelson
+4061472,2023,11,2023-06-22,Cuiabá-MT,Botafogo,03-27,2,TRUE,Marlon Freitas · Victor Sá
+4061503,2023,12,2023-06-24,Fluminense,EC Bahia,05-12,2,FALSE,Marcelo · Thaciano
+4061503,2023,12,2023-06-24,Fluminense,EC Bahia,06-11,2,FALSE,Lima · Kayky
+4061508,2023,12,2023-06-24,Cruzeiro,São Paulo,05-20,2,TRUE,Rafael Cabral · Marlon
+4061510,2023,12,2023-06-24,Athletico-PR,Corinthians,05-04,2,FALSE,Fernandinho · Matheus Bidu
+4061510,2023,12,2023-06-24,Athletico-PR,Corinthians,10-02,2,FALSE,Pedro Henrique · Róger Guedes
+4061505,2023,12,2023-06-25,Palmeiras,Botafogo,03-27,2,TRUE,Marlon Freitas · Victor Sá
+4061507,2023,12,2023-06-25,RB Bragantino,Goiás,02-04,2,TRUE,Tadeu · Julián Palacios
+4061509,2023,12,2023-06-25,Grêmio,Coritiba FC,01-24,2,TRUE,Mathías Villasanti · Luis Suárez
+4061504,2023,12,2023-06-26,Vasco da Gama,Cuiabá-MT,01-06,2,FALSE,Alex Teixeira · Wellington Silva
+4061541,2023,13,2023-07-01,Flamengo,Fortaleza,09-06,2,FALSE,Wesley · João Ricardo
+4061559,2023,13,2023-07-01,Internacional,Cruzeiro,02-02,2,FALSE,Vitão · Lucas Oliveira
+4061559,2023,13,2023-07-01,Internacional,Cruzeiro,05-20,2,TRUE,Rafael Cabral · Marlon
+4061561,2023,13,2023-07-01,EC Bahia,Grêmio,01-07,2,FALSE,Vinicius Mingotti · Bitello
+4061561,2023,13,2023-07-01,EC Bahia,Grêmio,01-24,2,TRUE,Mathías Villasanti · Luis Suárez
+4061550,2023,13,2023-07-02,Botafogo,Vasco da Gama,12-14,2,FALSE,Luis Henrique · Marlon Gomes
+4061557,2023,13,2023-07-03,Goiás,Coritiba FC,05-02,2,FALSE,Lucas Halter · Benjamín Kuscevic
+4061294,2023,14,2023-07-08,Vasco da Gama,Cruzeiro,03-22,2,FALSE,Luca Orellano · Matheus Jussa
+4061295,2023,14,2023-07-08,Palmeiras,Flamengo,05-11,2,FALSE,Rony · Victor Hugo
+4061295,2023,14,2023-07-08,Palmeiras,Flamengo,06-02,2,FALSE,Richard Ríos · Luiz Araújo
+4061295,2023,14,2023-07-08,Palmeiras,Flamengo,06-19,2,FALSE,Raphael Veiga · Ayrton Lucas
+4061300,2023,14,2023-07-08,Coritiba FC,América-MG,05-30,2,TRUE,Robson · Rodrigo Pinho
+4061296,2023,14,2023-07-09,Santos,Goiás,02-04,2,TRUE,Tadeu · Julián Palacios
+4061296,2023,14,2023-07-09,Santos,Goiás,05-02,2,FALSE,Marcos Leonardo · Lucas Halter
+4061297,2023,14,2023-07-09,RB Bragantino,São Paulo,08-19,2,FALSE,Cleiton · Nathan Mendes
+4061299,2023,14,2023-07-09,Grêmio,Botafogo,01-24,2,TRUE,Mathías Villasanti · Luis Suárez
+4061424,2023,15,2023-07-15,Botafogo,RB Bragantino,02-06,2,TRUE,Natan · Lucas Evangelista
+4061423,2023,15,2023-07-16,Fluminense,Flamengo,04-10,2,FALSE,Nino · Everton Ribeiro
+4061428,2023,15,2023-07-16,Cruzeiro,Coritiba FC,05-20,2,TRUE,Rafael Cabral · Marlon
+4061428,2023,15,2023-07-16,Cruzeiro,Coritiba FC,05-30,2,TRUE,Robson · Rodrigo Pinho
+4061426,2023,15,2023-09-18,Corinthians,Grêmio,01-24,2,TRUE,Mathías Villasanti · Luis Suárez
+4061426,2023,15,2023-09-18,Corinthians,Grêmio,09-28,2,FALSE,Gabriel Moscardo · Reinaldo
+4061426,2023,15,2023-09-18,Corinthians,Grêmio,11-03,2,FALSE,Matías Rojas · Rodrigo Ely
+4061551,2023,16,2023-07-22,EC Bahia,Corinthians,03-07,2,TRUE,Kanu · Gilberto
+4061536,2023,16,2023-07-23,Vasco da Gama,Athletico-PR,02-28,2,TRUE,Kaique Rocha · Vitor Roque
+4061536,2023,16,2023-07-23,Vasco da Gama,Athletico-PR,06-10,2,FALSE,Zé Vítor · Bento
+4061543,2023,16,2023-07-23,RB Bragantino,Internacional,02-06,2,TRUE,Natan · Lucas Evangelista
+4061545,2023,16,2023-07-23,Cruzeiro,Goiás,05-20,2,TRUE,Rafael Cabral · Marlon
+4061540,2023,17,2023-07-29,Corinthians,Vasco da Gama,02-08,2,FALSE,Renato Augusto · Praxedes
+4061548,2023,17,2023-07-29,Athletico-PR,Cruzeiro,05-20,2,TRUE,Rafael Cabral · Marlon
+4061552,2023,17,2023-07-29,Fortaleza,RB Bragantino,02-06,2,TRUE,Natan · Lucas Evangelista
+4061552,2023,17,2023-07-29,Fortaleza,RB Bragantino,02-24,2,FALSE,Caio Alexandre · Eduardo Sasha
+4061535,2023,17,2023-07-30,Botafogo,Coritiba FC,03-27,2,TRUE,Marlon Freitas · Victor Sá
+4061537,2023,17,2023-07-30,São Paulo,EC Bahia,04-13,2,FALSE,Erison · Marcos Felipe
+4061542,2023,17,2023-07-30,Goiás,Grêmio,01-24,2,TRUE,Mathías Villasanti · Luis Suárez
+4061554,2023,17,2023-07-30,América-MG,Palmeiras,11-10,2,FALSE,Pedrinho · Mayke
+4061273,2023,18,2023-08-05,Fluminense,Palmeiras,09-07,3,FALSE,Marlon · Vanderlan · Jailson
+4061276,2023,18,2023-08-05,Santos,Athletico-PR,01-03,2,FALSE,Rodrigo Fernández Cedrés · Hugo Moura
+4061276,2023,18,2023-08-05,Santos,Athletico-PR,01-13,2,FALSE,João Basso · Madson
+4061279,2023,18,2023-08-05,Internacional,Corinthians,03-23,2,FALSE,Sergio Rochet · Ruan Oliveira
+4061274,2023,18,2023-08-06,Vasco da Gama,Grêmio,01-24,2,TRUE,Mathías Villasanti · Luis Suárez
+4061278,2023,18,2023-08-06,Cruzeiro,Botafogo,03-27,2,TRUE,Marlon Freitas · Victor Sá
+4061280,2023,18,2023-08-06,Coritiba FC,RB Bragantino,02-15,2,TRUE,Andrey · Kaio César
+4061281,2023,18,2023-08-06,EC Bahia,América-MG,03-07,2,TRUE,Kanu · Gilberto
+4061394,2023,19,2023-08-12,Botafogo,Internacional,03-23,2,FALSE,Adryelson · Sergio Rochet
+4061394,2023,19,2023-08-12,Botafogo,Internacional,03-27,2,TRUE,Marlon Freitas · Victor Sá
+4061394,2023,19,2023-08-12,Botafogo,Internacional,09-20,2,TRUE,Hugo · Lucas Fernandes
+4061398,2023,19,2023-08-13,Atlético-MG,EC Bahia,03-07,2,TRUE,Kanu · Gilberto
+4061399,2023,19,2023-08-13,Grêmio,Fluminense,01-24,2,TRUE,Mathías Villasanti · Luis Suárez
+4061395,2023,19,2023-08-14,Palmeiras,Cruzeiro,05-20,2,TRUE,Rafael Cabral · Marlon
+4061245,2023,20,2023-08-19,São Paulo,Botafogo,02-19,2,FALSE,Welington · Marçal
+4061245,2023,20,2023-08-19,São Paulo,Botafogo,03-27,2,TRUE,Marlon Freitas · Victor Sá
+4061248,2023,20,2023-08-19,Cruzeiro,Corinthians,05-20,2,TRUE,Rafael Cabral · Marlon
+4061249,2023,20,2023-08-19,Internacional,Fortaleza,03-11,2,FALSE,Carlos de Pena · Zé Welison
+4061246,2023,20,2023-08-20,Santos,Grêmio,07-09,2,FALSE,Lucas Lima · Fábio
+4061251,2023,20,2023-08-20,EC Bahia,RB Bragantino,03-07,2,TRUE,Kanu · Gilberto
+4061251,2023,20,2023-08-20,EC Bahia,RB Bragantino,05-20,2,FALSE,Vitor Hugo · Jadsom
+4061383,2023,21,2023-08-26,Flamengo,Internacional,06-22,2,TRUE,Hugo Mallo · Mauricio
+4061384,2023,21,2023-08-27,Botafogo,EC Bahia,03-07,2,TRUE,Kanu · Gilberto
+4061384,2023,21,2023-08-27,Botafogo,EC Bahia,03-27,2,TRUE,Marlon Freitas · Victor Sá
+4061387,2023,21,2023-08-27,RB Bragantino,Cuiabá-MT,04-07,2,FALSE,Thiago Borbas · Matheus Alexandre
+4061388,2023,21,2023-08-27,Atlético-MG,Santos,01-13,2,TRUE,João Basso · Tomás Rincón
+4061389,2023,21,2023-08-27,Grêmio,Cruzeiro,01-24,2,TRUE,Mathías Villasanti · Luis Suárez
+4061389,2023,21,2023-08-27,Grêmio,Cruzeiro,02-16,2,FALSE,Cuiabano · Lucas Silva
+4061389,2023,21,2023-08-27,Grêmio,Cruzeiro,05-20,2,TRUE,Rafael Cabral · Marlon
+4061390,2023,21,2023-08-27,Athletico-PR,Fluminense,09-05,2,FALSE,Vitor Bueno · Thiago Santos
+4061390,2023,21,2023-08-27,Athletico-PR,Fluminense,10-01,2,FALSE,Agustín Canobbio · Lelê
+4061392,2023,21,2023-08-27,América-MG,São Paulo,01-10,2,FALSE,Felipe Azevedo · Pablo Maia
+4061284,2023,22,2023-09-02,Botafogo,Flamengo,03-27,2,TRUE,Marlon Freitas · Victor Sá
+4061287,2023,22,2023-09-02,Goiás,Internacional,11-04,2,FALSE,Everton Morelli · Enner Valencia
+4061290,2023,22,2023-09-02,Athletico-PR,Atlético-MG,05-04,2,FALSE,Fernandinho · Otávio
+4061288,2023,22,2023-09-03,Cruzeiro,RB Bragantino,05-20,3,FALSE,Rafael Cabral · Marlon · Jadsom
+4061289,2023,22,2023-09-03,Grêmio,Cuiabá-MT,01-06,2,FALSE,Pepê · Wellington Silva
+4061289,2023,22,2023-09-03,Grêmio,Cuiabá-MT,01-24,2,TRUE,Mathías Villasanti · Luis Suárez
+4061291,2023,22,2023-09-03,EC Bahia,Vasco da Gama,03-07,2,TRUE,Kanu · Gilberto
+4061292,2023,22,2023-09-03,América-MG,Santos,01-13,2,TRUE,João Basso · Tomás Rincón
+4061292,2023,22,2023-09-03,América-MG,Santos,02-06,2,FALSE,Iago Maidana · Dodô
+4061219,2023,23,2023-09-13,Internacional,São Paulo,06-22,2,TRUE,Hugo Mallo · Mauricio
+4061216,2023,23,2023-09-14,Santos,Cruzeiro,05-20,2,TRUE,Rafael Cabral · Marlon
+4061217,2023,23,2023-09-14,RB Bragantino,Grêmio,01-24,2,TRUE,Mathías Villasanti · Luis Suárez
+4061220,2023,23,2023-09-14,Coritiba FC,EC Bahia,03-07,2,TRUE,Kanu · Gilberto
+4061215,2023,23,2023-09-15,Palmeiras,Goiás,02-15,2,FALSE,Artur · João Magno
+4061218,2023,23,2023-09-16,Atlético-MG,Botafogo,03-27,2,TRUE,Marlon Freitas · Victor Sá
+4061261,2023,24,2023-09-18,EC Bahia,Santos,01-13,2,TRUE,João Basso · Tomás Rincón
+4061261,2023,24,2023-09-18,EC Bahia,Santos,03-07,2,TRUE,Kanu · Gilberto
+4061262,2023,24,2023-09-19,América-MG,RB Bragantino,02-06,2,FALSE,Iago Maidana · Lucas Evangelista
+4061253,2023,24,2023-09-20,Fluminense,Cruzeiro,05-20,2,TRUE,Rafael Cabral · Marlon
+4061259,2023,24,2023-09-21,Grêmio,Palmeiras,01-24,2,TRUE,Mathías Villasanti · Luis Suárez
+4061256,2023,24,2023-09-22,Corinthians,Botafogo,03-27,2,TRUE,Marlon Freitas · Victor Sá
+4061373,2023,25,2023-09-30,Flamengo,EC Bahia,03-07,2,TRUE,Kanu · Gilberto
+4061373,2023,25,2023-09-30,Flamengo,EC Bahia,05-20,2,FALSE,Gerson · Vitor Hugo
+4061375,2023,25,2023-09-30,São Paulo,Corinthians,09-07,2,FALSE,Rafinha · Gustavo Silva
+4061381,2023,25,2023-09-30,Fortaleza,Grêmio,02-02,2,TRUE,Fernando Miguel · Tobias Figueiredo
+4061376,2023,25,2023-10-01,Santos,Vasco da Gama,01-13,2,TRUE,João Basso · Tomás Rincón
+4061378,2023,25,2023-10-01,Cruzeiro,América-MG,05-20,2,TRUE,Rafael Cabral · Marlon
+4061378,2023,25,2023-10-01,Cruzeiro,América-MG,06-17,2,FALSE,Neris · Martín Benítez
+4061380,2023,25,2023-10-01,Coritiba FC,Athletico-PR,10-14,2,FALSE,Henrique · Lucas Esquivel
+4061374,2023,25,2023-10-02,Botafogo,Goiás,03-27,2,TRUE,Marlon Freitas · Victor Sá
+4061267,2023,26,2023-10-07,Goiás,EC Bahia,02-04,2,TRUE,Tadeu · Julián Palacios
+4061263,2023,26,2023-10-08,Fluminense,Botafogo,03-27,2,TRUE,Marlon Freitas · Victor Sá
+4061265,2023,26,2023-10-08,Palmeiras,Santos,01-13,2,TRUE,João Basso · Tomás Rincón
+4061265,2023,26,2023-10-08,Palmeiras,Santos,11-10,2,FALSE,Mayke · Lucas Braga
+4061268,2023,26,2023-10-08,Atlético-MG,Coritiba FC,06-23,2,FALSE,Mariano · Victor Luís
+4061269,2023,26,2023-10-08,Internacional,Grêmio,01-24,2,TRUE,Mathías Villasanti · Luis Suárez
+4061270,2023,26,2023-10-08,Athletico-PR,RB Bragantino,04-25,2,FALSE,Cacá · Helinho
+4061271,2023,26,2023-10-08,Fortaleza,América-MG,02-24,2,FALSE,Caio Alexandre · Nicolas
+4061271,2023,26,2023-10-08,Fortaleza,América-MG,06-05,2,FALSE,Yago Pikachu · Rodriguinho
+4061272,2023,26,2023-10-14,Cuiabá-MT,Cruzeiro,05-20,2,TRUE,Rafael Cabral · Marlon
+4061347,2023,27,2023-10-18,Goiás,São Paulo,02-04,2,TRUE,Tadeu · Julián Palacios
+4061350,2023,27,2023-10-18,Coritiba FC,Cuiabá-MT,09-27,2,FALSE,Gabriel · Derik Lacerda
+4061351,2023,27,2023-10-18,EC Bahia,Internacional,03-07,2,TRUE,Kanu · Gilberto
+4061352,2023,27,2023-10-18,América-MG,Botafogo,03-27,2,TRUE,Marlon Freitas · Victor Sá
+4061343,2023,27,2023-10-19,Fluminense,Corinthians,06-06,2,FALSE,Samuel Xavier · Cássio
+4061343,2023,27,2023-10-19,Fluminense,Corinthians,06-11,2,FALSE,Lima · Fagner
+4061345,2023,27,2023-10-19,Palmeiras,Atlético-MG,06-16,2,FALSE,Zé Rafael · Renzo Saravia
+4061346,2023,27,2023-10-19,Santos,RB Bragantino,02-06,2,FALSE,Dodô · Lucas Evangelista
+4061346,2023,27,2023-10-19,Santos,RB Bragantino,08-18,2,TRUE,Aderlan · Matheus Gonçalves
+4061348,2023,27,2023-10-19,Cruzeiro,Flamengo,05-20,3,FALSE,Rafael Cabral · Marlon · Gerson
+4061324,2023,28,2023-10-21,Botafogo,Athletico-PR,03-27,2,TRUE,Marlon Freitas · Victor Sá
+4061325,2023,28,2023-10-21,São Paulo,Grêmio,01-24,2,TRUE,Mathías Villasanti · Luis Suárez
+4061331,2023,28,2023-10-21,EC Bahia,Fortaleza,03-07,2,TRUE,Kanu · Gilberto
+4061331,2023,28,2023-10-21,EC Bahia,Fortaleza,04-13,2,FALSE,Marcos Felipe · Guilherme
+4061332,2023,28,2023-10-21,Cuiabá-MT,Goiás,02-04,2,TRUE,Tadeu · Julián Palacios
+4061327,2023,28,2023-10-22,RB Bragantino,Fluminense,08-18,2,TRUE,Aderlan · Matheus Gonçalves
+4061329,2023,28,2023-10-22,Internacional,Santos,01-13,2,TRUE,João Basso · Tomás Rincón
+4061329,2023,28,2023-10-22,Internacional,Santos,04-17,2,FALSE,Charles Aránguiz · Dodi
+4061453,2023,29,2023-10-25,Fluminense,Goiás,02-04,2,TRUE,Tadeu · Julián Palacios
+4061455,2023,29,2023-10-25,Palmeiras,São Paulo,07-21,2,FALSE,Endrick · Diego Costa
+4061457,2023,29,2023-10-25,RB Bragantino,Atlético-MG,04-01,2,FALSE,Vitinho · Bruno Fuchs
+4061457,2023,29,2023-10-25,RB Bragantino,Atlético-MG,08-18,2,TRUE,Aderlan · Matheus Gonçalves
+4061458,2023,29,2023-10-25,Cruzeiro,EC Bahia,03-07,3,FALSE,Bruno Rodrigues · Gilberto · Kanu
+4061458,2023,29,2023-10-25,Cruzeiro,EC Bahia,05-20,2,TRUE,Rafael Cabral · Marlon
+4061456,2023,29,2023-10-26,Santos,Coritiba FC,01-13,2,TRUE,João Basso · Tomás Rincón
+4061461,2023,29,2023-11-23,Fortaleza,Botafogo,03-27,2,TRUE,Marlon Freitas · Victor Sá
+4061315,2023,30,2023-10-28,Palmeiras,EC Bahia,05-06,2,FALSE,Gustavo Gómez · Gabriel Xavier
+4061322,2023,30,2023-10-28,América-MG,Grêmio,01-24,2,TRUE,Mathías Villasanti · Luis Suárez
+4061314,2023,30,2023-10-29,Botafogo,Cuiabá-MT,03-23,2,FALSE,Adryelson · Denilson
+4061316,2023,30,2023-10-29,Corinthians,Santos,01-13,2,TRUE,João Basso · Tomás Rincón
+4061317,2023,30,2023-10-29,Goiás,Vasco da Gama,01-06,2,FALSE,Maguinho · Alex Teixeira
+4061317,2023,30,2023-10-29,Goiás,Vasco da Gama,02-04,2,TRUE,Tadeu · Julián Palacios
+4061320,2023,30,2023-10-29,Athletico-PR,São Paulo,06-23,2,FALSE,Pablo · Rafael
+4061321,2023,30,2023-11-18,Fortaleza,Cruzeiro,05-20,2,TRUE,Rafael Cabral · Marlon
+4061313,2023,30,2023-11-23,Flamengo,RB Bragantino,05-20,2,FALSE,Gerson · Jadsom
+4061241,2023,31,2023-10-31,EC Bahia,Fluminense,03-07,2,TRUE,Gilberto · Kanu
+4061234,2023,31,2023-11-01,Botafogo,Palmeiras,03-27,3,FALSE,Marlon Freitas · Victor Sá · Murilo
+4061236,2023,31,2023-11-01,Corinthians,Athletico-PR,05-04,2,FALSE,Matheus Bidu · Fernandinho
+4061239,2023,31,2023-11-01,Internacional,América-MG,03-23,2,FALSE,Sergio Rochet · Daniel Borges
+4061239,2023,31,2023-11-01,Internacional,América-MG,04-28,2,FALSE,Fabricio Bustos · Gonzalo Mastriani
+4061240,2023,31,2023-11-01,Coritiba FC,Grêmio,01-24,2,TRUE,Mathías Villasanti · Luis Suárez
+4061235,2023,31,2023-11-02,São Paulo,Cruzeiro,05-20,2,TRUE,Rafael Cabral · Marlon
+4061229,2023,32,2023-11-04,Grêmio,EC Bahia,01-24,3,FALSE,Mathías Villasanti · Luis Suárez · David Duarte
+4061228,2023,32,2023-11-05,Cruzeiro,Internacional,05-20,2,TRUE,Rafael Cabral · Marlon
+4061230,2023,32,2023-11-05,Coritiba FC,Goiás,01-06,2,TRUE,Maguinho · Raphael Guzzo
+4061231,2023,32,2023-11-05,Fortaleza,Flamengo,01-15,2,FALSE,Imanol Machuca · Erick Pulgar
+4061224,2023,32,2023-11-06,Vasco da Gama,Botafogo,03-27,2,TRUE,Bastos · Victor Sá
+4061333,2023,33,2023-11-08,Flamengo,Palmeiras,06-02,2,FALSE,Luiz Araújo · Richard Ríos
+4061333,2023,33,2023-11-08,Flamengo,Palmeiras,06-19,2,FALSE,Ayrton Lucas · Raphael Veiga
+4061334,2023,33,2023-11-09,Botafogo,Grêmio,01-24,2,TRUE,Mathías Villasanti · Luis Suárez
+4061334,2023,33,2023-11-09,Botafogo,Grêmio,03-27,2,TRUE,Victor Sá · Marlon Freitas
+4061336,2023,33,2023-11-09,Corinthians,Atlético-MG,07-15,2,FALSE,Maycon · Paulinho
+4061337,2023,33,2023-11-09,Goiás,Santos,01-06,2,TRUE,Maguinho · Raphael Guzzo
+4061337,2023,33,2023-11-09,Goiás,Santos,05-02,2,FALSE,Lucas Halter · Marcos Leonardo
+4061341,2023,33,2023-11-09,EC Bahia,Cuiabá-MT,03-07,2,TRUE,Kanu · Gilberto
+4061338,2023,33,2023-11-22,Cruzeiro,Vasco da Gama,02-11,2,FALSE,Ian Luccas · Gabriel Pec
+4061338,2023,33,2023-11-22,Cruzeiro,Vasco da Gama,05-20,2,TRUE,Rafael Cabral · Marlon
+4061310,2023,34,2023-11-11,Coritiba FC,Cruzeiro,05-20,2,TRUE,Rafael Cabral · Marlon
+4061307,2023,34,2023-11-12,RB Bragantino,Botafogo,03-27,2,TRUE,Marlon Freitas · Victor Sá
+4061308,2023,34,2023-11-12,Atlético-MG,Goiás,01-06,2,TRUE,Maguinho · Raphael Guzzo
+4061308,2023,34,2023-11-12,Atlético-MG,Goiás,03-10,2,TRUE,Matheus Mendes · Matías Zaracho
+4061309,2023,34,2023-11-12,Grêmio,Corinthians,01-24,2,TRUE,Mathías Villasanti · Luis Suárez
+4061311,2023,34,2023-11-12,EC Bahia,Athletico-PR,03-07,2,TRUE,Kanu · Gilberto
+4061356,2023,35,2023-11-24,Corinthians,EC Bahia,03-07,2,TRUE,Kanu · Gilberto
+4061353,2023,35,2023-11-25,Fluminense,Coritiba FC,02-15,2,TRUE,Andrey · Kaio César
+4061354,2023,35,2023-11-26,Botafogo,Santos,03-27,2,TRUE,Marlon Freitas · Victor Sá
+4061358,2023,35,2023-11-26,Atlético-MG,Grêmio,03-17,2,FALSE,Igor Gomes · Everton Galdino
+4061359,2023,35,2023-11-26,Internacional,RB Bragantino,02-02,2,FALSE,Vitão · Luan Cândido
+4061357,2023,35,2023-11-27,Goiás,Cruzeiro,02-04,2,TRUE,Tadeu · Julián Palacios
+4061357,2023,35,2023-11-27,Goiás,Cruzeiro,05-20,2,TRUE,Rafael Cabral · Marlon
+4061370,2023,36,2023-11-29,Coritiba FC,Botafogo,03-27,3,TRUE,Bastos · Marlon Freitas · Victor Sá
+4061371,2023,36,2023-11-29,EC Bahia,São Paulo,03-07,3,FALSE,Kanu · Gilberto · Juan
+4061372,2023,36,2023-11-29,Cuiabá-MT,Internacional,03-23,2,FALSE,Denilson · Sergio Rochet
+4061367,2023,36,2023-11-30,RB Bragantino,Fortaleza,02-24,2,FALSE,Eduardo Sasha · Caio Alexandre
+4061368,2023,36,2023-11-30,Cruzeiro,Athletico-PR,05-20,2,TRUE,Rafael Cabral · Marlon
+4061369,2023,36,2023-11-30,Grêmio,Goiás,01-24,2,TRUE,Mathías Villasanti · Luis Suárez
+4061369,2023,36,2023-11-30,Grêmio,Goiás,02-04,2,TRUE,Tadeu · Julián Palacios
+4061478,2023,37,2023-12-02,Atlético-MG,São Paulo,06-23,2,FALSE,Mariano · Rafael
+4061474,2023,37,2023-12-03,Botafogo,Cruzeiro,03-27,2,TRUE,Marlon Freitas · Victor Sá
+4061474,2023,37,2023-12-03,Botafogo,Cruzeiro,05-20,2,TRUE,Rafael Cabral · Marlon
+4061479,2023,37,2023-12-03,Grêmio,Vasco da Gama,01-24,2,TRUE,Mathías Villasanti · Luis Suárez
+4061480,2023,37,2023-12-03,Athletico-PR,Santos,01-13,2,FALSE,Madson · Tomás Rincón
+4061480,2023,37,2023-12-03,Athletico-PR,Santos,02-28,2,TRUE,Kaique Rocha · Vitor Roque
+4061482,2023,37,2023-12-03,América-MG,EC Bahia,03-07,2,TRUE,Kanu · Gilberto
+4061483,2023,38,2023-12-06,Fluminense,Grêmio,01-24,2,TRUE,Mathías Villasanti · Luis Suárez
+4061486,2023,38,2023-12-06,Santos,Fortaleza,01-13,2,TRUE,João Basso · Tomás Rincón
+4061487,2023,38,2023-12-06,Goiás,América-MG,03-23,2,FALSE,Pedrinho · Daniel Borges
+4061488,2023,38,2023-12-06,Cruzeiro,Palmeiras,05-20,2,TRUE,Rafael Cabral · Marlon
+4061490,2023,38,2023-12-06,Coritiba FC,Corinthians,02-15,2,TRUE,Andrey · Kaio César
+4061491,2023,38,2023-12-06,EC Bahia,Atlético-MG,03-07,2,TRUE,Kanu · Gilberto
+4061491,2023,38,2023-12-06,EC Bahia,Atlético-MG,04-14,2,FALSE,Nicolás Acevedo · Guilherme Arana
+4316187,2024,1,2024-04-13,Internacional,EC Bahia,03-23,2,TRUE,Sergio Rochet · Thiago Maia
+4316187,2024,1,2024-04-13,Internacional,EC Bahia,06-22,2,FALSE,Mauricio · Jean Lucas
+4316196,2024,1,2024-04-13,Criciúma,Juventude,02-01,2,FALSE,Marcelo Hermes · Zé Marcos
+4316188,2024,1,2024-04-14,Cruzeiro,Botafogo,03-27,2,TRUE,Bastos · Marlon Freitas
+4316189,2024,1,2024-04-14,EC Vitória,Palmeiras,05-16,2,TRUE,Zeca · Willian Oliveira
+4316194,2024,1,2024-04-14,Athletico-PR,Cuiabá-MT,03-10,2,TRUE,Alan Empereur · Railan
+4316195,2024,1,2024-04-14,Atlético-GO,Flamengo,06-01,2,TRUE,Nicolás de la Cruz · Giorgian de Arrascaeta
+4316258,2024,2,2024-04-17,Atlético-MG,Criciúma,08-21,2,FALSE,Alan Franco · Walisson Maia
+4316262,2024,2,2024-04-17,Palmeiras,Internacional,03-23,2,TRUE,Sergio Rochet · Thiago Maia
+4316263,2024,2,2024-04-17,RB Bragantino,Vasco da Gama,02-14,2,FALSE,Guilherme Lopes · Juan Sforza
+4316265,2024,2,2024-06-05,Cuiabá-MT,EC Vitória,03-10,2,TRUE,Alan Empereur · Railan
+4316227,2024,3,2024-04-20,Grêmio,Cuiabá-MT,03-16,2,TRUE,Agustín Marchesín · Zé Guilherme
+4316227,2024,3,2024-04-20,Grêmio,Cuiabá-MT,04-16,2,TRUE,Bruno Alves · Marllon
+4316229,2024,3,2024-04-21,EC Vitória,EC Bahia,05-16,2,TRUE,Zeca · Willian Oliveira
+4316231,2024,3,2024-04-21,Botafogo,Juventude,03-27,2,TRUE,Bastos · Marlon Freitas
+4316232,2024,3,2024-04-21,Palmeiras,Flamengo,02-12,2,TRUE,Fabrício Bruno · Carlinhos
+4316232,2024,3,2024-04-21,Palmeiras,Flamengo,06-02,2,FALSE,Richard Ríos · Luiz Araújo
+4316232,2024,3,2024-04-21,Palmeiras,Flamengo,06-19,2,FALSE,Raphael Veiga · Ayrton Lucas
+4316234,2024,3,2024-04-21,Athletico-PR,Internacional,06-22,2,TRUE,Hugo Mallo · Mauricio
+4316236,2024,3,2024-07-24,Criciúma,Fortaleza,03-10,2,TRUE,Gustavo · Rodrigo
+4316236,2024,3,2024-07-24,Criciúma,Fortaleza,03-12,2,FALSE,Newton · Titi
+4316236,2024,3,2024-07-24,Criciúma,Fortaleza,08-25,2,TRUE,Miguel Trauco · Jonathan
+4316271,2024,4,2024-04-27,Vasco da Gama,Criciúma,03-10,2,TRUE,Gustavo · Rodrigo
+4316271,2024,4,2024-04-27,Vasco da Gama,Criciúma,08-03,2,TRUE,Gary Medel · Rayan
+4316275,2024,4,2024-04-27,Cuiabá-MT,Atlético-MG,03-10,2,FALSE,Alan Empereur · Matías Zaracho
+4316275,2024,4,2024-04-27,Cuiabá-MT,Atlético-MG,04-16,2,TRUE,Bruno Alves · Marllon
+4316267,2024,4,2024-04-28,Internacional,Atlético-GO,03-23,2,TRUE,Sergio Rochet · Thiago Maia
+4316268,2024,4,2024-04-28,Cruzeiro,EC Vitória,05-16,2,TRUE,Zeca · Willian Oliveira
+4316270,2024,4,2024-04-28,Flamengo,Botafogo,03-27,2,TRUE,Bastos · Marlon Freitas
+4316270,2024,4,2024-04-28,Flamengo,Botafogo,06-01,2,TRUE,Nicolás de la Cruz · Giorgian de Arrascaeta
+4316272,2024,4,2024-04-28,Corinthians,Fluminense,06-11,2,FALSE,Fagner · Lima
+4316272,2024,4,2024-04-28,Corinthians,Fluminense,08-29,2,FALSE,Hugo · Guga
+4316274,2024,4,2024-04-28,Fortaleza,RB Bragantino,08-19,2,TRUE,Cleiton · Nathan Mendes
+4316273,2024,4,2024-04-29,São Paulo,Palmeiras,07-21,2,FALSE,Diego Costa · Endrick
+4316293,2024,5,2024-05-04,RB Bragantino,Flamengo,08-19,2,TRUE,Cleiton · Nathan Mendes
+4316289,2024,5,2024-05-05,EC Vitória,São Paulo,05-16,2,TRUE,Zeca · Willian Oliveira
+4316291,2024,5,2024-05-05,Botafogo,EC Bahia,03-27,2,TRUE,Bastos · Marlon Freitas
+4316296,2024,5,2024-06-05,Juventude,Atlético-GO,10-10,2,FALSE,Caíque Gonçalves · Baralhas
+4316288,2024,5,2024-08-28,Cruzeiro,Internacional,03-30,2,TRUE,Wesley · Bruno Tabata
+4316288,2024,5,2024-08-28,Cruzeiro,Internacional,04-04,2,FALSE,Walace · Bruno Gomes
+4316287,2024,5,2024-09-25,Grêmio,Criciúma,03-10,2,TRUE,Gustavo · Rodrigo
+4316310,2024,6,2024-05-11,Flamengo,Corinthians,03-24,2,FALSE,Guillermo Varela · Gustavo Henrique
+4316310,2024,6,2024-05-11,Flamengo,Corinthians,07-04,2,FALSE,Lorran · Ángel Romero
+4316309,2024,6,2024-05-12,EC Bahia,RB Bragantino,08-19,2,TRUE,Cleiton · Nathan Mendes
+4316315,2024,6,2024-05-12,Atlético-GO,Cruzeiro,03-05,2,FALSE,Bruno Tubarão · Anderson
+4316313,2024,6,2024-05-13,São Paulo,Fluminense,03-07,2,FALSE,Juan · Antônio Carlos
+4316316,2024,6,2024-06-09,Criciúma,Cuiabá-MT,03-10,3,FALSE,Gustavo · Rodrigo · Alan Empereur
+4316307,2024,6,2024-08-14,Internacional,Juventude,03-23,2,TRUE,Sergio Rochet · Thiago Maia
+4316307,2024,6,2024-08-14,Internacional,Juventude,03-30,2,TRUE,Bruno Tabata · Wesley
+4316277,2024,7,2024-06-01,Grêmio,RB Bragantino,05-20,2,FALSE,Rafael Cabral · Jadsom
+4316282,2024,7,2024-06-01,Corinthians,Botafogo,03-27,2,TRUE,Bastos · Marlon Freitas
+4316285,2024,7,2024-06-01,Cuiabá-MT,Internacional,03-23,3,FALSE,Denilson · Sergio Rochet · Thiago Maia
+4316285,2024,7,2024-06-01,Cuiabá-MT,Internacional,04-16,2,TRUE,Bruno Alves · Marllon
+4316285,2024,7,2024-06-01,Cuiabá-MT,Internacional,06-22,2,TRUE,Hugo Mallo · Mauricio
+4316281,2024,7,2024-06-02,Vasco da Gama,Flamengo,06-01,2,TRUE,Giorgian de Arrascaeta · Nicolás de la Cruz
+4316286,2024,7,2024-06-02,Criciúma,Palmeiras,03-10,2,TRUE,Gustavo · Rodrigo
+4316331,2024,8,2024-06-11,Botafogo,Fluminense,01-02,2,FALSE,Luiz Henrique · Germán Cano
+4316331,2024,8,2024-06-11,Botafogo,Fluminense,03-27,2,TRUE,Bastos · Marlon Freitas
+4316336,2024,8,2024-06-11,Juventude,EC Vitória,09-27,2,FALSE,Gabriel · Camutanga
+4316328,2024,8,2024-06-13,Cruzeiro,Cuiabá-MT,03-10,2,TRUE,Alan Empereur · Railan
+4316330,2024,8,2024-06-13,Flamengo,Grêmio,05-20,2,FALSE,Gerson · Rafael Cabral
+4316334,2024,8,2024-06-13,Athletico-PR,Criciúma,04-28,2,TRUE,Leonardo Godoy · Gonzalo Mastriani
+4316203,2024,9,2024-06-15,RB Bragantino,Juventude,10-02,2,FALSE,Pedro Henrique · Mandaca
+4316197,2024,9,2024-06-16,Grêmio,Botafogo,03-27,2,TRUE,Bastos · Marlon Freitas
+4316206,2024,9,2024-06-16,Criciúma,EC Bahia,03-10,2,TRUE,Gustavo · Rodrigo
+4316198,2024,9,2024-06-17,Atlético-MG,Palmeiras,03-10,2,TRUE,Matheus Mendes · Matías Zaracho
+4316198,2024,9,2024-06-17,Atlético-MG,Palmeiras,06-16,2,FALSE,Renzo Saravia · Zé Rafael
+4316241,2024,10,2024-06-19,Botafogo,Athletico-PR,02-28,2,FALSE,Danilo Barbosa · Kaique Rocha
+4316241,2024,10,2024-06-19,Botafogo,Athletico-PR,03-27,2,TRUE,Bastos · Marlon Freitas
+4316241,2024,10,2024-06-19,Botafogo,Athletico-PR,04-28,2,TRUE,Leonardo Godoy · Gonzalo Mastriani
+4316243,2024,10,2024-06-19,São Paulo,Cuiabá-MT,06-18,2,TRUE,Giuliano Galoppo · Wellington Rato
+4316245,2024,10,2024-06-19,Atlético-GO,Criciúma,08-25,2,TRUE,Miguel Trauco · Jonathan
+4316240,2024,10,2024-06-20,Flamengo,EC Bahia,03-07,2,TRUE,Kanu · Gilberto
+4316242,2024,10,2024-06-20,Palmeiras,RB Bragantino,08-19,2,TRUE,Cleiton · Nathan Mendes
+4316305,2024,11,2024-06-22,Cuiabá-MT,Atlético-GO,07-16,2,FALSE,Rikelme · Emiliano Rodríguez
+4316306,2024,11,2024-06-22,Criciúma,Botafogo,03-10,2,TRUE,Gustavo · Rodrigo
+4316306,2024,11,2024-06-22,Criciúma,Botafogo,05-24,2,FALSE,Yannick Bolasie · Mateo Ponte
+4316306,2024,11,2024-06-22,Criciúma,Botafogo,08-25,2,TRUE,Miguel Trauco · Jonathan
+4316299,2024,11,2024-06-23,EC Bahia,Cruzeiro,03-07,2,TRUE,Gilberto · Kanu
+4316299,2024,11,2024-06-23,EC Bahia,Cruzeiro,04-13,2,FALSE,Marcos Felipe · Robert
+4316304,2024,11,2024-06-23,Athletico-PR,Corinthians,03-05,2,FALSE,Tomás Cuello · Wesley
+4316337,2024,12,2024-06-26,Internacional,Atlético-MG,03-10,2,TRUE,Matheus Mendes · Matías Zaracho
+4316338,2024,12,2024-06-26,Cruzeiro,Athletico-PR,04-28,2,TRUE,Leonardo Godoy · Gonzalo Mastriani
+4316339,2024,12,2024-06-26,EC Bahia,Vasco da Gama,03-07,2,TRUE,Kanu · Gilberto
+4316341,2024,12,2024-06-26,Botafogo,RB Bragantino,03-27,2,TRUE,Bastos · Marlon Freitas
+4316344,2024,12,2024-06-26,Fortaleza,Palmeiras,05-11,2,TRUE,Caio Paulista · Rony
+4316345,2024,12,2024-06-26,Atlético-GO,Grêmio,01-06,2,FALSE,Maguinho · Pepê
+4316345,2024,12,2024-06-26,Atlético-GO,Grêmio,03-16,2,FALSE,Lucas Kal · Agustín Marchesín
+4316346,2024,12,2024-06-26,Juventude,Flamengo,01-03,2,FALSE,Erick Farias · Léo Ortiz
+4316343,2024,12,2024-06-27,São Paulo,Criciúma,03-10,2,TRUE,Gustavo · Rodrigo
+4316211,2024,13,2024-06-29,Vasco da Gama,Botafogo,03-27,2,TRUE,Bastos · Marlon Freitas
+4316215,2024,13,2024-06-29,Cuiabá-MT,RB Bragantino,04-16,2,TRUE,Bruno Alves · Marllon
+4316215,2024,13,2024-06-29,Cuiabá-MT,RB Bragantino,08-19,2,TRUE,Cleiton · Nathan Mendes
+4316209,2024,13,2024-06-30,EC Vitória,Athletico-PR,05-16,2,FALSE,Willian Oliveira · Bruno Zapelli
+4316213,2024,13,2024-06-30,São Paulo,EC Bahia,03-07,2,TRUE,Gilberto · Kanu
+4316214,2024,13,2024-06-30,Fortaleza,Juventude,02-01,2,FALSE,Tomás Pochettino · Zé Marcos
+4316214,2024,13,2024-06-30,Fortaleza,Juventude,02-15,2,FALSE,Felipe Jonatan · Jean Carlos
+4316216,2024,13,2024-06-30,Criciúma,Internacional,02-02,2,FALSE,Tobias Figueiredo · Vitão
+4316216,2024,13,2024-06-30,Criciúma,Internacional,03-10,2,TRUE,Gustavo · Rodrigo
+4316348,2024,14,2024-07-03,Atlético-MG,Flamengo,02-12,2,TRUE,Fabrício Bruno · Carlinhos
+4316353,2024,14,2024-07-03,RB Bragantino,Atlético-GO,08-19,2,TRUE,Cleiton · Nathan Mendes
+4316355,2024,14,2024-07-03,Cuiabá-MT,Botafogo,03-27,2,TRUE,Bastos · Marlon Freitas
+4316355,2024,14,2024-07-03,Cuiabá-MT,Botafogo,04-16,2,TRUE,Marllon · Bruno Alves
+4316356,2024,14,2024-07-03,Criciúma,Cruzeiro,03-10,2,TRUE,Gustavo · Rodrigo
+4316349,2024,14,2024-07-04,EC Bahia,Juventude,03-07,2,TRUE,Kanu · Gilberto
+4316349,2024,14,2024-07-04,EC Bahia,Juventude,05-06,2,FALSE,Gabriel Xavier · Danilo Boza
+4316350,2024,14,2024-07-04,Fluminense,Internacional,06-06,2,FALSE,Samuel Xavier · Gustavo Prado
+4316350,2024,14,2024-07-04,Fluminense,Internacional,10-08,2,FALSE,Alexsander · Lucas Alario
+4316323,2024,15,2024-07-06,São Paulo,RB Bragantino,08-19,2,TRUE,Cleiton · Nathan Mendes
+4316317,2024,15,2024-07-07,Internacional,Vasco da Gama,03-06,2,FALSE,Igor Gomes · Léo
+4316317,2024,15,2024-07-07,Internacional,Vasco da Gama,07-25,2,FALSE,Fernando · Paulo Henrique
+4316318,2024,15,2024-07-07,Cruzeiro,Corinthians,03-05,2,FALSE,Anderson · Wesley
+4316319,2024,15,2024-07-07,EC Vitória,Criciúma,03-10,2,TRUE,Gustavo · Rodrigo
+4316321,2024,15,2024-07-07,Botafogo,Atlético-MG,03-27,2,TRUE,Bastos · Marlon Freitas
+4316322,2024,15,2024-07-07,Palmeiras,EC Bahia,03-07,2,TRUE,Kanu · Gilberto
+4316322,2024,15,2024-07-07,Palmeiras,EC Bahia,05-06,2,FALSE,Gustavo Gómez · Gabriel Xavier
+4316325,2024,15,2024-07-07,Atlético-GO,Athletico-PR,07-16,2,FALSE,Emiliano Rodríguez · Emersonn
+4316461,2024,16,2024-07-10,Vasco da Gama,Corinthians,03-18,2,FALSE,Mateus Carvalho · Yuri Alberto
+4316464,2024,16,2024-07-10,Athletico-PR,EC Bahia,03-07,2,TRUE,Kanu · Gilberto
+4316458,2024,16,2024-07-11,Atlético-MG,São Paulo,04-01,2,FALSE,Bruno Fuchs · Igor Vinícius
+4316460,2024,16,2024-07-11,Flamengo,Fortaleza,03-03,2,FALSE,Allan · Pedro Augusto
+4316460,2024,16,2024-07-11,Flamengo,Fortaleza,09-06,2,FALSE,Wesley · João Ricardo
+4316466,2024,16,2024-07-11,Criciúma,Fluminense,03-10,2,TRUE,Gustavo · Rodrigo
+4316465,2024,16,2024-09-05,Cuiabá-MT,Juventude,09-27,2,FALSE,Derik Lacerda · Gabriel
+4316463,2024,16,2024-09-25,RB Bragantino,Internacional,02-02,2,FALSE,Luan Cândido · Vitão
+4316463,2024,16,2024-09-25,RB Bragantino,Internacional,03-23,2,TRUE,Sergio Rochet · Thiago Maia
+4316388,2024,17,2024-07-13,Cruzeiro,RB Bragantino,08-19,2,TRUE,Cleiton · Nathan Mendes
+4316389,2024,17,2024-07-13,EC Bahia,Cuiabá-MT,02-24,2,FALSE,Caio Alexandre · Lucas Mineiro
+4316389,2024,17,2024-07-13,EC Bahia,Cuiabá-MT,03-10,2,TRUE,Alan Empereur · Railan
+4316389,2024,17,2024-07-13,EC Bahia,Cuiabá-MT,03-23,2,FALSE,Iago · Denilson
+4316392,2024,17,2024-07-16,Corinthians,Criciúma,03-10,2,TRUE,Gustavo · Rodrigo
+4316392,2024,17,2024-07-16,Corinthians,Criciúma,03-18,2,FALSE,Yuri Alberto · Wilker Ángel
+4316391,2024,17,2024-07-17,Botafogo,Palmeiras,03-27,3,FALSE,Bastos · Marlon Freitas · Murilo
+4316394,2024,17,2024-07-17,Fortaleza,EC Vitória,06-03,2,FALSE,Matheus Rossetto · Bruno Uvini
+4316387,2024,17,2024-10-30,Internacional,Flamengo,03-23,2,TRUE,Sergio Rochet · Thiago Maia
+4316387,2024,17,2024-10-30,Internacional,Flamengo,03-30,2,TRUE,Bruno Tabata · Wesley
+4316540,2024,18,2024-07-20,Flamengo,Criciúma,02-12,2,FALSE,Fabrício Bruno · Fellipe Mateus
+4316540,2024,18,2024-07-20,Flamengo,Criciúma,03-10,2,TRUE,Gustavo · Rodrigo
+4316540,2024,18,2024-07-20,Flamengo,Criciúma,06-01,2,TRUE,Nicolás de la Cruz · Giorgian de Arrascaeta
+4316541,2024,18,2024-07-20,Botafogo,Internacional,10-11,2,FALSE,Júnior Santos · Robert Renan
+4316538,2024,18,2024-07-21,Atlético-MG,Vasco da Gama,07-25,2,FALSE,Hulk · Paulo Henrique
+4316539,2024,18,2024-07-21,EC Bahia,Corinthians,08-29,2,FALSE,Luciano Juba · Hugo
+4316543,2024,18,2024-07-21,RB Bragantino,Athletico-PR,08-19,2,TRUE,Cleiton · Nathan Mendes
+4316544,2024,18,2024-07-21,Fortaleza,Atlético-GO,10-10,2,FALSE,Tomás Cardona · Baralhas
+4316545,2024,18,2024-07-21,Cuiabá-MT,Fluminense,04-07,2,FALSE,Matheus Alexandre · Marquinhos
+4316379,2024,19,2024-07-24,EC Vitória,Flamengo,06-01,2,TRUE,Nicolás de la Cruz · Giorgian de Arrascaeta
+4316383,2024,19,2024-07-24,São Paulo,Botafogo,03-27,2,TRUE,Bastos · Marlon Freitas
+4316381,2024,19,2024-10-24,Vasco da Gama,Cuiabá-MT,04-16,2,TRUE,Marllon · Bruno Alves
+4316384,2024,19,2024-11-16,Athletico-PR,Atlético-MG,05-08,2,FALSE,Lucas Belezi · Deyverson
+4316499,2024,20,2024-07-27,EC Bahia,Internacional,09-15,2,FALSE,Cauly · Rafael Santos Borré
+4316502,2024,20,2024-07-27,Palmeiras,EC Vitória,01-16,2,FALSE,Agustín Giay · Willean Lepo
+4316502,2024,20,2024-07-27,Palmeiras,EC Vitória,05-11,2,TRUE,Caio Paulista · Rony
+4316506,2024,20,2024-07-27,Juventude,Criciúma,03-10,2,TRUE,Gustavo · Rodrigo
+4316498,2024,20,2024-07-28,Atlético-MG,Corinthians,07-15,2,FALSE,Paulinho · Ryan
+4316505,2024,20,2024-07-28,Cuiabá-MT,Athletico-PR,05-12,2,FALSE,Max · João Cruz
+4316361,2024,21,2024-08-03,Vasco da Gama,RB Bragantino,02-14,2,FALSE,Juan Sforza · Guilherme Lopes
+4316361,2024,21,2024-08-03,Vasco da Gama,RB Bragantino,02-26,2,TRUE,Lucão · Léo Realpe
+4316366,2024,21,2024-08-03,Criciúma,Atlético-MG,03-10,2,FALSE,Gustavo · Matheus Mendes
+4316360,2024,21,2024-08-04,Fluminense,EC Bahia,03-07,2,TRUE,Gilberto · Kanu
+4316360,2024,21,2024-08-04,Fluminense,EC Bahia,07-16,2,FALSE,André · Luciano Rodríguez
+4316358,2024,21,2024-08-05,Cruzeiro,Fortaleza,01-24,2,FALSE,Kaio Jorge · Breno Lopes
+4316422,2024,22,2024-08-10,Corinthians,RB Bragantino,04-25,2,FALSE,Cacá · Helinho
+4316424,2024,22,2024-08-10,Fortaleza,Criciúma,03-10,2,TRUE,Gustavo · Rodrigo
+4316424,2024,22,2024-08-10,Fortaleza,Criciúma,03-12,2,FALSE,Titi · Newton
+4316425,2024,22,2024-08-10,Cuiabá-MT,Grêmio,04-16,2,TRUE,Marllon · Bruno Alves
+4316425,2024,22,2024-08-10,Cuiabá-MT,Grêmio,06-05,2,TRUE,Natã · Martin Braithwaite
+4316417,2024,22,2024-08-11,Internacional,Athletico-PR,03-23,2,TRUE,Sergio Rochet · Thiago Maia
+4316419,2024,22,2024-08-11,EC Bahia,EC Vitória,05-06,2,FALSE,Gabriel Xavier · Janderson
+4316420,2024,22,2024-08-11,Flamengo,Palmeiras,06-01,2,TRUE,Nicolás de la Cruz · Giorgian de Arrascaeta
+4316428,2024,23,2024-08-17,Atlético-MG,Cuiabá-MT,04-16,2,TRUE,Marllon · Bruno Alves
+4316431,2024,23,2024-08-18,Botafogo,Flamengo,02-12,2,TRUE,Fabrício Bruno · Carlinhos
+4316431,2024,23,2024-08-18,Botafogo,Flamengo,03-27,2,TRUE,Bastos · Marlon Freitas
+4316435,2024,23,2024-08-18,Atlético-GO,Internacional,03-23,2,TRUE,Sergio Rochet · Thiago Maia
+4316435,2024,23,2024-08-18,Atlético-GO,Internacional,03-30,2,TRUE,Wesley · Bruno Tabata
+4316436,2024,23,2024-08-18,Criciúma,Vasco da Gama,03-10,2,TRUE,Gustavo · Rodrigo
+4316436,2024,23,2024-08-18,Criciúma,Vasco da Gama,03-18,2,FALSE,Wilker Ángel · Mateus Carvalho
+4316442,2024,24,2024-08-24,Palmeiras,Cuiabá-MT,04-16,2,TRUE,Marllon · Bruno Alves
+4316445,2024,24,2024-08-24,Atlético-GO,Juventude,03-05,2,TRUE,Bruno Tubarão · Jan Hurtado
+4316437,2024,24,2024-08-25,Internacional,Cruzeiro,03-23,2,TRUE,Sergio Rochet · Thiago Maia
+4316437,2024,24,2024-08-25,Internacional,Cruzeiro,03-30,2,TRUE,Wesley · Bruno Tabata
+4316437,2024,24,2024-08-25,Internacional,Cruzeiro,08-17,2,FALSE,Gabriel Carvalho · Álvaro Barreal
+4316439,2024,24,2024-08-25,EC Bahia,Botafogo,03-27,2,TRUE,Bastos · Marlon Freitas
+4316440,2024,24,2024-08-25,Flamengo,RB Bragantino,05-20,2,FALSE,Gerson · Jadsom
+4316443,2024,24,2024-08-25,São Paulo,EC Vitória,07-23,2,FALSE,Luiz Gustavo · Wagner Leonardo
+4316446,2024,24,2024-08-25,Criciúma,Grêmio,03-10,2,TRUE,Gustavo · Rodrigo
+4316531,2024,25,2024-08-31,Botafogo,Fortaleza,03-27,2,TRUE,Bastos · Marlon Freitas
+4316535,2024,25,2024-08-31,Cuiabá-MT,Criciúma,03-10,3,FALSE,Alan Empereur · Railan · Gustavo
+4316532,2024,25,2024-09-01,Corinthians,Flamengo,06-19,2,FALSE,Charles · Ayrton Lucas
+4316533,2024,25,2024-09-01,RB Bragantino,EC Bahia,02-24,2,FALSE,Eduardo Sasha · Caio Alexandre
+4316536,2024,25,2024-09-01,Juventude,Internacional,03-23,2,TRUE,Sergio Rochet · Thiago Maia
+4316536,2024,25,2024-09-01,Juventude,Internacional,03-30,2,TRUE,Wesley · Bruno Tabata
+4316411,2024,26,2024-09-14,Botafogo,Corinthians,03-27,2,TRUE,Bastos · Marlon Freitas
+4316408,2024,26,2024-09-15,Cruzeiro,São Paulo,06-13,2,FALSE,João Marcelo · Marcos Antônio
+4316410,2024,26,2024-09-15,Flamengo,Vasco da Gama,01-03,2,FALSE,Léo Ortiz · Hugo Moura
+4316413,2024,26,2024-09-15,RB Bragantino,Grêmio,11-15,2,FALSE,Henry Mosquera · João Pedro
+4316407,2024,26,2024-09-16,Internacional,Cuiabá-MT,03-23,2,TRUE,Sergio Rochet · Thiago Maia
+4316510,2024,27,2024-09-21,Fluminense,Botafogo,01-02,2,FALSE,Germán Cano · Luiz Henrique
+4316512,2024,27,2024-09-21,Corinthians,Atlético-GO,03-05,2,TRUE,Bruno Tubarão · Jan Hurtado
+4316513,2024,27,2024-09-22,São Paulo,Internacional,03-23,2,TRUE,Sergio Rochet · Thiago Maia
+4316516,2024,27,2024-09-22,Criciúma,Athletico-PR,03-10,2,TRUE,Gustavo · Rodrigo
+4316516,2024,27,2024-09-22,Criciúma,Athletico-PR,03-12,2,FALSE,Newton · Mycael
+4316251,2024,28,2024-09-28,Botafogo,Grêmio,03-16,2,FALSE,Alexander Barboza · Agustín Marchesín
+4316247,2024,28,2024-09-29,Internacional,EC Vitória,03-23,2,TRUE,Sergio Rochet · Thiago Maia
+4316247,2024,28,2024-09-29,Internacional,EC Vitória,04-04,2,TRUE,Clayton · Bruno Gomes
+4316249,2024,28,2024-09-29,EC Bahia,Criciúma,03-10,2,TRUE,Gustavo · Rodrigo
+4316255,2024,28,2024-09-29,Atlético-GO,Fluminense,03-05,2,TRUE,Bruno Tubarão · Jan Hurtado
+4316450,2024,29,2024-10-03,Fluminense,Cruzeiro,06-06,2,FALSE,Samuel Xavier · Cássio
+4316456,2024,29,2024-10-03,Criciúma,Atlético-GO,03-05,2,TRUE,Bruno Tubarão · Jan Hurtado
+4316456,2024,29,2024-10-03,Criciúma,Atlético-GO,03-10,2,TRUE,Gustavo · Rodrigo
+4316447,2024,29,2024-10-04,Grêmio,Fortaleza,04-17,2,FALSE,Dodi · Eros Mancuso
+4316447,2024,29,2024-10-04,Grêmio,Fortaleza,06-05,2,FALSE,Martin Braithwaite · Yago Pikachu
+4316447,2024,29,2024-10-04,Grêmio,Fortaleza,09-06,2,FALSE,Alexander Aravena · João Ricardo
+4316449,2024,29,2024-10-05,EC Bahia,Flamengo,06-01,2,TRUE,Nicolás de la Cruz · Giorgian de Arrascaeta
+4316451,2024,29,2024-10-05,Vasco da Gama,Juventude,02-01,2,FALSE,Maxime Dominguez · Zé Marcos
+4316452,2024,29,2024-10-05,Corinthians,Internacional,03-23,2,TRUE,Sergio Rochet · Thiago Maia
+4316452,2024,29,2024-10-05,Corinthians,Internacional,04-04,2,TRUE,Clayton · Bruno Gomes
+4316454,2024,29,2024-10-05,Athletico-PR,Botafogo,03-27,2,TRUE,Bastos · Marlon Freitas
+4316455,2024,29,2024-10-05,Cuiabá-MT,São Paulo,04-16,2,TRUE,Bruno Alves · Marllon
+4316524,2024,30,2024-10-16,Fortaleza,Atlético-MG,03-26,2,FALSE,Emanuel Brítez · Fausto Vera
+4316520,2024,30,2024-10-17,Flamengo,Fluminense,08-21,2,FALSE,Agustín Rossi · Facundo Bernal
+4316518,2024,30,2024-10-18,Cruzeiro,EC Bahia,03-07,2,TRUE,Kanu · Gilberto
+4316521,2024,30,2024-10-18,Botafogo,Criciúma,03-10,2,TRUE,Gustavo · Rodrigo
+4316525,2024,30,2024-10-18,Atlético-GO,Cuiabá-MT,03-10,2,TRUE,Alan Empereur · Railan
+4316525,2024,30,2024-10-18,Atlético-GO,Cuiabá-MT,04-16,2,TRUE,Bruno Alves · Marllon
+4316517,2024,30,2024-10-19,Internacional,Grêmio,04-04,2,TRUE,Clayton · Bruno Gomes
+4316519,2024,30,2024-10-19,EC Vitória,RB Bragantino,10-18,2,FALSE,Matheuzinho · Ivan Cavaleiro
+4316526,2024,30,2024-10-20,Juventude,Palmeiras,05-06,2,FALSE,Danilo Boza · Gustavo Gómez
+4316478,2024,31,2024-10-26,Atlético-MG,Internacional,03-23,2,TRUE,Sergio Rochet · Thiago Maia
+4316478,2024,31,2024-10-26,Atlético-MG,Internacional,04-04,2,TRUE,Clayton · Bruno Gomes
+4316483,2024,31,2024-10-26,RB Bragantino,Botafogo,03-27,2,TRUE,Bastos · Marlon Freitas
+4316486,2024,31,2024-10-26,Criciúma,São Paulo,03-10,2,TRUE,Gustavo · Rodrigo
+4316486,2024,31,2024-10-26,Criciúma,São Paulo,03-12,2,TRUE,Newton · Felipe Vizeu
+4316486,2024,31,2024-10-26,Criciúma,São Paulo,12-10,2,FALSE,Gustavo Barreto · Erick
+4316485,2024,31,2024-10-28,Cuiabá-MT,Corinthians,04-16,2,TRUE,Marllon · Bruno Alves
+4316373,2024,32,2024-11-02,RB Bragantino,Cuiabá-MT,04-16,2,TRUE,Bruno Alves · Marllon
+4316374,2024,32,2024-11-02,Athletico-PR,EC Vitória,10-18,2,FALSE,Felipinho · Matheuzinho
+4316376,2024,32,2024-11-02,Juventude,Fortaleza,06-04,2,FALSE,Edson Carioca · Emmanuel Martínez
+4316372,2024,32,2024-11-04,Corinthians,Palmeiras,05-13,2,FALSE,Alex Santana · Aníbal Moreno
+4316367,2024,32,2024-11-05,Internacional,Criciúma,02-02,2,FALSE,Vitão · Tobias Figueiredo
+4316367,2024,32,2024-11-05,Internacional,Criciúma,03-10,2,TRUE,Gustavo · Rodrigo
+4316367,2024,32,2024-11-05,Internacional,Criciúma,03-12,2,TRUE,Newton · Felipe Vizeu
+4316367,2024,32,2024-11-05,Internacional,Criciúma,03-23,2,TRUE,Sergio Rochet · Thiago Maia
+4316367,2024,32,2024-11-05,Internacional,Criciúma,03-30,2,TRUE,Bruno Tabata · Wesley
+4316367,2024,32,2024-11-05,Internacional,Criciúma,09-24,2,FALSE,Alexandro Bernabei · Claudinho
+4316371,2024,32,2024-11-05,Botafogo,Vasco da Gama,03-16,2,FALSE,Alexander Barboza · Jean Meneses
+4316467,2024,33,2024-11-08,Internacional,Fluminense,03-23,2,TRUE,Sergio Rochet · Thiago Maia
+4316472,2024,33,2024-11-08,Palmeiras,Grêmio,05-11,2,TRUE,Caio Paulista · Rony
+4316471,2024,33,2024-11-09,Botafogo,Cuiabá-MT,03-27,2,TRUE,Bastos · Marlon Freitas
+4316471,2024,33,2024-11-09,Botafogo,Cuiabá-MT,04-16,2,TRUE,Marllon · Bruno Alves
+4316473,2024,33,2024-11-09,São Paulo,Athletico-PR,06-23,2,FALSE,Rafael · Pablo
+4316475,2024,33,2024-11-09,Atlético-GO,RB Bragantino,04-01,2,FALSE,Adriano Martins · Vitinho
+4316475,2024,33,2024-11-09,Atlético-GO,RB Bragantino,10-02,2,FALSE,Gonzalo Freitas · Pedro Henrique
+4316548,2024,34,2024-11-20,Atlético-MG,Botafogo,03-27,2,TRUE,Bastos · Marlon Freitas
+4316549,2024,34,2024-11-20,EC Bahia,Palmeiras,05-11,2,TRUE,Caio Paulista · Rony
+4316549,2024,34,2024-11-20,EC Bahia,Palmeiras,06-22,2,FALSE,Jean Lucas · Mauricio
+4316552,2024,34,2024-11-20,Corinthians,Cruzeiro,02-16,2,FALSE,André Ramalho · Lucas Silva
+4316554,2024,34,2024-11-20,Athletico-PR,Atlético-GO,03-05,3,FALSE,Tomás Cuello · Bruno Tubarão · Jan Hurtado
+4316555,2024,34,2024-11-20,Cuiabá-MT,Flamengo,04-16,2,TRUE,Marllon · Bruno Alves
+4316556,2024,34,2024-11-20,Criciúma,EC Vitória,03-10,2,TRUE,Gustavo · Rodrigo
+4316556,2024,34,2024-11-20,Criciúma,EC Vitória,03-12,2,TRUE,Newton · Felipe Vizeu
+4316551,2024,34,2024-11-21,Vasco da Gama,Internacional,03-30,2,TRUE,Bruno Tabata · Wesley
+4316221,2024,35,2024-11-23,Botafogo,EC Vitória,07-23,2,FALSE,Vitinho · Wagner Leonardo
+4316225,2024,35,2024-11-23,Atlético-GO,Palmeiras,03-05,2,TRUE,Bruno Tubarão · Jan Hurtado
+4316225,2024,35,2024-11-23,Atlético-GO,Palmeiras,04-15,2,FALSE,Roni · Felipe Anderson
+4316225,2024,35,2024-11-23,Atlético-GO,Palmeiras,05-11,2,TRUE,Caio Paulista · Rony
+4316226,2024,35,2024-11-23,Juventude,Cuiabá-MT,04-16,2,TRUE,Marllon · Bruno Alves
+4316226,2024,35,2024-11-23,Juventude,Cuiabá-MT,09-27,2,FALSE,Gabriel · Derik Lacerda
+4316217,2024,35,2024-11-24,Internacional,RB Bragantino,03-30,2,TRUE,Bruno Tabata · Wesley
+4316219,2024,35,2024-11-24,EC Bahia,Athletico-PR,03-07,2,TRUE,Kanu · Gilberto
+4316220,2024,35,2024-11-26,Fluminense,Criciúma,03-10,2,TRUE,Gustavo · Rodrigo
+4316220,2024,35,2024-11-26,Fluminense,Criciúma,03-12,2,TRUE,Newton · Felipe Vizeu
+4316224,2024,35,2024-11-26,Fortaleza,Flamengo,03-12,2,FALSE,Titi · Michael
+4316224,2024,35,2024-11-26,Fortaleza,Flamengo,09-06,2,FALSE,João Ricardo · Wesley
+4316218,2024,35,2024-11-27,Cruzeiro,Grêmio,08-17,2,FALSE,Álvaro Barreal · Rodrigo Caio
+4316492,2024,36,2024-11-26,Palmeiras,Botafogo,03-27,2,TRUE,Bastos · Marlon Freitas
+4316492,2024,36,2024-11-26,Palmeiras,Botafogo,05-11,2,TRUE,Caio Paulista · Rony
+4316495,2024,36,2024-11-30,Cuiabá-MT,EC Bahia,02-24,2,FALSE,Lucas Mineiro · Caio Alexandre
+4316495,2024,36,2024-11-30,Cuiabá-MT,EC Bahia,03-07,2,TRUE,Kanu · Gilberto
+4316496,2024,36,2024-11-30,Criciúma,Corinthians,03-10,2,TRUE,Gustavo · Rodrigo
+4316496,2024,36,2024-11-30,Criciúma,Corinthians,03-12,2,TRUE,Newton · Felipe Vizeu
+4316490,2024,36,2024-12-01,Flamengo,Internacional,03-23,2,TRUE,Sergio Rochet · Thiago Maia
+4316490,2024,36,2024-12-01,Flamengo,Internacional,03-30,2,TRUE,Bruno Tabata · Wesley
+4316493,2024,36,2024-12-01,RB Bragantino,Cruzeiro,08-19,2,FALSE,Cleiton · Lucas Villalba
+4316557,2024,37,2024-12-04,Internacional,Botafogo,03-23,2,FALSE,Sergio Rochet · Adryelson
+4316557,2024,37,2024-12-04,Internacional,Botafogo,03-30,2,TRUE,Bruno Tabata · Wesley
+4316559,2024,37,2024-12-04,EC Vitória,Grêmio,02-27,2,FALSE,Ricardo Ryller · Miguel Monsalve
+4316561,2024,37,2024-12-04,Vasco da Gama,Atlético-MG,07-25,2,FALSE,Paulo Henrique · Hulk
+4316565,2024,37,2024-12-04,Atlético-GO,Fortaleza,10-10,2,FALSE,Baralhas · Tomás Cardona
+4316566,2024,37,2024-12-04,Criciúma,Flamengo,05-24,2,FALSE,Yannick Bolasie · Matheus Cunha
+4316560,2024,37,2024-12-05,Fluminense,Cuiabá-MT,12-17,2,FALSE,Kevin Serna · Fernando Sobral
+4316398,2024,38,2024-12-08,Atlético-MG,Athletico-PR,05-08,2,FALSE,Deyverson · Lucas Belezi
+4316399,2024,38,2024-12-08,EC Bahia,Atlético-GO,03-07,2,TRUE,Kanu · Gilberto
+4316403,2024,38,2024-12-08,RB Bragantino,Criciúma,03-10,2,TRUE,Gustavo · Rodrigo
+4316404,2024,38,2024-12-08,Fortaleza,Internacional,04-04,2,TRUE,Clayton · Bruno Gomes
+4582063,2025,1,2025-03-29,São Paulo,Sport Recife,01-14,2,TRUE,João Silva · Christian Rivera
+4582063,2025,1,2025-03-29,São Paulo,Sport Recife,06-23,2,FALSE,Rafael · Pablo
+4582066,2025,1,2025-03-29,Grêmio,Atlético-MG,01-05,2,TRUE,Natanael · Gustavo Scarpa
+4582069,2025,1,2025-03-29,Juventude,EC Vitória,06-18,2,TRUE,Ronald · Wellington Rato
+4582061,2025,1,2025-03-30,Vasco da Gama,Santos,06-12,2,FALSE,Philippe Coutinho · Gil
+4582062,2025,1,2025-03-30,Palmeiras,Botafogo,03-27,2,FALSE,Murilo · Marlon Freitas
+4582067,2025,1,2025-03-30,EC Bahia,Corinthians,02-16,2,FALSE,Ademir · André Ramalho
+4582067,2025,1,2025-03-30,EC Bahia,Corinthians,03-07,2,TRUE,Kanu · Gilberto
+4582067,2025,1,2025-03-30,EC Bahia,Corinthians,08-29,2,FALSE,Luciano Juba · Hugo
+4582132,2025,2,2025-04-05,Corinthians,Vasco da Gama,03-18,2,FALSE,Yuri Alberto · Mateus Carvalho
+4582134,2025,2,2025-04-06,Mirassol-SP,Fortaleza,09-02,2,FALSE,João Victor · Moisés
+4582134,2025,2,2025-04-06,Mirassol-SP,Fortaleza,09-06,2,FALSE,Iury Castilho · João Ricardo
+4582135,2025,2,2025-04-06,Atlético-MG,São Paulo,01-05,2,TRUE,Natanael · Gustavo Scarpa
+4582136,2025,2,2025-04-06,Internacional,Cruzeiro,10-17,2,FALSE,Agustín Rogel · Eduardo
+4582137,2025,2,2025-04-06,EC Vitória,Flamengo,06-01,2,TRUE,Nicolás de la Cruz · Giorgian de Arrascaeta
+4582139,2025,2,2025-04-06,Sport Recife,Palmeiras,01-14,2,TRUE,João Silva · Christian Rivera
+4582031,2025,3,2025-04-12,Vasco da Gama,Sport Recife,01-14,2,TRUE,João Silva · Christian Rivera
+4582030,2025,3,2025-04-13,Fluminense,Santos,10-05,2,FALSE,Martinelli · Gabriel Brazão
+4582035,2025,3,2025-04-13,Atlético-MG,EC Vitória,01-05,2,TRUE,Natanael · Gustavo Scarpa
+4582036,2025,3,2025-04-13,Grêmio,Flamengo,06-01,2,TRUE,Nicolás de la Cruz · Giorgian de Arrascaeta
+4582037,2025,3,2025-04-13,EC Bahia,Mirassol-SP,03-07,3,FALSE,Kanu · Gilberto · Lucas Ramon
+4582082,2025,4,2025-04-16,Corinthians,Fluminense,01-11,2,FALSE,Félix Torres · Juan Pablo Freytes
+4582083,2025,4,2025-04-16,Santos,Atlético-MG,05-11,2,TRUE,Caio Paulista · Rony
+4582084,2025,4,2025-04-16,Mirassol-SP,Grêmio,07-23,2,FALSE,Fabrício Daniel · Wagner Leonardo
+4582086,2025,4,2025-04-16,Internacional,Palmeiras,05-13,2,FALSE,Alan Patrick · Aníbal Moreno
+4582087,2025,4,2025-04-16,EC Vitória,Fortaleza,05-02,2,FALSE,Lucas Halter · Benjamín Kuscevic
+4582089,2025,4,2025-04-16,Sport Recife,RB Bragantino,01-14,2,TRUE,João Silva · Christian Rivera
+4582141,2025,5,2025-04-19,Vasco da Gama,Flamengo,01-03,2,FALSE,Hugo Moura · Léo Ortiz
+4582141,2025,5,2025-04-19,Vasco da Gama,Flamengo,06-01,2,TRUE,Nicolás de la Cruz · Giorgian de Arrascaeta
+4582142,2025,5,2025-04-19,Corinthians,Sport Recife,01-14,2,TRUE,João Silva · Christian Rivera
+4582146,2025,5,2025-04-19,Grêmio,Internacional,04-17,2,TRUE,Dodi · Cristian Olivera
+4582143,2025,5,2025-04-20,São Paulo,Santos,04-28,2,FALSE,Lucas Ferreira · Leonardo Godoy
+4582145,2025,5,2025-04-20,Atlético-MG,Botafogo,05-11,2,TRUE,Caio Paulista · Rony
+4582149,2025,5,2025-04-20,Juventude,Mirassol-SP,11-10,2,FALSE,Ewerthon · Alex Muralha
+4582164,2025,6,2025-04-26,Mirassol-SP,Atlético-MG,01-05,2,TRUE,Natanael · Gustavo Scarpa
+4582164,2025,6,2025-04-26,Mirassol-SP,Atlético-MG,07-25,2,FALSE,Aldo Filho · Hulk
+4582166,2025,6,2025-04-26,Internacional,Juventude,03-30,2,TRUE,Bruno Tabata · Wesley
+4582169,2025,6,2025-04-26,Sport Recife,Fortaleza,06-03,2,FALSE,Caíque França · Matheus Rossetto
+4582160,2025,6,2025-04-27,Flamengo,Corinthians,01-31,2,FALSE,Léo Pereira · Hugo Souza
+4582160,2025,6,2025-04-27,Flamengo,Corinthians,06-01,2,TRUE,Nicolás de la Cruz · Giorgian de Arrascaeta
+4582162,2025,6,2025-04-27,Palmeiras,EC Bahia,04-13,2,FALSE,Facundo Torres · Marcos Felipe
+4582162,2025,6,2025-04-27,Palmeiras,EC Bahia,06-22,2,FALSE,Mauricio · Jean Lucas
+4582163,2025,6,2025-04-27,Santos,RB Bragantino,09-09,2,FALSE,Luisão · Jhon Jhon
+4582167,2025,6,2025-04-27,EC Vitória,Grêmio,04-17,2,TRUE,Dodi · Cristian Olivera
+4582093,2025,7,2025-05-02,São Paulo,Fortaleza,06-03,2,FALSE,André Silva · Matheus Rossetto
+4582090,2025,7,2025-05-03,Fluminense,Sport Recife,01-14,2,TRUE,João Silva · Christian Rivera
+4582090,2025,7,2025-05-03,Fluminense,Sport Recife,07-05,2,FALSE,Everaldo · Chrystian Barletta
+4582095,2025,7,2025-05-04,Cruzeiro,Flamengo,06-01,2,TRUE,Nicolás de la Cruz · Giorgian de Arrascaeta
+4582096,2025,7,2025-05-04,Grêmio,Santos,04-17,2,TRUE,Dodi · Cristian Olivera
+4582096,2025,7,2025-05-04,Grêmio,Santos,06-05,2,FALSE,Martin Braithwaite · Deivid Washington
+4582099,2025,7,2025-05-05,Juventude,Atlético-MG,01-05,2,TRUE,Natanael · Gustavo Scarpa
+4582099,2025,7,2025-05-05,Juventude,Atlético-MG,05-11,2,TRUE,Caio Paulista · Rony
+4582056,2025,8,2025-05-10,Grêmio,RB Bragantino,04-17,2,TRUE,Dodi · Cristian Olivera
+4582057,2025,8,2025-05-10,EC Vitória,Vasco da Gama,06-16,2,FALSE,Edu Ribeiro · Nuno Moreira
+4582057,2025,8,2025-05-10,EC Vitória,Vasco da Gama,06-18,2,TRUE,Ronald · Wellington Rato
+4582051,2025,8,2025-05-11,Botafogo,Internacional,03-30,2,TRUE,Bruno Tabata · Wesley
+4582055,2025,8,2025-05-11,Atlético-MG,Fluminense,01-05,2,TRUE,Natanael · Gustavo Scarpa
+4582055,2025,8,2025-05-11,Atlético-MG,Fluminense,02-09,2,FALSE,Júnior Alonso · Gabriel Fuentes
+4582055,2025,8,2025-05-11,Atlético-MG,Fluminense,08-21,2,FALSE,Alan Franco · Facundo Bernal
+4582059,2025,8,2025-05-11,Sport Recife,Cruzeiro,01-14,2,TRUE,João Silva · Christian Rivera
+4582071,2025,9,2025-05-17,Vasco da Gama,Fortaleza,07-25,2,FALSE,Paulo Henrique · Gustavo Mancha
+4582075,2025,9,2025-05-18,Cruzeiro,Atlético-MG,01-05,2,TRUE,Natanael · Gustavo Scarpa
+4582076,2025,9,2025-05-18,Internacional,Mirassol-SP,07-25,2,FALSE,Ricardo Mathias · Aldo Filho
+4582077,2025,9,2025-05-18,EC Bahia,EC Vitória,06-18,2,TRUE,Ronald · Wellington Rato
+4582185,2025,10,2025-05-24,Atlético-MG,Corinthians,01-05,2,TRUE,Natanael · Gustavo Scarpa
+4582185,2025,10,2025-05-24,Atlético-MG,Corinthians,09-08,2,FALSE,Bernard · Matheuzinho
+4582185,2025,10,2025-05-24,Atlético-MG,Corinthians,12-31,2,TRUE,João Pedro Tchoca · Raniele
+4582182,2025,10,2025-05-25,Palmeiras,Flamengo,02-28,2,FALSE,Vitor Roque · Evertton Araújo
+4582186,2025,10,2025-05-25,Grêmio,EC Bahia,01-24,2,FALSE,Mathías Villasanti · David Duarte
+4582186,2025,10,2025-05-25,Grêmio,EC Bahia,04-17,2,TRUE,Dodi · Cristian Olivera
+4582187,2025,10,2025-05-25,EC Vitória,Santos,01-13,2,TRUE,João Basso · Tomás Rincón
+4582187,2025,10,2025-05-25,EC Vitória,Santos,06-16,2,TRUE,Souza · Zé Rafael
+4582188,2025,10,2025-05-25,Fortaleza,Cruzeiro,01-24,2,FALSE,Breno Lopes · Kaio Jorge
+4582189,2025,10,2025-05-25,Sport Recife,Internacional,01-23,2,FALSE,Lucas Cunha · Anthoni
+4582189,2025,10,2025-05-25,Sport Recife,Internacional,03-23,2,FALSE,Zé Lucas · Thiago Maia
+4582184,2025,10,2025-05-26,RB Bragantino,Juventude,10-02,2,FALSE,Pedro Henrique · Mandaca
+4582157,2025,11,2025-05-31,EC Bahia,São Paulo,11-21,2,FALSE,Santiago Ramos Mingo · Ryan Francisco
+4582153,2025,11,2025-06-01,Santos,Botafogo,01-13,2,TRUE,João Basso · Tomás Rincón
+4582153,2025,11,2025-06-01,Santos,Botafogo,06-16,2,TRUE,Souza · Zé Rafael
+4582154,2025,11,2025-06-01,Mirassol-SP,Sport Recife,03-07,2,FALSE,Lucas Ramon · Antônio Carlos
+4582158,2025,11,2025-06-01,Ceará SC,Atlético-MG,01-05,2,TRUE,Natanael · Gustavo Scarpa
+4582159,2025,11,2025-06-01,Juventude,Grêmio,04-17,2,TRUE,Dodi · Cristian Olivera
+4582114,2025,12,2025-06-12,RB Bragantino,EC Bahia,02-24,2,FALSE,Eduardo Sasha · Caio Alexandre
+4582114,2025,12,2025-06-12,RB Bragantino,EC Bahia,10-02,2,FALSE,Pedro Henrique · Erick Pulga
+4582115,2025,12,2025-06-12,Atlético-MG,Internacional,01-05,2,TRUE,Natanael · Gustavo Scarpa
+4582115,2025,12,2025-06-12,Atlético-MG,Internacional,03-30,2,TRUE,Wesley · Bruno Tabata
+4582116,2025,12,2025-06-12,Grêmio,Corinthians,04-17,2,TRUE,Dodi · Cristian Olivera
+4582116,2025,12,2025-06-12,Grêmio,Corinthians,07-15,2,TRUE,Maycon · Ryan
+4582118,2025,12,2025-06-12,Fortaleza,Santos,06-16,2,TRUE,Souza · Zé Rafael
+4582119,2025,12,2025-11-15,Sport Recife,Flamengo,01-14,2,FALSE,Christian Rivera · Emerson Royal
+4582206,2025,13,2025-07-12,Internacional,EC Vitória,03-23,2,TRUE,Sergio Rochet · Thiago Maia
+4582207,2025,13,2025-07-12,EC Bahia,Atlético-MG,01-05,2,TRUE,Natanael · Gustavo Scarpa
+4582205,2025,13,2025-07-13,Cruzeiro,Grêmio,01-24,2,FALSE,Kaio Jorge · Mathías Villasanti
+4582205,2025,13,2025-07-13,Cruzeiro,Grêmio,05-05,2,FALSE,Matheus Pereira · Alysson
+4582205,2025,13,2025-07-13,Cruzeiro,Grêmio,12-19,2,FALSE,Christian · Tiago Volpi
+4582209,2025,13,2025-07-14,Juventude,Sport Recife,01-14,2,FALSE,Hudson · Christian Rivera
+4582203,2025,13,2025-11-15,Santos,Palmeiras,04-01,2,FALSE,Igor Vinícius · Bruno Fuchs
+4582203,2025,13,2025-11-15,Santos,Palmeiras,06-16,2,TRUE,Souza · Zé Rafael
+4582171,2025,14,2025-07-16,Botafogo,EC Vitória,09-18,2,FALSE,Kaio · Raúl Cáceres
+4582173,2025,14,2025-07-16,Santos,Flamengo,01-13,2,TRUE,João Basso · Tomás Rincón
+4582173,2025,14,2025-07-16,Santos,Flamengo,06-16,2,TRUE,Souza · Zé Rafael
+4582174,2025,14,2025-07-16,RB Bragantino,São Paulo,09-09,2,FALSE,Jhon Jhon · Oscar
+4582170,2025,14,2025-07-17,Fluminense,Cruzeiro,06-06,2,FALSE,Samuel Xavier · Cássio
+4582176,2025,14,2025-07-29,Grêmio,Fortaleza,01-24,2,FALSE,Mathías Villasanti · Breno Lopes
+4582176,2025,14,2025-07-29,Grêmio,Fortaleza,04-17,3,FALSE,Dodi · Cristian Olivera · Eros Mancuso
+4582179,2025,14,2025-08-20,Juventude,Vasco da Gama,08-30,2,FALSE,Jádson · Tchê Tchê
+4582175,2025,14,2025-10-08,Atlético-MG,Sport Recife,09-27,2,TRUE,Gabriel · Derik Lacerda
+4582101,2025,15,2025-07-19,Vasco da Gama,Grêmio,04-17,2,TRUE,Dodi · Cristian Olivera
+4582104,2025,15,2025-07-19,Mirassol-SP,Santos,06-16,2,TRUE,Souza · Zé Rafael
+4582108,2025,15,2025-07-19,Fortaleza,EC Bahia,01-24,2,FALSE,Breno Lopes · David Duarte
+4582100,2025,15,2025-07-20,Flamengo,Fluminense,08-21,2,FALSE,Agustín Rossi · Facundo Bernal
+4582102,2025,15,2025-07-20,Palmeiras,Atlético-MG,01-05,2,TRUE,Natanael · Gustavo Scarpa
+4582105,2025,15,2025-07-20,Cruzeiro,Juventude,08-30,2,FALSE,Gabriel Barbosa · Jádson
+4582106,2025,15,2025-07-20,Internacional,Ceará SC,03-23,2,TRUE,Sergio Rochet · Thiago Maia
+4582109,2025,15,2025-07-20,Sport Recife,Botafogo,09-27,2,TRUE,Gabriel · Derik Lacerda
+4582222,2025,16,2025-07-23,Corinthians,Cruzeiro,02-16,2,FALSE,André Ramalho · Lucas Silva
+4582223,2025,16,2025-07-23,Santos,Internacional,03-23,2,TRUE,Sergio Rochet · Thiago Maia
+4582223,2025,16,2025-07-23,Santos,Internacional,06-16,2,TRUE,Souza · Zé Rafael
+4582227,2025,16,2025-07-23,EC Vitória,Sport Recife,02-01,2,FALSE,Zé Marcos · Ignacio Ramírez
+4582221,2025,16,2025-09-24,Vasco da Gama,EC Bahia,05-06,2,FALSE,Cauan Barros · Gabriel Xavier
+4582211,2025,17,2025-07-26,Botafogo,Corinthians,04-25,2,FALSE,Arthur Cabral · Cacá
+4582211,2025,17,2025-07-26,Botafogo,Corinthians,12-31,2,TRUE,João Pedro Tchoca · Raniele
+4582212,2025,17,2025-07-26,Palmeiras,Grêmio,04-17,2,TRUE,Dodi · Cristian Olivera
+4582218,2025,17,2025-07-26,Fortaleza,RB Bragantino,02-14,2,TRUE,Sergio Palacios · Guilherme Lopes
+4582219,2025,17,2025-07-26,Sport Recife,Santos,01-13,2,TRUE,João Basso · Tomás Rincón
+4582219,2025,17,2025-07-26,Sport Recife,Santos,09-27,2,TRUE,Gabriel · Derik Lacerda
+4582210,2025,17,2025-07-27,Flamengo,Atlético-MG,08-21,2,FALSE,Agustín Rossi · Alan Franco
+4582213,2025,17,2025-07-27,São Paulo,Fluminense,05-18,2,FALSE,Luciano · John Kennedy
+4582216,2025,17,2025-07-27,Internacional,Vasco da Gama,03-23,2,TRUE,Sergio Rochet · Thiago Maia
+4582305,2025,18,2025-08-02,Sport Recife,EC Bahia,03-23,2,FALSE,Zé Lucas · Iago
+4582305,2025,18,2025-08-02,Sport Recife,EC Bahia,09-27,2,TRUE,Gabriel · Derik Lacerda
+4582281,2025,18,2025-08-03,Atlético-MG,RB Bragantino,01-05,2,TRUE,Gustavo Scarpa · Natanael
+4582281,2025,18,2025-08-03,Atlético-MG,RB Bragantino,08-19,2,TRUE,Cleiton · Nathan Mendes
+4582285,2025,18,2025-08-03,Internacional,São Paulo,01-25,2,TRUE,Alan Rodríguez · Alan Benítez
+4582124,2025,19,2025-08-09,RB Bragantino,Internacional,01-25,2,TRUE,Alan Benítez · Alan Rodríguez
+4582124,2025,19,2025-08-09,RB Bragantino,Internacional,02-01,2,FALSE,Ignacio Laquintana · Juninho
+4582124,2025,19,2025-08-09,RB Bragantino,Internacional,03-23,2,TRUE,Sergio Rochet · Thiago Maia
+4582124,2025,19,2025-08-09,RB Bragantino,Internacional,03-30,2,TRUE,Bruno Tabata · Wesley
+4582124,2025,19,2025-08-09,RB Bragantino,Internacional,08-19,2,TRUE,Cleiton · Nathan Mendes
+4582127,2025,19,2025-08-09,EC Bahia,Fluminense,06-11,2,FALSE,Kayky · Lima
+4582121,2025,19,2025-08-10,Vasco da Gama,Atlético-MG,01-05,2,TRUE,Natanael · Gustavo Scarpa
+4582126,2025,19,2025-08-10,Grêmio,Sport Recife,04-17,2,TRUE,Dodi · Cristian Olivera
+4582126,2025,19,2025-08-10,Grêmio,Sport Recife,09-27,2,TRUE,Gabriel · Derik Lacerda
+4582271,2025,20,2025-08-16,Fluminense,Fortaleza,09-30,2,FALSE,Fábio · Gastón Ávila
+4582282,2025,20,2025-08-16,Corinthians,EC Bahia,02-16,2,FALSE,André Ramalho · Ademir
+4582325,2025,20,2025-08-16,Ceará SC,RB Bragantino,02-08,2,TRUE,Guzmán Rodríguez · Praxedes
+4582325,2025,20,2025-08-16,Ceará SC,RB Bragantino,02-24,2,FALSE,Nicolas · Eduardo Sasha
+4582325,2025,20,2025-08-16,Ceará SC,RB Bragantino,08-19,2,TRUE,Cleiton · Nathan Mendes
+4582325,2025,20,2025-08-16,Ceará SC,RB Bragantino,09-07,2,FALSE,Lourenço · Vanderlan
+4582332,2025,20,2025-08-16,Sport Recife,São Paulo,09-27,2,TRUE,Gabriel · Derik Lacerda
+4582277,2025,20,2025-08-17,Botafogo,Palmeiras,01-08,2,TRUE,Allan · Santiago Rodríguez
+4582277,2025,20,2025-08-17,Botafogo,Palmeiras,03-27,2,FALSE,Marlon Freitas · Murilo
+4582290,2025,20,2025-08-17,Santos,Vasco da Gama,06-16,3,FALSE,Souza · Zé Rafael · Nuno Moreira
+4582306,2025,20,2025-08-17,Atlético-MG,Grêmio,01-05,2,TRUE,Natanael · Gustavo Scarpa
+4582297,2025,20,2025-08-18,Mirassol-SP,Cruzeiro,05-05,2,FALSE,Chico da Costa · Matheus Pereira
+4582044,2025,21,2025-08-23,RB Bragantino,Fluminense,02-08,2,TRUE,Guzmán Rodríguez · Praxedes
+4582044,2025,21,2025-08-23,RB Bragantino,Fluminense,08-19,2,TRUE,Cleiton · Nathan Mendes
+4582045,2025,21,2025-08-23,Cruzeiro,Internacional,03-30,2,TRUE,Bruno Tabata · Wesley
+4582046,2025,21,2025-08-23,Grêmio,Ceará SC,03-14,2,FALSE,Walter Kannemann · Fabiano
+4582043,2025,21,2025-08-24,São Paulo,Atlético-MG,05-11,2,TRUE,Caio Paulista · Rony
+4582043,2025,21,2025-08-24,São Paulo,Atlético-MG,10-11,2,FALSE,Alan Franco · Júnior Santos
+4582047,2025,21,2025-08-24,EC Bahia,Santos,01-13,2,FALSE,Santiago Arias · Tomás Rincón
+4582048,2025,21,2025-08-24,Fortaleza,Mirassol-SP,07-25,2,FALSE,Gustavo Mancha · Aldo Filho
+4582049,2025,21,2025-08-24,Juventude,Botafogo,07-19,2,FALSE,Nenê · Neto
+4582269,2025,22,2025-08-30,Botafogo,RB Bragantino,08-19,2,TRUE,Cleiton · Nathan Mendes
+4582265,2025,22,2025-08-31,Flamengo,Grêmio,04-17,2,TRUE,Dodi · Cristian Olivera
+4582265,2025,22,2025-08-31,Flamengo,Grêmio,06-01,2,TRUE,Nicolás de la Cruz · Giorgian de Arrascaeta
+4582276,2025,22,2025-08-31,Corinthians,Palmeiras,02-06,2,FALSE,Gui Negão · Lucas Evangelista
+4582288,2025,22,2025-08-31,Santos,Fluminense,10-05,2,FALSE,Gabriel Brazão · Martinelli
+4582310,2025,22,2025-08-31,Internacional,Fortaleza,02-01,2,FALSE,Juninho · Tomás Pochettino
+4582310,2025,22,2025-08-31,Internacional,Fortaleza,03-23,2,TRUE,Sergio Rochet · Thiago Maia
+4582316,2025,22,2025-08-31,EC Vitória,Atlético-MG,01-05,2,TRUE,Natanael · Gustavo Scarpa
+4582328,2025,22,2025-08-31,Sport Recife,Vasco da Gama,01-14,2,TRUE,João Silva · Christian Rivera
+4582328,2025,22,2025-08-31,Sport Recife,Vasco da Gama,09-27,2,TRUE,Gabriel · Derik Lacerda
+4582190,2025,23,2025-09-13,Fluminense,Corinthians,04-28,2,FALSE,Igor Rabello · Kayke
+4582190,2025,23,2025-09-13,Fluminense,Corinthians,05-04,2,FALSE,Otávio · Matheus Bidu
+4582190,2025,23,2025-09-13,Fluminense,Corinthians,07-15,2,TRUE,Maycon · Ryan
+4582192,2025,23,2025-09-13,Palmeiras,Internacional,03-23,2,TRUE,Sergio Rochet · Thiago Maia
+4582192,2025,23,2025-09-13,Palmeiras,Internacional,05-13,2,FALSE,Aníbal Moreno · Alan Patrick
+4582191,2025,23,2025-09-14,Vasco da Gama,Ceará SC,03-14,2,FALSE,José Luis Rodríguez · Fabiano
+4582194,2025,23,2025-09-14,RB Bragantino,Sport Recife,08-19,2,TRUE,Cleiton · Nathan Mendes
+4582194,2025,23,2025-09-14,RB Bragantino,Sport Recife,09-27,2,TRUE,Gabriel · Derik Lacerda
+4582195,2025,23,2025-09-14,Atlético-MG,Santos,01-05,2,TRUE,Natanael · Gustavo Scarpa
+4582195,2025,23,2025-09-14,Atlético-MG,Santos,05-11,2,FALSE,Rony · Victor Hugo
+4582197,2025,23,2025-09-15,EC Bahia,Cruzeiro,12-19,2,TRUE,Matheus Henrique · Christian
+4582294,2025,24,2025-09-20,Palmeiras,Fortaleza,06-19,2,FALSE,Raphael Veiga · Lucas Crispim
+4582348,2025,24,2025-09-20,Ceará SC,EC Bahia,03-31,2,FALSE,Dieguinho · Mateo Sanabria
+4582274,2025,24,2025-09-21,Flamengo,Vasco da Gama,01-03,2,FALSE,Léo Ortiz · Hugo Moura
+4582307,2025,24,2025-09-21,Santos,São Paulo,03-16,2,FALSE,Gonzalo Escobar · Rodriguinho
+4582307,2025,24,2025-09-21,Santos,São Paulo,05-14,2,TRUE,Felipe Negrucci · Luan
+4582323,2025,24,2025-09-21,Cruzeiro,RB Bragantino,08-19,3,FALSE,Lucas Villalba · Cleiton · Nathan Mendes
+4582349,2025,24,2025-09-21,Sport Recife,Corinthians,09-27,2,TRUE,Gabriel · Derik Lacerda
+4582245,2025,25,2025-09-27,Atlético-MG,Mirassol-SP,05-11,2,TRUE,Caio Paulista · Rony
+4582248,2025,25,2025-09-27,Fortaleza,Sport Recife,09-27,2,TRUE,Gabriel · Derik Lacerda
+4582242,2025,25,2025-09-28,Corinthians,Flamengo,01-31,2,FALSE,Hugo Souza · Léo Pereira
+4582242,2025,25,2025-09-28,Corinthians,Flamengo,06-01,2,TRUE,Nicolás de la Cruz · Giorgian de Arrascaeta
+4582242,2025,25,2025-09-28,Corinthians,Flamengo,12-31,2,TRUE,João Pedro Tchoca · Raniele
+4582244,2025,25,2025-09-28,RB Bragantino,Santos,06-16,2,TRUE,Souza · Zé Rafael
+4582244,2025,25,2025-09-28,RB Bragantino,Santos,08-19,2,TRUE,Cleiton · Nathan Mendes
+4582247,2025,25,2025-09-28,EC Bahia,Palmeiras,05-06,2,FALSE,Gabriel Xavier · Gustavo Gómez
+4582243,2025,25,2025-09-29,São Paulo,Ceará SC,03-16,2,FALSE,Rodriguinho · Bruno Ferreira
+4582255,2025,26,2025-09-30,Atlético-MG,Juventude,02-01,2,FALSE,Lyanco · Marcelo Hermes
+4582255,2025,26,2025-09-30,Atlético-MG,Juventude,05-11,2,TRUE,Caio Paulista · Rony
+4582250,2025,26,2025-10-02,Flamengo,Cruzeiro,12-19,2,TRUE,Christian · Matheus Henrique
+4582296,2025,27,2025-10-04,Corinthians,Mirassol-SP,12-31,2,TRUE,João Pedro Tchoca · Raniele
+4582313,2025,27,2025-10-04,RB Bragantino,Grêmio,08-19,2,TRUE,Cleiton · Nathan Mendes
+4582324,2025,27,2025-10-05,Cruzeiro,Sport Recife,09-27,2,TRUE,Gabriel · Derik Lacerda
+4582335,2025,27,2025-10-05,EC Bahia,Flamengo,06-01,2,TRUE,Nicolás de la Cruz · Giorgian de Arrascaeta
+4582338,2025,27,2025-10-05,Ceará SC,Santos,03-16,2,FALSE,Bruno Ferreira · Gonzalo Escobar
+4582341,2025,27,2025-10-05,Juventude,Fortaleza,03-01,2,FALSE,Jandrei · Lucas Sasha
+4582262,2025,28,2025-10-15,Botafogo,Flamengo,01-08,2,TRUE,Allan · Santiago Rodríguez
+4582272,2025,28,2025-10-15,Santos,Corinthians,03-24,2,FALSE,Benjamín Rollheiser · Gustavo Henrique
+4582272,2025,28,2025-10-15,Santos,Corinthians,12-31,2,TRUE,João Pedro Tchoca · Raniele
+4582278,2025,28,2025-10-15,Mirassol-SP,Internacional,03-23,2,FALSE,Daniel Borges · Thiago Maia
+4582315,2025,28,2025-10-15,Sport Recife,Ceará SC,09-27,2,TRUE,Gabriel · Derik Lacerda
+4582292,2025,28,2025-10-16,Grêmio,São Paulo,10-22,2,FALSE,Erick Noriega · Robert Arboleda
+4582273,2025,29,2025-10-18,Corinthians,Atlético-MG,12-31,2,TRUE,Raniele · João Pedro Tchoca
+4582283,2025,29,2025-10-19,Mirassol-SP,São Paulo,02-18,2,FALSE,Cristian Renato · Gonzalo Tapia
+4582303,2025,29,2025-10-19,Internacional,Sport Recife,02-02,2,FALSE,Vitão · Luan Cândido
+4582303,2025,29,2025-10-19,Internacional,Sport Recife,03-23,2,FALSE,Thiago Maia · Zé Lucas
+4582303,2025,29,2025-10-19,Internacional,Sport Recife,04-04,2,TRUE,Clayton · Bruno Gomes
+4582303,2025,29,2025-10-19,Internacional,Sport Recife,09-27,2,TRUE,Gabriel · Derik Lacerda
+4582318,2025,29,2025-10-19,Ceará SC,Botafogo,01-08,2,TRUE,Allan · Santiago Rodríguez
+4582279,2025,29,2025-10-20,Santos,EC Vitória,06-16,2,FALSE,Zé Rafael · Edu Ribeiro
+4582326,2025,29,2025-10-20,Juventude,RB Bragantino,02-01,2,FALSE,Marcelo Hermes · Ignacio Laquintana
+4582333,2025,30,2025-10-25,Atlético-MG,Ceará SC,01-05,2,TRUE,Gustavo Scarpa · Natanael
+4582340,2025,30,2025-10-25,EC Vitória,Corinthians,12-31,2,TRUE,João Pedro Tchoca · Raniele
+4582345,2025,30,2025-10-25,Sport Recife,Mirassol-SP,09-27,2,TRUE,Gabriel · Derik Lacerda
+4582298,2025,30,2025-10-26,Botafogo,Santos,03-12,2,FALSE,Newton · Alexis Duarte
+4582327,2025,30,2025-10-26,RB Bragantino,Vasco da Gama,08-19,2,TRUE,Cleiton · Nathan Mendes
+4582337,2025,30,2025-10-26,Grêmio,Juventude,08-23,2,FALSE,Francis Amuzu · Alan Ruschel
+4582230,2025,31,2025-11-01,Flamengo,Sport Recife,01-14,2,FALSE,Emerson Royal · Christian Rivera
+4582230,2025,31,2025-11-01,Flamengo,Sport Recife,09-27,2,TRUE,Gabriel · Derik Lacerda
+4582233,2025,31,2025-11-01,Santos,Fortaleza,04-01,2,FALSE,Igor Vinícius · Brenno
+4582234,2025,31,2025-11-01,Mirassol-SP,Botafogo,02-15,2,FALSE,Felipe Jonatan · Artur
+4582231,2025,31,2025-11-02,Vasco da Gama,São Paulo,10-11,2,FALSE,Robert Renan · Alan Franco
+4582237,2025,31,2025-11-02,EC Bahia,RB Bragantino,10-02,2,FALSE,Erick Pulga · Pedro Henrique
+4582238,2025,31,2025-11-02,Ceará SC,Fluminense,12-17,2,FALSE,Fernando Sobral · Kevin Serna
+4582334,2025,32,2025-11-05,RB Bragantino,Corinthians,12-31,2,TRUE,Raniele · João Pedro Tchoca
+4582336,2025,32,2025-11-05,Atlético-MG,EC Bahia,04-14,2,FALSE,Guilherme Arana · Nicolás Acevedo
+4582339,2025,32,2025-11-05,Grêmio,Cruzeiro,05-05,2,FALSE,Alysson · Matheus Pereira
+4582339,2025,32,2025-11-05,Grêmio,Cruzeiro,12-19,2,FALSE,Tiago Volpi · Christian
+4582342,2025,32,2025-11-05,EC Vitória,Internacional,04-04,2,TRUE,Clayton · Bruno Gomes
+4582346,2025,32,2025-11-05,Sport Recife,Juventude,09-27,2,TRUE,Gabriel · Derik Lacerda
+4582322,2025,32,2025-11-06,Palmeiras,Santos,03-12,2,TRUE,Alexis Duarte · Willian Arão
+4582322,2025,32,2025-11-06,Palmeiras,Santos,06-16,2,TRUE,Souza · Zé Rafael
+4582322,2025,32,2025-11-06,Palmeiras,Santos,08-17,2,FALSE,Emiliano Martínez · Álvaro Barreal
+4726122,2025,33,2025-11-08,Sport Recife,Atlético-MG,05-11,2,TRUE,Caio Paulista · Rony
+4726113,2025,33,2025-11-09,Flamengo,Santos,06-01,2,TRUE,Nicolás de la Cruz · Giorgian de Arrascaeta
+4726113,2025,33,2025-11-09,Flamengo,Santos,06-16,2,TRUE,Souza · Zé Rafael
+4726118,2025,33,2025-11-09,Cruzeiro,Fluminense,06-06,2,FALSE,Cássio · Samuel Xavier
+4726124,2025,34,2025-11-18,Botafogo,Sport Recife,03-16,2,FALSE,Alexander Barboza · Lucas Kal
+4726126,2025,34,2025-11-19,Santos,Mirassol-SP,06-16,2,TRUE,Souza · Zé Rafael
+4726125,2025,34,2025-11-20,Corinthians,São Paulo,12-31,2,FALSE,João Pedro Tchoca · Ferreirinha
+4726130,2025,34,2025-11-20,EC Bahia,Fortaleza,01-24,2,FALSE,David Duarte · Breno Lopes
+4726132,2025,34,2025-11-20,Juventude,Cruzeiro,08-30,2,FALSE,Jádson · Gabriel Barbosa
+4726127,2025,34,2025-12-03,RB Bragantino,EC Vitória,08-19,2,TRUE,Cleiton · Nathan Mendes
+4726138,2025,35,2025-11-23,Cruzeiro,Corinthians,12-31,2,TRUE,João Pedro Tchoca · Raniele
+4726139,2025,35,2025-11-24,Internacional,Santos,03-23,2,TRUE,Sergio Rochet · Thiago Maia
+4726148,2025,36,2025-11-25,Atlético-MG,Flamengo,08-21,2,FALSE,Alan Franco · Agustín Rossi
+4726149,2025,36,2025-11-25,Grêmio,Palmeiras,08-12,2,FALSE,Arthur Melo · Micael
+4726149,2025,36,2025-11-25,Grêmio,Palmeiras,12-18,2,FALSE,Edenilson · Marcelo Lomba
+4726144,2025,36,2025-11-28,Vasco da Gama,Internacional,03-23,2,TRUE,Sergio Rochet · Thiago Maia
+4726152,2025,36,2025-11-28,Juventude,EC Bahia,03-07,2,TRUE,Kanu · Gilberto
+4726152,2025,36,2025-11-28,Juventude,EC Bahia,10-02,2,FALSE,Mandaca · Erick Pulga
+4726150,2025,36,2025-11-29,EC Vitória,Mirassol-SP,10-10,2,FALSE,Baralhas · Carlos Eduardo
+4726145,2025,36,2025-11-30,Corinthians,Botafogo,12-31,2,TRUE,João Pedro Tchoca · Raniele
+4726159,2025,37,2025-12-02,Grêmio,Fluminense,12-17,2,FALSE,André Henrique · Kevin Serna
+4726156,2025,37,2025-12-03,São Paulo,Internacional,03-23,2,TRUE,Sergio Rochet · Thiago Maia
+4726162,2025,37,2025-12-03,Juventude,Santos,04-13,2,FALSE,Gabriel Taliari · Guilherme
+4726158,2025,37,2025-12-04,Cruzeiro,Botafogo,02-16,2,FALSE,Lucas Silva · Cuiabano
+4726164,2025,38,2025-12-07,Botafogo,Fortaleza,04-17,2,FALSE,Álvaro Montoro · Eros Mancuso
+4726169,2025,38,2025-12-07,Internacional,RB Bragantino,03-23,2,TRUE,Sergio Rochet · Thiago Maia
+4726169,2025,38,2025-12-07,Internacional,RB Bragantino,08-19,2,TRUE,Cleiton · Nathan Mendes
+4726170,2025,38,2025-12-07,EC Vitória,São Paulo,10-10,2,FALSE,Baralhas · Rafael Tolói
